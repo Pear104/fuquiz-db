@@ -1,0 +1,912 @@
+{
+  "quizSrc": [
+    {
+      "term": "Choose the correct verb to fill in the blank below.She bought a house and then __________ that it needed a lot of repairs.A. discoveringB. was discoveringC. discoveredD. discover",
+      "definition": "C. discovered"
+    },
+    {
+      "term": "Choose the correct verb to fill in the blank below.My mom likes to watch TV. She _________ asleep in her chair watching TV every night.A. is fallingB. fellC. fallsD. fall",
+      "definition": "C. falls"
+    },
+    {
+      "term": "Choose the correct verb to fill in the blank below.She didn't come to our party. She said she ________ an invitation.A. not receivingB. hadn't receivedC. isn't receiveD. hasn't received",
+      "definition": "B. hadn't received"
+    },
+    {
+      "term": "Choose the correct verb to fill in the blank below.Walter has seen that movie five times. He says it just makes him feel good, so I was not surprised to see that he _________ the movie again last night.A. have watchedB. is watchingC. was watchingD. watch",
+      "definition": "C. was watching"
+    },
+    {
+      "term": "Which sentence is a compound sentence?A. Lions are kings of the jungle, so everyone respects them.B. Monkeys are funny but lovable animals in the jungle.",
+      "definition": "A. Lions are kings of the jungle, so everyone respects them."
+    },
+    {
+      "term": "Which sentence is a compound sentence? | Jamie bought a new computer and put it in her bedroom. | Ross lives in New Jersey, and he works in New York City.",
+      "definition": "Ross lives in New Jersey, and he works in New York City."
+    },
+    {
+      "term": "Does this sentence need a comma?Wilson watched the football game on TV but wished to be at the game.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Does this sentence need a comma?The mailman came to our house but he didn't bring any mail for me. | yes | no",
+      "definition": "yes"
+    },
+    {
+      "term": "Choose the sentence that is punctuated correctly.A. Mom asked my brother and me to help her cook dinner, but we weren't much help.B. My sister is going on vacation so she bought a new suitcase.C. This movie is really good but Joe didn't like it.D. Mary lost her purse at the beach, and spent all afternoon looking for it.",
+      "definition": "A. Mom asked my brother and me to help her cook dinner, but we weren't much help."
+    },
+    {
+      "term": "Which underlined word has a mistake?We enjoy riding motorcycles. Modern motorcycles are lighter and faster than they was 30 years ago.A. yearsB. enjoyC. wasD. motorcycles",
+      "definition": "C. was"
+    },
+    {
+      "term": "Which underlined word has a mistake?My mother was mad at me because I had told her I would be home at 6:00, but I come home at 9:00.A. wasB. wouldC. had toldD. come",
+      "definition": "D. come"
+    },
+    {
+      "term": "Which underlined word has a mistake?Next year, my family buy a house in Canada. We are going to visit it every summer.A. are goingB. in CanadaC. buyD. We",
+      "definition": "C. buy"
+    },
+    {
+      "term": "Which underlined word has a mistake?We watched a good movie last night and told our friends about it. Now, they want to see it too. All of us are going to see it again tonight after we are eating dinner.A. toldB. are going to seeC. watchedD. are eating",
+      "definition": "D. are eating"
+    },
+    {
+      "term": "Which underlined word has a mistake?Mary loves to shop, so she left work early today and asked her friend to meet her at the mall. The two of them spending eight hours buying dresses and shoes.A. leftB. lovesC. spendingD. asked",
+      "definition": "C. spending"
+    },
+    {
+      "term": "Which underlined word has a mistake?The dentist told me that my teeth were healthy, but he want me to go back for a check up soon. I will make another appointment next week when I am free.A. toldB. wantC. am freeD. will make",
+      "definition": "B. want"
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. The children sang, and danced.B. The children sang and danced.C. The children, sang and danced.",
+      "definition": "B. The children sang and danced."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. Tariq and Jordan joined the soccer game, and helped the team win.B. Tariq and Jordan, joined the soccer game and helped the team win.C. Tariq and Jordan joined the soccer game and helped the team win.",
+      "definition": "C. Tariq and Jordan joined the soccer game and helped the team win."
+    },
+    {
+      "term": "Which sentence uses commas correctly?A. Jane watched a movie, but Steve, read a book.B. Jane watched a movie but Steve, read a book.C. Jane watched a movie, but Steve read a book.",
+      "definition": "C. Jane watched a movie, but Steve read a book."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. The test was difficult, but we knew all of the answers.B. The test was difficult but we knew all of the answers.C. The test was difficult however we knew all of the answers.",
+      "definition": "A. The test was difficult, but we knew all of the answers."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. Michael and Sam, gave Paul and me some tips on how to throw a basketball but didn't help with our form.B. Michael and Sam gave Paul and me some tips on how to throw a basketball, but didn't help with our form.C. Michael and Sam gave Paul and me some tips on how to throw a basketball, but they didn't help with our form.",
+      "definition": "C. Michael and Sam gave Paul and me some tips on how to throw a basketball, but they didn't help with our form."
+    },
+    {
+      "term": "Which sentence is NOT punctuated correctly.A. John and James are brothers; they go to the same school.B. The teacher said that we needed to study chapter four but not chapter five.C. My car got a flat tire on the freeway I was late to work.D. We will go to a restaurant for dinner tonight, or we will cook something at home.",
+      "definition": "C. My car got a flat tire on the freeway I was late to work."
+    },
+    {
+      "term": "What kind of sentence is this?The captain of the airplane told us to buckle our seat-belts, so we did.A. simpleB. compound",
+      "definition": "B. compound"
+    },
+    {
+      "term": "What kind of sentence is this?The scientists are concerned about the rising temperatures on the planet but don't know what to do about it.A. simpleB. compound",
+      "definition": "A. simple"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?I want to buy an airplane ticket to visit my family because I have not seen them in a long time.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?I don't know if I can go to the movie with you after we get home from school.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?While I was driving home from work yesterday, I saw an accident on the freeway.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Since you are my best friend I want you to come to my birthday party in Hawaii.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Mary's parents took her to the park, and they invited all of her friends to her birthday party.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Frank bought a new dog and was happy that it didn't bark at night.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?When my husband gets home from work we will BBQ some steaks on the grill.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?The earthquake was felt 100 miles away; however, it did not wake me up.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?While John was spending his summer working at a difficult job, Mark was enjoying himself at the pool.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Jordan is a happy baby, because his parents play with him all the time.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?My brother likes tacos, but my sister however does not like them. A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "True or False?One way to create sentence variety is to use synonyms and keywords. | true | false",
+      "definition": "true"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?The price of chocolate is going up because it is more difficult to get now.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?The doctor told Mr. Green that he needs to eat more vegetables and get more exercise since his blood pressure is high.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?You want to go out tonight, however, I want to stay home and watch TV.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?We can go to the beach and swim after we have lunch.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Since we don't have much money, we should not plan a big vacation this year.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "True or False?An outline must include Roman numerals and capital and lowercase letters to keep it organized. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. Take a sandwich with you, in case you don't have time to stop at a restaurant.B. Take a sandwich with you in case you don't have time to stop at a restaurant.C. Take a sandwich with you in case you don't have time, to stop at a restaurant.",
+      "definition": "B. Take a sandwich with you in case you don't have time to stop at a restaurant."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. The test was difficult because, we didn't have much time to answer all of the questions.B. The test was difficult, because we didn't have much time to answer all of the questions.C. The test was difficult because we didn't have much time to answer all of the questions.",
+      "definition": "C. The test was difficult because we didn't have much time to answer all of the questions."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. We will buy a new sofa, and table if there is a good sale.B. We will buy a new sofa and table if there is a good sale.C. We will buy a new sofa and table, if there is a good sale.",
+      "definition": "B. We will buy a new sofa and table if there is a good sale."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. Michael and Sam, gave Paul and me some tips on how to throw a basketball since we needed some help with our form.B. Michael and Sam gave Paul and me some tips on how to throw a basketball, since we needed some help with our form.C. Michael and Sam gave Paul and me some tips on how to throw a basketball since we needed some help with our form.",
+      "definition": "C. Michael and Sam gave Paul and me some tips on how to throw a basketball since we needed some help with our form."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. The girls know how to fix cars and play basketball, but the boys don't know how to do those things.B. The girls know how to fix cars, and play basketball, but the boys don't know how to do those things.C. The girls know, how to fix cars and play basketball, but the boys don't know how to do those things.",
+      "definition": "A. The girls know how to fix cars and play basketball, but the boys don't know how to do those things."
+    },
+    {
+      "term": "Which sentence is punctuated correctly?A. I went to get a loan from the bank they told me that my credit was good.B. I went to get a loan from the bank, they told me that my credit was good.C. I went to get a loan from the bank; they told me that my credit was good.",
+      "definition": "C. I went to get a loan from the bank; they told me that my credit was good."
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?I like a pizza with mushrooms, onions, and peppers on it, but my husband likes a pizza with only cheese on it.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?The photo, which I took, is of a horse running in a field.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?For Mary's birthday her parents took her to the park, and they invited all of her friends.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following a parallel structure?Bill is interested in not only psychology but also in how plants grow.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following a parallel structure?Amy is interested in neither what you say nor what you do. | yes | no",
+      "definition": "yes"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?You can go outside and play, but you need to come back when it's dark.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?My 4-year old daughter is very smart, pretty, and knows how to use a computer.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Which of the following is NOT a way to create sentence variety?A. Write a lot of long sentences.B. Start some sentences with transitions.C. Repeat key nouns.D. Use synonyms.E. Use adverbs to start some sentences.",
+      "definition": "A. Write a lot of long sentences."
+    },
+    {
+      "term": "When should you think about putting sentence variety in your essays?A. When you begin the essay.B. After you write the first paragraph.C. When you are revising your essay.",
+      "definition": "C. When you are revising your essay."
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?In the afternoon we can go to the beach and swim. | yes | no",
+      "definition": "no"
+    },
+    {
+      "term": "Does this student's paragraph use good sentence variety?My homestay is beautiful. The back yard is natural and green. There is a light green table. It has flowers in the middle. The inside of the house has a modern living room. There is a television hanging on the wall. There are three speakers on the ceiling which make you feel you are in the theater. The comfortable kitchen is located next to the livingroom. The kitchen has a really nice shape. It looks like a restaurant's kitchen. My organized room is quiet and is located in front of the stairs. In all, my homestay's house looks nice.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?My mom was mad at me for not cleaning my room. She hadn't told me to clean it, however.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?You want to go out tonight. I on the other hand want to stay home and watch TV.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Grandma can't drive anymore so she takes the bus to go shopping.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?For our vacation we plan to go to California or Washington, but we will wait until summer.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?That was the longest movie that I've ever seen, and I fell asleep about half-way through it.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly?Mike has three brothers, but one of them, however, does not live in the same city.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?Mrs. Nixon paid her bill, left the restaurant, and went home to take a nap.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?I bought not only a Christmas tree but also lots of presents.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?Jane washed her shirts, shorts, and washed her pants.A. yesB. no",
+      "definition": "B. no"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?It is true that I loaned you $20 and that you paid me back last week.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "Is the following sentence a parallel structure?Joe is excited because he got tickets to both the soccer match and the tennis tournament this summer.A. yesB. no",
+      "definition": "A. yes"
+    },
+    {
+      "term": "All of the following are ways to create sentence variety in your writing EXCEPT which one?A. Use different sentence types like compound and complex.B. Avoid using transitions.C. Start some sentences with adverbs.D. Start some sentences with prepositional phrases.",
+      "definition": "B. Avoid using transitions."
+    },
+    {
+      "term": "True or false?Good writing uses lots of long sentences to create an academic feel.A. trueB. false",
+      "definition": "B. false"
+    },
+    {
+      "term": "True or False? You should only worry about sentence variety in the last stages of the writing process, in other words, when you're revising and editing your essay.A. trueB. false",
+      "definition": "A. true"
+    },
+    {
+      "term": "All of the following are effective ways to write an introductory paragraph for an essay EXCEPT which one?A. Start with general statements and get more specific.B. Explain several reasons to support your thesis statement.C. Start with an interesting hook or anecdote.D. Start with a surprising statement.",
+      "definition": "B. Explain several reasons to support your thesis statement."
+    },
+    {
+      "term": "What are the two parts of a good thesis statement? Choose two answers.A. Compelling ideaB. Comparing ideaC. Controlling ideaD. ToneE. Topic",
+      "definition": "C. Controlling idea E. Topic"
+    },
+    {
+      "term": "What's the minimum number of body paragraphs usually needed in an academic essay to support the thesis statement?A. 1B. 2C. 3D. 4",
+      "definition": "C. 3"
+    },
+    {
+      "term": "What is an essay?A. A piece of writing with one paragraph around one topicB. A piece of writing with one paragraph around multiple topicsC. A piece of writing with multiple paragraphs focused around one topicD. A piece of writing with multiple paragraphs around several topics",
+      "definition": "C. A piece of writing with multiple paragraphs focused around one topic"
+    },
+    {
+      "term": "What is an annotated bibliography? | It is a list of articles that you plan to read for your research. | It is a list of articles by one author who is an expert on your topic. | It is a list of articles related to your topic, and it summarizes and evaluates these.",
+      "definition": "It is a list of articles related to your topic, and it summarizes and evaluates these."
+    },
+    {
+      "term": "All of the following are effective ways to write an introductory paragraph for an essay EXCEPT which one?A. Start with a surprising statement.B. Start with general statements and get more specific.C. Start with an interesting hook or anecdote.D. Explain several reasons to support your thesis statement.",
+      "definition": "D. Explain several reasons to support your thesis statement."
+    },
+    {
+      "term": "All of the following are rules of academic writing EXCEPT which one?A. Use correct grammar and punctuation.B. Cite outside sources in a correct format.C. Use specific pronouns, such as \"I,\" \"me,\" \"we,\" and \"us.\"D. Use the format that your teacher requires.",
+      "definition": "C. Use specific pronouns, such as \"I,\" \"me,\" \"we,\" and \"us.\""
+    },
+    {
+      "term": "What are the two required parts of a good thesis statement?A. Topic and controlling ideaB. Topic and compelling ideaC. Thesis and compelling ideaD. Thesis and controlling idea",
+      "definition": "A. Topic and controlling idea"
+    },
+    {
+      "term": "Which of the following should you do in your thesis statement?A. Use pronouns to refer to people and things that you will write about.B. Write a clear, logical fact.C. Announce your thesis statement.D. Write a statement that is not too popular or obvious.",
+      "definition": "D. Write a statement that is not too popular or obvious."
+    },
+    {
+      "term": "In a body paragraph, which of the following sentences has a purpose similar to that of the thesis statement?A. DetailB. Supporting ideaC. ExampleD. Topic sentence",
+      "definition": "D. Topic sentence"
+    },
+    {
+      "term": "Which of the following words will definitely make a thesis statement arguable?A. ShallB. CanC. CouldD. Should",
+      "definition": "D. Should"
+    },
+    {
+      "term": "True or False?A thesis statement must have a topic and controlling idea. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "True or False? Supporting ideas are more specific than the topic sentence in a body paragraph. | True | False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False? A good paragraph should have at least two topic sentences.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "How do you create coherence in an essay?A. Use examples.B. Use supporting ideas.C. Use topic sentences.D. Use transitions.",
+      "definition": "D. Use transitions."
+    },
+    {
+      "term": "True or False?The purpose of body paragraphs is to support the thesis statement of an essay.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False? The purpose of body paragraphs is to support the thesis statement of an essay?A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?An academic essay usually needs 2 body paragraphs to support the thesis statement.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false?The following is a good thesis statement for a compare/contrast essay:PC and Mac computers are both good; however, Mac has some advantages over PC.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?A compare/contrast essay usually has 3 or more topics.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?The following is a good thesis statement for a compare/contrast essay:Superman and Batman are the super heroes in several popular movies.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "All of the following are good transitions to show comparison or contrast EXCEPT which one?A. In contrastB. LikewiseC. BecauseD. Similarly",
+      "definition": "C. Because"
+    },
+    {
+      "term": "True or False? The following is a good thesis statement for a compare/contrast essay: Bears and lions are both strong animals, but they have different lifestyles.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "All of the following statements are true according to this lesson EXCEPT which one?A. This lesson taught you that a compare/contrast essay should discuss both similarities and differences.B. This lesson taught you that compare means to look at what is similar between two topics.C. Contrast means to look at what is different between two topics.D. A compare/contrast essay can be called comparison.",
+      "definition": "A. This lesson taught you that a compare/contrast essay should discuss both similarities and differences."
+    },
+    {
+      "term": "All of the following are good planning activities for a compare/contrast essay EXCEPT what?A. Using two circlesB. Making a \"T\" chartC. Writing a second draftD. Listing similarities and differences",
+      "definition": "C. Writing a second draft"
+    },
+    {
+      "term": "True or False?A thesis statement for a compare or contrast essay should mention the two things being compared.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?A thesis statement for a compare or contrast essay does not need to indicate if the essay is comparing or contrasting.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False? The following is a good thesis statement for a compare/contrast essay:While Michael Jordan was an excellent basketball player, Kobe Bryant is better than Jordan.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?A point-by-point comparison essay usually has 2 body paragraphs.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?In the point-by-point comparison essay, each body paragraph is about one of the two topics the essay is comparing.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False? The following is a good thesis statement for a compare/contrast essay:Most new cars have air-conditioning, satellite radio, and rearview cameras.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?The following is a good thesis statement for a cause/effect essay:Cell phone prices have gotten cheaper, and this has helped a lot of consumers.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following is NOT a good tool for planning a cause or effect essay?A. Two circlesB. OutlineC. A \"T\" chart",
+      "definition": "A. Two circles"
+    },
+    {
+      "term": "True or False?A cause is something that results from something else.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False? The following is a good thesis statement for a cause/effect essay:There are several reasons that ocean water is rising and threatening some islands.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?An effect is the result of something else.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?This lesson taught you that a cause/effect essay will focus only on causes or only on effects.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "What's the minimum number of causes you need to write about to make a good cause essay?A. 1B. 2C. 3D. 4",
+      "definition": "C. 3"
+    },
+    {
+      "term": "True or False?The thesis statement in a cause and effect essay must tell the reader what the 3 causes or effects are.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False? The following is a good thesis statement for a cause/effect essay:The earthquake killed a lot of people near San Francisco.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?A good thesis statement for a cause/effect essay needs to tell the reader if the essay will discuss causes or effects.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "All of the following are important for developing each body paragraph of a cause essay EXCEPT what?A. Several supporting ideasB. A topic sentence stating one of the causesC. A summary of all of the causesD. Details and examples",
+      "definition": "C. A summary of all of the causes"
+    },
+    {
+      "term": "All of the following are appropriate transitions to use for a cause or effect essay EXCEPT what?A. SimilarlyB. ThereforeC. As a resultD. Thus",
+      "definition": "A. Similarly"
+    },
+    {
+      "term": "Is this an effective thesis statement for an argument essay? Borrowing money to buy a new house is a big decision.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is this an effective thesis statement for an argument essay?People should not be forced by the government to vaccinate their children.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is this an effective thesis statement for an argument essay?Temperatures are getting hotter and rain is badly needed.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "True or False?A thesis statement for an argument essay can be a fact or true statement.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "All of the following topics are debatable EXCEPT which one?A. Smoking is a bad habit that everyone should break.B. People who smoke should be more respectful of non-smokers.C. Parents who smoke have a duty to quit.D. Smoking causes cancer and other diseases.",
+      "definition": "D. Smoking causes cancer and other diseases."
+    },
+    {
+      "term": "All of the following topics are debatable EXCEPT which one?A. In the '90s, coal and oil were the main sources of energy in the U.S.B. There is too much dependence on foreign oil in the U.S.C. Solar energy is the best way to meet energy needs in the U.S.D. The U.S. needs to find alternative fuels to oil.",
+      "definition": "A. In the '90s, coal and oil were the main sources of energy in the U.S."
+    },
+    {
+      "term": "True or False?When you write an argument essay, it's important to write equally about both sides of the argument.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?In an argument essay, it's ok if the thesis statement is not arguable because the rest of the essay will develop the argument.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?In an argument essay, answering or responding to opposing view points can help to develop the essay.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "All of the following can be used to develop the body paragraphs of an argument essay EXCEPT which one?A. Giving reasonsB. Giving examplesC. Answering the oppositionD. Explaining all of the opposing views in detail",
+      "definition": "D. Explaining all of the opposing views in detail"
+    },
+    {
+      "term": "Is this an effective thesis statement for an argument essay?Giving money to beggars on the street does not encourage them to get a job.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is this an effective thesis statement for an argument essay? Eating a lot of greasy food causes weight gain and other health problems.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Which of the following words most closely means the same thing as \"argument\" when we are talking about an argument essay?A. OppositionB. PursuitC. PersuasionD. Fight",
+      "definition": "C. Persuasion"
+    },
+    {
+      "term": "What is a good way to make your academic essays longer?A. Use some different types of paragraphs to add more body paragraphs.B. Use bigger font so the paper looks longer than it is.C. Repeat my major points several times in the essay.",
+      "definition": "A. Use some different types of paragraphs to add more body paragraphs."
+    },
+    {
+      "term": "Argument essays should have at least how many reasons to support the argument?A. 2B. 1C. 3D. 0",
+      "definition": "C. 3"
+    },
+    {
+      "term": "Which sentence below has a correctly formatted quotation (using MLA format)?A. There is more for Samsung to worry about because it \"has been facing stiff competition for its premium smartphones from rival Apple.\" (Becker)B. There is more for Samsung to worry about because it \"has been facing stiff competition for its premium smartphones from rival Apple\" (Becker)C. There is more for Samsung to worry about because it \"has been facing stiff competition for its premium smartphones from rival Apple\" (Becker).D. There is more for Samsung to worry about because it \"has been facing stiff competition for its premium smartphones from rival Apple.\" (Becker).",
+      "definition": "C. There is more for Samsung to worry about because it \"has been facing stiff competition for its premium smartphones from rival Apple\" (Becker)."
+    },
+    {
+      "term": "Which sentence below has a correctly formatted quotation (using MLA format)?A. He explains that they \"edit and re-edit digital messages as much as they like until they decide they've perfectly conveyed their thoughts\" (Ghuman).B. He explains that they \"edit and re-edit digital messages as much as they like until they decide they've perfectly conveyed their thoughts.\" (Ghuman).C. He explains that they \"edit and re-edit digital messages as much as they like until they decide they've perfectly conveyed their thoughts (Ghuman).\"D. He explains that they \"edit and re-edit digital messages as much as they like until they decide they've perfectly conveyed their thoughts.\" (Ghuman)",
+      "definition": "A. He explains that they \"edit and re-edit digital messages as much as they like until they decide they've perfectly conveyed their thoughts\" (Ghuman)."
+    },
+    {
+      "term": "Which of the following are types of paragraphs (modes of discourse) that you can use to help develop an argument essay?A. illustration, argument, cause/effect, discussionB. description, argument, compare/contrast, narrativeC. discussion, illustration, narrative, classificationD. argument, discussion, development, illustration",
+      "definition": "B. description, argument, compare/contrast, narrative"
+    },
+    {
+      "term": "What type of body paragraph is this?This apartment is very beautiful and makes residents feel comfortable. Around the apartment, there are a lot of trees and lawns with a variety of birds. There are always many students walking around. Just inside the apartment, there is a big and bright living room. On the left side of the living room, there is a clean and neat dining area for entertaining guests. On the wall in the middle of the room is a big screen TV for playing video games. On the right side ofthe living room, there are two bedrooms. The one closest to the front door is small, but it's dark and quiet. The other bedroom is bigger, but it faces the sun. This makes it bright, but it is also a little noisy because it is near the street. In conclusion, this apartment is a comfortable place for two roommates to live.A. processB. compare/contrastC. narrationD. description",
+      "definition": "D. description"
+    },
+    {
+      "term": "What type of body paragraph is this?The art teacher's first day of teaching was very memorable. When he started his first class, he was so nervous, but he took a deep breath and asked the children to sit down and pay attention. Then while he explained all of the class rules, he started passing out some blank paper to them. After that, the teacher drew a picture on the board and asked the students to follow him. The teacher was amazed that many of the children drew the picture better than he had. Next, theteacher showed them how to color their pictures using some new art techniques he had learned in college. Again, the students did it better than the teacher. At the end of class, the teacher askedthe students to tape their pictures on the wall, and everyone voted for the best picture. Everyone had a hard time choosing because they were all so beautiful. The teacher loved that his studentswere so talented.A. illustrationB. descriptionC. processD. narration",
+      "definition": "D. narration"
+    },
+    {
+      "term": "Which of the following are features of an advanced argument essay? Check all that apply.A. It uses short body paragraphs to support the argument.B. It uses a variety of paragraph types to develop the argument.C. It uses outside sources to support the argument.D. It uses personal stories to develop the argument.",
+      "definition": "B. It uses a variety of paragraph types to develop the argument. C. It uses outside sources to support the argument."
+    },
+    {
+      "term": "What do you have to remember to do when you use an outside source in your academic essays? Check all that apply.A. Cite the source.B. Make the borrowed words seem like your own words.C. Use correct formatting, such as MLA.D. Use quotations to start the body paragraphs.",
+      "definition": "A. Cite the source. C. Use correct formatting, such as MLA."
+    },
+    {
+      "term": "To avoid plagiarism, which of the following should you do? Check all that apply.A. Put quotation marks around words that I copy exactly from the source.B. Put quotation marks around my own words.C. Change a bunch of the words in the source so that the ideas look like my ideas.D. Cite the source either in an attribution or in parentheses at the end of the sentence.",
+      "definition": "A. Put quotation marks around words that I copy exactly from the source. D. Cite the source either in an attribution or in parentheses at the end of the sentence."
+    },
+    {
+      "term": "True or False?It's ok to borrow some ideas from an outside source without citing it as long as you don't copy the exact words in your own essay.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?Citing sources any time you borrow words or ideas from an outside source will help you avoid trouble in American universities. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which citation format are you learning to use in this course?A. APA (American Psychological Association)B. Vancouver StyleC. MLA (Modern Language Association)D. Chicago Style",
+      "definition": "C. MLA (Modern Language Association)"
+    },
+    {
+      "term": "Read the original source on the left and the student's writing on the right and decide if the student plagiarized or not.Original SourceThis can be seen around the world. The World Health Organization and many nations have issued dietary guidelines to address a global epidemic of noncommunicable diseases that is far from limited to high-income countries. Global diets have converged such that the same principles for dietary change apply to some extent in all countries. The increase in noncommunicable diseases in low- and middle-income countries is more rapid, and has worse consequences than in high-income countries, according to the Council on Foreign Relations. Moreover, the challenge of combating noncommunicable diseases along with under-nutrition is substantially greater in these countries.Kumanyika, Shiriki. \"Aligning Policies on Nutrition, Food, Environment for Sustainable Future.\" The Nation's Health Mar. 2015: 3. Academic OneFile. Web. 2 July 2015.Student's WritingMany health agencies around the world are busy issuing dietary guidelines to address a global epidemic of noncommunicable diseases, such as heart disease (Kumanyika). This is important because developing countries are having an increase in non-communicable diseases recently.A. Yes, there is plagiarism.B. No, there is not plagiarism.",
+      "definition": "A. Yes, there is plagiarism."
+    },
+    {
+      "term": "Read the original source on the left and the student's writing on the right and decide if the student plagiarized or not.Original SourceOn the small islands, the main centers are accessible to most stayover tourists. These centers range in metropolitan population from about five thousand in Plymouth to almost one hundred thousand in Bridgetown and in Fort-de- France, Martinique. They possess a broad array of functions and facilities that is disproportionate to urban size. Nevertheless, the overall volume of activity and the physical space in which it occurs are constrained. The potential for tourist-local interaction is enhanced, and tourism assumes a high profile both physically and economically, even when the actual volume of the visitation is not high. The principal centers are always ports, which indicates the importance of cruise-ship activity as a factor in determining the geographical patterns.Weaver, David B. \"Model of Urban Tourism for Small Caribbean Islands.\" Geographical Review 83.2 (1993): 134-140. JSTOR. Web. 9 July 2015Student's WritingTourism is one way that small islands can survive. David Weaver indicates that the number of ports in the Caribbean shows the importance of cruise ships in that area. He explains that these cruise ships make it possible for a large amount of tourism in the area (Weaver).A. Yes, there is plagiarism.B. No, there is not plagiarism.",
+      "definition": "B. No, there is not plagiarism."
+    },
+    {
+      "term": "True or False?It's ok to borrow some ideas from an outside source as long as you don't copy the exact words in your own essay.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "To avoid plagiarism, which of the following should you do? Check all that apply.A. Use quotations on all borrowed phrases and sentences.B. Cite the source for any borrowed words or ideas.C. Use quotations on all paraphrased phrases and sentences.",
+      "definition": "A. Use quotations on all borrowed phrases and sentences. B. Cite the source for any borrowed words or ideas."
+    },
+    {
+      "term": "Which of the following can happen if a student is caught plagiarizing in an American college? Check all that apply.A. The student can be fined up to $100.B. The student can fail the class.C. The student can fail the assignment.D. The student can be kicked out of the school",
+      "definition": "B. The student can fail the class. C. The student can fail the assignment. D. The student can be kicked out of the school"
+    },
+    {
+      "term": "What does synthesis mean in a synthesis essay?A. to quoteB. to blendC. to paraphraseD. to bend",
+      "definition": "B. to blend"
+    },
+    {
+      "term": "What are sources used for in a synthesis essay?A. They show the reader what articles the writer read.B. They make your essay longer.C. They help to support the writer's ideas.D. They make important points for the writer.",
+      "definition": "C. They help to support the writer's ideas."
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?For example, \"Robin Thicke noticeably ripped off Marvin Gaye's 1977 hit 'Got to Give It Up' when he wrote the smash hit 'Blurred Lines' with Pharrell Williams and T.I. (Grow).A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?It was not surprising to many people that a judge decided that Robin Thicke had \"noticeably ripped off Marvin Gaye's 1977 hit 'Got to Give It Up' when he wrote the smash hit 'Blurred Lines' with Pharrell Williams and T.I.\" (Grow).A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?Roger Friedman says, \"Carey has several other blots on her record in the songwriting department, including lifting the music from Maurice White's famous hit by the Emotions, called \"Best of My Love.\"A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?Roger Friedman explains that Mariah Carey has been in this situation before and because the \"work tapes and notebooks of writing sessions have haunted Carey in other plagiarism cases,\" this case does not look good for her.A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?While plagiarism has always existed, the problem is that young people are \"representative of a different generation, one that freely mixes and matches from the whirring flood of information across new and old media, to create something new\" (Kulish).A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?However, they are a \"representative of a different generation, one that freely mixes and matches from the whirring flood of information across new and old media, to create something new\" (Kulish).A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?Luckily, \"the controversy did not appear to be hurting book sales. On Thursday afternoon 'Axolotl Roadkill' was ninth over all among books on the German Amazon site, albeit with many nasty postings about the plagiarism controversy.\" (Kulish).A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?Nicholas Kulish reports that \"the controversy did not appear to be hurting book sales\" as it was \"ninth over all among books on the German Amazon site.\"A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?The University of Virginia honor code clearly states its rules and \"requires students to pledge not to cheat, lie or steal, or tolerate those who do\" (\"UVa Expels\").A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following quote well-integrated, or blended with the writer's own words?There have been several similar cases of plagiarism at the University of Virginia, but there has been \"no consistency in the way plagiarism events are handled\" at that school (\"UVa Expels\").A. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "True or False?A documented essay can be written without using any sources.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?A Works Cited entry usually starts with an author's last name.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?A parenthetical in-text citation should always use the author's last name.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?A documented essay is usually an illustration or an argument essay.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?Sources are used in documented essays to make or introduce important points in the essay.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?Academic essays should have only 5 paragraphs.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?You should use a variety of types of body paragraphs in a documented essay.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "How do you integrate a quote well?A. Use only the important part of the quote and blend it with my own words.B. Introduce it with a phrase, such as \"Smith says,\" and then use only the important part of the quote.C. Use several important sentences of a source.",
+      "definition": "A. Use only the important part of the quote and blend it with my own words."
+    },
+    {
+      "term": "What is the key to choosing good search terms?A. use the same terms as the topic your teacher gives youB. think of several different general phrases to searchC. think of several specific phrases to searchD. think of one search term to use for all of your research",
+      "definition": "C. think of several specific phrases to search"
+    },
+    {
+      "term": "Choose the best search terms for the following topic:crimeA. serious crime in the U.S.B. auto-theft statistics in Chicago",
+      "definition": "B. auto-theft statistics in Chicago"
+    },
+    {
+      "term": "Choose the best search terms for the following topic:urban developmentA. urban developmentB. smoking rules in public housing",
+      "definition": "B. smoking rules in public housing"
+    },
+    {
+      "term": "Choose the best search terms for the following topic:workplace ethicsA. paid paternity leave for new fathersB. office ethics",
+      "definition": "A. paid paternity leave for new fathers"
+    },
+    {
+      "term": "Choose the best search terms for the following topic:national securityA. visa screening policiesB. immigration",
+      "definition": "A. visa screening policies"
+    },
+    {
+      "term": "Search engines like Google.com and Yahoo.com are good places to start your academic research.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following internet sites would be acceptable to use when searching for sources for a research paper?A. www.google.comB. www.yahoo.comC. www.bing.comD. scholar.google.com",
+      "definition": "D. scholar.google.com"
+    },
+    {
+      "term": "Which of the following is a good search term for this topic:Topic: the economyA. financial crisis of 2008B. raising interest ratesC. economicsD. home prices and the economy",
+      "definition": "A. financial crisis of 2008"
+    },
+    {
+      "term": "Which of the following is NOT a very good search term for this topic?Topic: Gun Laws A. gunsB. gun laws in the U.S.C. the right to own a gunD. gun restrictions",
+      "definition": "A. guns"
+    },
+    {
+      "term": "According to the lecture, where is the best place to look for sources for a research paper?A. library databasesB. Google ScholarC. Google",
+      "definition": "A. library databases"
+    },
+    {
+      "term": "All of the following are questions to ask when determining reliability of a a source EXCEPT which one?A. Who wrote the source?B. What is the date of the source?C. What is the purpose of the source?D. How long is the source?E. Is the source biased?",
+      "definition": "D. How long is the source?"
+    },
+    {
+      "term": "What is the first thing to do after you receive a research paper assignment?A. Think of a research question.B. Make an outline.C. Write the thesis statement.",
+      "definition": "A. Think of a research question."
+    },
+    {
+      "term": "Most research papers share all of the following characteristics EXCEPT which one?A. The have considerable length.B. They use sources.C. They are complex.D. They are worth 150 pts.",
+      "definition": "D. They are worth 150 pts."
+    },
+    {
+      "term": "True or False?Most research assignments tell you the exact topic you should write about. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "True or False?Every research assignment you will be assigned in college will have different requirements.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "According to the lecture, why should you take notes during your research?A. so you can organize your researchB. so you can avoid writing the research paperC. so you can practice writing the research paper",
+      "definition": "A. so you can organize your research"
+    },
+    {
+      "term": "True or False?Most research papers are about 5 pages long.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?A thesis statement is optional in your research paper.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?Creating an outline, either formal or informal, can help you organize your ideas so that you write a more logical research paper.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or false?For academic research, you should write complete sentences when you take notes on an article.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false?Most school library webpages have databases that anyone is free to use as long as they have an Internet connection.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following is the most academic kind of source?A. library databasesB. news sourcesC. popular sources",
+      "definition": "A. library databases"
+    },
+    {
+      "term": "What is the purpose of an annotated bibliography?A. to help you think of search terms for your researchB. to help you develop your research paperC. to give you more work to do when you have a research assignmentD. to help you summarize and evaluate your sources",
+      "definition": "D. to help you summarize and evaluate your sources"
+    },
+    {
+      "term": "True or False?You must always use a formal outline to plan an effective research paper.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following would be the most effective thesis statement for a research paper?A. The tooth fairy and Santa Claus are imaginary characters for children.B. The U.S. government should require that all companies pay men and women the same amount of money for equal work.C. It's hotter in the oceans now than it was a few years ago, so something should be done about climate change.D. Terrorism is really awful, so governments should prevent it.",
+      "definition": "B. The U.S. government should require that all companies pay men and women the same amount of money for equal work."
+    },
+    {
+      "term": "True or False?An annotated bibliography for a college class is always written in MLA format.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?Every research paper must have at least one statistic to make the essay effective.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False?It is ok to use contractions like \"can't\" and \"won't\" in your research paper so that you have more space on the pages to write about important ideas in your essay.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following groups of words is definitely not on the Academic Word List?A. facilitate, prime, transitB. crash, cop, messyC. evolve, generate, alterD. dynamic, prohibit, identical",
+      "definition": "B. crash, cop, messy"
+    },
+    {
+      "term": "All of the following are important to do in your writing to make your research paper academic and effective EXCEPT which one?A. Avoid slang and cliché expressions in your writing.B. Avoid specific examples in your writing.C. Avoid overly emotional language in your writing.D. Use academic vocabulary instead of informal language.",
+      "definition": "B. Avoid specific examples in your writing."
+    },
+    {
+      "term": "True or False?Statistics should not be used to start or end your body paragraphs.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False?Statistics can be used to start body paragraphs.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Is this phrase appropriate for an academic essay?in his articleA. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is this phrase appropriate for an academic essay?drunk as a skunkA. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is this expression appropriate for an academic essay?It's a piece of cake.A. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is this word appropriate for an academic essay?gonnaA. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is this word appropriate for an academic essay?y'allA. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is this word appropriate for an academic essay?dummyA. YesB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is this word appropriate for an academic essay?thereforeA. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is this word appropriate for an academic essay?increaseA. YesB. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "True or False?You should use as many academic words as possible in your research paper even if you don't know what all of them mean.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following is not a reason to use a statistic in your research paper?A. to support your pointB. some subjects depend on themC. to make your paper longer",
+      "definition": "C. to make your paper longer"
+    },
+    {
+      "term": "Which of the following is not an appropriate place to use a statistic in your research paper?A. as a hook in the introductionB. as a detail to support your own pointC. in the thesis statementD. as one of several statistics in a statistics paragraph",
+      "definition": "C. in the thesis statement"
+    },
+    {
+      "term": "Which of the following groups of words is definitely not on the Academic Word List?A. capable, display, incorporateB. error, alter, rejectC. trashy, know-it-all, grouchyD. locate, remove, specify",
+      "definition": "C. trashy, know-it-all, grouchy"
+    },
+    {
+      "term": "Which of the following groups of words is definitely not on the Academic Word List?A. snooze, nerdy, lameB. maintain, range, consumeC. context, identify, majorD. fund, contribute, imply",
+      "definition": "A. snooze, nerdy, lame"
+    },
+    {
+      "term": "What is the Purdue Owl?A. It is the mascot of a famous soccer team.B. It is a website with information to guide students in formatting their essays in MLA or APA format.C. It is a website that will create a Works Cited page or References list for your research paper.",
+      "definition": "B. It is a website with information to guide students in formatting their essays in MLA or APA format."
+    },
+    {
+      "term": "Use this link to the Purdue Owl's MLA page to help you answer the following question. You will have to click on one of the tabs on the left menu of the webpage to find information on the Formatting and Style Guide.Purdue Owl MLAOpens in a new tabWhich of the following is optional in MLA formatting?A. the location of the sourceB. authorC. title of the sourceD. date of access",
+      "definition": "D. date of access"
+    },
+    {
+      "term": "Use this link to the Purdue Owl's MLA page to help you answer the following question. You will have to click on one of the tabs on the left menu of the webpage to find information about in-text citations.Purdue Owl MLAOpens in a new tabWhich of the following does not use a correct MLA citation?A. Romantic poetry is characterized by the \"spontaneous overflow of powerful feelings\" (Wordsworth 263).B. Wordsworth stated that Romantic poetry was marked by a \"spontaneous overflow of powerful feelings\" (263).C. Wordsworth extensively explored the role of emotion in the creative process (263).D. Romantic poetry is characterized by the \"spontaneous overflow of powerful feelings\" (Wordsworth, 1800, p. 263).",
+      "definition": "D. Romantic poetry is characterized by the \"spontaneous overflow of powerful feelings\" (Wordsworth, 1800, p. 263)."
+    },
+    {
+      "term": "If you were using EasyBib to help you create a Works Cited entry for a YouTube video, and EasyBib gave you the results below, what additional information would you have to provide in order to create the citation?A. the author of the video and date accessedB. the title and author of the videoC. the title and date accessedD. the author of the video and publication date",
+      "definition": "D. the author of the video and publication date"
+    },
+    {
+      "term": "True or False?EasyBib is free to use for formatting in MLA and APA.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What is EasyBib?A. It's a website that helps students format their Works Cited page or References list.B. It's a website that will create a Works Cited page or References list for you.C. It's a piece of cloth that you easily tie around your neck to keep food off of your shirt when you eat.",
+      "definition": "A. It's a website that helps students format their Works Cited page or References list."
+    },
+    {
+      "term": "If you were using EasyBib to help you create a Works Cited entry for an electronic news source, and EasyBib gave you the results below, what additional information would you have to provide in order to create the citation? | article title, publisher, and publication date | article title, author, and publisher | author, publisher, and publication date | author and publisher",
+      "definition": "article title, author, and publisher"
+    },
+    {
+      "term": "True or False?EasyBib always creates a correctly formatted Works Cited entry when you give it the correct information. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "True or False?If you paste a link to your online source in the EasyBib website, EasyBib will always supply all of the information you need to format your Works Cited entry.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Use the following link to the Purdue Owl website and click on the appropriate tab on the left to answer questions about creating a Works Cited page for book sources.Purdue Owl MLAOpens in a new tab (This will open in a new window.)According to MLA 8th ed., which of the following is not a correctly formatted Works Cited entry for a book?A. Option:Stienstra, Tom, and Ann Marie Brown. California Hiking. Berkeley, CA, Avalon Travel, 2016.B. Option:Henley, Patricia. Hummingbird House. Denver, MacMurray &amp; Beck, 1999.C. Option:This citation is for a source with no author given.Encyclopedia of Indiana. New York, NY, Somerset Publishers, 1993.D. Option:Collins-Williams, Cecil, and Elizabeth Shapter. Allergies in Children: A Handbook for Parents. Toronto, Hospital for Sick Children, 1983.",
+      "definition": "D. Option:"
+    },
+    {
+      "term": "Use the following link to the Purdue Owl website and click on the appropriate tab on the left to answer questions about creating a Works Cited page for book sources.Purdue Owl MLAOpens in a new tab (This will open in a new window.)According to MLA 8th ed., which of the following is not a correct Works Cited entry for a book?A. Option:Avery, Peter, and Susan Lynn. Ehrlich. Teaching American English Pronunciation. Oxford, Oxford University Press, 2012.B. Option:---. The Films of the Eighties: A Social History. Carbondale, Southern Illinois University Press, 1995.C. Option:Gleick, James. Chaos: Making a New Science. London, The Folio Society, 2015.D. Option:Hogan, Gina B. Building Better Paragraphs. Australia, Wadsworth Cengage Learning.",
+      "definition": "D. Option:"
+    },
+    {
+      "term": "Use the following link to the Purdue Owl website and click on the MLA Works Cited Page: Other Common Sources tab on the left. Then scroll down to find the answer to the question below.Purdue Owl MLAOpens in a new tab (This will open in a new window.)According to MLA 8th ed., which kind of source is this?\"The One Where Chandler Can't Cry.\" Friends: The Complete Sixth Season, written by Andrew Reich and Ted Cohen, directed by Kevin Bright, Warner Brothers, 2004.A. painting, sculpture, or photographB. recorded television episodeC. recorded film or movieD. Netflix, Hulu, Google Play movie",
+      "definition": "B. recorded television episode"
+    },
+    {
+      "term": "Use the following link to the Purdue Owl website and click any tab you need to to answer the question below about this sample Works Cited page shown.Purdue Owl MLAOpens in a new tab (This will open in a new window.)In this Works Cited page using MLA 8th ed., which kinds of sources are A, B, and C? Choose the answer below that identifies all three sources correctly.A) Dean, Cornelia. \"Executive on a Mission: Saving the Planet.\" The New York Times, The New York Times, 21 May 2007, www.nytimes.com/2007 /05/22/science/earth/22ander.html. Accessed 20 Mar. 2017.B) \"Deforestation: Solved via Carbon Markets?\" Environmental Defense Fund, Environmental Defense Fund, www.edf.org/climate/deforestation-solved-carbon-markets. Accessed 20 Mar. 2017.C) Leroux, Marcel. Global Warming: Myth or Reality?: The Erring Ways of Climatology. Chichester, UK, Praxis Publishing Ltd, 2010.A.A) article with no author from an electronic sourceB) article with an author from an electronic sourceC) article with two authors from an electronic sourceB.A) article with an author from an electronic sourceB) article with no author from an electronic sourceC) printed bookC.A) article with an author from an electronic sourceB) interview from an electronic sourceC) article with no author from an electronic source",
+      "definition": "B."
+    },
+    {
+      "term": "Use the following link to the Purdue Owl website and click on the MLA Abbreviations tab on the left. Then scroll down to find the answer to the question below.Purdue Owl MLAOpens in a new tab (This will open in a new window.)True or False?According to MLA 8th ed., you should write the complete publisher's name for a book in your Works Cited page. In other words, you should write the complete name instead of an abbreviated name.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Use the following link to the Purdue Owl website and click on the MLA Abbreviations tab on the left. Then scroll down to find the answer to the question below.Purdue Owl MLAOpens in a new tab (This will open in a new window.)According to MLA 8th ed. what is the correct way to write the month, January, in the publication date for a journal in a Works Cited page?A. JanuaryB. JanC. Jan.D. Janu.",
+      "definition": "C. Jan."
+    },
+    {
+      "term": "Does this student's paragraph use good sentence variety?My homestay is beautiful. The back yard is natural and green. There is a light green table. It has flowers in the middle. The inside of the house has a modern living room. There is a television hanging on the wall. There are three speakers on the ceiling which make you feel you are in the theater. The comfortable kitchen is located next to the livingroom. The kitchen has a really nice shape. It looks like a restaurant's kitchen. My organized room is quiet and is located in front of the stairs. In all, my homestay's house looks nice. | Yes | No",
+      "definition": "No"
+    }
+  ]
+}

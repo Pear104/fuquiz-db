@@ -1,0 +1,1282 @@
+{
+  "quizSrc": [
+    {
+      "term": "Identify the role responsible for creating the visual elements of a digital product. | Back-end developer | UX researcher | Front-end developer | UI designer",
+      "definition": "UI designer"
+    },
+    {
+      "term": "Which of these is a core component of a user interface? | Programming language | Server configuration | Visual elements | Database schema",
+      "definition": "Visual elements"
+    },
+    {
+      "term": "Consider the following statement: 'This aspect of the design process focuses on the emotions and attitudes felt by a user when using a system.' Does this statement describe UI or UX? | This describes neither UI nor UX | This describes UI | This describes both UI and UX | This describes UX",
+      "definition": "This describes UX"
+    },
+    {
+      "term": "Check all the following principles that are key to achieving consistency in interface design. | Uniform placement of buttons and controls | Randomly changing the layout on different pages | Consistent use of typography | Use of a consistent color scheme",
+      "definition": "Uniform placement of buttons and controls | Consistent use of typography | Use of a consistent color scheme"
+    },
+    {
+      "term": "What is the importance of feedback in interface design? | It makes the interface visually attractive | It helps to increase the complexity of the interface | It is mainly for the designers to understand user behavior | It helps users know if their action was successful or not",
+      "definition": "It helps users know if their action was successful or not"
+    },
+    {
+      "term": "Which of the following best describes the role of real-world knowledge in interface design? | It helps users understand and interact with the interface more quickly | It complicates the design process | It only matters for certain types of applications | It is irrelevant to the design process",
+      "definition": "It helps users understand and interact with the interface more quickly"
+    },
+    {
+      "term": "Choose the factors that contribute to a seamless interaction in digital interfaces. | Delayed feedback | Real-world knowledge | Consistency | Inconsistent behavior",
+      "definition": "Real-world knowledge | Consistency"
+    },
+    {
+      "term": "What is the main difference between template-based and content-based user interface design? | Content-based design is more structured | Template-based design uses pre-made layouts | Template-based design is more flexible | Content-based design is less user-friendly",
+      "definition": "Template-based design uses pre-made layouts"
+    },
+    {
+      "term": "Which of the following scenarios best represents the concept of context-specific design in user interface? | A music app that plays the same playlist for all users | A news app that presents the same news articles to all users | A gaming app that has the same level of difficulty for all players | A weather app that changes its theme based on the current weather condition",
+      "definition": "A weather app that changes its theme based on the current weather condition"
+    },
+    {
+      "term": "How does context-specific design impact digital experiences? | It ensures the design is suitable for all users | It makes the interface more user-friendly | It makes the design more complex | It tailors the design to the user's needs and environment",
+      "definition": "It tailors the design to the user's needs and environment"
+    },
+    {
+      "term": "Which of the following is a key principle of interface conventions? | Inconsistency | Consistency | Complexity | Frequent change",
+      "definition": "Consistency"
+    },
+    {
+      "term": "What is the main difference between UI and UX? | UI is about visuals while UX is about functionality | UI is about coding while UX is about design | UI and UX are essentially the same | UI is about functionality while UX is about visuals",
+      "definition": "UI is about visuals while UX is about functionality"
+    },
+    {
+      "term": "Which of the following are components of a user interface? | Color scheme | Menus | Task flow | Buttons | Layout | Navigation | Typography",
+      "definition": "Color scheme | Menus | Buttons | Layout | Navigation | Typography"
+    },
+    {
+      "term": "Which of the following best defines a user interface? | The interaction between a user and a machine | The visual elements of a program | The process of designing a website | The graphical representation of a program's backend",
+      "definition": "The interaction between a user and a machine"
+    },
+    {
+      "term": "Which of the following are important in providing a good user experience in interface design? | Ability to undo/redo actions | Fulfillment | Intuitive design | Inconsistent behavior",
+      "definition": "Ability to undo/redo actions | Fulfillment | Intuitive design"
+    },
+    {
+      "term": "Why is UI feedback so important to interaction design? | It is necessary for the interface to function correctly. | It allows users to understand the functionality of each interface element. | It increases the load time of the interface. | It helps to make the interface look more aesthetically pleasing.",
+      "definition": "It allows users to understand the functionality of each interface element."
+    },
+    {
+      "term": "What is the impact of screen size on user interaction? | Larger screens lead to more complex interfaces | Smaller screens require less information | Screen size has no impact on user interaction | Screen size influences the arrangement and positioning of information",
+      "definition": "Screen size influences the arrangement and positioning of information"
+    },
+    {
+      "term": "What is the key principle of interface conventions that relates to the user's expectation that the system will behave in a certain way, based on their previous experiences? | Fulfillment | Consistency | Seamlessness | Real world knowledge",
+      "definition": "Consistency"
+    },
+    {
+      "term": "It acts as a bridge between the User and the Contenta. UXb. UIc. Screensd. Buttons",
+      "definition": "b. UI"
+    },
+    {
+      "term": "Which among the following options are not a UIa. Formb. Wireframesc. Aestheticsd. look &amp; feel",
+      "definition": "b. Wireframes"
+    },
+    {
+      "term": "Which among the following options are not a UXa. feelb. navigationc. storyd. Visual design",
+      "definition": "d. Visual design"
+    },
+    {
+      "term": "Statement 1: UI deals with more tangible &amp; look and feel outputsStatement 2: UX deals with the experience &amp; proportiona. Statement 1 is true &amp; Statement 2 is Falseb. Statement 1 is False &amp; Statement 2 is Truec. Both the statements are Trued. Both the statements are False",
+      "definition": "c. Both the statements are True"
+    },
+    {
+      "term": "While interacting with a product, we expect a _______________ in order to see if our interaction is actually working.a. Designb. Feedbackc. Inputd. Button",
+      "definition": "b. Feedback"
+    },
+    {
+      "term": "If the buttons look the same, they are expected to act in a similar way. This is called _____________.a. Analog buttonsb. Digital buttonsc. Consistencyd. Navigation",
+      "definition": "c. Consistency"
+    },
+    {
+      "term": "Providing a undo/redo button helps the user to _______________.a. feel safeb. have a secondary thoughtc. feel confusedd. none of the above",
+      "definition": "a. feel safe"
+    },
+    {
+      "term": "A ____________ is a self contained object where you can click on and interact with.a. Mouseb. Buttonc. Screensd. Wireframes",
+      "definition": "b. Button"
+    },
+    {
+      "term": "Which among the following is a feature of a buttona. size and shapeb. colour and dimensionc. systemd. all the above",
+      "definition": "d. all the above"
+    },
+    {
+      "term": "Statement 1: Size of the button is independent on screen resolutionStatement 2: Size of the button is dependent on the cursor and the fingera. Statement 1 is true &amp; Statement 2 is Falseb. Statement 1 is False &amp; Statement 2 is Truec. Both the statements are Trued. Both the statements are False",
+      "definition": "b. Statement 1 is False &amp; Statement 2 is True"
+    },
+    {
+      "term": "______________is a pictorial representation of a real objecta. Iconb. Symbolc. Signaged. Graphics",
+      "definition": "a. Icon"
+    },
+    {
+      "term": "______________is a non-pictorial representation of a real object. They convey the idea through different signs.a. Iconb. Symbolc. Signaged. Graphics",
+      "definition": "b. Symbol"
+    },
+    {
+      "term": "____________ is the place for navigation and here, the user takes a decisiona. Bodyb. Footerc. Headerd. Buttons",
+      "definition": "c. Header"
+    },
+    {
+      "term": "Body of a website holds the_______________.a. Ideab. Contentc. Textd. Image",
+      "definition": "b. Content"
+    },
+    {
+      "term": "These are series of lines which obeys a mathematical structure for proper alignment on a screena. Bodyb. Containerc. Gridsd. Pixels",
+      "definition": "c. Grids"
+    },
+    {
+      "term": "Space between each column in a grid systema. Marginb. Paddingc. Gutterd. Breathing space",
+      "definition": "c. Gutter"
+    },
+    {
+      "term": "__________________ means arranging the content based on its importance.a. Highlightb. Hierarchyc. Contrastd. Navigation",
+      "definition": "b. Hierarchy"
+    },
+    {
+      "term": "Once you start designing a project____________ is the very first step done.a. Surveyb. Wireframec. Designing UId. Problem identification",
+      "definition": "d. Problem identification"
+    },
+    {
+      "term": "Pick up the odd one out. Which among them is Not a part of data collection for a Project ?a. Interviewsb. Phone callsc. Online surveysd. Solution",
+      "definition": "d. Solution"
+    },
+    {
+      "term": "The group of customers for which whom we design a particular product is called__________.a. Promising customersb. Targeted customersc. User journey mapd. Persona",
+      "definition": "b. Targeted customers"
+    },
+    {
+      "term": "An arrangement of images, materials, pieces of text, etc. intended to evoke or project a particular style or concept.a. Sitemapb. Moodboardc. Stylesheetd. Wireframes",
+      "definition": "b. Moodboard"
+    },
+    {
+      "term": "The promotion of a particular product or company by means of advertising and distinctive design is called__________________________.a. Logob. Brandingc. Moodboardd. Styleguide",
+      "definition": "b. Branding"
+    },
+    {
+      "term": "In which of the following do we make use of Images ?a. Moodb. contentc. Navigationd. All the above",
+      "definition": "d. All the above"
+    },
+    {
+      "term": "In which of the following do we make use of Typography ?a. Contentb. Interfacec. Brandingd. All the above",
+      "definition": "d. All the above"
+    },
+    {
+      "term": "Statement 1: Texting is more economicalStatement 2: Text can represent what cannot be depicteda. Statement 1 is True &amp; Statement 2 is Falseb. Statement 1 is False &amp; Statement 2 is Truec. Statement 1 is True &amp; Statement 2 is Trued. Statement 1 is False &amp; Statement 2 is False",
+      "definition": "c. Statement 1 is True &amp; Statement 2 is True"
+    },
+    {
+      "term": "Form is connected to function and experiencea. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Statement 1: Speed is an invisible element in designStatement 2: Style is a visible element in designa. Statement 1 is True &amp; Statement 2 is Falseb. Statement 1 is False &amp; Statement 2 is Truec. Statement 1 is True &amp; Statement 2 is Trued. Statement 1 is False &amp; Statement 2 is False",
+      "definition": "c. Statement 1 is True &amp; Statement 2 is True"
+    },
+    {
+      "term": "Which among the following is Not a State of buttona. Normal, Hover, Press, Inactiveb. Normal, Drag, Push and Pullc. Active, Passived. Enable , disable",
+      "definition": "b. Normal, Drag, Push and Pull"
+    },
+    {
+      "term": "The Viewing distance of a mobile app &amp; desktop is __________ &amp; __________ respectively.a. 10 inches &amp; 24 inchesb. 12 inches &amp; 20 inchesc. 14 inches &amp; 24 inchesd. 15 inches &amp; 20 inches",
+      "definition": "a. 10 inches &amp; 24 inches"
+    },
+    {
+      "term": "An interface can be best described as a bridge between:a. a screen and a systemb. a website and an appc. a user and contentd. two users",
+      "definition": "c. a user and content"
+    },
+    {
+      "term": "Why is it helpful to rely on real world models within interface design? Choose the best answer.a. Real world models are already familiar to a user, and therefore can help make the user's experience much more seamless.b. It's easier for a designer to borrow an idea or concept that's already been created.c. Real world models are much more believable and users are more likely to consume or buy a product that uses them.d. None of the above",
+      "definition": "a. Real world models are already familiar to a user, and therefore can help make the user's experience much more seamless."
+    },
+    {
+      "term": "Which of the following examples are considered real world models?a. A screen-based button.b. The \"trash bin\" on your computer.c. Camera shutter sound when using asmartphone's built-in camera.d. All of the above.",
+      "definition": "d. All of the above."
+    },
+    {
+      "term": "What is the rule of thumb for organizing content within an interface?a. Along a gridb. Systematicallyc. Randomlyd. Alphabetically",
+      "definition": "b. Systematically"
+    },
+    {
+      "term": "While user interactions should occur in as few steps as possible, in what situation might an extra step be appropriate?a. ordering a sandwich.b. withdrawing a large sum of money from an ATM.c. buying a textbook online.d. None of the above",
+      "definition": "b. withdrawing a large sum of money from an ATM."
+    },
+    {
+      "term": "Which physical relationship is NOT a factor for designing an interface?a. the placement of an on-screen button in relationship to a user's thumb.b. the distance of a user's eye from a screen.c. the scale of a smartphone within a user's hand.d. the relative position of one user to another.",
+      "definition": "d. the relative position of one user to another."
+    },
+    {
+      "term": "Why is it important for the interface to react immediately when a user carries out an action? Choose the best answer.a. The user needs confirmation from the interface that the system is working.b. Users are inherently impatient.c. The system behind the interface needs to process tasks very quickly in order to keep pace with competing systems.d. None of the above",
+      "definition": "a. The user needs confirmation from the interface that the system is working."
+    },
+    {
+      "term": "Which of the following statements is true about the difference between UI and UX? | UX refers to the visual elements, while UI is about the overall experience. | Both UI and UX refer to the visual elements of an interface. | UI refers to the visual elements, while UX is about the overall experience. | UI is the process of improving user satisfaction, while UX deals with the visual elements.",
+      "definition": "UI refers to the visual elements, while UX is about the overall experience."
+    },
+    {
+      "term": "Which of the following is an example of the application of learned behavior in interface design? | Using a light bulb icon for 'ideas' | Using red color for error messages | Placing the navigation menu on the left side of the screen | Placing the 'save' button near the top of the screen",
+      "definition": "Using a light bulb icon for 'ideas'"
+    },
+    {
+      "term": "Consider a UI design for a mobile app. How would the impact of screen size potentially affect user interaction? | Smaller screen size would automatically make the interface more user-friendly | Smaller screen size would limit the number of colors that can be used | Smaller screen size would make the app's visual elements larger | Smaller screen size might require simpler design and more careful placement of elements",
+      "definition": "Smaller screen size might require simpler design and more careful placement of elements"
+    },
+    {
+      "term": "Why is it important to balance aesthetics and functionality in user interface design? | Because it creates an overall successful user experience | Because it guarantees the interface is easy to use | Because it ensures the interface is visually appealing | Because it makes the interface look professional",
+      "definition": "Because it creates an overall successful user experience"
+    },
+    {
+      "term": "Which of the following can be considered as elements of context-specific design? | Considering the location and environment of the user | Ignoring user feedback | Designing for specific user groups | Designing for specific devices | Using a single design across all platforms",
+      "definition": "Considering the location and environment of the user | Designing for specific user groups | Designing for specific devices"
+    },
+    {
+      "term": "Context-specific design is best defined as:a. When the designer uses different software programs to make an interface.b. Shaping a design to reflect differences in content, goals, and users.c. What happens when emerging designers make websites.d. A method of design that reflects the physical, geographical location where the design was made.",
+      "definition": "b. Shaping a design to reflect differences in content, goals, and users."
+    },
+    {
+      "term": "An interface should be immediate and intuitive.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "The dreaded spinning circle on YouTube is an example of ______________.a. Visibility of system statusb. Flexibility and efficiency of usec. Help and documentationd. Recognition rather than recall",
+      "definition": "a. Visibility of system status"
+    },
+    {
+      "term": "True or False? Primary navigation menus should always appear horizontally at the top of a page.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "You have an important message that you want to share with the users of your website through a site alert. In which of the following sections would it be the most appropriate for the site alert to appear?a. footerb. headerc. sidebard. Content",
+      "definition": "b. header"
+    },
+    {
+      "term": "You want to deter visitors to your website from copying or re-using your content by posting a copyright notice. In which of the following sections does a copyright notice usually appear?a. headerb. footerc. contentd. sidebar",
+      "definition": "b. footer"
+    },
+    {
+      "term": "A client that runs a candy company has asked you to build a pop-up survey on their website to determine which of their top 8 chocolate bars have users consumed in the last year. Which of the following would be the most appropriate form element to collect this information?a. checkboxb. radioc. dropdown menud. text field",
+      "definition": "a. checkbox"
+    },
+    {
+      "term": "Interface metaphors are NOT commonly used as part of a conceptual designa. trueb. false",
+      "definition": "b. false"
+    },
+    {
+      "term": "A beer company has asked you to design a landing page for their website to ensure access is restricted to users aged 21 and up—the landing page will prompt users to enter their birthdate. Which of thefollowing would be an appropriate form element to use?a. buttonb. number stepperc. date pickerd. dropdown menu",
+      "definition": "c. date picker"
+    },
+    {
+      "term": "A software company would like to survey users about what mobile operating system they use most often—Android, iOS, Windows, or \"Other\". Which of the following would be an appropriate form element to use?a. checkboxb. radioc. dropdown menud. text field",
+      "definition": "b. radio"
+    },
+    {
+      "term": "It is NOT usual for cognitive processes to occur in isolationa. trueb. false",
+      "definition": "a. true"
+    },
+    {
+      "term": "An organic farmer has enlisted your services to help her augment her online ordering system for her restaurant clients. She would like her users to be able to choose a specific quantity of fresh produce from a list of what will be harvested that week. Which of the following would be an appropriate form element to use?a. radiob. text fieldc. number stepperd. button",
+      "definition": "c. number stepper"
+    },
+    {
+      "term": "______________________ are more economical to develop.a. Websiteb. Advertisementsc. Applicationd. Videos",
+      "definition": "a. Website"
+    },
+    {
+      "term": "It can be viewed across different devices and platforms.a. Videosb. Advertisementsc. Applicationd. Websites",
+      "definition": "d. Websites"
+    },
+    {
+      "term": "____________ can be displayed on any device.a. Advertisementsb. Websitesc. Applicationd. Videos",
+      "definition": "b. Websites"
+    },
+    {
+      "term": "It is easy to share content with others.a. Advertisementsb. Applicationc. Websitesd. Videos",
+      "definition": "c. Websites"
+    },
+    {
+      "term": "Its content can be easily indexed by search engines.a. Applicationb. Websitesc. Advertisementsd. Videos",
+      "definition": "b. Websites"
+    },
+    {
+      "term": "It can be integrated into the operating system, allowing for access to advanced device capabilities, such as fingerprint or iris scanners.a. Applicationsb. Advertisementsc. Videosd. Websites",
+      "definition": "a. Applications"
+    },
+    {
+      "term": "It can be displayed only on the operating system it was designed for.a. Websitesb. Applicationsc. Advertisementsd. Videos",
+      "definition": "a. Websites"
+    },
+    {
+      "term": "______________________ are easier to monetize.a. Applicationsb. Advertisementsc. Videosd. Websites",
+      "definition": "a. Applications"
+    },
+    {
+      "term": "It requires that users download and install it onto their devices.a. Applicationsb. Advertisementsc. Videosd. Websites",
+      "definition": "a. Applications"
+    },
+    {
+      "term": "It's easier to control how users can interact with and view content.a. Applicationsb. Advertisementsc. Videosd. Websites",
+      "definition": "a. Applications"
+    },
+    {
+      "term": "Copyright is a part of_____________________a. headerb. footerc. sidebard. navigation",
+      "definition": "b. footer"
+    },
+    {
+      "term": "Privacy settings are displayed on____________ part of a websitea. headerb. footerc. sidebard. navigation",
+      "definition": "b. footer"
+    },
+    {
+      "term": "Advertisements is best when they are placed at _______________ in a websitea. headerb. footerc. sidebard. navigation",
+      "definition": "c. sidebar"
+    },
+    {
+      "term": "Tabs and headers are differenta. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Menus are best when placed at________________a. headerb. footerc. sidebard. navigation",
+      "definition": "a. header"
+    },
+    {
+      "term": "Logos are seen on both nav-bar and on footera. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "We must display only the required information on a websitea. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "The process of hiding information and converting into a single module is called _________________a. filteringb. hierarchyc. chunkingd. information architecture",
+      "definition": "c. chunking"
+    },
+    {
+      "term": "It is good to have a full width background image on a landing screena. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Websites do not have one size.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "A mobile first approach helps us to focus the ____________________ on screen.a. Animationsb. Text contentc. Imagesd. most essential things",
+      "definition": "d. most essential things"
+    },
+    {
+      "term": "An approach to web design that makes web pages render well on a variety of devices and window or screen sizes.a. Responsive web designb. CSSc. Brainstormingd. None of the above",
+      "definition": "a. Responsive web design"
+    },
+    {
+      "term": "A ______________ tells us the look and feel of the website.a. Galleryb. Mood boardc. storyboardd. Color palette",
+      "definition": "b. Mood board"
+    },
+    {
+      "term": "The design property which relates a background and a foreground visibility.a. Shapeb. Contrastc. Elementsd. None of the above",
+      "definition": "b. Contrast"
+    },
+    {
+      "term": "H1, H2, H3 etc are tags for _____________________ in a websitea. Different font sizeb. Different typographyc. Different headingsd. All the above",
+      "definition": "d. All the above"
+    },
+    { "term": "H1 is greater than H6a. Trueb. False", "definition": "a. True" },
+    {
+      "term": "H3 is greater than H2a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Rounded buttons are used for friendly themesa. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Buttons with zero border radius are used for serious themesa. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "hovering, pressing, active and disable is related to ________________a. states of buttonsb. states of iconsc. bothd. none",
+      "definition": "c. both"
+    },
+    {
+      "term": "_________________ helps us to find the number of pages in a websitea. task flowb. sitemapc. bothd. none",
+      "definition": "b. sitemap"
+    },
+    {
+      "term": "________________ is prepared before the wireframea. task flowb. sitemapc. prototyped. none",
+      "definition": "b. sitemap"
+    },
+    {
+      "term": "It shows the workflow of the websitea. wireframeb. task flowc. sitemapd. prototype",
+      "definition": "b. task flow"
+    },
+    {
+      "term": "Advertisements are best fit in a___________________ websitea. sidebarb. headerc. footerd. navigation",
+      "definition": "a. sidebar"
+    },
+    {
+      "term": "\"Chat now\" option with the computer generated guide is an example of a_____________.a. animationb. pop upc. alertd. navigation",
+      "definition": "b. pop up"
+    },
+    {
+      "term": "A website is best when is non responsivea. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "How do navigation elements relate to one another and the current page ?a. sidebarb. headerc. footerd. navigation",
+      "definition": "d. navigation"
+    },
+    {
+      "term": "How does the user get from one point to another ?a. wireframeb. task flowc. sitemapd. prototype",
+      "definition": "c. sitemap"
+    },
+    {
+      "term": "A navigation system must be kept only on the top of a webpage.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "_____________________ is a sub division of primary navigation.a. Utilityb. secondary navigationc. tertiary navigationd. none",
+      "definition": "b. secondary navigation"
+    },
+    {
+      "term": "An \"About us\" page is a primary navigation.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "\"Know more about us\" is a part of_____________________.a. secondary navigationb. utility navigationc. tertiary navigationd. primary navigation",
+      "definition": "a. secondary navigation"
+    },
+    {
+      "term": "\"Product details\" from the section \"Product\" is an example of ______________.a. secondary navigationb. utility navigationc. tertiary navigationd. primary navigation",
+      "definition": "a. secondary navigation"
+    },
+    {
+      "term": "\"Subscribe\" is an example of _______a. secondary navigationb. utility navigationc. tertiary navigationd. primary navigation",
+      "definition": "b. utility navigation"
+    },
+    {
+      "term": "\"Search\" option is a tertiary navigation.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "25 - 50 - 25 is a design rule for web page layout. What is 50 in this ?a. Imageb. textc. Main contentd. advertisement",
+      "definition": "c. Main content"
+    },
+    {
+      "term": "In a 25/50/25 rule, 25 % is at the center of the screen.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "25 - 50 - 25 is a design rule for web page ayout. What is 25 in this ?a. Imageb. textc. Main contentd. advertisement",
+      "definition": "d. advertisement"
+    },
+    {
+      "term": "Landing page is an example for hero slidera. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "_____________________ is related to images.a. Aspect ratiob. pixelsc. grid layoutd. all the above",
+      "definition": "d. all the above"
+    },
+    { "term": "Primarily non-visual.A. UIB. UX", "definition": "B. UX" },
+    {
+      "term": "Choose the best term that applies to this statement:Creates tangible, material results.A. UIB. UX",
+      "definition": "A. UI"
+    },
+    {
+      "term": "Choose the best term that applies to this statement:Development is driven by user behavior and feedback.A. UI B. UX",
+      "definition": "B. UX"
+    },
+    {
+      "term": "Choose the best term that applies to this statement:Rooted primarily in graphic design.  A. UI B. UX",
+      "definition": "A. UI"
+    },
+    {
+      "term": "Choose the best term that applies to this statement: Generating solutions to elevate user engagement on a given website. A. UI B. UX",
+      "definition": "B. UX"
+    },
+    {
+      "term": "Choose the best term that applies to this statement: Making decisions to define the form, aesthetics, and look and feel of a site. A. UI B. UX",
+      "definition": "A. UI"
+    },
+    {
+      "term": "Choose the best term that applies to this statement: Concerned with how a user chooses to navigate through a website. A. UI B. UX",
+      "definition": "B. UX"
+    },
+    {
+      "term": "Choose the best term that applies to this statement: Rooted in research, planning and testing. A. UI B. UX",
+      "definition": "B. UX"
+    },
+    {
+      "term": "An interface can be best described as a bridge between: A. a screen and a system B. a website and an app C. a user and content D. two users",
+      "definition": "C. a user and content"
+    },
+    {
+      "term": "Why is it helpful to rely on real world models within interface design? Choose thebest answer. A. Real world models are already familiar to a user, and thereforecan help make the user's experience much more seamless. B. It's easier for a designer to borrow an idea or concept that's alreadybeen created. C. Real world models are much more believable and users are morelikely to consume or buy a product that uses them.",
+      "definition": "A. Real world models are already familiar to a user, and thereforecan help make the user's experience much more seamless."
+    },
+    {
+      "term": "Which of the following examples are considered real world models?A. A screen-based button. B. The \"trash bin\" on your computer. C. Camera shutter sound when using a smartphone's built-in camera. D. All of the above.",
+      "definition": "D. All of the above."
+    },
+    {
+      "term": "What is the rule of thumb for organizing content within an interface? A. Along a grid B. Systematically C. Randomly D. Alphabetically",
+      "definition": "B. Systematically"
+    },
+    {
+      "term": "While user interactions should occur in as few steps as possible, in what situationmight an extra step be appropriate? A. ordering a sandwich. B. withdrawing a large sum of money from an ATM. C. buying a textbook online.",
+      "definition": "B. withdrawing a large sum of money from an ATM."
+    },
+    {
+      "term": "Which physical relationship is NOT a factor for designing an interface? A. the placement of an on-screen button in relationship to a user'sthumb. B. the distance of a user's eye from a screen. C. the scale of a smartphone within a user's hand. D. the relative position of one user to another.",
+      "definition": "D. the relative position of one user to another."
+    },
+    {
+      "term": "Why is it important for the interface to react immediately when a user carries outan action? Choose the best answer. A. The user needs confirmation from the interface that thesystem is working. B. Users are inherently impatient. C. The system behind the interface needs to process tasks veryquickly in order to keep pace with competing systems.",
+      "definition": "A. The user needs confirmation from the interface that thesystem is working."
+    },
+    {
+      "term": "Context-specific design is best defined as: A. When the designer uses different software programs to make aninterface. B. Shaping a design to reflect differences in content, goals, andusers. C. What happens when emerging designers make websites. D. A method of design that reflects the physical, geographical locationwhere the design was made.",
+      "definition": "B. Shaping a design to reflect differences in content, goals, andusers."
+    },
+    {
+      "term": "An interface should be immediate and intuitive. A. True B. false",
+      "definition": "A. True"
+    },
+    {
+      "term": "Choose the heuristic that best applies to the following example: the dreadedspinning circle on YouTube. A. Visibility of system status B. Flexibility and efficiency of use C. Help and documentation D. Recognition rather than recall",
+      "definition": "A. Visibility of system status"
+    },
+    {
+      "term": "Web vs. App Question its is more economical to develop. A. Website B. App",
+      "definition": "A. Website"
+    },
+    {
+      "term": "It can be viewed across different devices and platforms. A. Website B. App",
+      "definition": "A. Website"
+    },
+    {
+      "term": "It can be displayed on any device. A. Website B. App",
+      "definition": "A. Website"
+    },
+    {
+      "term": "It is easy to share content with others. A. Website B. App",
+      "definition": "A. Website"
+    },
+    {
+      "term": "Its content can be easily indexed by search engines. A. Website B. App",
+      "definition": "A. Website"
+    },
+    {
+      "term": "It can be integrated into the operating system, allowing for access to advanceddevice capabilities, such as fingerprint or iris scanners. A. Website B. App",
+      "definition": "B. App"
+    },
+    {
+      "term": "It can be displayed only on the operating system it was designed for. A. Website B. App",
+      "definition": "B. App"
+    },
+    {
+      "term": "It is easier to monetize. A. Website B. App",
+      "definition": "B. App"
+    },
+    {
+      "term": "It requires that users download and install it onto their devices. A. Website B. App",
+      "definition": "B. App"
+    },
+    {
+      "term": "It's easier to control how users can interact with and view content. A. Website B. App",
+      "definition": "B. App"
+    },
+    {
+      "term": "Primary navigation menus should always appear horizontally atthe top of a page. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website.The profile icon with the learner's name in the right hand corner of the image issu example of: A. utility navigation B. secondary navigation C. subsidiary navigation D. primary navigation",
+      "definition": "A. utility navigation"
+    },
+    {
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website.Why might Coursera's designers decide to permanently place a search field inthis area? A. Coursera's outline of scope probably determined that Search an important functionality requirement. B. Coursera probably thinks that learners like to use the search fieldas a way finding tool. C. Coursera probably wants to imitate other search sites like Google. D. Coursera is following a website design rule which dictates thatevery website should have a search field.",
+      "definition": "A. Coursera's outline of scope probably determined that Search an important functionality requirement."
+    },
+    {
+      "term": "Look at the image taken from a science course's description page on theCoursera platform.This section, titled \"You May Also Like,\" is an example of what kind ofnavigational element? A. related content B. inline links to other pages C. index of pages D. search results for other pages",
+      "definition": "A. related content"
+    },
+    {
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website.What navigational system does the blue \"Explore\" button use? A. utility navigation B. primary navigation C. secondary navigation D. subsidiary navigation",
+      "definition": "C. secondary navigation"
+    },
+    {
+      "term": "Looking at ​this page on the CalArts website​, which of the followingwayfinding functions does the blue CalArts logo in the upper-left corner ofthe image accomplish?Select all that apply. A. It lets learners navigate back to the CalArts homepage. B. It lets learners see the path they have traveled within the CalArtswebsite. C. it lets learners see where they are on the CalArts site. D. it lets learners know what page they're on. E. it lets learners see what site they're on.",
+      "definition": "A. It lets learners navigate back to the CalArts homepage. E. it lets learners see what site they're on."
+    },
+    {
+      "term": "You have an important message that you want to share with the users of yourwebsite through a site alert. In which of the following sections would it be themost appropriate for the site alert to appear? A. footer B. header C. sidebar D. Content",
+      "definition": "B. header"
+    },
+    {
+      "term": "You want to deter visitors to your website from copying or re-using your contentby posting a copyright notice. In which of the following sections does a copyrightnotice usually appear? A. header B. footer C. Content D. sidebar",
+      "definition": "B. footer"
+    },
+    {
+      "term": "What is the advantage of an accordion on a website? Check all that apply. A. The user gets a scannable overview of the scope of information. B. Complex, lengthy information can be presented in a more compact way. C. You can play German folk music with it. D. It lets the user open and close content buckets.E. It makes pages that are really long to be scrolled.",
+      "definition": "A. The user gets a scannable overview of the scope of information. B. Complex, lengthy information can be presented in a more compact way. D. It lets the user open and close content buckets."
+    },
+    {
+      "term": "A client that runs a candy company has asked you to build a pop-up survey ontheir website to determine which of their top 8 chocolate bars have usersconsumed in the last year. Which of the following would be the most appropriateform element to collect this information? A. checkbox B. radio C. dropdown menu D. text field E. number stepper",
+      "definition": "A. checkbox"
+    },
+    {
+      "term": "A beer company has asked you to design a landing page for their website toensure access is restricted to users aged 21 and up—the landing page willprompt users to enter their birthdate. Which of the following would be anappropriate form element to use? A. button B. number stepper C. date picker D. dropdown menu E. Radio",
+      "definition": "C. date picker"
+    },
+    {
+      "term": "A software company would like to survey users about what mobile operatingsystem they use most often—Android, iOS, Windows, or \"Other\". Which of thefollowing would be an appropriate form element to use? A. checkbox B. radio C. dropdown menu D. text field E. Button",
+      "definition": "B. radio"
+    },
+    {
+      "term": "An organic farmer has enlisted your services to help her augment her onlineordering system for her restaurant clients. She would like her users to be able to choose a specific quantity of fresh produce from a list of what will be harve sted that week. Which of the following would be an appropriate form element to use? A. radio B. text field C. number stepper D. button E. date picker",
+      "definition": "C. number stepper"
+    },
+    {
+      "term": "Fill in the blank: Hierarchy is created through _______. (answer is one word) a. Contrast b. Textc. Distanced. colour",
+      "definition": "Contrast"
+    },
+    {
+      "term": "On the homepage for Wealthsimple.com, which of the following principles of visual contrast is used? Click all that apply. A. color B. texture C. space D. Direction",
+      "definition": "A. color C. space D. Direction"
+    },
+    {
+      "term": "On the homepage for Neamedia.fr, which of the following principles of visual contrast are used? Click all that apply. A. direction B. weight C. scale D. color E. Texture",
+      "definition": "B. weight C. scale D. color"
+    },
+    {
+      "term": "Why is it important to consider whitespace in web design? A. It helps make text appear smaller. B. It creates drama in a composition and leads the user's eye around. C. It allows you to use up as much space as possible given yourwebsite has the ability to scroll infinitely. D. All of the above",
+      "definition": "B. It creates drama in a composition and leads the user's eye around."
+    },
+    {
+      "term": "True or false: Hierarchy enables a designer to guide a viewer's attention equally to all of the elements on the screen. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Interaction design DONT involve many inputs from some disciplines and fields a. trueb. false",
+      "definition": "a. true"
+    },
+    {
+      "term": "True or False: Whitespace must always be white. A. True. B. False.",
+      "definition": "B. False."
+    },
+    {
+      "term": "What is an important difference between print and web that designers should remember? A. Print design should incorporate more whitespace. B. Web browser controls limit the amount of whitespace that can beseen in between elements, which is not a problem in print. C. Nothing. Modern technology has made the difference between printand web design minute. D. Space in print is limited, while space in the web is infinite.",
+      "definition": "D. Space in print is limited, while space in the web is infinite."
+    },
+    {
+      "term": "Why isn't it a good idea to justify body type on a web page? A. Web browsers are not very good at hyphenating text at thispoint in time. B. It makes the text look weird at different screen sizes. C. You risk making columns that are too wide to read easily. D. They are not compatible with screen readers for users withvision-related impairment.",
+      "definition": "A. Web browsers are not very good at hyphenating text at this point in time."
+    },
+    {
+      "term": "Decision about conceptual design should NOT be made after commencing any physical designa. trueb. false",
+      "definition": "a. true"
+    },
+    {
+      "term": "According to the lecture, what is the suggested minimum body text size? A. 12px B. 16px C. 20px D. 28px",
+      "definition": "B. 16px"
+    },
+    {
+      "term": "As a general rule of thumb, about how many characters should be on a line? A. 40 to 70 B. 60 to 90 C. 50 to 80 D. 70 to 100",
+      "definition": "A. 40 to 70"
+    },
+    {
+      "term": "True or false: You should always stay away from free web fonts. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "How do you calculate the ratio of text height to line height? A. Add the font size to the line height. B. Add the line height to the font size. C. Divide the font size by the line height. D. Divide the line height by the font size.",
+      "definition": "C. Divide the font size by the line height."
+    },
+    {
+      "term": "What's an argument against using true black text on a true white background throughout your entire website? A. It can cause screens to wear out faster. B. It looks boring. C. It can cause the text to bleed into each other. D. The high contrast can cause eye fatigue.",
+      "definition": "D. The high contrast can cause eye fatigue."
+    },
+    {
+      "term": "What is a reason mentioned in the video for making text larger on desktop screens? A. Mobile screens are not able to display text at large sizes. B. People who use desktop screens tend to have poor vision. C. People tend to view desktop screens from a greater distancecompared to mobile screens. D. Desktop screens have more space to display text.",
+      "definition": "C. People tend to view desktop screens from a greater distance compared to mobile screens."
+    },
+    {
+      "term": "What should you always do when selecting a web font for your site? A. Make sure the web font is freely available, and if not, obtain aweb license for it. B. Look for the typeface first on your computer. C. Export the typeface to an image file. D. Avoid Arial, Courier, Georgia, Verdana, or Times New Romantypefaces.",
+      "definition": "A. Make sure the web font is freely available, and if not, obtain a web license for it."
+    },
+    {
+      "term": "All usability and user experience goals will NOT be relevant to design and evaluation of developing producta. trueb. false",
+      "definition": "a. true"
+    },
+    {
+      "term": "Expressive interfaces is NOT how the appearance'of an interface can affect users a. trueb. false",
+      "definition": "b. false"
+    },
+    {
+      "term": "there are 6 form main types of interviews, is that true? If not, what else?a. 6b. 4c. 5d. 3",
+      "definition": "b. 4"
+    },
+    {
+      "term": "Random is one of the types of interviews, is that true? If not, what else?a. Structuredb. Randomc. Hierarchicald. Repeat",
+      "definition": "a. Structured"
+    },
+    {
+      "term": "there are 3 frameworks do we use in the analysis of qualitative data, is that true? If not, what else?a. 4b. 5c. 6d. 3",
+      "definition": "d. 3"
+    },
+    {
+      "term": "Activity theory (AT) is a product of Soviet psychologya. trueb. false",
+      "definition": "a. true"
+    },
+    {
+      "term": "there are 3 degrees of user involvement, is that true? If not, what else?a. 4b. 3c. 5d. 2",
+      "definition": "a. 4"
+    },
+    {
+      "term": "Three categories of user including: primary, secondary, and the last, is that true? If not, what else? a. Primary, secondaryb. Primary, secondary, and tertiaryc. Primary, secondary, and tertiary, utilityd. Utility",
+      "definition": "b. Primary, secondary, and tertiary"
+    },
+    {
+      "term": "Prototype is a limited representation of a design that allows users to interact with it and to explore its suitabilitya. trueb. false",
+      "definition": "a. true"
+    },
+    {
+      "term": "How many fundamental activities that are recognized in all designa. 3b. 1c. 2d. 4",
+      "definition": "a. 3"
+    },
+    {
+      "term": "What is the value of prototyping?a. Save so much effort and materialb. Save material and resourcec. Save so much effort and resourced. none of above",
+      "definition": "c. Save so much effort and resource"
+    },
+    {
+      "term": "How many basic activities of interaction design?a. 3b. 4c. 5d. 6",
+      "definition": "b. 4"
+    },
+    {
+      "term": "What is the waterfall lifecycle model of software development?a. Requirement, Design, Code, Test, Maintenanceb. Requirement, Design, Code, Maintenance, Testc. Maintenance, Requirement, Design, Code, Testd. Test, Requirement, Design, Code, Maintenance",
+      "definition": "a. Requirement, Design, Code, Test, Maintenance"
+    },
+    {
+      "term": "Which is used to overcome potential client misunderstandings and to test the technical feasibility of a suggested design and its productiona. Wireframesb. Prototypingc. Strategyd. Sitemap",
+      "definition": "b. Prototyping"
+    },
+    {
+      "term": "Users can tell you what they need' to help them achieve their goalsa. trueb. false",
+      "definition": "b. false"
+    },
+    {
+      "term": "Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a designa. Evaluating designsb. Testingc. Prototypingd. Coding",
+      "definition": "a. Evaluating designs"
+    },
+    {
+      "term": "Which kind of user involvement is consistent, but loose touch with the rest of user group?a. Long termb. Short termc. Part-timed. Full - time",
+      "definition": "a. Long term"
+    },
+    {
+      "term": "Which kind of user involvement has patchy input and very stressful?a. Long termb. Short termc. Part-timed. Full - time",
+      "definition": "c. Part-time"
+    },
+    {
+      "term": "Which reasons for user involvement are important if the product is to be usable and used?a. Ownershipb. Checkingc. Expectation managementd. Coding",
+      "definition": "a. Ownership c. Expectation management"
+    },
+    {
+      "term": "According to Strauss and Corbin (1998), how many aspects of coding in grounded theory?a. 1b. 2.c. 3d. 4",
+      "definition": "c. 3"
+    },
+    {
+      "term": "According to Strauss and Corbin (1998), which are three aspects of coding in grounded theory?a. Open coding b. Axial codingc. Selective codingd. All above",
+      "definition": "d. All above"
+    },
+    {
+      "term": "_________________ refers to designing interfaces to have similar operations and use similar elements for achieving similar tasks.a. Consistencyb. Standardc. Navigationd. System status",
+      "definition": "a. Consistency"
+    },
+    {
+      "term": "Small screens, small number of keys and restricted number of controlsa. Mobile challengesb. Desktop challengesc. Mobile effectived. Desktop effective",
+      "definition": "a. Mobile challenges"
+    },
+    {
+      "term": "Robotic interfaces includea. Three typesb. Two typesc. Four typesd. Five types",
+      "definition": "c. Four types"
+    },
+    {
+      "term": "Many new design and research questions need to be considereda. to chose one and two to useb. to decide which one to usec. to chose all of designd. to chose 3 ways to use",
+      "definition": "b. to decide which one to use"
+    },
+    {
+      "term": "If you want to create a sense of urgency or importance in a user interface, which color would be most appropriate? | Purple | Blue | Red | Green",
+      "definition": "Red"
+    },
+    {
+      "term": "Which of the following best describes the role of color in interface design? | Color is used to represent the brand's identity | Color is used primarily to make the interface visually appealing | Color is used to differentiate between different sections of the interface | Color is used to create mood and emotion",
+      "definition": "Color is used to create mood and emotion"
+    },
+    {
+      "term": "What is the advantage of using text in the user interface? | It's more visually appealing | It simplifies complex concepts | It reduces the need for icons and symbols | It provides faster and more accurate communication",
+      "definition": "It provides faster and more accurate communication"
+    },
+    {
+      "term": "How can typography be used as a branding element in the user interface? | By using the same font size across all interfaces | By using a unique typeface that aligns with the brand's identity | By using the brand's primary color for all text | By using the same font family across all interfaces",
+      "definition": "By using a unique typeface that aligns with the brand's identity"
+    },
+    {
+      "term": "How can language be used as a design tool in setting the mood and tone of an app? | Through the use of slang to create a casual and relaxed tone. | By using jargon and complex language to sound professional. | By selecting words and phrases that reflect the intended user experience. | By using verbose and lengthy sentences to provide detailed information.",
+      "definition": "By selecting words and phrases that reflect the intended user experience."
+    },
+    {
+      "term": "Which of the following is the primary purpose of icons and symbols in user interfaces? | To provide a language-independent medium of communication | To act as visual cues that guide user interaction | To represent complex concepts through text | To add aesthetic appeal to the user interface",
+      "definition": "To act as visual cues that guide user interaction"
+    },
+    {
+      "term": "How are icons and symbols differentiated in their visual representations? | Icons are more detailed than symbols | Symbols are static while icons are dynamic | Icons represent actions while symbols represent concepts | Symbols can represent complex concepts while icons are simple",
+      "definition": "Icons represent actions while symbols represent concepts"
+    },
+    {
+      "term": "How does the use of shapes impact the overall look and feel of an interface? | Shapes create visual hierarchy | Shapes are used to categorize content | Shapes have no significant impact on the interface | Shapes make the interface look professional",
+      "definition": "Shapes create visual hierarchy"
+    },
+    {
+      "term": "What is the primary purpose of a design brief in a UI/UX project? | To describe the color scheme of the project | To document the coding standards to be followed | To list all the software tools used in the project | To provide a summary of the project's goals, audience, and constraints",
+      "definition": "To provide a summary of the project's goals, audience, and constraints"
+    },
+    {
+      "term": "When defining the goals, constraints, and audience for a UI design project, which of the following is the first step? | Start with the design process | Identify the audience | Define the goals | Establish the constraints",
+      "definition": "Identify the audience"
+    },
+    {
+      "term": "Which of the following is a key component of visual design in user interface design? | The speed of the server hosting the app | The color palette used in the interface | The programming language used for the backend | The number of pages in the application",
+      "definition": "The color palette used in the interface"
+    },
+    {
+      "term": "Which of the following best describes the role of visual design components in interface design? | They make the interface look aesthetically pleasing | All of the above | They help in navigating the interface | They ensure consistency in the interface",
+      "definition": "All of the above"
+    },
+    {
+      "term": "Considering the various elements of user interface design, which of the following statements are true? | Color can be used to signify different states in an interface | The use of icons and symbols does not have any specific role in user interfaces | Language can be used as a branding element in design | The use of shapes in interface design does not impact the overall look and feel of an interface | Text can only be used as content in the user interface",
+      "definition": "Color can be used to signify different states in an interface | Language can be used as a branding element in design"
+    },
+    {
+      "term": "Which of the following are important topics to consider in any UI/UX project? Select all that apply. | Age of the target audience | Average temperature of the user's location | Content to be displayed | Context the interface will be used in | Audience for the interface",
+      "definition": "Age of the target audience | Content to be displayed | Context the interface will be used in | Audience for the interface"
+    },
+    {
+      "term": "Why is logic and predictability important in interface design? | To confuse the user | To make the interface unique and different | To ensure the interface is visually appealing | To ensure the user can easily understand and use the interface",
+      "definition": "To ensure the user can easily understand and use the interface"
+    },
+    {
+      "term": "What is the basic functionality of a user interface? | To make the system look visually appealing | To display complex coding to the user | To handle backend operations | To provide a way for users to interact with the system",
+      "definition": "To provide a way for users to interact with the system"
+    },
+    {
+      "term": "Which of the following best describes the transition of static interface elements to interactive ones in user interface design? | Changing the color scheme of the interface | Conversion of graphical elements into clickable buttons | Making the interface more complex | Adding more text and descriptions to the interface",
+      "definition": "Conversion of graphical elements into clickable buttons"
+    },
+    {
+      "term": "What could be an advantage of a slimmed-down, functional interface over a more graphic, entertaining interface? | It enhances the entertainment value of the interface | It reduces the chances of user distraction | It improves the visual appeal of the interface | It increases the likelihood of users spending more time on the interface",
+      "definition": "It reduces the chances of user distraction"
+    },
+    {
+      "term": "Imagine you are designing a user interface. How would you apply the principle of composition and structure? | By limiting the use of colors and fonts | By ensuring the interface is visually appealing | By arranging elements in a logical and predictable way | By using the latest design trends",
+      "definition": "By arranging elements in a logical and predictable way"
+    },
+    {
+      "term": "Consider a user interface. What would be an indicator that it effectively balances functionality and aesthetics? | The interface allows users to perform tasks efficiently | The interface has a minimal design | The interface is visually appealing | The interface has both visual appeal and allows users to perform tasks efficiently",
+      "definition": "The interface has both visual appeal and allows users to perform tasks efficiently"
+    },
+    {
+      "term": "Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces? | Maintaining a simple and clean design | Including a wide array of colors | Using consistent design patterns | Having a lot of animations and transitions | Ensuring a clear and direct navigation",
+      "definition": "Maintaining a simple and clean design | Using consistent design patterns | Ensuring a clear and direct navigation"
+    },
+    {
+      "term": "What could be a disadvantage of a highly graphical and entertaining interface? | It may not be visually appealing | It may be difficult to update | It may not be suitable for a professional setting | It may distract from the content",
+      "definition": "It may distract from the content"
+    },
+    {
+      "term": "Why is maintaining consistency in user interface design important? | It helps users predict how elements in the interface will behave | It makes the interface look modern | It ensures all elements are visually appealing | It eliminates the need for user onboarding",
+      "definition": "It helps users predict how elements in the interface will behave"
+    },
+    {
+      "term": "What is a key principle for designing effective buttons? | They should be placed in the corners of the screen | They should be large and colorful to attract attention | They should have complex shapes to make them stand out | They should have a consistent design and provide visual feedback",
+      "definition": "They should have a consistent design and provide visual feedback"
+    },
+    {
+      "term": "What does the term 'multi-state button' in user interface design refer to? | A button that changes its state based on user interaction | A button that can be used to navigate through multiple screens | A button that has multiple layers of functionality | A button that can perform multiple functions",
+      "definition": "A button that changes its state based on user interaction"
+    },
+    {
+      "term": "Why is it important to use design conventions and principles in interface design? | They provide a visual appeal to the interface | They make the interface more interactive | They ensure that the interface is user-friendly | They make the interface look professional",
+      "definition": "They ensure that the interface is user-friendly"
+    },
+    {
+      "term": "Consider a user interface with poorly integrated components. What is a likely result of this situation? | Users may have difficulty understanding how to interact with the interface | The interface will automatically adjust to user preferences | The interface will have a higher loading speed | The interface will appear cohesive and easy to navigate",
+      "definition": "Users may have difficulty understanding how to interact with the interface"
+    },
+    {
+      "term": "You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen? | Make sure each element on the screen is a different size | Design elements in isolation, without considering their relationship to other elements | Use a wide variety of colors and fonts to make the screen colorful and engaging | Use consistent colors, typography, and visual elements to create harmony",
+      "definition": "Use consistent colors, typography, and visual elements to create harmony"
+    },
+    {
+      "term": "When designing a user interface, why is it important to align user needs and client goals? | To make the design easier to navigate | To ensure the design is visually appealing | To ensure the design meets its intended purpose | To make sure the design is unique",
+      "definition": "To ensure the design meets its intended purpose"
+    },
+    {
+      "term": "In user interface design, what does the concept of hierarchy primarily help with? | Ensuring that the design is visually appealing | Reducing the cost of production | Ensuring that the design is consistent across different platforms | Prioritizing content and guiding user's attention",
+      "definition": "Prioritizing content and guiding user's attention"
+    },
+    {
+      "term": "What is the primary reason for variations in content between web-based and app versions of a digital product? | Different target audience | Limitations of the app development platform | Different design team for web and app | Device capabilities and screen size",
+      "definition": "Device capabilities and screen size"
+    },
+    {
+      "term": "What does the term 'hierarchy' refer to in the context of user interface design? | The number of steps required to complete a task in an app | The size of different elements on a screen | The levels of management in a design team | The order of importance of different elements on a screen",
+      "definition": "The order of importance of different elements on a screen"
+    },
+    {
+      "term": "Why is it important to consider factors such as orientation, scale, and viewing distance when designing for different screens? | To ensure the design is visually appealing on all devices | To make the design unique | To ensure the design is accessible and usable on all devices | To make the design more interactive",
+      "definition": "To ensure the design is accessible and usable on all devices"
+    },
+    {
+      "term": "When comparing the ease of navigation between web-based and app versions of a digital product, what is a key difference to consider? | Web versions are always accessible on all devices | Web versions are always more user-friendly | Apps are designed to be used in portrait mode | Apps usually have more features than their web counterparts",
+      "definition": "Apps are designed to be used in portrait mode"
+    },
+    {
+      "term": "Which of the following factors are important to consider when designing for different screens? | Viewing distance | The device's brand | Color scheme | Scale | Orientation",
+      "definition": "Viewing distance | Scale | Orientation"
+    },
+    {
+      "term": "What are the principles to follow when creating a grid for a website? | The grid should change on every page | Ensure consistency | The grid should be complex | Make sure it is visually appealing",
+      "definition": "Ensure consistency | Make sure it is visually appealing"
+    },
+    {
+      "term": "If you were to improve the navigation of a user interface, which of the following would be the most effective strategy? | Adding more colors to menu items | Increasing the number of menu items | Making menu items flash to attract attention | Designing a logical and intuitive menu structure",
+      "definition": "Designing a logical and intuitive menu structure"
+    },
+    {
+      "term": "Why is transitioning from static designs to prototypes an important process in user interface design? | To check the feasibility of the design | To reduce the time taken to complete the project | To make the design more aesthetically pleasing | To increase the cost of the project",
+      "definition": "To check the feasibility of the design"
+    },
+    {
+      "term": "Why is it important to create a grid for a website when designing a user interface? | To create a unique design | To ensure the design is visually appealing | To make the design more interactive | To ensure consistency and visual appeal in design decisions",
+      "definition": "To ensure consistency and visual appeal in design decisions"
+    },
+    {
+      "term": "What is a convention in user interface design? | A unique feature of a specific app or website | A formal meeting of designers | A widespread rule or style followed by designers | A graphical element used in a design",
+      "definition": "A widespread rule or style followed by designers"
+    },
+    {
+      "term": "Which of the following factors are important to consider when designing user interfaces for different screen sizes and formats? | Font for buttons | Scale | Orientation | Viewing distance | Color scheme",
+      "definition": "Scale | Orientation | Viewing distance"
+    },
+    {
+      "term": "When generating initial ideas for an app, which of the following should you consider? | Personal preference for color schemes | The latest web technologies | Potential revenue streams | Feasibility of implementation | User needs",
+      "definition": "Potential revenue streams | Feasibility of implementation | User needs"
+    },
+    {
+      "term": "What would be a poor way to start generating ideas for a new, innovative app? | Brainstorming with your team | Copying an existing app | Consulting with industry experts | Reviewing the current market trends",
+      "definition": "Copying an existing app"
+    },
+    {
+      "term": "What is the first step in generating initial ideas for an app? | Identifying the target audience | Building a prototype | Creating a marketing strategy | Writing the code",
+      "definition": "Identifying the target audience"
+    },
+    {
+      "term": "Imagine you are branding a new app for online learning. Which of the following branding strategies would be most effective? | Using a name related to the functionality of the app | Using complex, abstract imagery as a logo | Using a name that has no relation to the app's purpose | Using bright, neon colors to attract attention",
+      "definition": "Using a name related to the functionality of the app"
+    },
+    {
+      "term": "Which of the following is a critical aspect when naming an app? | Choosing a name that has nothing to do with your app's function | Selecting a name that's simple, descriptive, and unique | Using complex words to sound intelligent | Picking a name that's already been used for another app",
+      "definition": "Selecting a name that's simple, descriptive, and unique"
+    },
+    {
+      "term": "What is the primary reason why branding is important in UX design? | It sets the app apart from its competitors | It allows for higher pricing of the app | It ensures that the app is always functional | It helps in increasing the number of downloads",
+      "definition": "It sets the app apart from its competitors"
+    },
+    {
+      "term": "In the context of UX design, how does creating user personas help in the planning stage of an app? | It helps to decide the color scheme of the app. | It helps to understand the needs, behaviors, and goals of your users. | It helps to understand the technical requirements of the app. | It helps to identify the app's potential revenue.",
+      "definition": "It helps to understand the needs, behaviors, and goals of your users."
+    },
+    {
+      "term": "Which of these is the most important to determine during the initial planning phase of an app? | The number of features | The target audience | The programming language to be used | The budget for the project",
+      "definition": "The target audience"
+    },
+    {
+      "term": "Why is it important to consider the platforms your app will be available on during the planning phase? | All of these | Different platforms have different design guidelines | It can impact the cost of development | It determines the programming language you will use",
+      "definition": "Different platforms have different design guidelines"
+    },
+    {
+      "term": "Why is it crucial to understand the audience and rationale for an app? | To make the app visually appealing | To increase the app's download rate | To gain popularity among other app developers | To align the app's features with user needs and motivations",
+      "definition": "To align the app's features with user needs and motivations"
+    },
+    {
+      "term": "Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app? | To identify potential investors for the app | To understand users' needs and improve the app's value for users | To understand the technical requirements of the app | To determine the app's color scheme",
+      "definition": "To understand users' needs and improve the app's value for users"
+    },
+    {
+      "term": "Which of the following actions are beneficial when seeking user feedback on an app idea? | Ignoring negative feedback | Using technical jargon while explaining the app idea | Creating prototypes | Conducting user interviews",
+      "definition": "Creating prototypes | Conducting user interviews"
+    },
+    {
+      "term": "What would be a poor way to start generating ideas for an new, innovative app? | Brainstorming with your team | Copying an existing app | Consulting with industry experts | Reviewing the current market trends",
+      "definition": "Copying an existing app"
+    },
+    {
+      "term": "Which factor is not important when prioritizing the functionality of an app? | User feedback | Project timeline | Color scheme of the app | Budget constraints",
+      "definition": "Color scheme of the app"
+    },
+    {
+      "term": "Why is it important to consider app store optimization when naming your app? | It improves the app's compatibility with different devices | It helps in increasing the app's download speed | It decreases the app's size | It boosts the app's visibility in app store search results",
+      "definition": "It boosts the app's visibility in app store search results"
+    },
+    {
+      "term": "Why should you prioritize certain features over others when planning your app? | Because some features are easier to code. | To ensure the app is completed on time. | Because prioritizing helps focus on the features that are most valuable to your users. | Because some features are more fun to design.",
+      "definition": "Because prioritizing helps focus on the features that are most valuable to your users."
+    },
+    {
+      "term": "Why is it important to consider the user journey in the planning stage of an app? | It gives insights into the step-by-step experience users will have with your app. | It helps to determine the app's logo. | It helps to decide the app's price. | It helps in choosing the programming language for the app.",
+      "definition": "It gives insights into the step-by-step experience users will have with your app."
+    },
+    {
+      "term": "Which of the following are potential goals that can be pursued in app development? | Reducing the app's size | Improving user satisfaction | Enhancing the company's reputation | Increasing user engagement",
+      "definition": "Improving user satisfaction | Enhancing the company's reputation | Increasing user engagement"
+    },
+    {
+      "term": "Which of the following best describes the purpose of a sitemap in the app development process? | To code the functionality of the app | To design the graphical user interface | To map the relational database structure | To plan and visualize the content structure",
+      "definition": "To plan and visualize the content structure"
+    },
+    {
+      "term": "You're designing an app's login process. Which of the following screens is least likely to be involved in this process? | The forgot password screen | A search screen | The registration screen | The account verification screen",
+      "definition": "A search screen"
+    },
+    {
+      "term": "In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost? | A button for liking and sharing the post on social media | A dropdown for selecting the user's favorite pet breed | A field for entering the pet's microchip number | A field for entering the pet's favorite food",
+      "definition": "A field for entering the pet's microchip number"
+    },
+    {
+      "term": "Which of the following scenarios is most likely to benefit from a change in visual direction? | Users find the app's interface confusing | The app's features are not unique | The app is not getting enough downloads | The app is not working on certain devices",
+      "definition": "Users find the app's interface confusing"
+    },
+    {
+      "term": "Which of the following steps are involved in creating a mood board for UX Design? | Grouping related visuals together | Collecting visual inspiration | Defining color palettes and typography | Writing down the app's features",
+      "definition": "Grouping related visuals together | Collecting visual inspiration | Defining color palettes and typography"
+    },
+    {
+      "term": "What is the primary purpose of conducting visual research in UX Design? | To make the app visually appealing | To design the app's logo | To understand the audience's visual preferences and expectations | To determine the color scheme of the app",
+      "definition": "To understand the audience's visual preferences and expectations"
+    },
+    {
+      "term": "Why is a user flowchart important in UX Design? | It provides a visual representation of the possible user interactions with the product | It helps to visualize the aesthetic design of the website | It helps to organize the content of the website | It provides a way to track user activity on the website",
+      "definition": "It provides a visual representation of the possible user interactions with the product"
+    },
+    {
+      "term": "Which of the following are qualities of a well-crafted content map? | It includes every single piece of content | It only includes the main pages of a website | It is simple and easy to understand | It is flexible and can be adapted as the project evolves | It focuses on the user's perspective",
+      "definition": "It is simple and easy to understand | It is flexible and can be adapted as the project evolves | It focuses on the user's perspective"
+    },
+    {
+      "term": "How are content maps and user flowcharts different? | Content maps focus on the organization of content, while user flowcharts focus on user interaction | User flowcharts are used in the early stages of design, while content maps are used later | Content maps are for developers, while user flowcharts are for designers | They serve the same purpose but are represented differently",
+      "definition": "Content maps focus on the organization of content, while user flowcharts focus on user interaction"
+    },
+    {
+      "term": "What are some responsibilities of the USER during paper prototype testing? | Writing code for the prototype | Performing tasks as they would in a real-life scenario | Simulating the computer's response | Verifying the system's security | Providing feedback on the system's functionality",
+      "definition": "Performing tasks as they would in a real-life scenario | Providing feedback on the system's functionality"
+    },
+    {
+      "term": "In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do? | Ignore the user's confusion | Redesign the prototype on the spot | Instruct the user on how to proceed | Make note of the user's difficulty for future improvement",
+      "definition": "Make note of the user's difficulty for future improvement"
+    },
+    {
+      "term": "Which of the following is the most significant benefit of testing a paper prototype with a user? | It helps identify potential problems early on | It allows the tester to show off their design skills | It helps in marketing the product | It eliminates the need for further testing",
+      "definition": "It helps identify potential problems early on"
+    },
+    {
+      "term": "How does visual design impact the user experience of an app? | It sets the mood and tone of the app | It helps in troubleshooting technical issues | It influences the app's marketing strategy | It determines the app's functionality",
+      "definition": "It sets the mood and tone of the app"
+    },
+    {
+      "term": "What is a key responsibility of the TESTER during paper prototype testing? | To design the prototype | To simulate the computer's response | To provide feedback on design aesthetics | To market the product",
+      "definition": "To simulate the computer's response"
+    },
+    {
+      "term": "Choose the heuristic that best applies to the following example: the dreaded spinning circle on YouTube. | Visibility of system status | Flexibility and efficiency of use | Help and documentation | Recognition rather than recall",
+      "definition": "Visibility of system status"
+    },
+    {
+      "term": "Choose the heuristic that best applies to the following example: an automated chatbot \"therapy\" app that sends you warm, positive text messages throughout the day. | Aesthetic and minimalist design | Match between system and the real world | User control and freedom | Error prevention",
+      "definition": "Match between system and the real world"
+    },
+    {
+      "term": "Choose the heuristic that best applies to the following example: Gmail's notification when you have forgotten to attach a document to an outgoing email. | Flexibility and efficiency of use | Match between system and the real world | Aesthetic and minimalist design | Error prevention",
+      "definition": "Error prevention"
+    },
+    {
+      "term": "Choose the heuristic that best applies to the following example: Google's advanced image search. | Help and documentation | Flexibility and efficiency of use | Help users recognize, diagnose and recover from errors",
+      "definition": "Flexibility and efficiency of use"
+    },
+    {
+      "term": "Choose the heuristic that best applies to the following example: The \"Like\" or \"thumbs up\" button across various platforms. | Error prevention | Consistency and standards | User control and freedom | Visibility of system status",
+      "definition": "Consistency and standards"
+    },
+    {
+      "term": "When refining user interface design, which factor is least likely to be a primary consideration? | User feedback | Visual aesthetics | Color trends in the fashion industry | Programming constraints",
+      "definition": "Color trends in the fashion industry"
+    },
+    {
+      "term": "What are some methods to ensure continuity and consistency across different screens? | Changing the design frequently | Maintaining a consistent layout | Using consistent fonts and colors | Using consistent navigation | Ignoring user feedback",
+      "definition": "Maintaining a consistent layout | Using consistent fonts and colors | Using consistent navigation"
+    },
+    {
+      "term": "Which of the following are important considerations when making UI and UX decisions while building wireframes? | The type of device the app will be used on | How the user will navigate through the app | The distribution of elements on the screen | The brand logo placement | The color scheme of the final design",
+      "definition": "The type of device the app will be used on | How the user will navigate through the app | The distribution of elements on the screen"
+    },
+    {
+      "term": "Why is user testing important in the development of wireframes? | To collect data on the user's color preferences | To determine the pricing structure for the app | To confirm the wireframe's structure and functionality work as intended | To decide on the final design aesthetics",
+      "definition": "To confirm the wireframe's structure and functionality work as intended"
+    },
+    {
+      "term": "Which of the following would be the best choice to visually represent the interface structure in a wireframe? | Using photographs and detailed textures | Using a wide range of bright colors | Using freehand sketches and doodles | Using geometric shapes and lines",
+      "definition": "Using geometric shapes and lines"
+    },
+    {
+      "term": "What is the main purpose of creating a wireframe map? | To show the color scheme of the website | To demonstrate how the final product will look like | To provide a visual representation of the site's structure | To make the design process more complex",
+      "definition": "To provide a visual representation of the site's structure"
+    },
+    {
+      "term": "Which of the following is the most important reason for conducting user testing with wireframe designs? | To check for inconsistencies in the wireframe screens | To show off the design to the user | To validate the functionality and usability of the design | To determine the user's preferences",
+      "definition": "To validate the functionality and usability of the design"
+    },
+    {
+      "term": "Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'? | Including multiple features on one page | Providing only essential functionality | Using consistent and recognizable icons | Removing irrelevant information | Using complex language",
+      "definition": "Providing only essential functionality | Removing irrelevant information | Using consistent and recognizable icons"
+    },
+    {
+      "term": "If a system has 'user control and freedom', what feature would it most likely have? | A complex and detailed interface | An invasive alert system | A lack of customization options | An undo and redo option",
+      "definition": "An undo and redo option"
+    },
+    {
+      "term": "Consider the rule 'recognition rather than recall'. In terms of form design, what does this imply? | The form should be minimalistic and lack guidance | The form should require users to remember information | The form should use familiar terms and icons | The form should be long and detailed",
+      "definition": "The form should use familiar terms and icons"
+    },
+    {
+      "term": "Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design? | User flexibility and efficiency | Visibility of system status | Cognitive overload prevention | Error prevention",
+      "definition": "Cognitive overload prevention"
+    },
+    {
+      "term": "Why are wireframes important in the design process? | They are used for user testing | They allow designers to experiment with different design solutions | All of these | They provide a technical blueprint for developers",
+      "definition": "They allow designers to experiment with different design solutions"
+    },
+    {
+      "term": "When creating wireframes, which of the following steps would you likely take first? | Sketch the basic structure of the interface | Present the wireframe to the team for feedback | Decide on the colors and fonts for the wireframe | Start coding the interface",
+      "definition": "Sketch the basic structure of the interface"
+    },
+    {
+      "term": "What is the purpose of using a limited color palette in wireframes? | To focus on the structure and functionality, not the visual design | To represent the final color scheme of the application | To make the wireframe more visually appealing | To indicate different levels of interaction",
+      "definition": "To focus on the structure and functionality, not the visual design"
+    },
+    {
+      "term": "If you find inconsistencies in your wireframe screens, what is the best first step to take? | Immediately correct them without further testing | Ignore them as they are minor | Identify the cause of the inconsistencies | Conduct user testing once again",
+      "definition": "Identify the cause of the inconsistencies"
+    },
+    {
+      "term": "What is the significance of simulating the platform, interface, and interaction when creating a realistic digital prototype? | It increases the cost and time required for prototyping | It helps in marketing the product | It provides a realistic experience for user testing | It is a requirement for all digital prototypes",
+      "definition": "It provides a realistic experience for user testing"
+    },
+    {
+      "term": "Why is interactivity important for a digital prototype? | It makes the prototype more expensive to produce | It helps simulate the real user experience | It makes the prototype look more visually appealing | It allows developers to test their coding skills",
+      "definition": "It helps simulate the real user experience"
+    },
+    {
+      "term": "What does the term 'iterative' refer to in the context of prototyping in UX design? | Creating a design in one attempt without any revisions | Repeating a single step until it is perfect | Repeating the entire process to make improvements to the design | Designing multiple versions of the prototype at the same time",
+      "definition": "Repeating the entire process to make improvements to the design"
+    },
+    {
+      "term": "What factors should you consider when determining the number of screens needed for a digital prototype? | The complexity of the app | The number of different functions the app has | The color scheme of the app | The target audience of the app | The number of users the app is expected to have",
+      "definition": "The complexity of the app | The number of different functions the app has"
+    },
+    {
+      "term": "When developing a digital prototype, which of the following are true about creating pathways within the prototype? | Creating pathways provide a more realistic user experience | Pathways should be randomly created without considering user interaction | Pathways allow users to navigate through different screens | Pathways in a prototype are irrelevant to the user experience",
+      "definition": "Creating pathways provide a more realistic user experience | Pathways allow users to navigate through different screens"
+    },
+    {
+      "term": "Why is it important to test a digital prototype with users? | To find bugs in the code | To see if the app can handle multiple users at once | To get feedback on the user experience | To check if the app works on different devices",
+      "definition": "To get feedback on the user experience"
+    },
+    {
+      "term": "Which methods can be used to create a finished working simulation of a digital prototype? | Video playthroughs | Screen recording | 3D printing | Creating a physical mockup | Interactive versions",
+      "definition": "Video playthroughs | Screen recording | Interactive versions"
+    },
+    {
+      "term": "When creating a digital prototype, what is the purpose of designing fake fields for data entry? | To add visual complexity to the design | To confuse the users | To increase the loading time of the prototype | To simulate the user's interaction with the application",
+      "definition": "To simulate the user's interaction with the application"
+    },
+    {
+      "term": "As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability? | Design the app based on the latest design trends | Design the app based on your personal preferences | Design the app with a focus on incorporating as many features as possible | Test the app with a small group of users and iterate based on their feedback",
+      "definition": "Test the app with a small group of users and iterate based on their feedback"
+    },
+    {
+      "term": "Which of the following best describes the concept of 'usability' in UX design? | The use of cutting-edge technologies in a product | The aesthetic appeal of a product | The ease of use and learnability of a product | The marketing strategies used to promote a product",
+      "definition": "The ease of use and learnability of a product"
+    },
+    {
+      "term": "Select all the elements that are considered part of user experience (UX) design. | User research | Visual design | Website speed and responsiveness | Search Engine Optimization | Color theory",
+      "definition": "User research | Visual design | Website speed and responsiveness | Color theory"
+    },
+    {
+      "term": "In the context of UX Design, which of the following best describes the concept of 'Affordance'? | The visual cues that inform users about how an object can be used | The emotional response triggered by the design of a system | The ease with which users can navigate through a system | The cost associated with implementing a particular design feature",
+      "definition": "The visual cues that inform users about how an object can be used"
+    },
+    {
+      "term": "When evaluating prototyping software, which of the following should NOT be a key consideration? | The software's ability to simulate the platform, interface, and interaction | The frequency of bug fixes to the software | The software's compatibility with your preferred design tools | The cost of the software",
+      "definition": "The frequency of bug fixes to the software"
+    },
+    {
+      "term": "If you wanted to simulate a window popping up over the background in Figma, what technique would you use? | Using overlays | Creating a new screen | Using data fields | Using transitions",
+      "definition": "Using overlays"
+    },
+    {
+      "term": "It is more economical to develop. | Website | App",
+      "definition": "Website"
+    },
+    {
+      "term": "It's easier to control how users can interact with and view content. | Website | App",
+      "definition": "App"
+    },
+    {
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website. The profile icon with the learner's name in the right hand corner of the image is an example of: | subsidiary navigation | utility navigation | primary navigation | secondary navigation",
+      "definition": "utility navigation"
+    },
+    {
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website.Why might have Coursera's designers decided to permanently place a search field in this area? | Coursera's outline of scope probably determined that search is an important functionality requirement. | Coursera's probably thinks that learners like to use the search field as a wayfinding tool. | Coursera probably wants to imitate other search sites like Google. | Coursera is following a website design rule which dictates that every website should have a search field.",
+      "definition": "Coursera's outline of scope probably determined that search is an important functionality requirement."
+    },
+    {
+      "term": "Look at the image taken from a science course's description page on the Coursera platform. This section, titled \"You May Also Like,\" is an example of what kind of navigational element? | related content | inline links to other pages | index of pages | search results for other pages",
+      "definition": "related content"
+    },
+    {
+      "term": "Look at the image taken of the navigation elements that appear at the top of the Coursera website. What navigational system does the blue \"Explore\" button use? | utility navigation | primary navigation | secondary navigation | subsidiary navigation",
+      "definition": "secondary navigation"
+    },
+    {
+      "term": "Looking at this page on the CalArts websiteOpens in a new tab, which of the following wayfinding functions does the blue CalArts logo in the upper-left corner of the image accomplish? Select all that apply. | It lets learners navigate back to the CalArts homepage. | It lets learners see the path they have traveled within the CalArts website. | it lets learners see where they are on the CalArts site. | it lets learners know what page they're on. | it lets learners see what site they're on.",
+      "definition": "It lets learners navigate back to the CalArts homepage. | it lets learners see what site they're on."
+    },
+    {
+      "term": "Your website's business has multiple sponsors who are important contributors to the business and need to be recognized as such, but you don't want the placement of their logos to supercede your own. In which of the following sections would it be appropriate to ads or affiliate links for these sponsors? | content | sidebar | footer | header",
+      "definition": "sidebar"
+    },
+    {
+      "term": "A beer company has asked you to design a landing page for their website to ensure access is restricted to users aged 21 and up—the landing page will prompt users to enter their birthdate. Which of the following would be an appropriate form element to use? | dropdown menu | date picker | button | number stepper | radio",
+      "definition": "date picker"
+    },
+    {
+      "term": "A software company would like to survey users about what mobile operating system they use most often—Android, iOS, Windows, or \"Other\". Which of the following would be an appropriate form element to use? | checkbox | radio | dropdown menu | text field | button",
+      "definition": "radio"
+    }
+  ]
+}

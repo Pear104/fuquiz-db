@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Guide</title>
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+  </head>
+  <body class="bg-[#212121]">
+    <div class="max-w-4xl mx-auto p-6">
+      <header class="text-center mb-12">
+        <h1 class="text-4xl font-bold text-neutral-300">User Guide</h1>
+      </header>
+
+      <section>
+        <ul class="space-y-6 text-neutral-300">
+          <li class="flex items-start space-x-4">
+            <span class="text-2xl text-green-500">🎬</span>
+            <div>
+              <h3 class="text-2xl font-bold">
+                Skip watching videos, reading, and discussions
+              </h3>
+              <ul class="text-lg">
+                <li>- Go to the course page you need to complete.</li>
+                <li>- Click "Skip Videos & Readings".</li>
+                <li>
+                  - In some modules, to unlock the quiz or assignment for that
+                  module, you may need to skip the discussion as well.
+                </li>
+                <li>
+                  <span class="font-bold">Note:</span>
+                  Sometimes, even though the
+                  <span class="font-semibold underline">skip is successful</span
+                  >, Coursera may have an error where it
+                  <span class="font-semibold underline"
+                    >does not update the completion status right now</span
+                  >
+                  . In that case, watch any video manually to complete it, then
+                  reload the page. 😥
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="flex items-start space-x-4">
+            <span class="text-2xl text-yellow-500">👨‍🎓</span>
+            <div>
+              <h3 class="text-2xl font-bold">
+                Automated quiz completion (Experimental)
+              </h3>
+              <ul class="text-lg">
+                <li>
+                  - Make sure that the Gemini API key you have inputed is
+                  correct.
+                </li>
+                <li>- Change the Picker to "Gemini".</li>
+                <li>- Go to the quiz page which you need to complete.</li>
+                <li>- Click "Start".</li>
+                <li>
+                  <span class="font-bold">Note:</span> the Gemini might give you
+                  incorrect answer, dont overtrust it. Double check your answer
+                  to make sure it is correct. 😥
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="flex items-start space-x-4">
+            <span class="text-2xl text-red-500">📑</span>
+            <div>
+              <h3 class="text-2xl font-bold">
+                Automated assignment submission (Experimental)
+              </h3>
+              <ul class="text-lg">
+                <li>- Go to the assignment page you need to complete.</li>
+                <li>- Click "Auto submit".</li>
+                <li>
+                  - After submission, click "Disable AI Grading" if you don't
+                  want AI to grade it.
+                </li>
+                <li>
+                  <span class="font-bold">Note:</span> Sometimes, text input
+                  fields (like the one in the image below) are
+                  <span class="font-semibold underline"
+                    >not automatically filled in</span
+                  >. In that case, fill them in manually. 😥
+                </li>
+              </ul>
+              <img
+                class="mt-4"
+                src="./images/text-box.png"
+                alt="Text box example"
+              />
+            </div>
+          </li>
+          <li class="flex items-start space-x-4">
+            <span class="text-2xl text-red-500">✅</span>
+            <div>
+              <h3 class="text-2xl font-bold">Automated assignment grading</h3>
+              <ul class="text-lg">
+                <li>- Go to the peer grading assignment page.</li>
+                <li>- Click "Auto grade".</li>
+                <li>- Wait and wait... 😥</li>
+              </ul>
+            </div>
+          </li>
+          <li class="flex items-start space-x-4">
+            <span class="text-2xl text-red-500">🔗</span>
+            <div>
+              <h3 class="text-2xl font-bold">
+                Get the peer review assignment link
+              </h3>
+              <ul class="text-lg">
+                <li>- Go to the assignment page where you need the link.</li>
+                <li>- Click "Get URL".</li>
+                <li>- Click the copy button and send it.</li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <p>
+              If you have any feedback or need support, please submit it
+              <a
+                class="text-blue-500 underline"
+                target="_blank"
+                href="https://chromewebstore.google.com/detail/coursera-tool/hdadbgohdjnhileochcldikbphbonalg/reviews"
+                >here</a
+              >, or message
+              <a
+                class="text-blue-500 underline"
+                target="_blank"
+                href="https://www.facebook.com/au.kien.thanh.2307"
+                >me</a
+              >
+              if you're shy. 😥
+            </p>
+          </li>
+        </ul>
+      </section>
+
+      <footer class="mt-12 text-center text-gray-300">
+        <div class="flex items-center justify-center mt-2">
+          <div class="border-y grow h-0 border-white"></div>
+          <p class="text-white font-semibold px-4">
+            Hope you enjoy using this extension!
+          </p>
+          <div class="border-y grow h-0 border-white"></div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

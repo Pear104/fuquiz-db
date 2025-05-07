@@ -1,0 +1,1256 @@
+{
+  "quizSrc": [
+    {
+      "term": "What does HTML stand for? | Highlighted Text Machine Language | Hypertext Machine Language | Highlighted Text Markup Language | Hypertext Markup Language",
+      "definition": "Hypertext Markup Language"
+    },
+    {
+      "term": "When you open a webpage in Chrome it may look slightly different if opened in a different browser. | False | True",
+      "definition": "True"
+    },
+    {
+      "term": "Read this question carefully since we are asking about things we want to avoid. HTML5 should **NOT**... | be device-independent | use markup instead of scripting where appropriate | take advantage of the most up-to-date plugins.",
+      "definition": "take advantage of the most up-to-date plugins."
+    },
+    {
+      "term": "Which of the following best explains the difference between syntax and semantics? | A browser may have trouble displaying a page if the syntax is incorrect. | A browser may have trouble displaying a page if the semantics are incorrect. | Syntax and semantics are interchangeable.",
+      "definition": "A browser may have trouble displaying a page if the syntax is incorrect."
+    },
+    {
+      "term": "W3C stands for: | World Wide Web Consortium | WWW Compliance | World Wide Web Community",
+      "definition": "World Wide Web Consortium"
+    },
+    {
+      "term": "The creation of HTML5 was a cooperation between many parties. Which of the following was NOT part of that cooperation? | WHATWG | W3C | DARPA",
+      "definition": "DARPA"
+    },
+    {
+      "term": "What does HTTP stand for? | ",
+      "definition": "Hypertext Transfer Protocol"
+    },
+    {
+      "term": "Which of the following is part of a URL? | domain (or host) | HTML | editor",
+      "definition": "domain (or host)"
+    },
+    {
+      "term": "Which of the following is an example of a top-level domain? | .com | umich.edu | wikipedia.org",
+      "definition": ".com"
+    },
+    {
+      "term": "The Domain Name Service looks up the domain and returns the: | IP address | server | host | document",
+      "definition": "IP address"
+    },
+    {
+      "term": "Which organization is responsible for assigning top-level domain names? | Internet Corporation for Assigned Numbers and Names (ICANN) | Internet Domain Name Server (IDNS) | World Wide Web Consortium (W3C)",
+      "definition": "Internet Corporation for Assigned Numbers and Names (ICANN)"
+    },
+    {
+      "term": "What does LAN stand for? | ",
+      "definition": "Local Area Network"
+    },
+    {
+      "term": "A ________________________ is a computer that is in charge of handling resource requests from multiple computers. | ",
+      "definition": "server"
+    },
+    {
+      "term": "A single web page may require several iterations of the Request-Response Cycle. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements. | ",
+      "definition": "tags"
+    },
+    {
+      "term": "The original developers of HTML were opposed to the addition of tags for graphical images. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The first graphical browser was.... (please use one word answer) | ",
+      "definition": "Mosaic"
+    },
+    {
+      "term": "What are proprietary tags? | Tags that work only on certain browsers | Tags that displayed copyright information | Tags used to define ownership of the content",
+      "definition": "Tags that work only on certain browsers"
+    },
+    {
+      "term": "Which of these tags breaks the tenet of the separation of content and layout? | h1 | body | font | center",
+      "definition": "font | center"
+    },
+    {
+      "term": "Which of the following are browsers? | Firefox, Chrome, Safari, Sublime | Safari, Chrome, Edge | Internet Explorer, Windows, Edge",
+      "definition": "Safari, Chrome, Edge"
+    },
+    {
+      "term": "A basic functionality of browsers is to translate HTML documents into viewable webpages. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which version of HTML introduced semantic tags? | HTML 3.2 | HTML 4.01 | HTML 5 | HTML 2.0",
+      "definition": "HTML 5"
+    },
+    {
+      "term": "Which of the editors below has the most built-in functionality for creating .html files? | Notepad | TextEdit | Sublime",
+      "definition": "Sublime"
+    },
+    {
+      "term": "Which of the following is an Integrated Development Environment? | Chrome | Replit | Notepad | TextEdit",
+      "definition": "Replit"
+    },
+    {
+      "term": "Which of the following should you avoid when naming your files ? | Using spaces in a file name. | Using any uppercase letters in a file name. | Using any numbers in a file name.",
+      "definition": "Using spaces in a file name."
+    },
+    {
+      "term": "What editor are you using? | ",
+      "definition": "Notepad"
+    },
+    {
+      "term": "What browser(s) are you using? | ",
+      "definition": "Chrome"
+    },
+    {
+      "term": "Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "What does WAN stand for? | ",
+      "definition": "Wide Area Network"
+    },
+    {
+      "term": "The Request-Response Cycle... | is performed once for each requested page. | is an outdated process used by HTML 4.1 | may require several iterations of the Request-Response Cycle.",
+      "definition": "may require several iterations of the Request-Response Cycle."
+    },
+    {
+      "term": "The original web was developed | as way to increase international commerce | as a way for scientists to exchange information | as a way to display graphical images.",
+      "definition": "as a way for scientists to exchange information"
+    },
+    {
+      "term": "Which of the following filename is using camel case? | my_first_file.html | Camel_first_file.html | myFirstFile.html",
+      "definition": "myFirstFile.html"
+    },
+    {
+      "term": "If you use HTML5 tags correctly, your pages will be rendered identically on any browser. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "An HTML5 tag will always have the same semantic meaning, regardless of the browser being used. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "HTTP stands for | Hypertext Transfer Protocol | Hyper Transfer Translation Program | HyperText Text Program",
+      "definition": "Hypertext Transfer Protocol"
+    },
+    {
+      "term": "You should write your code using the Sublime editor if you want an easy way for others to see your webpage. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The Internet is a type of: | Wide Area Network | Local Area Network | Hypertext Network",
+      "definition": "Wide Area Network"
+    },
+    {
+      "term": "DOM stands for: | Data oriented model | Data object model | Document object model | Document oriented model",
+      "definition": "Document object model"
+    },
+    {
+      "term": "HTML is organized into what type of structure? | tree | queue | graph | stack",
+      "definition": "tree"
+    },
+    {
+      "term": "There can be only one <body> element in a document. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which two visual elements appear in the <head> section of the HTML? | title and heading | title and favicon | main and footer | title and h1",
+      "definition": "title and favicon"
+    },
+    {
+      "term": "Which website provides a validation tool for checking the syntax of your HTML code? | https://validator.w3.org/Opens in a new tab | https://checkmycode.w3.org/Opens in a new tab | https://w3validator.com/Opens in a new tab | https://syntaxchecker.com/Opens in a new tab",
+      "definition": "https://validator.w3.org/Opens in a new tab"
+    },
+    {
+      "term": "The HTML5 headings are block-level elements. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Attributes consist of a name and a value connected by which symbol(s)? | , | ; | \"\" | =",
+      "definition": "="
+    },
+    {
+      "term": "Whitespace added to an HTML document between span-level elements will generally be ignored by the browser and are not added to increase spacing on the rendered HTML page. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which element creates a numbered list? | bl | li | ul | ol",
+      "definition": "ol"
+    },
+    {
+      "term": "You can add comments to your HTML source by using the following syntax: | /* Write your comments here*/ | # Write your comments here # | # Write your comments here | <!-- Write your comments here →",
+      "definition": "<!-- Write your comments here →"
+    },
+    {
+      "term": "Which semantic tag is used to identify a group of introductory or navigational aids: title, navigation links, etc. ? | header | footer | nav | main",
+      "definition": "header"
+    },
+    {
+      "term": "Which semantic tag specifies independent, self-contained content? | section | summary | article | main",
+      "definition": "article"
+    },
+    {
+      "term": "What is the correct HTML for inserting an image? | <img src=\"images/logo.gif\" alt=\"logo\"> | <image src=\"images/logo.gif\" alt=\"logo\"> | <img href=\"images/logo.gif\" alt=\"logo\"> | <img alt=\"logo\">logo.gif</img>",
+      "definition": "<img src=\"images/logo.gif\" alt=\"logo\">"
+    },
+    {
+      "term": "Which HTML attribute specifies descriptive text for an image if the image cannot be displayed? (Select all that apply.) | title | None of the answers are correct | source | alt | desc",
+      "definition": "alt"
+    },
+    {
+      "term": "It is good practice to start all of your alt text with \"Image of a ...\" followed by a description. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "When setting an alt attribute for a non-essential image you should: | remove the alt attribute | use the empty string | remove from all but the large screen view | None of the answers are valid.",
+      "definition": "use the empty string"
+    },
+    {
+      "term": "A screen reader will automatically provide a visual description of emojis. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following are sources that were recommended in the Finding Usable Materials reading? (Note, you must select all correct answers to get full credit) | PexelsOpens in a new tab | FreepikOpens in a new tab | OpenverseOpens in a new tab | EverypixelOpens in a new tab | Google Image SearchOpens in a new tab",
+      "definition": "PexelsOpens in a new tab | FreepikOpens in a new tab | OpenverseOpens in a new tab | EverypixelOpens in a new tab | PixabayOpens in a new tab | Wikimedia CommonsOpens in a new tab | Google Image SearchOpens in a new tab"
+    },
+    {
+      "term": "What is a potential issue when using both a height and width attribute on an image? | The image may appear skewed if the change in the height isn't proportional to the change in the width | It is incorrect to include a height and a width, you can only include one. | It is incorrect to include a height or a width, you should never include size as an attribute.",
+      "definition": "The image may appear skewed if the change in the height isn't proportional to the change in the width"
+    },
+    {
+      "term": "Which attribute on an <a> anchor element specifies whether a hyperlink should be opened in the same window or a new one? | target | window | src | href",
+      "definition": "target"
+    },
+    {
+      "term": "You can create an on-page link by first setting which attribute on the element you wish to link to? | src | class | href | id",
+      "definition": "id"
+    },
+    {
+      "term": "All links should be in the <nav> element. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The line break element requires only an opening tag and must not have a closing tag. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "When deciding between using an h2 heading or an h3 heading you should base your decision on how big you want the text to be. You may need to review earlier Week 1 material about HTML5 Tags. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Which attribute references the location of new content in an anchor tag? | href | http | src | dest",
+      "definition": "href"
+    },
+    {
+      "term": "A relative reference includes the URL protocol in the href. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "A relative URL can link to which of the following: | a local file in the same folder | a local file in a different folder | a different location in the same file.",
+      "definition": "a local file in the same folder"
+    },
+    {
+      "term": "Have you been typing in the code as we go along? | ",
+      "definition": "Yes, i been"
+    },
+    {
+      "term": "Can you think of other reasons that alternative text is important in your code? | ",
+      "definition": "Yes i can"
+    },
+    {
+      "term": "Which element creates a bulleted list? | ul | bl | li | ol",
+      "definition": "ul"
+    },
+    {
+      "term": "Which semantic tag is used to identify a section that contains info such as copyright data, related documents, and links to social media? | header | main | footer | nav",
+      "definition": "footer"
+    },
+    {
+      "term": "The img tag has how many required attributes to display an accessible image? | 0 | 1 | 2 | 3",
+      "definition": "2"
+    },
+    {
+      "term": "The anchor element <a> can create hyperlinks to different parts of the same HTML document. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "What is the lowest level HTML heading element? | h1 | h4 | h5 | h6",
+      "definition": "h6"
+    },
+    {
+      "term": "An absolute reference includes the URL protocol in the href. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "All HTML elements can have attributes. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The only element we can place as a direct child of the <ul> and <ol> elements is the <li> element. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which semantic tag is used to identify a section of the page that links to other pages or to parts within the page? | nav | header | main | footer",
+      "definition": "nav"
+    },
+    {
+      "term": "The alternative text will be displayed under what conditions? (Select all that apply) | if an image fails to render due to an incorrect URL | if the image format is not supported by the browser | if the mouse is hovered over it | if the image is blocked from being displayed",
+      "definition": "if an image fails to render due to an incorrect URL | if the image format is not supported by the browser | if the image is blocked from being displayed"
+    },
+    {
+      "term": "It is better to skip the alt attribute altogether than include an empty alt attribute (alt = \"\"). | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "You should use the alt attribute on icons. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "HTML5 headings come in how many different rankings? | 6 | 7 | 5 | 4",
+      "definition": "6"
+    },
+    {
+      "term": "A screen reader will automatically provide a visual description of icons. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "You can choose to validate your code at https://validator.w3.org/Opens in a new tab by uploading files or by providing a URL. | False | True",
+      "definition": "True"
+    },
+    {
+      "term": "A local link (a link to a page within the same website) is specified with a relative URL, i.e without any \"https://www\" at the front. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which special entity would you use to insert an extra blank space (not blank line) into your webpage? | <br> | <space>; | &copy; | &space; | &nbsp",
+      "definition": "&nbsp"
+    },
+    {
+      "term": "Which of the following are recommended sources for finding images for diverse audiences? (You must select all that apply for full credit.) | Disabled and HereOpens in a new tab | PexelsOpens in a new tab | PICNOIOpens in a new tab",
+      "definition": "Disabled and HereOpens in a new tab | PICNOIOpens in a new tab"
+    },
+    {
+      "term": "The acronym for the four principles of accessibility is: | ABLE | POUR | WCAG | SAFE",
+      "definition": "POUR"
+    },
+    {
+      "term": "What does View Source do? | Validates the source code | Validates the page structure | None of the answers are correct. | Displays the contents of the file.",
+      "definition": "Displays the contents of the file."
+    },
+    {
+      "term": "The role of a web accessibility coordinator includes which of the following? (You must select all that apply.) | Evaluates web interfaces for accessibility | Keep pace with changing technology | Helps guide policy and purchasing decisions | Working with W3C to create guidelines for future versions of HTML",
+      "definition": "Evaluates web interfaces for accessibility | Keep pace with changing technology | Helps guide policy and purchasing decisions"
+    },
+    {
+      "term": "Which of the following can affect the visual accessibility of your site? (Select all that apply.) | font size | color contrast | font family | editor choice",
+      "definition": "font size | color contrast | font family"
+    },
+    {
+      "term": "Which of the following can affect the visual accessibility of your site? | Font size, but not font color. | Font color, but not font size | Both font color and font size.",
+      "definition": "Both font color and font size."
+    },
+    {
+      "term": "The W3C Web Content Accessibility Guidelines are based on the latest technology. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The W3 validator will detect if you have bad color contrast on your page. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "How well are people validating their code? Type the URL of some of your favorite sites into https://validator.w3.org/Opens in a new tab. What types of errors do you see the most often? |",
+      "definition": "Runtime errors"
+    },
+    {
+      "term": "Submit the URLs again to the accessibility checker at https://wave.webaim.org/Opens in a new tab. Do you see more or less errors than the w3 validator? |",
+      "definition": "Yes, i see a lot"
+    },
+    {
+      "term": "The W3 validator will detect if you are using the alt attribute in your image tags. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The Wave validator will detect if you have bad color contrast on your page. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Adherence to standards is important when trying to improve accessibility. | True | False.",
+      "definition": "True"
+    },
+    {
+      "term": "Which fluid measurement type returns a percentage of the viewport width? | ",
+      "definition": "vw"
+    },
+    {
+      "term": "Responsive Web Design is... | Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules. | Designing pages for the mobile view. | Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)",
+      "definition": "Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules."
+    },
+    {
+      "term": "Adaptive design with dynamic serving is.... | Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules. | Designing pages for the mobile view. | Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) and returning the appropriate version based on the device making the page request.",
+      "definition": "Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) and returning the appropriate version based on the device making the page request."
+    },
+    {
+      "term": "Which of the following is a true statement about using a separate \"m.\" site for your content? | It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places. | Some search engines require a .m version of your site. | Users have control over which version of the page they can see, regardless of the device they are using.",
+      "definition": "It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places."
+    },
+    {
+      "term": "The mobile version of your web page should have the same layout of every other version of your site. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Which fluid measurement type returns a percentage of the viewport height? | ",
+      "definition": "vh"
+    },
+    {
+      "term": "When defining a measurement whitespace cannot appear between the number and the unit unless the value is 0. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "For some CSS properties, negative lengths are allowed. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "1 _____ = 1% of viewport width | ",
+      "definition": "vw"
+    },
+    {
+      "term": "1 _____ = 1% of viewport height",
+      "definition": "vh"
+    },
+    {
+      "term": "An em is the size of an uppercase M in any typeface, making the size relative to the font. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which term matches the browser window size? | width | orientation | viewport",
+      "definition": "viewport"
+    },
+    {
+      "term": "Which suggestion does Chris Coyier make in his article on Font Size? | rem at the Root, em for Components, px for Text Elements | em at the Root, px for Components, rem for Text Elements | px at the Root, rem for Components, em for Text Elements",
+      "definition": "px at the Root, rem for Components, em for Text Elements"
+    },
+    {
+      "term": "If you have an element with the font size of 15px, and a child element inside with a font-size set to 3em, what is the font size of the child in px? (Provide a number only, not the measurement too.) | ",
+      "definition": "45"
+    },
+    {
+      "term": "Which of the following measurements is relative to the size of its parent element? | px | em | rem",
+      "definition": "em"
+    },
+    {
+      "term": "Which measurement is easier and comfortable for the designer/ developer to use when coding their CSS but does not provide the best experience for the user? | ",
+      "definition": "px"
+    },
+    {
+      "term": "In tech when something is \"deprecated\" it means | the code or tool will no longer work and your site will break. | software developers are no longer actively supporting it, so its use is discouraged.",
+      "definition": "software developers are no longer actively supporting it, so its use is discouraged."
+    },
+    {
+      "term": "Which of the following is NOT a fluid measurement? | px | % | rem | em",
+      "definition": "px"
+    },
+    {
+      "term": "The mobile version of your web page should have the same capabilities of every other version of your site. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Responsive sites can have a mixture of fluid and absolute measurements. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "When defining a measurement whitespace you must include the unit - even when the measurement is 0. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "A tool you install on your browser so that you do not need to go to a different tab to test a site iscalled | a prefix | a cookie | an extension",
+      "definition": "an extension"
+    },
+    {
+      "term": "The fluid measurement % can only be used on non-textual elements",
+      "definition": "False"
+    },
+    {
+      "term": "If you have an element with the font size of 18px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.) | ",
+      "definition": "9"
+    },
+    {
+      "term": "If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px? (Provide a number only, not the measurement too.) | ",
+      "definition": "64"
+    },
+    {
+      "term": "If you have an element with the font size of 24px, and a child element inside with a a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.) | ",
+      "definition": "12"
+    },
+    {
+      "term": "Write a media query that changes the background color of the screen from red, to blue, to green as the screen gets larger.If you have problems, you can post your answer to replit or codepen and link your code to the forums. However, please do not post your code directly in the forums. People like to have the opportunity to work on it on their own before seeing other's answer.If you really want a challenge, set a different background image of your page depending upon the screen size!! I have provided a correct answer as feedback. | ",
+      "definition": "media query that changes the background co"
+    },
+    {
+      "term": "HTML5 introduced a method to let web designers take control over the viewport. The new tag is the __________ tag. | ",
+      "definition": "meta"
+    },
+    {
+      "term": "Which of the following code segments will keep people from being able to zoom in or out on your content? | 12<metaname='viewport'content='width=device-width,initial-scale=1,maximum-scale=1'>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12<metaname='viewport'content='width=device-width,initial-scale=1'>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | It is impossible to lock the zoom ability",
+      "definition": "12<metaname='viewport'content='width=device-width,initial-scale=1,maximum-scale=1'>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M."
+    },
+    {
+      "term": "Which of the following should you NOT do when creating a responsive page? | Design for multiple viewport orientations | Use CSS media queries to apply different styling for small and large screens | Use large fixed width elements. | None of the above",
+      "definition": "Use large fixed width elements. | Let the content rely on a particular viewport width to render well"
+    },
+    {
+      "term": "When designing mobile first you should use max-width in your media query. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The possible values for the  prefers-contrast CSS media feature include light and dark. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The possible values for the prefers-color-scheme CSS media feature include light and dark. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which term is used to define the different viewport sizes that trigger media queries? | meta | breakpoint | wireframe | media-query size",
+      "definition": "breakpoint"
+    },
+    {
+      "term": "When designing your site you should choose your breakpoints based on specific device sizes. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "You can use media queries to change the layout of your page when the orientation of a mobile device changes from portrait to landscape. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Breakpoints often correspond with common screen sizes for phones, tablets, and laptops, but it is not necessary. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Consider the following CSS rules:123456789div{width:80%;}@mediaalland(min-width:500px){div{width:25%;}}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What is the width of any div elements on a 350px screen? | 25% | 100% | 80%",
+      "definition": "80%"
+    },
+    {
+      "term": "Consider the following CSS rules:123456789div{width:80%;}@mediaalland(min-width:500px){div{width:25%;}}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What is the width of any div elements on a 750px screen? | 25% | 80% | 100%",
+      "definition": "25%"
+    },
+    {
+      "term": "Consider the following CSS rules:12345678910@mediaalland(min-width:500px){div{width:25%;}}div{width:80%;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What is the width of any div elements on a 750px screen? | 100% | 25% | The div won't display since media queries must go at the bottom of the screen. | 80%",
+      "definition": "80%"
+    },
+    {
+      "term": "Consider the following CSS rule:123456789div{width:80%;}@mediaprint{div{width:25%;}}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.Which of the following is a true statement? | The div elements will only visible only when the page is printed | The div elements will have a width of 80% only when the page is printed | The div elements will have a width of 25% only when the page is printed",
+      "definition": "The div elements will have a width of 25% only when the page is printed"
+    },
+    {
+      "term": "Wireframes should... | specify the layout of your pages | specify the layout, color, and content of your pages | specify the layout and content of your pages",
+      "definition": "specify the layout and content of your pages"
+    },
+    {
+      "term": "A key component of your wireframes should test | interaction | color schemes | code syntax",
+      "definition": "interaction"
+    },
+    {
+      "term": "Consider the following CSS rules:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.What is the width of any div elements on a 350px screen? | 80% | 100% | 25%",
+      "definition": "80%"
+    },
+    {
+      "term": "Consider the following CSS rules:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.What is the width of any div elements on a 750px screen? | 80% | 100% | 25%",
+      "definition": "25%"
+    },
+    {
+      "term": "Consider the following CSS rules:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.What is the width of any div elements on a 750px screen? | 80% | 100% | 25% | The div won't display since media queries must go at the bottom of the screen.",
+      "definition": "25%"
+    },
+    {
+      "term": "Consider the following CSS rule:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.Which of the following is a true statement? | The div elements will have a width of 80% only when the page is printed | The div elements will have a width of 25% only when the page is printed | The div elements will only visible only when the page is printed",
+      "definition": "The div elements will have a width of 25% only when the page is printed"
+    },
+    {
+      "term": "You can add as many breakpoints as you want. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "When designing mobile first, instead of changing styles when the width gets smaller, we should change the design when the width gets larger. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "When modifying your layout from small screen to larger screen it is common to go from a vertical to horizontal layout for your navigation. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "HTML5 introduced a method to let web designers take control over the viewport. The new tag is the ______ tag. | ",
+      "definition": "meta"
+    },
+    {
+      "term": "Consider the following CSS rules: Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. What is the width of any div elements on a 350px screen? | 80% | 25% | 100%",
+      "definition": "80%"
+    },
+    {
+      "term": "Consider the following CSS rules:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. Which of the following is a true statement? | The div elements will have a width of 80% only when the page is printed | The div elements will only be visible only when the page is printed. | The div elements will have a width of 25% only when the page is printed",
+      "definition": "The div elements will have a width of 80% only when the page is printed"
+    },
+    {
+      "term": "Consider the following CSS rules:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. What is the width of any div elements on a 750px screen? | 80% | 25% | 100% | The div won't display since media queries must go at the bottom of the screen.",
+      "definition": "80%"
+    },
+    {
+      "term": "Consider the following code using Bootstrap:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.In a md viewport the div will be _____ columns wide. | ",
+      "definition": "3"
+    },
+    {
+      "term": "Bootstrap is mobile-first. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Every major web browser supports reduce-motion, including Chrome, Edge, Firefox, Safari, and Opera. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The default value for (prefers-reduced-motion) without is \"reduce\". | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The possible values for the prefers-contrast CSS media feature include light and dark. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The possible values for the prefers-color-scheme CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-color-scheme - CSS: Cascading Style Sheets | MDNOpens in a new tab.) | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The best way to improve accessibility on your page is to eliminate all animation. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-contrast - CSS: Cascading Style Sheets | MDNOpens in a new tab.) | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The Bootstrap grid system is based on how many columns? | ",
+      "definition": "12"
+    },
+    {
+      "term": "Every valid web page can be represented as a tree. This tree is referred to as the | JavaScript | DOM | API",
+      "definition": "DOM"
+    },
+    {
+      "term": "JavaScript is able to react to most but not all existing HTML events in the page | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "JavaScript uses what kind of interface to access the DOM structure? | an API | CSS3 | HTML5",
+      "definition": "an API"
+    },
+    {
+      "term": "The querySelectorAll() method returns a collection of an element's child elements that match a specified CSS selector(s). | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "You must include the period when using the getElementsByClassName() method. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Unless you are writing multiple statements on the same line, you don't need to add a semicolon. | True | B: False",
+      "definition": "False"
+    },
+    {
+      "term": "Which of the following is not a valid method for generating output to the screen? | document.write | print | prompt | alert",
+      "definition": "print"
+    },
+    {
+      "term": "Which of these options does NOT require the use of parentheses? | innerHTML | prompt | console.log | document.write | alert",
+      "definition": "innerHTML"
+    },
+    {
+      "term": "Which of the following does not generate output directly to the screen? | console.log(message); | document.write(message); | element.innerHTML = message;",
+      "definition": "console.log(message);"
+    },
+    {
+      "term": "How does prompt differ from alert? | Only prompt uses parentheses. | Only alert uses parentheses. | The alert will return a value, prompt does not. | The prompt will return a value, alert does not.",
+      "definition": "The prompt will return a value, alert does not."
+    },
+    {
+      "term": "Variables allow you to save data. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "In JavaScript the keywords let and var are used to declare a variable. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "What does it mean that variables are case-sensitive? | That all variables must use lowercase letters | That all variables must use uppercase letters | That the computer does not think that the variables name and Name are the same thing.",
+      "definition": "That the computer does not think that the variables name and Name are the same thing."
+    },
+    {
+      "term": "Which of the following is not a valid variable name? | 1variable | variableOne | variable1 | oneVariable",
+      "definition": "1variable"
+    },
+    {
+      "term": "What does mnemonic mean? | That variable names should start with lowercase letters and use uppercase letters if the variable has multiple parts, e.g. firstName. | That variable names should be as short as possible, preferably with no more than two or three characters. | That variable names should help describe the value being stored.",
+      "definition": "That variable names should help describe the value being stored."
+    },
+    {
+      "term": "What is wrong with this code? var name = \"Mike\"; \"Colleen\" = name; | The variable declaration is illegal. | This code is illegal and it doesn't make sense to have the non-variable \"Colleen\" (also called a constant) on the left-hand side of an assignment statement. Please review the lecture on Variables from Week 1. | It is illegal to change the value stored in a variable.",
+      "definition": "This code is illegal and it doesn't make sense to have the non-variable \"Colleen\" (also called a constant) on the left-hand side of an assignment statement. Please review the lecture on Variables from Week 1."
+    },
+    {
+      "term": "What value is stored in name if the person hits the Cancel button on a prompt? var name = prompt(\"What is your name?\"); | ",
+      "definition": "null"
+    },
+    {
+      "term": "Boolean variables store either true or false. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "When a function returns a node from the DOM, it is of type | String | Object | Boolean | Number",
+      "definition": "Object"
+    },
+    {
+      "term": "A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an | String | Number | Array",
+      "definition": "Array"
+    },
+    {
+      "term": "Which of the following is not a valid operator? | -- | =+ | += | ++ | ==",
+      "definition": "=+"
+    },
+    {
+      "term": "What value is returned by 9 % 5? | ",
+      "definition": "4"
+    },
+    {
+      "term": "What is the difference between == and === ? | The == operator is the assignment operator, while === is the equality operator. | The == operator only checks for equivalent values, not equivalent type too. | The === operator only checks for equivalent values, not equivalent type too.",
+      "definition": "The == operator only checks for equivalent values, not equivalent type too."
+    },
+    {
+      "term": "What is the logical operator for OR? | ",
+      "definition": "||"
+    },
+    {
+      "term": "If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window: | document.debug | console.debug | document.log | console.log",
+      "definition": "console.log"
+    },
+    {
+      "term": "You must include the # when selecting an id using the querySelector() method. | *A: True | B: False",
+      "definition": "True"
+    },
+    {
+      "term": "In JavaScript the keywords variable is used to declare a variable. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "To create a String variable, use quotes around the value you want to save. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "What is the logical operator for AND? | ",
+      "definition": "&&"
+    },
+    {
+      "term": "JavaScript can change all the HTML elements but not the CSS styles in the page | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...) | document.getElementsByClassName(className) | document.getElementsById(idName) | document.getElementsByTagName(tagName)",
+      "definition": "document.getElementsById(idName)"
+    },
+    {
+      "term": "In JavaScript the keywords def is used to declare a variable. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "What value is stored in name if the person hits the Okay button on a prompt before entering anything? var name = prompt(\"What is your name?\"); | an empty string (\"\") | exception | undefined",
+      "definition": "an empty string (\"\")"
+    },
+    {
+      "term": "What value is returned by 17 % 5? | ",
+      "definition": "2"
+    },
+    {
+      "term": "When a web page is loaded, the browser creates a Document Object Model of the page. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "JavaScript can change all the HTML elements and HTML attributes in the page | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "document.getElementById(idName) and document.querySelector(#idName) both return a single element. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which tag is used to let the browser know that it is about to see JavaScript code? | <script> | <head> | <javascript>",
+      "definition": "<script>"
+    },
+    {
+      "term": "Where can you put JavaScript? | A) In the <head> section | B) In the <body> section | C) In an external file | In B) and C) above | In A), B) and C) above",
+      "definition": "In A), B) and C) above"
+    },
+    {
+      "term": "Which attribute is used to link to an external JavaScript file? | file; e.g., file = \"extFile.js\" | src; e.g., src = \"extFile.js\" | script; e.g., script = \"extFile.js\" | href; e.g., href = \"extFile.js\"",
+      "definition": "src; e.g., src = \"extFile.js\""
+    },
+    {
+      "term": "Which word is used to define a function in JavaScript? | function | func | define",
+      "definition": "function"
+    },
+    {
+      "term": "Which of the following best defines the difference between defining a function and calling a function? | You can define a function without calling it. | Defining and calling a function are the same thing | You can call a function without it being defined first.",
+      "definition": "You can define a function without calling it."
+    },
+    {
+      "term": "A function can be called multiple times in a single file. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "You can define a function without calling it. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "One of the events that the JavaScript API will listen for is onpagereload. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "You can use single quotes or double quotes when calling a function with an event. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Consider the following code:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. The function Hello() will be called every time: | A) The page is loaded | B) The user clicks on any paragraph on the page | C) The user clicks on the second paragraph on the page | A and C | The function is never called.",
+      "definition": "A and C"
+    },
+    {
+      "term": "Consider the following code:Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information.The function Hello() will be called every time: | A) The user clicks on any paragraph on the page | B) The user places his/her mouse over any paragraph on the page | C) The user clicks on the second paragraph on the page | A and C | The function is never called.",
+      "definition": "A and C"
+    },
+    {
+      "term": "What is syntactically wrong with this function definition?Information: Pressing Tab in the current editor will insert the tab character. View this editor's accessibility help for more information. | The semicolon after Hello() | The fact that you are outputting the message twice | You can't use document.write after using an alert.",
+      "definition": "The semicolon after Hello()"
+    },
+    {
+      "term": "Which is the correct syntax to change the contents of the HTML element below? <p id = \"quiz\">This is a quiz. </p> | document.getElementsByTagName('p').innerHTML = \"New content!\"; | document.getElementsByTagName('p').innerHTML(\"New content!\"); | document.getElementById('quiz').innerHTML = \"New content!\"; | document.getElementById('quiz').innerHTML (\"New content!\");",
+      "definition": "document.getElementById('quiz').innerHTML = \"New content!\"; | document.querySelector('#quiz').innerHTML = \"New content!\";"
+    },
+    {
+      "term": "The following is valid JavaScript code:<button onclick=\"this.style.display='none'\">Click to Remove Me!</button> | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The following is valid JavaScript code:<button onclick=\"document.getElementById('demo').innerHTML = Date()\">The time is?</button> | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "JavaScript code must be placed in the <head> section of the document. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Which keyword is used to define a function in JavaScript? | ",
+      "definition": "function"
+    },
+    {
+      "term": "One of the events that the JavaScript API will listen for is onclick. | True | B: False",
+      "definition": "True"
+    },
+    {
+      "term": "Consider the following code:1234<bodyonload=\"Hello()\"><p>Thisisparagraphone</p><ponclick=\"Hello()\">Thisisparagraphtwo</p></body>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. The function Hello() will be called every time: | A) The page is loaded | B) The user clicks on any paragraph on the page | C) The user clicks on the second paragraph on the page | A and C | The function is never called.",
+      "definition": "A and C"
+    },
+    {
+      "term": "Consider the following code:1234<body><p>Thisisparagraphone</p><ponclick=\"Hello()\">Thisisparagraphtwo</p></body>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.The function Hello() will be called every time: | A) The user clicks on any paragraph on the page | B) The user places his/her mouse over any paragraph on the page | C) The user clicks on the second paragraph on the page | A and C | The function is never called.",
+      "definition": "A and C"
+    },
+    {
+      "term": "What is syntactically wrong with this function definition?1234functionHello();{alert(\"Hello\");document.write(\"Helloonthescreen\");}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | The semicolon after Hello() | The fact that you are outputting the message twice | You can't use document.write after using an alert.",
+      "definition": "The semicolon after Hello()"
+    },
+    {
+      "term": "In JavaScript, the this keyword refers to a(n): | String | Number | Boolean | Object",
+      "definition": "Object"
+    },
+    {
+      "term": "Which of the following best defines the relationship between defining a function and calling a function? | A function can be defined multiple times in a single file | A function can be called multiple times in a single file.",
+      "definition": "A function can be called multiple times in a single file."
+    },
+    {
+      "term": "You can call a function without it being defined. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "One of the events that the JavaScript API will listen for is onmouseclick. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "One of the events that the JavaScript API will listen for is onload. | True | B: False",
+      "definition": "True"
+    },
+    {
+      "term": "Arrays can store multiple, related pieces of information. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Array indexes start with 0. [0] is the first element. [1] is the second element, etc. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Arrays can store multiple, related pieces of information, but they must all be of the same type (String, Object, etc.). | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Array values are separated by commas. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Every element in an array must be a numeric value. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Elements are referenced by index. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "In JavaScript the first index in an array is 0. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "What is the value of the element in position 5? 1245325611210 | ",
+      "definition": "Undefined"
+    },
+    {
+      "term": "What is the index of the element with the value of 10? 1245325611210 | ",
+      "definition": "9"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[5] ? | 2 | 4 | 6 | 8 | 10 | Undefined",
+      "definition": "Undefined"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array.length ? | Undefined | 5 | 4",
+      "definition": "5"
+    },
+    {
+      "term": "JavaScript Arrays are Objects. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "When declaring an array Spaces and line breaks are important. A declaration can not span multiple lines. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "How do you properly access the first element in an array variable named \"fruit\" | fruit[0] | fruit[1] | [fruit]0 | fruit_0 | None of the above.",
+      "definition": "fruit[0]"
+    },
+    {
+      "term": "Which is the proper way to declare an array? | var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91] | array grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91] | var grades= (80, 87, 94, 82, 62, 98, 81, 81, 74, 91) | grades= Array(80, 87, 94, 82, 62, 98, 81, 81, 74, 91)",
+      "definition": "var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"
+    },
+    {
+      "term": "What is the value of the element in position 4? 1245325611210 | ",
+      "definition": "3"
+    },
+    {
+      "term": "What is the index of the element with the value of 2? 245105611412 | ",
+      "definition": "3"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[2] ? | 2 | 4 | 6 | 8 | 10 | Undefined",
+      "definition": "6"
+    },
+    {
+      "term": "var my_array = [\"cat\", \"dog\", 1, 2] What is the value of my_array.length ? | 5 | 4 | Undefined",
+      "definition": "4"
+    },
+    {
+      "term": "JavaScript Arrays have attributes and methods. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Every index in an array must be a numeric value. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "What is the value of the element in position 1? 1245325611210 | ",
+      "definition": "2"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[4] ? | 2 | 4 | 6 | 8 | 10 | Undefined",
+      "definition": "10"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array.length ? | Undefined | 4 | 5",
+      "definition": "5"
+    },
+    {
+      "term": "What is the value of the element in position 4? 1245325611210 | ",
+      "definition": "5"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[5] ? | 2 | 4 | 6 | 8 | 10 | Undefined",
+      "definition": "Undefined"
+    },
+    {
+      "term": "var my_array = [\"cat\", \"dog\", 1, 2] What is the value of my_array.length ? | 4 | Undefined | 5",
+      "definition": "4"
+    },
+    {
+      "term": "What is the value of the element in position 5?1245325611210 | ",
+      "definition": "5"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[5] ? | 2 | 4 | 6 | 8 | 10 | Undefined",
+      "definition": "Undefined"
+    },
+    {
+      "term": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array.length ? | 5 | 4 | Undefined",
+      "definition": "5"
+    },
+    {
+      "term": "Which of the following is NOT an option for specifying a color in CSS3? | color name | rgb | rgba | binary | hexadecimal",
+      "definition": "binary | All of these options are valid."
+    },
+    {
+      "term": "If your body tag uses the style attribute style=\"text-align:center\", you can overwrite that property by using the CSS3 rule:body{ text-align: left; } | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "What is wrong with the following rule?12345body{color:#000000;background-color:#FFFFFF;font-family:Times,Arial,Cursive;}Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_1:focus .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_1:focus .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_1:focus .monaco-list-row.selected { background-color: #0069d1; } .monaco-list.list_id_1:focus .monaco-list-row.selected:hover { background-color: #0069d1; } .monaco-list.list_id_1:focus .monaco-list-row.selected { color: #ffffff; } .monaco-drag-image, .monaco-list.list_id_1:focus .monaco-list-row.selected.focused { background-color: #0074e8; } .monaco-drag-image, .monaco-list.list_id_1:focus .monaco-list-row.selected.focused { color: #ffffff; } .monaco-list.list_id_1 .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_1 .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_1 .monaco-list-row.selected { background-color: #e4e6f1; } .monaco-list.list_id_1 .monaco-list-row.selected:hover { background-color: #e4e6f1; } .monaco-list.list_id_1:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color: #f0f0f0; } .monaco-list.list_id_1.drop-target, .monaco-list.list_id_1 .monaco-list-rows.drop-target, .monaco-list.list_id_1 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; } .monaco-list-type-filter { background-color: #efc1ad } .monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); } .monaco-list-type-filter.no-matches { border: 1px solid #be1100; } .monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | You can't specify three styles in a single rule | You can't specify three options for font-family. | Nothing - This is a valid rule",
+      "definition": "Nothing - This is a valid rule"
+    },
+    {
+      "term": "Assume the following rule is the only one that styles the body element:123body{font-family:Cursive,Helvetica,Verdana;}Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_2:focus .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_2:focus .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_2:focus .monaco-list-row.selected { background-color: #0069d1; } .monaco-list.list_id_2:focus .monaco-list-row.selected:hover { background-color: #0069d1; } .monaco-list.list_id_2:focus .monaco-list-row.selected { color: #ffffff; } .monaco-drag-image, .monaco-list.list_id_2:focus .monaco-list-row.selected.focused { background-color: #0074e8; } .monaco-drag-image, .monaco-list.list_id_2:focus .monaco-list-row.selected.focused { color: #ffffff; } .monaco-list.list_id_2 .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_2 .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_2 .monaco-list-row.selected { background-color: #e4e6f1; } .monaco-list.list_id_2 .monaco-list-row.selected:hover { background-color: #e4e6f1; } .monaco-list.list_id_2:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color: #f0f0f0; } .monaco-list.list_id_2.drop-target, .monaco-list.list_id_2 .monaco-list-rows.drop-target, .monaco-list.list_id_2 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; } .monaco-list-type-filter { background-color: #efc1ad } .monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); } .monaco-list-type-filter.no-matches { border: 1px solid #be1100; } .monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What happens if the browser doesn't support any of these font families? | The text will be displayed in the default browser font-family | The text will be displayed in Cursive | The text will not be displayed",
+      "definition": "The text will be displayed in the default browser font-family"
+    },
+    {
+      "term": "The browser defaults override rules specified in an external stylesheet. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color defined in the <style> tag?12345678910<head><metacharset=\"UTF-8\"><title>Testcode</title><linkrel\"stylesheet\"href=\"style.css\"><style>body{background-color:#44CCDD;}</style></head>Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_3:focus .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_3:focus .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_3:focus .monaco-list-row.selected { background-color: #0069d1; } .monaco-list.list_id_3:focus .monaco-list-row.selected:hover { background-color: #0069d1; } .monaco-list.list_id_3:focus .monaco-list-row.selected { color: #ffffff; } .monaco-drag-image, .monaco-list.list_id_3:focus .monaco-list-row.selected.focused { background-color: #0074e8; } .monaco-drag-image, .monaco-list.list_id_3:focus .monaco-list-row.selected.focused { color: #ffffff; } .monaco-list.list_id_3 .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_3 .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_3 .monaco-list-row.selected { background-color: #e4e6f1; } .monaco-list.list_id_3 .monaco-list-row.selected:hover { background-color: #e4e6f1; } .monaco-list.list_id_3:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color: #f0f0f0; } .monaco-list.list_id_3.drop-target, .monaco-list.list_id_3 .monaco-list-rows.drop-target, .monaco-list.list_id_3 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; } .monaco-list-type-filter { background-color: #efc1ad } .monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); } .monaco-list-type-filter.no-matches { border: 1px solid #be1100; } .monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | <style> | style.css",
+      "definition": "<style>"
+    },
+    {
+      "term": "Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The default display value for paragraphs is: | inline-block | none | block | inline",
+      "definition": "block"
+    },
+    {
+      "term": "The default display value for <span> is: | inline-block | inline | block | none",
+      "definition": "inline"
+    },
+    {
+      "term": "A block element takes up the full width of its parent, even if the content is smaller than the parent. So two block elements at the same time will not be side-by-side. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Inline elements take up the full width of the browser, even if the content is smaller than the browser size. | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "Which CSS3 property is used to center text? (Provide only the property, not the value!) | ",
+      "definition": "text-align"
+    },
+    {
+      "term": "Which of the following is the best way to convey that your text has special meaning? | Using a combination of font size and color to signify the important text | Using colors to signify the important text | Using a larger font size to signify the important text | Using semantic tags in addition to color and/or font.",
+      "definition": "Using semantic tags in addition to color and/or font."
+    },
+    {
+      "term": "What is the correct HTML for referring to an external style sheet? | <link rel=\"stylesheet\" url=\"mystyle.css\"> | <link rel=\"stylesheet\" src=\"mystyle.css\"> | <style src=\"mystyle.css\"></style> | <link rel=\"stylesheet\" href=\"mystyle.css\">",
+      "definition": "<link rel=\"stylesheet\" href=\"mystyle.css\">"
+    },
+    {
+      "term": "What is the correct HTML for referring to an external style sheet stored in a subfolder called css? | <style src=\"css/mystyle.css\"> | <link rel=\"css/stylesheet\" href=\"css/mystyle.css\"> | <link rel=\"css/stylesheet\" href=\"mystyle.css\"> | <link rel=\"stylesheet\" href=\"css/mystyle.css\">",
+      "definition": "<link rel=\"stylesheet\" href=\"css/mystyle.css\">"
+    },
+    {
+      "term": "The link to the external style sheet should be in the: | Meta-data - <head> | Displayable content - <body> | Document type",
+      "definition": "Meta-data - <head>"
+    },
+    {
+      "term": "Using an external stylesheet allows you to update the style of many pages with only a few lines of code. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "When creating a CSS rule you need to specify the selector, _______, and value. | ",
+      "definition": "property"
+    },
+    {
+      "term": "You can use the Inspect Element tool in your browser to see your CSS rules. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "CSS stands for Cascading Style Sheets. This is because the webpage style can come from many different sources. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which CSS3 property is used to center text? (We are only asking about the property name; not the value.)",
+      "definition": "text-align"
+    },
+    {
+      "term": "The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.",
+      "definition": "False"
+    },
+    {
+      "term": "When creating a CSS rule you need to specify the selector, property, and _______.",
+      "definition": "value"
+    },
+    {
+      "term": "When creating a CSS rule you need to specify the _______, property, and value.",
+      "definition": "selector"
+    },
+    {
+      "term": "When creating a CSS rule you need to specify the selector, _______, and value.",
+      "definition": "property"
+    },
+    {
+      "term": "The default display value for the <a> element is:",
+      "definition": "inline"
+    },
+    {
+      "term": "Using the style attribute allows you to style many pages with only a few lines of code.",
+      "definition": "False"
+    },
+    {
+      "term": "Which property can remove the underline from links? (Only provide the property name; do not give it a value.) | ",
+      "definition": "text-decoration"
+    },
+    {
+      "term": "The list-style-type property applies to: | ordered lists | both ordered and unordered lists | unordered lists",
+      "definition": "both ordered and unordered lists"
+    },
+    {
+      "term": "Descendant selectorsnav a{ .... }are more specific than child selectorsnav>a{ .... } | True | False",
+      "definition": "False"
+    },
+    {
+      "term": "The id selectors are part of the DOM. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Not only can you use a # to style an element. You can also use it to create a destination for an anchor link.. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Which CSS property controls the text size?",
+      "definition": "True"
+    },
+    {
+      "term": "How do you display hyperlinks without an underline?",
+      "definition": "True"
+    },
+    {
+      "term": "The class selectors are part of the DOM",
+      "definition": "True"
+    },
+    {
+      "term": "Using only a default style sheet..",
+      "definition": "True"
+    },
+    {
+      "term": "Which property will set the number of columns in an element that is using grid?",
+      "definition": "True"
+    },
+    {
+      "term": "If you use display:grid your elements will resize automatically to fit the screen width.",
+      "definition": "True"
+    },
+    {
+      "term": "Which property will set the number of horizontal elements in an element that is using flex?",
+      "definition": "True"
+    },
+    {
+      "term": "Both id and class names are case sensitive. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "The default value for the position property is: | relative | fixed | static | absolute",
+      "definition": "static"
+    },
+    {
+      "term": "What is wrong with this code?1234div{position:static;left:10px;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | There is nothing wrong with this code. | The code works, but the left property is not necessary since static elements don't allow offsets | \"static\" is not a valid option for position",
+      "definition": "The code works, but the left property is not necessary since static elements don't allow offsets"
+    },
+    {
+      "term": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning? | absolute | static | sticky | relative",
+      "definition": "sticky"
+    },
+    {
+      "term": "Assume that this code is linked together correctly.123456789101112131415p{color:red;background:yellow;}.style1{font-family:cursive;background:red;color:green;}.style2{font-family:Times,serif;color:black;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.1<pclass=\"style1style2\">Hi</p>Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What color font is used to display \"Hi\"? | red | green | black | browser default",
+      "definition": "green"
+    },
+    {
+      "term": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE. | ",
+      "definition": "z-index"
+    },
+    {
+      "term": "The # symbol specifies that the selector is a/an | class | first | tag | id",
+      "definition": "id"
+    },
+    {
+      "term": "What are the four principles of Accessibility? | WEBAIM | PORE | POUR | USE",
+      "definition": "POUR"
+    },
+    {
+      "term": "Given this rule:123div{border-width:10px5px;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.what is the width of the right border? | ",
+      "definition": "5px"
+    },
+    {
+      "term": "Which snippet of CSS is commonly used to center an element horizontally? | margin: center; | margin: 0 auto; | margin: auto 0; | site-align: center;",
+      "definition": "margin: 0 auto;"
+    },
+    {
+      "term": "Skip to Main Content is a feature that: | Allows users to skip to different parts of the page using the semantic headings (h1, h2, etc) | Will hide all of the unnecessary text from a page. | Allows keyboard users to easily navigate your site.",
+      "definition": "Allows keyboard users to easily navigate your site."
+    },
+    {
+      "term": "The margin is the space between elements. | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Padding is... | The space reserved for an element | The space between two elements | The space between an element and its border",
+      "definition": "The space between an element and its border"
+    },
+    {
+      "term": "The padding and margin properties inherit their background colors from their parent elements. | True | False.",
+      "definition": "False"
+    },
+    {
+      "term": "How much horizontal space (\"width\") will this div use?123456div{width:50px;padding:10px;margin:5px;border:2px;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | ",
+      "definition": "77px"
+    },
+    {
+      "term": "How much vertical space (\"height\") will this div use?123456div{height:50px;padding:5px10px;margin:5px;border:2px;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | ",
+      "definition": "62px"
+    },
+    {
+      "term": "In the following code snippet, what value is given for the right margin?margin: 5px 10px 3px 8px; | 5px | 10px | 3px | 8px",
+      "definition": "10px"
+    },
+    {
+      "term": "Which of the following would be used to create a class called button which has a width of 750px, a height of 30px and the color of the text is black? | 12345.button{height:30px;width:750px;color:black;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12345#button{height:30px;width:750px;color:black;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12345#button{height:30px;width:750px;text:black;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12345.button{height:30px;width:750px;text:black;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "definition": ".button{height:30px;width:750px;color:black;}"
+    },
+    {
+      "term": "How much width will this div occupy?123456div{width:100px;padding:10px;margin:5px;border:2px;}Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 134px | 100 | 117 | 120",
+      "definition": "134px"
+    },
+    {
+      "term": "The padding and margin properties can be styled with unique colors.",
+      "definition": "False"
+    },
+    {
+      "term": "In the following code snippet, what value is given for the bottom margin?margin: 5px 10px 3px 8px; | 5px | 10px. | 3px | 8px",
+      "definition": "3px"
+    }
+  ]
+}

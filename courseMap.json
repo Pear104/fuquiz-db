@@ -1,0 +1,320 @@
+{
+  "ANO301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "AID301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "AIG202c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "BDI301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "BDI302c": {
+    "status": "done",
+    "related": [
+      "/big-data-introduction",
+      "/big-data-management",
+      "/big-data-integration-processing",
+      "/big-data-machine-learning",
+      "/big-data-graph-analytics"
+    ]
+  },
+  "CMC201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "CRY303c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "CHN132c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "DWP301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ELP321c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ELP311c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ECC301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ENG302c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "EBC301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ENM221c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ENW492c": {
+    "status": "done",
+    "related": [
+      "/grammar-punctuation",
+      "/getting-started-with-essay-writing",
+      "/advanced-writing",
+      "/introduction-to-research-for-essay-writing",
+      "/academic-writing-capstone"
+    ]
+  },
+  "EPE301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "FRS401c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "HOM301c": {
+    "status": "ongoing",
+    "related": [
+      "https://www.coursera.org/learn/fundamentals-of-revenue-management/assignment-submission/hjBZj/final-exam",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/LB0L3/module-1-assessment",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/M4FsO/module-2-assessment",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/l2sPi/module-3-assessment",
+      "https://www.coursera.org/learn/demandmanagement/assignment-submission/RtA9a/module-4-assessment"
+    ]
+  },
+  "HRM201c": {
+    "status": "done",
+    "related": [
+      "/human-resources-management-capstone",
+      "/compensation-management",
+      "/employee-performance",
+      "/recruiting-hiring-onboarding-employees",
+      "/managing-human-resources"
+    ]
+  },
+  "ITA203c": {
+    "status": "done",
+    "related": [
+      "/is-it-governance",
+      "/analysis-for-business-systems",
+      "/enterprise-systems",
+      "/it-infrastructure-and-emerging-trends"
+    ]
+  },
+  "ITB302c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "ITE302c": {
+    "status": "done",
+    "related": [
+      "/promote-ethical-data-driven-technologies",
+      "/ethical-frameworks-action",
+      "/detect-mitigate-ethical-risks",
+      "/ethical-communication-data-driven-technologies",
+      "/ethical-data-driven-technology-leader",
+      "/preparing-for-your-certnexus-certification-exam",
+      "/ethics-of-artificial-intelligence"
+    ]
+  },
+  "ITE303c": {
+    "status": "done",
+    "related": [
+      "/ai-algorithm-limitations",
+      "/ai-data-bias",
+      "/ai-privacy-and-convenience",
+      "/ai-ethics-analysis"
+    ]
+  },
+  "IFT201c": {
+    "status": "done",
+    "related": [
+      "/introduction-to-futures-thinking",
+      "/forecasting-skills",
+      "/simulation-skills",
+      "/collaborative-foresight",
+      "/urgent-optimism"
+    ]
+  },
+  "LAB221c": {
+    "status": "ongoing",
+    "related": [
+      "https://www.coursera.org/learn/java-programming/assignment-submission/vsOTl/calculating-the-perimeter-of-a-shape",
+      "https://www.coursera.org/learn/java-programming/assignment-submission/eS8iB/strings-in-java",
+      "https://www.coursera.org/learn/java-programming/assignment-submission/lFms6/csv-files-and-basic-statistics-in-java",
+      "https://www.coursera.org/learn/java-programming/assignment-submission/QLf1e/baby-names",
+      "https://www.coursera.org/learn/java-programming-arrays-lists-data/assignment-submission/6ZcSb/cryptography",
+      "https://www.coursera.org/learn/java-programming-arrays-lists-data/assignment-submission/muuAe/gladlibs",
+      "https://www.coursera.org/learn/java-programming-arrays-lists-data/assignment-submission/Kh1WI/web-server-logs",
+      "https://www.coursera.org/learn/java-programming-arrays-lists-data/assignment-submission/QdyEn/breaking-the-vigenere-cipher",
+      "https://www.coursera.org/learn/java-programming-design-principles/assignment-submission/XtprJ/earthquakes-programming-and-interfaces",
+      "https://www.coursera.org/learn/java-programming-design-principles/assignment-submission/PjUwz/earthquakes-sorting-algorithms",
+      "https://www.coursera.org/learn/java-programming-design-principles/assignment-submission/ikapQ/n-grams-predictive-text",
+      "https://www.coursera.org/learn/java-programming-design-principles/assignment-submission/e6Xuz/java-tools-and-libraries-for-everyone"
+    ]
+  },
+  "LAW201c": {
+    "status": "done",
+    "related": [
+      "/eu-competition-law",
+      "/eu-law-doing-business",
+      "/european-law-fundamentals"
+    ]
+  },
+  "MSM201c": {
+    "status": "out nhiều 😥",
+    "related": [
+      "/social-media-marketing-introduction",
+      "/social-media-management",
+      "/social-media-advertising-fundamentals",
+      "/advertising-with-facebook",
+      "/measure-and-optimize-social-media-marketing-campaigns",
+      "/facebook-social-media-marketing-capstone"
+    ]
+  },
+  "MKT205c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "MKT208c": {
+    "status": "done",
+    "related": [
+      "/what-is-social",
+      "/importance-of-listening",
+      "/nurture-market-strategies",
+      "/social-imc",
+      "/business-of-social",
+      "/social-marketing-capstone"
+    ]
+  },
+  "NLP301c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "NWC203c": {
+    "status": "done",
+    "related": [
+      "/fundamentals-network-communications",
+      "/peer-to-peer-protocols-local-area-networks",
+      "/packet-switching-networks-algorithms",
+      "/tcp-ip-advanced"
+    ]
+  },
+  "OBE102c": {
+    "status": "done",
+    "related": [
+      "/visionary-leadership-meaning-maker",
+      "/leadership-adapt-your-style",
+      "/organisational-behaviour-know-your-people",
+      "/organisational-design-know-your-organisation"
+    ]
+  },
+  "PMG201c": {
+    "status": "done",
+    "related": [
+      "/project-planning",
+      "/schedule-projects",
+      "/project-risk-management",
+      "/project-management-capstone"
+    ]
+  },
+  "PRP201c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "PRC391c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "PRN292c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "PMG202c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "PRC392c": {
+    "status": "ongoing",
+    "related": []
+  },
+  "SEO201c": {
+    "status": "done",
+    "related": [
+      "/search-engine-optimization",
+      "/seo-fundamentals",
+      "/optimizing-web-search",
+      "/seo-tactics",
+      "/seo-project"
+    ]
+  },
+  "SSL101c": {
+    "status": "out nhiều 😥",
+    "related": [
+      "/digital-literacy",
+      "/problem-solving-skills",
+      "/critical-thinking-skills",
+      "/communication-skills",
+      "/academic-skills-project"
+    ]
+  },
+  "SWE201c": {
+    "status": "done",
+    "related": [
+      "/software-processes",
+      "/agile-software-development",
+      "/lean-software-development",
+      "/engineering-practices-secure-software-quality"
+    ]
+  },
+  "SSC302c": {
+    "status": "ongoing",
+    "related": []
+  },
+
+  "SYB302c": {
+    "status": "done",
+    "related": [
+      "/innovative-ideas",
+      "/innovative-entrepreneur",
+      "/startup-funding",
+      "/entrepreneurship-capstone"
+    ]
+  },
+
+  "WED201c": {
+    "status": "out nhiều 😥",
+    "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
+  },
+  "WDU202c": {
+    "status": "done",
+    "related": [
+      "/visual-elements-user-interface-design",
+      "/ux-design-fundamentals",
+      "/web-design-strategy",
+      "/web-design-wireframes-prototypes"
+    ]
+  },
+  "WDU203c": {
+    "status": "done",
+    "related": [
+      "/introtoux-principles-and-processes",
+      "/understanding-user-needs",
+      "/evaluating-designs-with-users",
+      "/ux-design-concept-wireframe",
+      "/ux-research-at-scale",
+      "/user-experience-capstone"
+    ]
+  }
+}

@@ -1,0 +1,1144 @@
+{
+  "quizSrc": [
+    {
+      "term": "The preceding assignment required submitting 3 reviews of learner's work for each prompt. Have you completed all of the required peer reviews? A. Yes, I have completed reviews of the work of 3 peers for each prompt in the preceding assignment. B. No, I have not completed the required number of peer reviews in the preceding assignment.",
+      "definition": "A. Yes, I have completed reviews of the work of 3 peers for each prompt in the preceding assignment."
+    },
+    {
+      "term": "In this self-assessment, we'd like you to check off all of the parts of the assignment that you've completed.Review all materials: A. I have read through the test plan B. I have read through the test script C. I have read through consent form D. I have read through the task instructions E. I have read through the post-test questionnaire (SUS) F. I understand I will need to update all materials to include the name of the site I chose and verify all tasks are appropriate for my site.",
+      "definition": "A. I have read through the test plan B. I have read through the test script C. I have read through the consent form D. I have read through the task instructions E. I have read through the post-test questionnaire (SUS) F. I understand I will need to update all materials to include the name of the site I chose and verify all tasks are appropriate for my site."
+    },
+    {
+      "term": "Perform all tasks to know how they are supposed to work: A. I have completed Task 1 and understand the correct solution B. I have completed Task 2 and understand the correct solution C. I have completed Task 3 and understand the correct solution D. I have completed Task 4 and understand the correct solution E. I have completed Task 5 and understand the correct solution F. I have completed Task 6 and understand the correct solution",
+      "definition": "A. I have completed Task 1 and understand the correct solution B. I have completed Task 2 and understand the correct solution C. I have completed Task 3 and understand the correct solution D. I have completed Task 4 and understand the correct solution E. I have completed Task 5 and understand the correct solution F. I have completed Task 6 and understand the correct solution"
+    },
+    {
+      "term": "I have scheduled at least two participants to participate in my user test: A. Yes B.No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "1. Which of the following is an example of a good use of a post-test questionnaire? A. Asking open-ended questions where participants can give any answer that comes to mindB. Asking follow-up questions to understand why participants gave answers that they didC. Obtaining quantified measures of participants subjective reactions to using a systemD. Measuring the time it takes participants to complete a task",
+      "definition": "C. Obtaining quantified measures of participants subjective reactions to using a system"
+    },
+    {
+      "term": "2. Which of the following is not true about standardized usability questionnaires like QUIS and PSSUQ? A. The level of reliability is known, allowing you to assess how consistent they are across systems and study participantsB. Most of them have been used in many studies, allowing comparisons across systemsC. Some of them allow you to \"plug in\" different questionnaire sections to ask about specific usability issuesD. They are so expensive that they are only used in the biggest, most well-funded projects",
+      "definition": "D. They are so expensive that they are only used in the biggest, most well-funded projects"
+    },
+    {
+      "term": "3. What does the System Usability Scale measure? A. Perceived usabilityB. Number of tasks successfully completedC. Frequency of errorsD. Number of usability principles violated",
+      "definition": "A. Perceived usability"
+    },
+    {
+      "term": "4. Which of the following would you typically not include in a debrief interview? A. Review of problems encountered during tasksB. General questions about perceived usefulness and comparisons to similar systemsC. Demographic questions like age, gender, and education levelD. A \"wrap-up\" question in which you ask participants for any additional thoughts that weren't covered already",
+      "definition": "C. Demographic questions like age, gender, and education level"
+    },
+    {
+      "term": "5. What does the concept of \"demand characteristics\" warn us about when applied to user testing? A. Participants will perform differently when observed than they would if they were on their ownB. Participants are likely to tell us what they think we want to hearC. Participants who receive monetary compensation will typically perform better on tasks than those who don'tD. Researchers shouldn't ask participants to do anything in particular, rather they should let participants decide what to do",
+      "definition": "B. Participants are likely to tell us what they think we want to hear"
+    },
+    {
+      "term": "6. What can UX researchers do to minimize the impact of confirmation bias? A. Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the testB. Recruit only family and friends as participants, since they will be more honest about their feelingsC. Researchers should trust their intuition when analyzing test results, rather than seeking to be systematic and impartialD. Ask participants the same questions at least 3 times, in order to confirm that the answers accurately reflect their feelings",
+      "definition": "A. Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test"
+    },
+    {
+      "term": "7. Which of the following best describes the role of a participant in a user test? A. They are being evaluated to see if they are competent enough to use the system testedB. Once they have agreed to participate, they are obligated to complete all tasks and answer all questions, regardless of their discomfortC. They are partners with the researchers administering the test, working with together to find flaws in the system designD. They should remain ignorant of the goals of the test, so that they can offer more creative feedback and design suggestions",
+      "definition": "C. They are partners with the researchers administering the test, working with together to find flaws in the system design"
+    },
+    {
+      "term": "8. A basic ethical principle of research involving human subjects that states that researchers need to confirm that participants in a study know the purpose of the study, what they will be asked to do, their right to withdraw or refuse to comply with aspects of the study, and what will be done with the data is ____________. A. UsabilityB. Perceived usefulnessC. AcquiescenceD. Informed Consent",
+      "definition": "D. Informed Consent"
+    },
+    {
+      "term": "9. Why is it important to ask participants to announce when they believe they are done with a task? A. Otherwise there is no way to know if they've finishedB. Allowing the moderator to declare a task \"done\" could give the participant more information than they would have if conducting the task outside the test environmentC. Saying \"I'm done\" gives the participant a sense of accomplishmentD. It allows the moderator to pay less attention to the current task and start to prepare for the next one",
+      "definition": "B. Allowing the moderator to declare a task \"done\" could give the participant more information than they would have if conducting the task outside the test environment"
+    },
+    {
+      "term": "10. Is the following statement true or false? You should always include a pre-test questionnaire in any user test you conduct. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "1. All of the following are important to do when observing a user testing session, except for: A. Capture recordings of the user's screenB. Capture audio recordings of the user thinking aloudC. Notify participants as soon as they have met each task's success criteriaD. Use a logging sheet to capture when critical incidents occur",
+      "definition": "C. Notify participants as soon as they have met each task's success criteria"
+    },
+    {
+      "term": "2. When choosing an environment to conduct a user test session, which of the following is not an important characteristic of your chosen site? A. Distraction-freeB. PrivateC. Dedicated only for conducting user testsD. Quiet",
+      "definition": "C. Dedicated only for conducting user tests"
+    },
+    {
+      "term": "3. Which of the following would be a good reason for using a high-end usability testing lab with separate control and observation room? A. You will be providing a computer for participants to use during the testB. You will be using the think-aloud protocolC. You plan to administer a post-test questionnaireD. You plan to invite multiple stakeholders to observe the test sessions",
+      "definition": "D. You plan to invite multiple stakeholders to observe the test sessions"
+    },
+    {
+      "term": "4. The person who greets participants and communicates with them throughout a user test session is called the: A. LoggerB. ModeratorC. InterviewerD. Technician",
+      "definition": "B. Moderator"
+    },
+    {
+      "term": "5. About how many \"key findings\" should be included in a typical user test report? A. 1B. 2-3C. 5-10D. 20-50",
+      "definition": "C. 5-10"
+    },
+    {
+      "term": "6. When reporting an issue found through user testing you should report all of the following except: A. RecommendationB. SeverityC. EvidenceD. Clear description of the problemE. The names of the participants who encountered them",
+      "definition": "E. The names of the participants who encountered them"
+    },
+    {
+      "term": "7. When making a recommendation for how to address a problem, you should consider all of the following except: A. Identifying best practices from competitors' productsB. Declining to provide a recommendation, admitting you have no good ideasC. Suggesting further research to better characterize the problemD. Recommending an iterative design process to find the best solution",
+      "definition": "B. Declining to provide a recommendation, admitting you have no good ideas"
+    },
+    {
+      "term": "8. True or False: Baseline statistics such as task completion rate, time spent on task, and/or error rates should be included in user test reports. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "9. True or False: It is not the role of the UX researcher to assign severity to problems found in user testing--this should be left up to the product owner. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "10. True or False: If you take good notes, there is no reason to capture a screen recording of user test sessions for later review.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "1. Which of the following is not a key design skill? A. To frame or reframe a design problemB. To generate a large number of alternative solutionsC. To evaluate tradeoffs of different alternativesD. To create and test with potential users a functioning prototype of a design solutionE. To write a business plan for selling the technology designers created",
+      "definition": "E. To write a business plan for selling the technology designers created"
+    },
+    {
+      "term": "2. The primary concern of design is to create artifacts and systems that are aesthetically pleasing. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "3. Bill Buxton states that all design is \"compromise.\" By this he means that fundamentally no design is particularly good. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "4. The design process is highly iterative. Which of the following are iterative loops that a designer might do in the course of a project?A. From ideation to problem framingB. From creation of scenarios and storyboards to ideationC. From creation of scenarios and storyboards to problem framingD. From prototyping to ideationE. All of the aboveF. None of the above",
+      "definition": "E. All of the above"
+    },
+    {
+      "term": "5. Designers usually solve the exact design problem they are initially presented with. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "6. Designers often refer to the notion of the \"design space.\" What does this term refer to? A. Physical space (like a design studio) where design activities take placeB. Space into which the design has to fit (e.g., the size of the screen of a mobile phone)C. Properties of the space (e.g., location, shape of the room) where the design will be usedD. The range of alternative ways that a design solution can work",
+      "definition": "D. The range of alternative ways that a design solution can work"
+    },
+    {
+      "term": "7. Problem scoping is a fundamental part of the design process. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "8. Designers conduct formative research using a single, unified set of methods. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "9. Formal research methods are always preferable to informal methods for doing formative research. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "10. Which of the following are research methods that can be applied in formative research?A. InterviewsB. ObservationsC. Asking friends and family members about their experiencesD. Participatory design groupsE. All of the aboveF. None of the above",
+      "definition": "E. All of the above"
+    },
+    {
+      "term": "1. Creation of many alternative solutions increases the quality of the final design. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "2. Why does ideation emphasize the speed of idea generation? A. Because designers often work on tight schedulesB. Because the ideas that first come to mind are usually the best onesC. Because the quality of the initial ideas doesn't matter since a design solution gets iteratively refined many times anywayD. Because quick idea generation helps designers generate a lot of ideas",
+      "definition": "D. Because quick idea generation helps designers generate a lot of ideas"
+    },
+    {
+      "term": "3. Designers should aim to generate about half a dozen solutions when they ideate. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "4. Which of the following is not a method for doing ideation? A. BrainstormingB. Mind-mappingC. Timed idea generationD. Tradeoff analysisE. Sketching",
+      "definition": "D. Tradeoff analysis"
+    },
+    {
+      "term": "5. Ideation mostly happens at the start of the design process when the designer is first coming up with possible solutions to the design problem. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "6. Sketching is used both for generating and for communicating ideas.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "8. You have to be good at drawing to create sketches that are useful for design. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "9. Why is it important to have a facilitator for a brainstorming session? A. To make sure people don't go on excessive tangentsB. To notice when session participants feel stuck or are have hit a dead end, and to redirect the session by bringing up a new topic for brainstormingC. To keep in check critiquing of ideasD. To flag if participants end up diving too deeply into a single ideasE. All of the above",
+      "definition": "E. All of the above"
+    },
+    {
+      "term": "10. It is important not to criticize ideas during brainstorming. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "1. Personas are purely fictional characters. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "2. How many personas should designers create for a design project? A. Often one or two personas are all that's neededB. As many personas as it takes to represent everything designers have learned in the formative workC. The number of personas should match the number of classes of target users that the designers have identified in the formative workD. The more personas, the betterE. Three to four personas are usually a sweet spot",
+      "definition": "C. The number of personas should match the number of classes of target users that the designers have identified in the formative work"
+    },
+    {
+      "term": "3. Personas include different types of information, from demographics to motivations and sociocultural context. How should designers decide what information to include? A. They should focus on making the information as complete as possibleB. They should focus on idiosyncratic characteristics of people they encountered in the formative research that will make personas as vivid as possibleC. They should focus mostly on demographic information; other types of information are secondaryD. They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed",
+      "definition": "D. They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed"
+    },
+    {
+      "term": "5. Scenarios help designers reflect on user needs, how technology might address those needs, and potential issues that might arise with the use of the envisioned technology. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "6. Which of the following is not an element of a typical scenario? A. AgentB. ActionsC. LocationD. GoalsE. Events",
+      "definition": "C. Location"
+    },
+    {
+      "term": "7. Why would a designer create storyboards as opposed to write scenarios? A. To better represent physical environment in which the technology would be usedB. To better represent relationships among multiple peopleC. To better envision size or other physical constraints of the technology and its useD. All of the above",
+      "definition": "D. All of the above"
+    },
+    {
+      "term": "8. Excellent drawing skills are needed to create effective storyboards. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "9. It's typically obvious which design solution, among alternatives they generated, designers should pursue. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "10. Which component of the QOC framework articulates conditions or constraints that the design needs to meet? A. QuestionsB. OptionsC. CriteriaD. None of the above",
+      "definition": "C. Criteria"
+    },
+    {
+      "term": "1. Although there are different types of input, UX designers only need to focus on designing the information that users will explicitly enter into the system. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "2. Which of the following are types of user-entered inputs? A. GPSB. Text fields where users enter free-form responsesC. Widgets like calendar pickers or on/off switchesD. Voice input, like dictation typingE. All options on this list except GPS",
+      "definition": "E. All options on this list except GPS"
+    },
+    {
+      "term": "3. Which of the following is not a type of passive input? A. Application data like contacts, calendar events, or user's health information (e.g., steps)B. Weather dataC. Picture taken by the user using the phone cameraD. User's current location",
+      "definition": "C. Picture taken by the user using the phone camera"
+    },
+    {
+      "term": "4. Granularity of the needed information is an important consideration when designing system inputs. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "5. Which is not an output modality commonly used in today's interactive applications?A. AudioB. VisualC. OlfactoryD. Tactile/Haptic",
+      "definition": "C. Olfactory"
+    },
+    {
+      "term": "6. What does the designer need to know in order to design effective output? A. What information the user needs to accomplish the taskB. Context in which the information will be accessedC. User's knowledge baseD. All of the above",
+      "definition": "D. All of the above"
+    },
+    {
+      "term": "7. \"Pull\" output gives user high level of control of information access. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "8. \"Push\" output can time information delivery for maximum effectiveness. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "9. Which of the following represents the system's state: A. Information about the user's current locationB. User profile informationC. Rules for providing feedback to the userD. Current values of all system inputs and variables, and rules for operating on those values",
+      "definition": "D. Current values of all system inputs and variables, and rules for operating on those values"
+    },
+    {
+      "term": "10. Mode can change how multiple aspects of the system behave. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "1. Designers prototype to test their design ideas before resources are invested in expensive and time-consuming software development. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "2. Which of the following can prototypes help designers test? A. The overall design conceptB. Functionality of different components of the systemC. Screen layoutsD. User interactionsE. All of the above",
+      "definition": "E. All of the above"
+    },
+    {
+      "term": "3. It doesn't matter whether you initially create a low- or high-fidelity prototype. You can get the same kind of feedback on either. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "4. Which of the following is not a question that can be answered by getting feedback on wireframes? A. Do screens contain the right functional components?B. Does the screen layout make sense?C. Is the displayed content ordered correctly?D. Do the screens provide adequate navigation?",
+      "definition": "C. Is the displayed content ordered correctly?"
+    },
+    {
+      "term": "5. Wireframes can test design concepts, as well as help designers decide among multiple ways of designing a piece of functionality.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "6. It's possible to create a useful, functional interactive prototype with very simple tools, such as paper, post-it notes, and scotch tape. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "7. Which of the following is not a characteristic of low-fidelity prototypes?A. They should be quick to createB. They should support the full sequence of actions needed to complete a taskC. They should be realisticD. They should cover the functionality of the whole system.",
+      "definition": "D. They should cover the functionality of the whole system."
+    },
+    {
+      "term": "8. A single designer can usually conduct a test of a lo-fi prototype by him/herself.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "9. Which of the following is not a characteristic of hi-fi prototypes? A. They are more resource-intensive to developB. They can be run by the tester without helpC. They are of limited usefulness for testing usabilityD. They can be used as a part of the spec given to developers",
+      "definition": "C. They are of limited usefulness for testing usability"
+    },
+    {
+      "term": "10. Wizard of Oz prototypes are most useful for prototyping screen-based applications A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "1. Affordances of user interface don't have much influence on how easily users learn to use the system. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "2. In order to have a mental model of a system that enable them to use that system effectively, users need to understand the technical underpinnings of that system. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "3. Gulf of execution refers to which of the following? A. The time it takes an application to execute some computationally-intensive task, such as running a statistical model.B. The difference between the output the system provided and the output the user wanted.C. The discrepancy between what the user is trying to do and what he/she is able to do using the system's interface.D. The time between when the user gives the system a command and when the system executes that command (e.g., the delay in responding to a button press)",
+      "definition": "C. The discrepancy between what the user is trying to do and what he/she is able to do using the system's interface."
+    },
+    {
+      "term": "4. Gulf of evaluation refers to which of the following? A. The user's ability to understand the system's output (e.g., the graphs that the system presents the user)B. The ability of the user to tell if the system did what the user was trying to do.C. The user's ability to evaluate if the system is a good match for his/her needs.D. The difference between user ratings of an app in the app store and the actual quality of the app.",
+      "definition": "B. The ability of the user to tell if the system did what the user was trying to do."
+    },
+    {
+      "term": "5. While designers have to set defaults for many design elements, these default values rarely matter since users can just change them at any time. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "6. Designing thoughtful defaults is important for several reasons. Which of the following is not a reason for designing good defaults. A. Defaults define out-of-the-box experienceB. Defaults are easily changed.C. Defaults decrease onboarding timeD. Defaults can have large consequences.",
+      "definition": "B. Defaults are easily changed."
+    },
+    {
+      "term": "7. Which position on the social effects of technology claims that technological adoption is primarily governed by the needs of different social groups and that it has little to do with the properties of the actual technology? A. Social deterministsB. Technical deterministsC. Interactionists",
+      "definition": "A. Social determinists"
+    },
+    {
+      "term": "8. Technical determinists believe that sometimes the properties of technologies almost necessitates certain kinds of consequences. A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "9. Which new technological trend is not requiring designers to change how they prototype and test their systems? A. Proliferation of screens (smart watches, embedded displays, etc.) for which designers need to design user experiencesB. Instrumented environmentsC. Artificial Intelligence-based systemsD. Virtual and augmented realityE. None of the above",
+      "definition": "E. None of the above"
+    },
+    {
+      "term": "10. The many new technological trends we discussed means that UX design as a process is fundamentally changing and that what we discussed in this course is not going to be useful a year or two from now. A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What makes these good research questions for a needs-finding study? (Select All that apply)a. They're open ended, not leadingb. They seek to learn about what problems there are with existing solutionsc. They are questions that can be answered by interviewing the target user populationd. They will help the researcher learn how users currently complete the activity that their design will try to improve",
+      "definition": "a. They're open ended, not leading, b. They seek to learn about what problems there are with existing solutions, c. They are questions that can be answered by interviewing the target user population, d. They will help the researcher learn how users currently complete the activity that their design will try to improve"
+    },
+    {
+      "term": "Which of the following methods would be the best approach for answering the stated questions?a. Qualitative research such as user interviews or focus groupsb. Quantitative research such as surveysc. Quantitative research such as A/B testingd. Qualitative research such as user testing a prototype",
+      "definition": "a. Qualitative research such as user interviews or focus groups"
+    },
+    {
+      "term": "Which of these examples of personas could be more effective for guiding a design solution?#1#2 a. #2 because it includes relevant demographic information, motivations and needs related to the design problem, and characteristics could constrain the persona's ability to use a system.b. #1 because there are more personas and they're in paragraph formc. #1 because the picture in #2 is distracting",
+      "definition": "a. #2 because it includes relevant demographic information, motivations and needs related to the design problem, and characteristics could constrain the persona's ability to use a system."
+    },
+    {
+      "term": "Read the project brief, then the scenario. What conclusions might you draw from the scenario that would inform the design? (Select all that apply)a. George needs the app to work efficiently, since he will likely be using it at the end of the day and will only have a short period to sell the leftover foodb. Consumers need to find out about the food availability right when it is posted, since it will likely be at the end of the day. Pushing notifications to consumers when food is posted would be useful in the appc. The app's success will rely on users following through on picking up their purchases; making users pay in-app rather than in the store will increase the likelihood that all the food is picked upd. George does not care about making money since he is throwing the food away anyways, so all the leftover food should be posted on the app for free",
+      "definition": "a. George needs the app to work efficiently, since he will likely be using it at the end of the day and will only have a short period to sell the leftover food, b. Consumers need to find out about the food availability right when it is posted, since it will likely be at the end of the day. Pushing notifications to consumers when food is posted would be useful in the app, c. The app's success will rely on users following through on picking up their purchases; making users pay in-app rather than in the store will increase the likelihood that all the food is picked up"
+    },
+    {
+      "term": "Download Attachment #1 as .pdf and read in full to answer questions 1 and 2.The stated purpose of this user test is: The test is designed to validate the main purpose of the project which is: \"Designing an affordable and easy to use method to archive insurance related files electronically while keeping in mind that the environment has an unstable internet connection and customers can't wait until all documents are uploaded\".While this is a good start, after reading through the user test plan and scenarios, which of these options provides a more specific goal?View PDF FileLearner Example of User Test Plan.pdfPDF File a. The goal is to discover whether the web browser tool or Dropbox is easier for users' file management needs",
+      "definition": "a. The goal is to discover whether the web browser tool or Dropbox is easier for users' file management needs"
+    },
+    {
+      "term": "If this was the full test plan, which of the following suggestions might help clarify the plan?a. Specify Recruiting Criteriab. Complete the Test Scriptc. Add task instructions for users to replicated. Include Follow-Up Questions",
+      "definition": "b. Complete the Test Script, c. Add task instructions for users to replicate"
+    },
+    {
+      "term": "Download Attachment #2 as .pdf and read in full to answer questions 3 and 4.Which of these aspects make the key findings section particularly good?View PDF FileLearner Example of Key Findings and UX Issues.pdfPDF File a. It lists UX issues ranked by priority based on evidence of actual user testing feedback, b. It includes actionable recommendations of how to fix the UX issues",
+      "definition": "a. It lists UX issues ranked by priority based on evidence of actual user testing feedback, b. It includes actionable recommendations of how to fix the UX issues"
+    },
+    {
+      "term": "For each UX issue, the report includes the:a. Severityb. Evidencec. Clear description of the problemd. Name of the participant who encountered the issue",
+      "definition": "a. Severity, b. Evidence, c. Clear description of the problem"
+    },
+    {
+      "term": "Is this a good scope for a user test?a. Yes, it has users test the core functions of the appb. No, a user test needs to include testing every single task in the application to deliver valuable datac. No, a user test must focus on only one taskd. No, a user test needs to compare two different systems",
+      "definition": "a. Yes, it has users test the core functions of the app"
+    },
+    {
+      "term": "What heuristic does this violate?a. User control and freedomb. Error preventionc. Visibility of system statusd. Recognition vs recall",
+      "definition": "a. User control and freedom"
+    },
+    {
+      "term": "Which of the following are among key tasks that were identified?a. Check map, Help, Activate function \"Robbery\"b. Check map, Create a post, Log Outc. Customize automatic functions, Help, Log Outd. Change security code, Create a post, Check recent events",
+      "definition": "a. Check map, Help, Activate function \"Robbery\""
+    },
+    {
+      "term": "Could you run user tests with this prototype and receive useful data to inform your designs?a. Yes, any type of prototype can be used for user testingb. No, only fully interactive digital prototypes will give you useful datac. No, user testing is most effective when you use hand-drawn prototypes rather than ones created with graphic design softwared. No, you shouldn't use a prototype to conduct user testing",
+      "definition": "a. Yes, any type of prototype can be used for user testing"
+    },
+    {
+      "term": "This example would most likely be an example of (choose the BEST response):a. Wireframesb. Hi-Fi Prototypec. Lo-Fi Prototyped. Yes, wireframes need to look like a completely finished product",
+      "definition": "b. Hi-Fi Prototype"
+    },
+    {
+      "term": "Rank these prototypes in order of fidelity, from low to high.123 .a. 1, 2, 3b. 3, 2, 1c. 1, 3, 2d. 2, 1, 3",
+      "definition": "a. 1, 2, 3"
+    },
+    {
+      "term": "What makes the example shown effective at conveying the navigation flow? (Select all that apply)a. It specifies where the user should click to progress to the next screen.b. It is a digital prototypec. It contains placeholder text",
+      "definition": "a. It specifies where the user should click to progress to the next screen."
+    },
+    {
+      "term": "Which of the following is a STRENGTH of surveys as a UX method?a. Measuring Behaviorsb. Understanding why people do thingsc. Describing Opinions of a Group of Peopled. Conducting Exploratory Work",
+      "definition": "c. Describing Opinions of a Group of People"
+    },
+    {
+      "term": "Which of the following is NOT a way to match your UX goals to survey methods?a. Launch an exploratory survey to determine UX goals.b. Ask why you want to have the data.c. Have a story for why surveys are the best way to meet this UX goal.d. Define goals before choosing metrics.",
+      "definition": "a. Launch an exploratory survey to determine UX goals."
+    },
+    {
+      "term": "This term describes the total set of people you want to be able to represent with your survey.a. Sampleb. Response Ratec. Respondentsd. Population",
+      "definition": "d. Population"
+    },
+    {
+      "term": "What term is used to describe the actual questions you ask people?a. Respondentb. Instrumentc. Framed. Population",
+      "definition": "b. Instrument"
+    },
+    {
+      "term": "Which of the following is the most accurate statement?a. Error can be reduced by designing surveys as well as well as possible within resource constraints.b. Error should be reduced to zero before launching a survey.c. It's impossible to affect error one way or another.d. Surveys should never be trusted because of how much error they involve.",
+      "definition": "a. Error can be reduced by designing surveys as well as well as possible within resource constraints."
+    },
+    {
+      "term": "This is error that is introduced when your questions somehow don't actually get to the concept you're interested in.a. Coverage Errorb. Sampling Errorc. Measurement errord. Nonresponse Error",
+      "definition": "c. Measurement error"
+    },
+    {
+      "term": "This is the error that is introduced because some portion of the population is refusing to answer your questions.a. Coverage errorb. Nonresponse errorc. Sampling errord. Measurement error",
+      "definition": "b. Nonresponse error"
+    },
+    {
+      "term": "This is the error that is introduced because the way you are asking questions is going to miss some big chunk of your population of interest.a. Measurement errorb. Nonresponse errorc. Sampling framed. Sampling error",
+      "definition": "d. Sampling error"
+    },
+    {
+      "term": "Which of the following is most accurate?a. Surveys are good at broad descriptions of groups, but not at precise measurements.b. Surveys have largely been abandoned in modern research because they are so inaccurate.c. Surveys should never be combined with other types of methods.d. Surveys are good at measuring behavioral outcomes.",
+      "definition": "a. Surveys are good at broad descriptions of groups, but not at precise measurements."
+    },
+    {
+      "term": "Which of the following is NOT a type of sampling?a. Censusb. Sampling Framec. Probabilityd. Convenience",
+      "definition": "b. Sampling Frame"
+    },
+    {
+      "term": "Which of the following is NOT important to consider when defining your population?a. Number of questions you want to askb. Characteristics of the people you're interested inc. Survey moded. Relationship to the product",
+      "definition": "a. Number of questions you want to ask"
+    },
+    {
+      "term": "Which of the following is the best definition of a probability sample?a. Almost every member of your population has some chance to be selected for the survey.b. Only those people who will probably answer the survey are sampled from the population.c. Every member of your population has some chance to be selected for the survey.d. You invite every member of the population to participate in the survey.",
+      "definition": "c. Every member of your population has some chance to be selected for the survey."
+    },
+    {
+      "term": "Which of the following would NOT be an example of a sampling frame?a. A social media site, like Twitterb. An organization's email directoryc. All phone numbers in the U.S.d. User names of everyone who logged into the site this month",
+      "definition": "a. A social media site, like Twitter"
+    },
+    {
+      "term": "Which of the following is a reason why you might use non-probability samples rather than probability samples?a. Ability to represent the population betterb. Quality of datac. Costd. Ability to get more responses",
+      "definition": "c. Cost"
+    },
+    {
+      "term": "Which of the following is NOT an example of convenience sampling?a. Asking people on a street corner to answer some questions.b. Posting flyers in a doctor's office asking for participants who have had a cold recently.c. Asking your friends on Facebook or Twitter to answer questions for you.d. Emailing all students at a university based on a random sample of email addresses provided by the administration.",
+      "definition": "d. Emailing all students at a university based on a random sample of email addresses provided by the administration."
+    },
+    {
+      "term": "Which of the following is an example of purposive sampling?a. Asking your female friends to respond to a survey via Facebook and Twitter requests.b. Asking people who use a site's shopping cart how they feel about that experience.c. Emailing a random sample of employees who started at the company this year based on a list provided by HR.d. Asking one group of respondents to forward the survey invite to their social networks.",
+      "definition": "b. Asking people who use a site's shopping cart how they feel about that experience."
+    },
+    {
+      "term": "Which of the following best describes why you might choose to use a panel for recruiting respondents?a. To reduce recruitment costsb. To make sure you get people who are experienced in answering surveysc. To increase qualityd. To avoid having a convenience sample",
+      "definition": "a. To reduce recruitment costs"
+    },
+    {
+      "term": "Which of the following is NOT something to think about if you are going to use Amazon's Mechanical Turk to recruit respondents?a. How to pay a fair wage to Turkersb. The shakiness of the demographic data about Turkersc. How to check for the validity of responsesd. Response rates for Turkers",
+      "definition": "d. Response rates for Turkers"
+    },
+    {
+      "term": "Which of the following best describes the social desirability outcomes in interview-led survey modes?a. Results can be biased because people want to be agreeable with an interviewer.b. Results can be biased because interviewers will avoid questions that could be embarrassing.c. Results can be biased because people semi-consciously will try to look acceptable to the interviewer.d. Results can be biased because some interviewers are more able to get people to do surveys.",
+      "definition": "c. Results can be biased because people semi-consciously will try to look acceptable to the interviewer."
+    },
+    {
+      "term": "Which of the following is NOT a dimension of survey modes?a. Costb. Respondent burdenc. Sampling framed. Flexibility",
+      "definition": "c. Sampling frame"
+    },
+    {
+      "term": "Which of the following is the most true statement?a. It's better to get a low response rate from a small sample than it is to get a high response rate from a big sample.b. Response rates are only important for national, probability studies.c. Response rates are not connected to survey quality.d. It's better to get a high response rate from a small sample than a low response rate from a big sample.",
+      "definition": "d. It's better to get a high response rate from a small sample than a low response rate from a big sample."
+    },
+    {
+      "term": "Which of the following is NOT a reason you would want to have a high response rate?a. If you want to be more confident that you've detected a difference/change.b. If your population is very heterogeneous.c. If you want to be able to conduct more complicated statistical analyses.d. If you want to detect smaller, or more subtle differences/changes.",
+      "definition": "c. If you want to be able to conduct more complicated statistical analyses."
+    },
+    {
+      "term": "Which of the following is NOT a way to increase the perceived benefit of participating in a survey?a. Specify how the survey results will be usedb. Identify the trustworthiness of the sponsoring organizationc. Make the survey as short as possibled. Stress that opportunities to respond are limited",
+      "definition": "c. Make the survey as short as possible"
+    },
+    {
+      "term": "Which of the following is LEAST true about extrinsic, or material, incentives?a. You should frame incentives as gifts, not as payment.b. Incentives given before the survey are more effective.c. The more money you offer, the more likely people are to participate.d. Lotteries (a chance to win a larger reward) are not very effective as incentives.",
+      "definition": "c. The more money you offer, the more likely people are to participate."
+    },
+    {
+      "term": "Which of the following is NOT a way of reducing the burden for a respondent to participate in your survey?a. Asking people who use a site's shopping cart how they feel about that experience.b. Keep the survey as short as you can without compromising quality.c. Reduce the complexity of questions by making them easy to understand.d. Asking one group of respondents to forward the survey invite to their social networks.",
+      "definition": "a. Asking people who use a site's shopping cart how they feel about that experience."
+    },
+    {
+      "term": "Which of the following is the most true statement about how people remember things?a. People remember their past behavior well enough to give accurate survey responses.b. Memory can be guided back to accuracy through careful prompts.c. Memory fades over time, but people are good at remembering routine actions.d. Memory fades over time, and often doesn't capture routine actions.",
+      "definition": "d. Memory fades over time, and often doesn't capture routine actions."
+    },
+    {
+      "term": "Which of the following is NOT important for every survey question?a. Writing a question that every respondent will interpret in the way the researcher intends.b. Writing a question that every respondent will answer in the same way.c. Writing a question that every respondent will respond to accurately.d. Writing a question that every respondent is willing to answer.",
+      "definition": "b. Writing a question that every respondent will answer in the same way."
+    },
+    {
+      "term": "Which of the following is the most true statement?a. It can be hard to operationalize abstract concepts in a way that every respondent understands.b. The best way to start a survey is by writing some questions, and then iterating on them.c. People are very consistent in how they answer questions over time.d. Pre-testing a survey is rarely worth the time it takes.",
+      "definition": "a. It can be hard to operationalize abstract concepts in a way that every respondent understands."
+    },
+    {
+      "term": "Which of the following statement about open-ended questions is most FALSE?a. They are the easiest type of question to analyze.b. They allow respondents to answer without limiting the range of responses.c. They are more frequently skipped than other types of questions.d. They are often used when we haven't pre-defined response categories.",
+      "definition": "a. They are the easiest type of question to analyze."
+    },
+    {
+      "term": "Which of the following best describes the question stem?a. It's the optional instructions for how to answer a question.b. It's the set of responses that a respondent can give.c. It's the query that operationalizes the concept of interest and prompts a response.d. It's a series of questions that are used together to form a scale.",
+      "definition": "c. It's the query that operationalizes the concept of interest and prompts a response."
+    },
+    {
+      "term": "Which type of question asks the respondent to compare categories where there is no inherent order between the choices?a. Ordinal closed-endedb. Descriptive open-endedc. Nominal closed-endedd. List-of-items open-ended",
+      "definition": "c. Nominal closed-ended"
+    },
+    {
+      "term": "What type of question is the following survey question:How much do you like or dislike participating in surveys?Extremely likeSomewhat likeNeither like nor dislikeSomewhat dislikeExtremely dislikea. Bipolar ordinalb. Unipolar ordinalc. Nominald. Open-ended",
+      "definition": "a. Bipolar ordinal"
+    },
+    {
+      "term": "Multiple choice questions like this are really just survey questions! What type of survey question is this?a. Nominal closed-ended, choice unforcedb. Nominal closed-ended, choice forcedc. Ordinal closed-ended, choice unforcedd. Ordinal closed-ended, choice forced",
+      "definition": "b. Nominal closed-ended, choice forced"
+    },
+    {
+      "term": "Which of the following is NOT something you should consider while writing questions?a. Avoiding jargon.b. Keeping language as simple as possible.c. Ask one question at a time.d. Making the question sound scientific.",
+      "definition": "d. Making the question sound scientific."
+    },
+    {
+      "term": "Which of the following is the most important consideration in picking what type of question type to use?a. The demographic makeup of your populationb. The type of analysis you plan on doingc. The type of sampling you're usingd. The mode your survey will be delivered in",
+      "definition": "b. The type of analysis you plan on doing"
+    },
+    {
+      "term": "What is the main problem with the following survey question? \"How likely are you to participate in an online course in the future?\"[Very likely] [Somewhat likely] [Neutral] [Somewhat unlikely] [Very unlikely]a. The response categories don't match the question stem.b. The question stem doesn't include both poles of the scale.c. This should be framed as a unipolar scale.d. There's nothing wrong with this question.",
+      "definition": "b. The question stem doesn't include both poles of the scale."
+    },
+    {
+      "term": "Which of the following is NOT a best practice for writing open-ended questions?a. Use an open-ended question after every closed-ended question.b. Use neutral probes when possible.c. Provide extra motivation to respond.d. Specify the response wanted in the question stem.",
+      "definition": "a. Use an open-ended question after every closed-ended question."
+    },
+    {
+      "term": "Which of the following is the LEAST true statement about open-ended questions?a. Responses require effort for coding and analysis.b. Respondents are more likely to skip open-ended questions.c. They can require more data cleaning.d. They provide bad data because responses are not standardized.",
+      "definition": "d. They provide bad data because responses are not standardized."
+    },
+    {
+      "term": "Which of the following statement about open-ended questions is most FALSE?a. They allow respondents to answer without limiting the range of responses.b. They are more frequently skipped than other types of questions.c. They are the easiest type of question to analyze.d. They are often used when we haven't pre-defined response categories.",
+      "definition": "c. They are the easiest type of question to analyze."
+    },
+    {
+      "term": "Which of the following is MOST true about offering a \"Don't Know\" option in your response categories?a. Research shows people don't choose the \"Don't Know\" option when it's offered.b. You should always include a \"Don't Know\" option in your written surveys.c. It's best to do when the question asks for recall, not when asking for opinions.d. The \"Don't Know\" option should only be used for opinion questions.",
+      "definition": "c. It's best to do when the question asks for recall, not when asking for opinions."
+    },
+    {
+      "term": "Which of the following is NOT an uncommon type of survey question?a. Drill Downb. Nominalc. Heat Mapd. Pick, Group and Rank",
+      "definition": "b. Nominal"
+    },
+    {
+      "term": "Which of the following is NOT a best practice in writing nominal closed-ended questions?a. Avoid unequal response optionsb. Use \"select all that apply\" responses rather than forced choices.c. Constrain the number of response options that you provided. Randomize response options when necessary",
+      "definition": "b. Use \"select all that apply\" responses rather than forced choices."
+    },
+    {
+      "term": "What is the main problem with the \"Agree/Disagree\" response scale?a. Overly familiar to respondents, leading to satisficingb. Leads to acquiescence biasc. Cognitively burdensomed. Not understood by most respondents",
+      "definition": "b. Leads to acquiescence bias"
+    },
+    {
+      "term": "Which of the following is NOT a best practice when designing ordinal closed-ended questions?a. Use direct labelsb. Use vague quantifiers rather than specific metricsc. Provide a balanced scaled. Provide scales that approximate the real world distribution",
+      "definition": "b. Use vague quantifiers rather than specific metrics"
+    },
+    {
+      "term": "Which of the following is not a method one would use to understand why people are using a product at certain times?a. Surveysb. Clickstream analyticsc. Concept Testingd. Interviewse. Remote testing",
+      "definition": "c. Concept Testing"
+    },
+    {
+      "term": "Which of the following is a method one would use to learn more about users' attitudes, preferences, context, and needs? I. Interviews (Remote or in-person) II. Clickstream analytics III. Behavioral analytics (surveys) IV. A/B Testing a. I and IIb. I and IIIc. I, II, and IVd. I, II, III, and IV",
+      "definition": "b. I and III"
+    },
+    {
+      "term": "Which of the following are the hallmarks of good research questions? I. Clarity II. Consistency III. Ability to be answeredIV. Ethical excellenceV. Significance. I, II, and IIIb. I, II, and Vc. IV and Vd. II, IV, and Ve. I, III, IV, and V",
+      "definition": "e. I, III, IV, and V"
+    },
+    {
+      "term": "What alternative approaches can you use to engage people in research results? (pick all that apply)a. Extensive reportb. Have stakeholders attend study sessions and participate in analyzing and interpreting data.c. Create and show videos of critical moments during testsd. Emails that include bullet point findingse. Brief executive summary",
+      "definition": "b. Have stakeholders attend study sessions and participate in analyzing and interpreting data., c. Create and show videos of critical moments during tests, d. Emails that include bullet point findings, e. Brief executive summary"
+    },
+    {
+      "term": "What types of research activities are typically engaged in by 2-3 person design teams? A/B TestingFeature driven usability testingCompetitive testingAttitudinal analytics (surveys) a. Ib. IIc. IIId. IVe. II and IV",
+      "definition": "b. II"
+    },
+    {
+      "term": "What deliverables are typically used to tell user stories? (pick all that apply)a. Personasb. Scenariosc. Diary Studyd. Customer Journey Maps",
+      "definition": "a. Personas, b. Scenarios, d. Customer Journey Maps"
+    },
+    {
+      "term": "What technique can you use to learn about how large numbers of users navigate through an experience during the Optimization phase?a. Benchmarkingb. Analytics Reviewc. A/B testingd. Remote usability testing",
+      "definition": "b. Analytics Review"
+    },
+    {
+      "term": "Research at scale can be carried out during the following product development lifecycles:a. Discoveryb. Design/Developmentc. Optimizationd. All",
+      "definition": "d. All"
+    },
+    {
+      "term": "Effective ways of delivering findings to stakeholders include: I. Anecdotes of critical moments II. Retelling what happened during each session of a usability testIII. Having stakeholders attend study sessions and participating in analysing or interpreting data IV. Quotes or videos of critical moments a. Ib. IIc. II, IVd. I, III, IV",
+      "definition": "d. I, III, IV"
+    },
+    {
+      "term": "UX research at scale can be conducted by teams at these levels of maturity: I. UX team of one (Awareness) II. MobilizationIII. CollaborationIV. Executive Buy-InV. UX Obsessed a. I, II, IIIb. III, IV, Vc. IV, Vd. All",
+      "definition": "d. All"
+    },
+    {
+      "term": "Under what circumstances is remote testing appropriate?I. It is difficult to access the product/experience.II. Participants from a variety of geographic locations are needed.III. Time is limited.IV. There is a lot of Personally Identifiable Information required.V. All of the abovea. I, II, IIIb. I, IVc. I, III, IVd. II and IIIe. V",
+      "definition": "d. II and III"
+    },
+    {
+      "term": "What consideration is not important when deciding what platform or technology solution you will use for testing?I. Metrics that may be collectedII. Panel accessIII. Network speed requirementsIV. Screen, Audio, or other data collection, as appropriate for testV. None of the abovea. I, II, IIIb. I, IIc. II, IVd. I, III, IVe. V",
+      "definition": "e. V"
+    },
+    {
+      "term": "When is it most appropriate to conduct remote moderated testing?I. Redirection and discussion are requiredII. Users can complete tasks without instructionIII. Finding participants local to your lab is challengingIV. You want to see and explore user's digital contextsV. All of the abovea. I, II, IIIb. I, IVc. I, IIId. I, III, IVe. V",
+      "definition": "d. I, III, IV"
+    },
+    {
+      "term": "Question 5What preparations should you make ahead of both remote moderated as well as unmoderated testing?I. Review alternate pathsII. Be online 10-15 minutes earlyIII. Determine what metrics to collect and howIV. Obtain informed consentV. OverrecruitVI. All of the abovea. I, II, IIIb. I, III, IV, Vc. II, IV, Vd. I, IVe. VI",
+      "definition": "b. I, III, IV, V"
+    },
+    {
+      "term": "Which of the following is NOT a reason why building products with great UX is hard?a. You are not the userb. Computers are weirdc. Software is (usually) complexd. There is no known process that we can follow to create good UX",
+      "definition": "d. There is no known process that we can follow to create good UX"
+    },
+    {
+      "term": "True or false: You need to have a degree in psychology in order to understand the principles behind good UX.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "True or false: \"User Experience\" only describes the experience that people have while actually using a product, and not other related experiences like acquiring the product or fixing it when it breaks.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "True or false: One of your goals in designing products with a good user experience should be to fail as early and often as possible.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which of the following is not a phase in the iterative design process?a. Buildb. Designc. Stylized. Assess",
+      "definition": "c. Stylize"
+    },
+    {
+      "term": "A model of the design process that shows both the iterative nature and also how it progresses towards an end goal is:a. The spiral modelb. The waterfall modelc. The hub-and-spoke modeld. The wave model",
+      "definition": "a. The spiral model"
+    },
+    {
+      "term": "Interviews, Observations, Surveys, User Testing, and Inspection Methods are all examples of:a. Common UX mistakesb. UX Design methodsc. UX Research methodsd. UX Marketing methods",
+      "definition": "c. UX Research methods"
+    },
+    {
+      "term": "Which of the following components of UX were discussed in this week's lectures? Check all that apply.a. Valueb. Usabilityc. Desirabilityd. Adoptabilitye. Scrollabilityf. Monetizability",
+      "definition": "a. Value, b. Usability, c. Desirability, d. Adoptability"
+    },
+    {
+      "term": "Which of the following questions would be most relevant to the UX criterion of \"Adoptability\"?a. Where do users currently look for products or services like the one we will offer?b. Do users prefer bright or muted colors for graphics in this product category?c. How much would people be willing to pay for the product or service we plan to offer?d. What percentage of people succeed in completing key tasks using the product?",
+      "definition": "a. Where do users currently look for products or services like the one we will offer?"
+    },
+    {
+      "term": "True or false: In this course, you will \"get your hands dirty\" and gain hands-on experience with UX Research and Design methods.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "True or false: In UX, \"Design\" is concerned only with the aesthetic (or beauty-related) aspects of products.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Which of the following is not part of a typical UX design process?a. Understanding the problemb. Generating possible solutionsc. Establishing the sale price for a productd. Assessing prototypes and finding new problems",
+      "definition": "c. Establishing the sale price for a product"
+    },
+    {
+      "term": "_____________ means \"to make an idea real or concrete.\"a. Assessmentb. Communicationc. Reificationd. Reflection",
+      "definition": "c. Reification"
+    },
+    {
+      "term": "According to Bill Moggridge, \"A representation of a design, made before the final solution exists\" is called a:a. Time capsuleb. Prototypec. Brainstormd. Design representation",
+      "definition": "b. Prototype"
+    },
+    {
+      "term": "Which of the following is not an advantage of lo-fi prototyping?a. You can identify problems before investing significant resources into a design direction.b. You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience.c. Stakeholders are more likely to give honest feedback if they perceive that design ideas are \"sketchy\" rather than highly polished.d. Lo-fi prototypes are easy to change, allowing you to iterate more rapidly than you could if you were creating more complex prototypes.",
+      "definition": "b. You can work out aspects of graphic design such as fonts and color schemes, which have the largest impact on user experience."
+    },
+    {
+      "term": "Bill Buxton claims that __________ is not just a byproduct of design, but is central to design thinking and learning.SketchingBeautyFunctionalityUser Testing",
+      "definition": "Sketching"
+    },
+    {
+      "term": "True or false: it is important to be good at drawing to use sketching in UX Design.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "True or false: in the \"generation\" phase, your goal should be to sketch many different design ideas rather than to perfect a single idea.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "True or false: when sketching to come up with different design solutions, you should stop the first time you run out of ideas.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Brainstorming, morphological analysis, and \"the worst idea\" are examples of what kind of technique?a. Ideationb. Lo-fi prototypingc. Convergenced. Poor",
+      "definition": "a. Ideation"
+    },
+    {
+      "term": "The \"central vision\" portion of the human field of view, in which people can read text and recognize details in images, is approximately how wide?a. 5°b. 18°c. 30°d. 180°",
+      "definition": "a. 5°"
+    },
+    {
+      "term": "The pattern of eye fixations that people perform when processing a web page has been shown to resemble what shape?a. A circleb. A spiralc. The letter 'F'd. The letter 'Z'",
+      "definition": "c. The letter 'F'"
+    },
+    {
+      "term": "The effect that makes it easy to recognize objects in a visual field that differ from their background and all other objects in simple visual features like color and texture is called:a. saccadeb. gestaltc. brightnessd. pop-out",
+      "definition": "d. pop-out"
+    },
+    {
+      "term": "Which of the following is not considered a primitive visual feature that is processed in the first, and fastest, stage of visual processing?a. angle of intersectionb. proximityc. shade/contrastd. motion",
+      "definition": "b. proximity"
+    },
+    {
+      "term": "According to the original research on short-term memory, how many \"items\" can a person retain in short-term memory at one time?a. One or twob. About 7c. About 10d. There is no measurable limit",
+      "definition": "b. About 7"
+    },
+    {
+      "term": "A collection of associated concepts in long-term memory is called what?a. A thoughtb. A schemac. A muled. A gestalt",
+      "definition": "b. A schema"
+    },
+    {
+      "term": "Which of the following does not impact the likelihood that something in long-term memory will be recalled?a. strength of associationb. frequency of usec. recency of used. accuracy of information",
+      "definition": "d. accuracy of information"
+    },
+    {
+      "term": "About how long does an item remain in short-term memory if it is not actively maintained through rehearsal?a. Less than one secondb. A few secondsc. A few minutesd. Up to an hour",
+      "definition": "b. A few seconds"
+    },
+    {
+      "term": "The recommendation \"keep lists of options short\" is given because:a. short lists load faster on a web page.b. designing long lists of options is a waste of time because most users will only ever choose one or two of them.c. due to the limits of short-term memory, users will have forgotten the first items by the time they've gotten to the end of a long list.d. long lists exceed users' useful field of view, and they aren't able to scan them effectively using saccades.",
+      "definition": "c. due to the limits of short-term memory, users will have forgotten the first items by the time they've gotten to the end of a long list."
+    },
+    {
+      "term": "In the context of this lesson, the use of consistency, standards, and metaphor is recommended because:a. people are afraid of things that are new and different.b. they allow a design to take advantage of users' existing schema.c. they are typically required by platform guideline documents.d. borrowing ideas from others is easier than coming up with your own.",
+      "definition": "b. they allow a design to take advantage of users' existing schema."
+    },
+    {
+      "term": "Question 1Write the stages of action in the correct order in the text box below. There is no need to number them, and feel free to separate each stage with a comma:a. Interpreting the State of the Worldb. Selecting the Actionc. Evaluating the Outcomed. Executing the Actione. Forming the Intentionf. Perceiving the State of the World",
+      "definition": "e. Forming the Intention, b. Selecting the Action, d. Executing the Action, f. Perceiving the State of the World, a. Interpreting the State of the World, c. Evaluating the Outcome"
+    },
+    {
+      "term": "If a user of a system is unable to find an option for action that they believe will move them closer to achieving their goal, we would say that the system fails to bridge:a. The Gulf of Inspectionb. The Gulf of Expectationc. The Gulf of Executiond. The Gulf of Evaluation",
+      "definition": "c. The Gulf of Execution"
+    },
+    {
+      "term": "If a user of a system is unable to determine whether an action they took helped to move them closer to achieving their goal, we would say that the system fails to bridge:a. The Gulf of Inspectionb. The Gulf of Expectationc. The Gulf of Evaluationd. The Gulf of Execution",
+      "definition": "c. The Gulf of Evaluation"
+    },
+    {
+      "term": "A feature of an environment or system that, by its shape and appearance, suggests to a person that a particular action could be taken is called:a. An affordanceb. A signalc. A constraintd. A signpost",
+      "definition": "a. An affordance"
+    },
+    {
+      "term": "A feature of an environment or system that communicates through verbiage or imagery what will happen if an action is taken is called:a. A signifierb. A signalc. Feedbackd. An icon",
+      "definition": "a. A signifier"
+    },
+    {
+      "term": "A change in an environment or system that indicates that a user's action was recognized and communicates the result of that action is called:a. Response timeb. A signalc. Feedbackd. A dialogue box",
+      "definition": "c. Feedback"
+    },
+    {
+      "term": "Reducing the set of available actions to only those that are possible given a particular state of the system would be an example of applying:a. Feedbackb. Constraintsc. Conceptual Modelsd. Mapping",
+      "definition": "b. Constraints"
+    },
+    {
+      "term": "By helping users form effective ________, we can help users to predict the results of actions they haven't yet performed using a system.a. system imagesb. assumptionsc. feedbackd. conceptual models",
+      "definition": "d. conceptual models"
+    },
+    {
+      "term": "Neilsen's set of 10 heuristics was designed to meet all of the following criteria except:a. The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interfaceb. The heuristics are applicable to a wide range of different platforms and interaction modalities (e.g., mouse-and-keyboard, touch-based mobile, speech)c. The heuristics are compact enough to be taught to a non-expert within a few hoursd. The heuristics are backed up by systematic research showing that the set of heuristics could explain a range of usability problems observed across numerous usability tests with multiple systems",
+      "definition": "a. The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interface"
+    },
+    {
+      "term": "Using obscure system codes or non-intuitive imagery to represent system features and/or feedback violates which heuristic?a. User control and freedomb. Flexibility and efficiency of usec. Aesthetic and minimalist designd. Match between system and the real world",
+      "definition": "d. Match between system and the real world"
+    },
+    {
+      "term": "For a system's response to user input to be perceived as \"instantaneous\" by the user, what is the maximum time that can elapse between the user's action and the system response?a. 10 millisecondsb. 100 millisecondsc. 1 secondd. 1 minute",
+      "definition": "b. 100 milliseconds"
+    },
+    {
+      "term": "Because some users learn how to use a system through trial and error, it is important to:a. provide extensive documentation to ensure that users always do the right thingb. force users to undergo training before using a system so they don't break anythingc. provide users with only one option at a time so that they cannot make mistakesd. support \"undo\" and \"redo\" to help users recover from mistakes",
+      "definition": "d. support \"undo\" and \"redo\" to help users recover from mistakes"
+    },
+    {
+      "term": "According to Nielsen's heuristics, \"platform standards\" are important to support in user interface design because:a. Platform standards are always better than anything you could come up with on your ownb. Supporting standards allows users to leverage \"schemas\" they have developed through prior experiences with similar systemsc. Platform owners may refuse to allow your system to run on their platform if you do not conformd. You can use pre-existing code libraries, which saves development time",
+      "definition": "b. Supporting standards allows users to leverage \"schemas\" they have developed through prior experiences with similar systems"
+    },
+    {
+      "term": "Nielsen provides several recommendations for help and documentation. Which of the following is not one of his recommendations?:A. help should be focused on users' tasks B. help should be small and searchable C. help should include step-by-step instructions D. help should be written from the system developers' point of view",
+      "definition": "D. help should be written from the system developers' point of view"
+    },
+    {
+      "term": "Some web forms give instantaneous feedback about the validity of data entered into a form field every time a user types a character. This type of \"in-process feedback\" helps usability because:a. It can be used to manipulate users into providing data they didn't intend to provideb. It encourages users to look up help and documentation to understand how the system worksc. It helps prevent errors before they happend. It keeps users focused on the current task rather than getting distracted",
+      "definition": "c. It helps prevent errors before they happen"
+    },
+    {
+      "term": "According to Wikipedia, a \"direct manipulation interface\" is one that features \"continuous representation of objects of interest and rapid, reversible, and incremental actions and feedback.\" The \"continuous representation of objects of interest\" is best aligned with which principle of good UI design?a. Prevent errors before they happenb. Support recognition over recallc. Employ aesthetic and minimalist designd. Support user control and freedom",
+      "definition": "b. Support recognition over recall"
+    },
+    {
+      "term": "A recommended technique for supporting \"flexibility and efficiency of use\" is:a. the use of keyboard \"accelerator\" shortcutsb. make sure all commands are represented graphically on the screenc. streamline the design to minimize page load timesd. eliminate as many commands as possible to prevent possible errors",
+      "definition": "a. the use of keyboard \"accelerator\" shortcuts"
+    },
+    {
+      "term": "From a usability point of view, it's important to use an \"aesthetic and minimalist design\" because:a. a pleasing design can increase brand awareness, which can increase salesb. reducing clutter and organizing information makes it easier for people to find what they are looking forc. a simpler design is more cost-effective to develop and maintaind. an ugly design will provoke users to make errors on purpose, as a form of protest",
+      "definition": "b. reducing clutter and organizing information makes it easier for people to find what they are looking for"
+    },
+    {
+      "term": "ielsen provides several recommendations for help and documentation. Which of the following is not one of his recommendations?a. help should be focused on users' tasksb. help should be small and searchablec. help should include step-by-step instructionsd. help should be written from the system developers' point of view",
+      "definition": "d. help should be written from the system developers' point of view"
+    },
+    {
+      "term": "Course 2:1. Which of the following is NOT a reason to conduct a user needs assessment?A. To understand why a user would want to use a product or service at all.B. To test whether one version of a product or service is better than another.C. To learn how users actually use a product or service.D. To see what problems users have when using a product or service.",
+      "definition": "B. To test whether one version of a product or service is better than another."
+    },
+    {
+      "term": "At what point in a product or service's life-cycle should one conduct a user needs assessment? I. Before designing a new product or service. II. Before considering a re-design of an existing product or service. III. Just before releasing a new product or service that has already been designed. A. I onlyB. II onlyC. I and IID. II and III",
+      "definition": "C. I and II"
+    },
+    {
+      "term": "Which of the following steps will you be learning about in this user needs assessment course? I. Preparing for and conducting interviews. II. Observing users using a product or service. III. Analyzing qualitative data to arrive at insights. A. I and IIB. I and IIIC. II and IIID. I, II, and III",
+      "definition": "D. I, II, and III"
+    },
+    {
+      "term": "4. Which of the following tasks is most representative of the kind of work involved in qualitative research?A. Conducting interviews about how people use Excel spreadsheetsB. Analyzing statistical data about visits to AmazonC. Writing software to classify user posts on FacebookD. Running an experimental trial to see if users like Google with banner ads",
+      "definition": "A. Conducting interviews about how people use Excel spreadsheets"
+    },
+    {
+      "term": "Which of the following describes potential relationships between qualitative and quantitative research? I. Qualitative research generates hypotheses that can be verified with quantitative research. II. Qualitative research offers potential explanations for outcomes from quantitative research. III. Qualitative research tends to provide close-up, in-depth description while quantitative research tends to provide aggregate, large-scale description. A. I and IIB. I and IIIC. II and IIID. I, II, and III",
+      "definition": "D. I, II, and III"
+    },
+    {
+      "term": "6. Which of the following questions is best answered by a qualitative research methodology?A. What proportion of Gadget X users love Feature Y?B. What are the different ways in which Gadget X frustrates its users?C. How will total revenue change if Gadget X's price is reduced by 10%?D. Does Gadget X tend to increase traffic accidents among its users?",
+      "definition": "B. What are the different ways in which Gadget X frustrates its users?"
+    },
+    {
+      "term": "7. For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. What kinds of problems do users face when using Microsoft Word's spell-checking feature?B. What kinds of problems do users face when using Microsoft products?C. What kinds of problems do users face when using Microsoft Word?D. What kinds of problems do users face when fixing a spelling error identified by Microsoft Word's spell-checking feature?",
+      "definition": "A. What kinds of problems do users face when using Microsoft Word's spell-checking feature?"
+    },
+    {
+      "term": "8. For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. How could the \"on/off\" switch of the device you are using be better designed to accommodate users?B. How could the local grocery store be designed better to accommodate customers?C. How could the city/town/village you live in be designed better to accommodate residents?D. How could the customer queue at the local post office be designed better to accommodate customers?",
+      "definition": "D. How could the customer queue at the local post office be designed better to accommodate customers?"
+    },
+    {
+      "term": "9. For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. How do users feel about MOOCs (massive open online courses)?B. How do users feel about the interface for this particular question in this quiz?C. How do users feel about websites in general?D. How do users feel about Coursera's interface for quizzes?",
+      "definition": "D. How do users feel about Coursera's interface for quizzes?"
+    },
+    {
+      "term": "10. For the purposes of this course, which of the following is the best-scoped question for a small user needs assessment project?A. How can the world economy be improved for human beings?B. What do people who take this course want out of it?C. How could the solar system be better designed for alien visitors?D. What do sentient beings expect from the universe?",
+      "definition": "B. What do people who take this course want out of it?"
+    },
+    {
+      "term": "1. What kind of interviews are you learning about in this course?A. Group, remote, semi-structured.B. Individual, remote, structured.C. Individual, in-person, semi-structured.D. Group, in-person, unstructured.",
+      "definition": "C. Individual, in-person, semi-structured."
+    },
+    {
+      "term": "Which of the following should you aim for when arranging interviews? I. The participant should be a user or potential user of the product or service. II. The interview should be held where the product or service would normally be used. III. The time should be when the product or service would normally be used. A. I and IIB. I and IIIC. II and IIID. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "3. What is one quality that distinguishes a semi-structured interview from other kinds of interviews?A. Half of the interview will be a questionnaire, the other half will be open-ended.B. Half of the interview will be a questionnaire, the other half will be based on an interview protocol.C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script.D. The interviewer and the interview participant should each expect to speak about half of the time.",
+      "definition": "C. While the interviewer uses an interview protocol as a guideline, the interview itself will often go off-script."
+    },
+    {
+      "term": "4. What is the value of having an overarching question in an interview protocol?A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview.B. It serves as a catch-all question to ask at the end of an interview.C. It is a good opening question to ask during the interview.D. It is a good way to elicit a summary of the interview participant's thoughts.",
+      "definition": "A. It provides a focus for the interview that the interviewer keeps in mind throughout the interview."
+    },
+    {
+      "term": "5. Which of the following topics are not a common part of the introduction to an interview?A. How confidentiality will be handledB. Expected duration of the interviewC. How many other interview participants there areD. Overall goals of the interview",
+      "definition": "C. How many other interview participants there are"
+    },
+    {
+      "term": "6. Which of the following is a good open-ended question to ask in a semi-structured interview?A. How many times a week do you use a GPS device recently?B. Can you tell me about the most recent time when you used a GPS device?C. Was the GPS interface poorly designed?D. Why didn't you use the landmark feature on your GPS device?",
+      "definition": "B. Can you tell me about the most recent time when you used a GPS device?"
+    },
+    {
+      "term": "Once you have a list of core questions to ask, what should you do next in constructing the interview protocol? I. Cluster related questions together. II. Try the questions on a potential subject. III. Add follow-up questions. A. I and IIB. I and IIIC. II and IIID. I, II and III",
+      "definition": "B. I and III"
+    },
+    {
+      "term": "8. Which of the following is a bad question to ask during a user needs assessment interview?A. Could you tell me about a recent time when you used the \"undo\" feature?B. Tell me more -- what was the context when you used the \"undo\" feature?C. What functionality would you have liked to have to complete the task?D. Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?",
+      "definition": "D. Was it because you didn't know about the \"undo\" feature that you were unable to complete the task?"
+    },
+    {
+      "term": "In a semi-structured interview, why would you want to avoid a question such as \"Was it because you didn't know about the 'undo' feature that you were unable to complete the task?\" I. It is leading -- you are feeding a possible answer to the participant. II. It is closed-ended -- this is a yes-or-no question. III. It is judgmental -- you are suggesting that the participant's lack of knowledge was a problem. A. I and IIB. I and IIIC. II and IIID. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "Which of the following are good guidelines for using an interview protocol? I. Memorize the protocol, so that you don't have to refer to it that much during the interview itself. II. Avoid asking any questions that are not open-ended. III. Ask the questions exactly as they are written and in the order they are written. A. I onlyB. II onlyC. III onlyD. I and III",
+      "definition": "A. I only"
+    },
+    {
+      "term": "1. Which of the following should you NOT do when trying to establish rapport with an interview participant?A. Talk about what other participants have been saying.B. Make small talk at first.C. Listen and observe how they respond.D. Adopt a learning mindset.",
+      "definition": "A. Talk about what other participants have been saying."
+    },
+    {
+      "term": "2. Conducting an actual semi-structured interview is most consistently like which of the following activities?A.Golf, because negative events can affect your performance.B. Driving, because you have to navigate adversarial situations.C. Playing jazz, because improvisation is required.D. Running a marathon, because it is exhausting.",
+      "definition": "C. Playing jazz, because improvisation is required."
+    },
+    {
+      "term": "3. Among responses by interview participants that are relevant to your overarching question, what should you be paying particular attention to?A. Answers that confirm what you know.B. Answers that are surprising or unexpected.C. Answers delivered without emotion.D. Answers that show off the participant's cleverness.",
+      "definition": "B. Answers that are surprising or unexpected."
+    },
+    {
+      "term": "4. What should you keep in mind throughout the interview?A. Your overarching question(s).B. \"The Force\" from Star Wars.C. The name of the interview participant.D. The next question in your interview protocol.",
+      "definition": "A. Your overarching question(s)."
+    },
+    {
+      "term": "5. Which of the following is the right way to take notes?A. To write only the key points in short phrases.B. To capture only what audio recording definitely will not.C. There is no one right way to take notes.D. To jot down only follow-up questions you want to ask later.",
+      "definition": "C. There is no one right way to take notes."
+    },
+    {
+      "term": "Which of the following is worth noticing in an observation? I. The physical context where the user is. II. Pauses or missteps the user makes. III. Comments the user makes during a task. A. II onlyB. III onlyC. II and IIID. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "7. What should you do during the think-aloud protocol?A. Let the participant hear what you're thinking while you observe them.B. Prompt the user to convey their thinking out loud with short questions.C. Respond to the participant by telling whether what they're saying is correct or not.D. Sit quietly and observe, even if the participant says nothing.",
+      "definition": "B. Prompt the user to convey their thinking out loud with short questions."
+    },
+    {
+      "term": "8. What is an affinity note?A. A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant for the user needs assessment.B. A comment you write during an interview that indicates a common, recurring theme.C. A short summary that includes your analysis of a single interview.D. A follow-up message from an interview participant that contains additional information.",
+      "definition": "A. A sticky note on which you write relevant bits from your interview notes/recording and which is probably relevant for the user needs assessment."
+    },
+    {
+      "term": "9. Which of the following should you avoid when writing affinity notes?A. Make each note understandable on its own.B. Be concrete.C. Aim for about one affinity note per minute of interview.D. Provide thorough, detailed explanations.",
+      "definition": "D. Provide thorough, detailed explanations."
+    },
+    {
+      "term": "10. With respect to semi-structured interviews, what is the point of the Carnegie Hall joke about practice?A. Interviewing is a state of mind.B. The location where you conduct an interview is as important as the interview itself.C. Like any skill, practice is essential.D. Musicians make good interviewers.",
+      "definition": "C. Like any skill, practice is essential."
+    },
+    {
+      "term": "1. What is qualitative data analysis?A. The formal analysis of data that is not all quantified or quantifiable.B. The formal analysis of numerical information.C. The formal analysis of product quality.D. The formal analysis of how good something is.",
+      "definition": "A. The formal analysis of data that is not all quantified or quantifiable."
+    },
+    {
+      "term": "What kinds of information might be part of qualitative data analysis?I. Quotations from interviews.II. Observed actions or events. III. Inferred facts from interviews. A. I onlyB. I and II onlyC. II onlyD. I, II and III",
+      "definition": "D. I, II and III"
+    },
+    {
+      "term": "Which of the following are techniques that might be used in qualitative data analysis? I. Clustering II. Running a statistical regression III. Finding patterns A. I onlyB. III onlyC. I and IIID. I, II and III",
+      "definition": "C. I and III"
+    },
+    {
+      "term": "4. What should you do when clustering data for qualitative data analysis?A. Ensure each cluster is the same size.B. Make clusters out of related information.C. Throw out data that doesn't fit in any cluster.D. Focus on the arrangement of items in each cluster.",
+      "definition": "B. Make clusters out of related information."
+    },
+    {
+      "term": "5. According to the instructor, ________ information is understanding, and understanding is intelligence. Fill in the blank.A. RearrangingB. CondensingC. CreatingD. Eliminating",
+      "definition": "B. Condensing"
+    },
+    {
+      "term": "Which of the following is true about affinity walls? I. They are one way of doing qualitative data analysis. II. They use affinity notes as raw data. III. They must be conducted against a wall. A. I onlyB. II onlyC. I and IID. I, II and III",
+      "definition": "C. I and II"
+    },
+    {
+      "term": "7. What should you do when you create clusters in an affinity wall?A. Avoid mistakes, because once a cluster is formed, it cannot be undone.B. Create clusters of more than seven affinity notes.C. Put all notes that use the same word in a single cluster.D. Be willing to move notes and re-form clusters.",
+      "definition": "D. Be willing to move notes and re-form clusters."
+    },
+    {
+      "term": "8. What should a new note you write (after data extraction is completed) during construction of an affinity wall contain?A. A self-contained summary of the knowledge in the associated cluster.B. Spelling or grammar corrections for affinity notes.C. A new question to ask in a future user needs assessment.D. A salience ranking of the affinity notes in the associated cluster.",
+      "definition": "A. A self-contained summary of the knowledge in the associated cluster."
+    },
+    {
+      "term": "9. What does it mean to balance abstraction and precision in an affinity wall cluster summary?A. The summary should be neither too long nor too short.B. The summary should use some of the same vocabulary used in the notes in the cluster.C. The summary should be applicable to most but not all of the notes in the cluster.D. The summary should represent all of the notes in the cluster while being as specific and insightful as possible.",
+      "definition": "D. The summary should represent all of the notes in the cluster while being as specific and insightful as possible."
+    },
+    {
+      "term": "10. In the affinity wall demo video about toaster ovens, why were the two affinity notes related to \"burning\" eventually separated?A. Because \"burning toast\" and \"burning fingers\" were associated with two different concepts that went better with other affinity notes.B. Because that cluster grew to exceed seven affinity notes.C. Because they were about two different interview participants.D. Because \"burning toast\" tends to happen before \"burning fingers.\"",
+      "definition": "A. Because \"burning toast\" and \"burning fingers\" were associated with two different concepts that went better with other affinity notes."
+    },
+    {
+      "term": "1. What was the title of this course?A. Understanding User NeedsB. Designing User ExperienceC. Surveying Users at ScaleD. Analyzing User Data",
+      "definition": "A. Understanding User Needs"
+    },
+    {
+      "term": "2. Which of the following research techniques were taught in this specific course?A. Experience samplingB. A/B testingC. Semi-structured interviewsD. Surveys and questionnaires",
+      "definition": "C. Semi-structured interviews"
+    },
+    {
+      "term": "3. The methodology you learned in this course is often labeled \"human-centered.\" Why?A. Because it cannot be applied to animals.B. Because it requires mindfulness training and centeredness to execute well.C. Because it focuses on the needs, preferences, and perspectives of a human user (or potential user).D. Because it focuses only on the human user and ignores the user's environment.",
+      "definition": "C. Because it focuses on the needs, preferences, and perspectives of a human user (or potential user)."
+    },
+    {
+      "term": "4. What is another name for the affinity wall technique?A. The KJ MethodB. Relatedness clusteringC. Holmes deductionD. Jiro Dreams of Sushi",
+      "definition": "A. The KJ Method"
+    },
+    {
+      "term": "5. Which of the following is not another name for the kind of qualitative research methodology you learned in this course?A. Ethnographic research.B. Contextual inquiry.C. User needs assessment.D. Socio-technical extraction.",
+      "definition": "D. Socio-technical extraction."
+    },
+    {
+      "term": "6. Which of the following is not one of the three things you learned in this course?A. Conducting semi-structured interviewsB. Observing usersC. Coding of qualitative textsD. Analyzing data with affinity walls",
+      "definition": "C. Coding of qualitative texts"
+    },
+    {
+      "term": "7. What should be your approach in conducting a semi-structured interview? A. Maintain a conversational tone and use the interview protocol as a loose guideline.B. Maintain a formal tone and read the interview protocol questions exactly in the listed order.C. Maintain a relaxed tone and discuss whatever the interview participant feels is relevant.D. Maintain a professional tone and never refer to the interview protocol.",
+      "definition": "A. Maintain a conversational tone and use the interview protocol as a loose guideline."
+    },
+    {
+      "term": "8. In which of the following contexts can you use qualitative data analysis? I. Understanding user needs II. Making sense of non-quantitative data III. Condensing complex information A. I onlyB. I and IIC. I and IIID. I, II, and III",
+      "definition": "D. I, II, and III"
+    },
+    {
+      "term": "9. Which of the following observation methodologies did you learn in this course? A. Sit-and-stare methodologyB. Shock-and-awe techniqueC. Think-aloud protocolD. Poke-or-nudge routine",
+      "definition": "C. Think-aloud protocol"
+    },
+    {
+      "term": "10.Question 10How do you get to Carnegie Hall? A. Practice, practice, practice!B. Go down three blocks and take a right.C. Buy a ticket online.D. Use a GPS device.",
+      "definition": "A. Practice, practice, practice!"
+    },
+    {
+      "term": "1. Your client wants you to conduct a user test of their pre-release prototype to find the most important user interface problems to be fixed before the product is released. What kind of user test is your client asking you to perform?A. SummativeB. FormativeC. CompetitiveD. A/B",
+      "definition": "B. Formative"
+    },
+    {
+      "term": "2. You are working on assessing the usability of a medical device. For regulatory reasons, you need to demonstrate that 99% of medical professionals can perform a certain task in under one minute. What kind of user test should you perform? A. ComparativeB. FormativeC. BenchmarkD. Microusability",
+      "definition": "C. Benchmark"
+    },
+    {
+      "term": "3. Which of the following data types is typically not collected in a user test?A. Task completionB. Task timingC. Critical incidentsD. Expected purchase price",
+      "definition": "D. Expected purchase price"
+    },
+    {
+      "term": "4. Critical incidents and verbal reports are both examples of what kind of user testing data?A. QuantitativeB. QualitativeC. InsignificantD. Performance",
+      "definition": "B. Qualitative"
+    },
+    {
+      "term": "5. Which of the following is typically not true of user testing?A. You should not know who the test participants are, and they should not know who you are.B. You should observe test participants using the system directly.C. You should recruit test participants who are representative of your target users.D. You should give test participants specific tasks to carry out using the system.",
+      "definition": "A. You should not know who the test participants are, and they should not know who you are."
+    },
+    {
+      "term": "6. What is a key benefit of collecting qualitative data during user testing?A. It helps you \"prove\" statistically that the system being studied is better than competitors'B. It doesn't require any analysis, so it saves time compared to other types of dataC. It helps you understand why test participants had difficulties when using the systemD. It allows you to assess the overall quality of the system being tested",
+      "definition": "C. It helps you understand why test participants had difficulties when using the system"
+    },
+    {
+      "term": "7. Which of the following is not an example of a subjective measure that might be collected during a user test?A. Perceived usabilityB. Perceived usefulnessC. DesirabilityD. Task completion speed",
+      "definition": "D. Task completion speed"
+    },
+    {
+      "term": "8. Which of the following data types is arguably the most important to capture when conducting a formative, problem-finding user test? A. Critical incidentsB. Perceived usabilityC. Suggested improvementsD. Participant demographics",
+      "definition": "A. Critical incidents"
+    },
+    {
+      "term": "9. When using questionnaires to collect characteristic, behavioral, and attitudinal data about your test participants, it is best to: A. Ask all the questions you can think of, because you never know what will be useful.B. Ask no questions, because it will distract from the test and annoy your participants.C. Focus on collecting data that could help explain differences in task outcomes.D. Focus on getting users to rate the quality of your system on a five-point scale.",
+      "definition": "C. Focus on collecting data that could help explain differences in task outcomes."
+    },
+    {
+      "term": "10. What is user testing particularly well suited to tell you? A. How many people will buy your product.B. Users' most critical unmet needs.C. Whether users can successfully perform the tasks that you designed the system to support.D. What users will do with the system once they have it in their own hands.",
+      "definition": "C. Whether users can successfully perform the tasks that you designed the system to support."
+    },
+    {
+      "term": "1. Clear \"tests\" that determine whether someone is \"in\" or \"out\" of the target population for a user test are: A. Recruiting criteriaB. Diversity criteriaC. User testsD. Tasks",
+      "definition": "A. Recruiting criteria"
+    },
+    {
+      "term": "2. Factors that capture the ways in which you expect your users to differ can be expressed as: A. Recruiting criteriaB. Diversity criteriaC. Success criteriaD. Tasks",
+      "definition": "B. Diversity criteria"
+    },
+    {
+      "term": "3. Imagine a new shopping website named Nomaza.com. Nomaza.com offers a wide range of products. Which of the following might be a reasonable goal for a Nomaza.com user test? (choose all that apply) A. Can experienced online shoppers use Nomaza.com to find and purchase household items?B. How likely are first-time users of Nomaza.com to return for a second visit?C. Are novice Internet shoppers able to complete the checkout process on Nomaza.com?D. Can people find stuff they want on Nomaza.com?",
+      "definition": "A. Can experienced online shoppers use Nomaza.com to find and purchase household items?, C. Are novice Internet shoppers able to complete the checkout process on Nomaza.com?"
+    },
+    {
+      "term": "4. Which type of recruiting criteria would the following question screen for? \"In the past week, how many hours did you spend completing coursework on edX? 0, 1-2, 3-5, or more than 5\" A. Expertise B. Behavioral C. Characteristic D. Attitudinal",
+      "definition": "B. Behavioral"
+    },
+    {
+      "term": "5. Which of the following is not one of the qualities of well-design tasks for use in a user test? A. RealisticB. VerifiableC. Doesn't \"lead the witness\"D. Leaves room for different users' interpretation",
+      "definition": "D. Leaves room for different users' interpretation"
+    },
+    {
+      "term": "6. What is the problem with the following task description? \"Go to coursera.org. Hover over the button \"Explore\", then click \"Explore all of Coursera\". Scroll until you find the link to \"User Experience (UX) Research and Design\" Specialization. Click on it. On the resulting page, find the first course and enroll in it.\" A. It is not realisticB. It is not verifiableC. It \"leads the witness\"D. It is not the most efficient way of enrolling in a Coursera course",
+      "definition": "C. It \"leads the witness\""
+    },
+    {
+      "term": "7. What is the problem with the following task description? \"Go to coursera.org and find a course that looks interesting to you. Find out more about it.\" A. It is not realisticB. It is not verifiableC. It \"leads the witness\"D. It is not the most efficient way of learning about a Coursera course",
+      "definition": "B. It is not verifiable"
+    },
+    {
+      "term": "8. When designing the set of tasks you will use in a test, it's a good idea to: A. Order them from hardest to easiest, to get the hard stuff out of the way.B. Order them from easiest to hardest, so that your participants feel more comfortable.C. Ask individual participants to perform several very similar tasks one after another, to ensure that they perform consistently.D. Exhaustively test every possible path a user could take through the interface, even if it means testing with dozens of users.",
+      "definition": "B. Order them from easiest to hardest, so that your participants feel more comfortable."
+    },
+    {
+      "term": "9. In user testing, we generally ask test participants to verbalize what they are thinking as they perform tasks. This approach is called: A. DebriefingB. The Think-Aloud ProtocolC. What You See Is What You GetD. Screening",
+      "definition": "B. The Think-Aloud Protocol"
+    },
+    {
+      "term": "10. You are testing the Nomaza.com website. All of your test participants will be using the same computer, which is located in your user testing lab. Which of the following is not something you ought to worry about when preparing for each test session? A. making sure the browser cache is cleared so that later users don't see which links have been visitedB. clearing out data that was created by earlier users so that all participants see the same starting conditionsC. testing participants' laptops to make sure their default browser is capable of displaying Nomaza.comD. giving all participants the same account capabilities and payment method in order to ensure consistency",
+      "definition": "C. testing participants' laptops to make sure their default browser is capable of displaying Nomaza.com"
+    },
+    {
+      "term": "7. Which of the following is not a characteristic of sketches done for the purposes of ideation?A. QuickB. DisposableC. EvocativeD. RefinedE. Ambiguous",
+      "definition": "D. Refined"
+    },
+    {
+      "term": "4. Personas represent target users and are, thus, primarily a distillation of the findings from formative work. Scenarios begin to move designers toward a design solution. How do scenarios do this? A. By envisioning how a technology might address the needs identified in formative workB. By enumerating features of the technology being designedC. By articulating tradeoffs of different design solutionsD. By providing stories that can be put into the ads for the product being designed",
+      "definition": "A. By envisioning how a technology might address the needs identified in formative work"
+    },
+    {
+      "term": "Which of the following is the most true about social exchange theory?a. People consider the economic value to themselves of any given social exchange.b. People think about the risk to themselves primarily in considering social exchanges.c. People are really bad at guessing the cost/benefit of any given social exchange.d. People use trust as a basis to make a cost/benefit guess on the value of a social exchange.",
+      "definition": "d. People use trust as a basis to make a cost/benefit guess on the value of a social exchange."
+    },
+    {
+      "term": "Which of the following is NOT a reason to randomize your response categories in a nominal survey question?a. Anchoringb. Primacyc. Recencyd. Cognitive burden",
+      "definition": "d. Cognitive burden"
+    },
+    {
+      "term": "Which of the following is NOT a reason to randomize your response categories in a nominal survey question?a. Anchoringb. Primacyc. Recencyd. Cognitive burden",
+      "definition": "d. Cognitive burden"
+    },
+    {
+      "term": "What elements should a script include for a remote moderated test?a. Obtain Consentb. Make introductionsc. Build rapportd. Exact instructions for how to complete taskse. Set expectations for duration and content of testf. Set expectations for role of moderator and observer",
+      "definition": "a. Obtain Consent, b. Make introductions, c. Build rapport, e. Set expectations for duration and content of test, f. Set expectations for role of moderator and observer"
+    },
+    {
+      "term": "Write the stages of action in the correct order in the text box below. There is no need to number them, and feel free to separate each stage with a comma: Interpreting the State of the WorldSelecting the ActionEvaluating the OutcomeExecuting the ActionForming the IntentionPerceiving the State of the World | ",
+      "definition": "Forming the Intention, Selecting the Action, Executing the Action, Perceiving the State of the World, Interpreting the State of the World, Evaluating the Outcome"
+    },
+    {
+      "term": "For the next two questions, you'll have the opportunity to practice grading a sample Mini-Project description.Assign the learner the grade you feel they deserve for each criteria. Keep trying until you are able to grade the submission the same way it would have been scored by the instructor:Grade this Mini-Project Description:What do users of Facebook find useful or frustrating about its interface? Facebook is a widely used social media platform that can be used on Internet-connected computing devices and smartphones, where users connect explicitly with their friends and family and share comments, photos, and hyperlinks. The interface is rich with features, and the question is which ones users use and how they feel about them.Criteria: Problem statement and question (Are the problem statement and question clearly communicated?) | Needs Work (There is no discernible problem statement, or it is difficult to understand.) | Fair (There seems to be a reasonable problem description, but it is not provided in the form of a question, or it is not given sufficient detail to be clear.) | Very good (There is a clear problem description and a good summary of the problem is posed as a single question.)",
+      "definition": "Very good (There is a clear problem description and a good summary of the problem is posed as a single question.)"
+    },
+    {
+      "term": "Again considering the learner response below.Assign the learner the grade you feel they deserve for the criteria. Keep trying until you are able to grade the submission the way it would have been scored by the instructor:Grade this Mini-Project Description:What do users of Facebook find useful or frustrating about its interface? Facebook is a widely used social media platform that can be used on Internet-connected computing devices and smartphones, where users connect explicitly with their friends and family and share comments, photos, and hyperlinks. The interface is rich with features, and the question is which ones users use and how they feel about them.Criteria: Scoping (Was the interview protocol scoped appropriately?) | Needs Work (The scoping of the problem is poor. It is either much too simple or much too complex to be answered with a couple of hour-long interviews.) | Fair (The scoping of the problem might be a little too big or a little too small. It seems either a little too simple or a little too complex to be answered with a couple of hour-long interviews.) | Very Good (The scoping of the problem is good. The problem seems like one that could be meaningfully understood with a couple of hour-long interviews.)",
+      "definition": "Fair (The scoping of the problem might be a little too big or a little too small. It seems either a little too simple or a little too complex to be answered with a couple of hour-long interviews.)"
+    },
+    {
+      "term": "You'll now have the opportunity to practice grading a sample interview protocol.Assign the learner the grade you feel they deserve for the criteria. Keep trying until you are able to grade the submission the same way it would have been scored by the instructor:Grade this Interview Protocol:What do users of Facebook find useful or frustrating about the way its privacy setting options work?Criteria: Number and Quality (Is the number and quality of the overarching questions appropriate?) | Not Serious (There was no attempt to provide a serious overarching question.) | Needs Work (There are three or more overarching questions, each substantially different from the others.) | Fair (There are exactly one or two overarching questions, but the questions do not seem well-suited to the mini-project.) | Very Good (There are exactly one or two overarching questions, and they seem appropriate for the mini-project.)",
+      "definition": "Very Good (There are exactly one or two overarching questions, and they seem appropriate for the mini-project.)"
+    },
+    {
+      "term": "How many sessions are you planning to conduct on your own? | ",
+      "definition": "5"
+    }
+  ]
+}

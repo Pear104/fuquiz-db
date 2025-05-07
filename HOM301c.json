@@ -1,0 +1,405 @@
+{
+  "strictQuizMode": false,
+  "quizSrc": [
+    {
+      "term": "Question 1The evolution of hotel chains between 1920 and 1950 was driven by:A. The emergence of loyalty programsB. Declining travel costsC. The development of the air, road and rail networkD. A reduction in operating costs",
+      "definition": "C. The development of the air, road and rail network"
+    },
+    {
+      "term": "Question 2What are the four key players in the hotel industry value chain?A. Private equity fundsB. ConsultantsC. DistributorsD. EmployeesE. OwnersF. OperatorsG. Brands",
+      "definition": "C. Distributors  E. Owners  F. Operators  G. Brands"
+    },
+    {
+      "term": "Question 3In order to be able to scale quickly, hotel chains use franchising and management services contractsA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 4Typically the initial cost of a franchising is a mixture of a flat fee plus a certain amount per roomA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 5A management services agreement typically includes clauses related to:A. BrandingB. DistributionC. Hotel OperationsD. All of the above",
+      "definition": "D. All of the above"
+    },
+    {
+      "term": "Question 6All regions of the world remain dominated by independent hotels with the exception of AsiaA. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 7If a hotel actual occupancy rate is 45 % when it's theoretical occupancy rate is 20 %, it's Market Penetration Index is:A. 2.25B. 120C. 225",
+      "definition": "C. 225"
+    },
+    {
+      "term": "Question 8RevPAR is calculated byA. Dividing total room revenue by the number of rooms availableB. Dividing total room revenue by the number of room sold",
+      "definition": "A. Dividing total room revenue by the number of rooms available"
+    },
+    {
+      "term": "Question 9Hotels with index numbers above 100 are considered as outperforming their competitorsA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 10Which of these descriptions best describes revenue management?A. The art and science of trying to maximize RevPAR using the elasticity of the demandB. Offering the right service, at the right time, at the right price, to the right customer, and through the right channel, in order to maximize RevPAR at the lowest cost of distribution.",
+      "definition": "B. Offering the right service, at the right time, at the right price, to the right customer, and through the right channel, in order to maximize RevPAR at the lowest cost of distribution."
+    },
+    {
+      "term": "Question 11Before the electronic revolution, reservations typically came:A. Directly to the propertyB. Through tour operatorsC. Through corporate travel agenciesD. All of the above",
+      "definition": "D. All of the above"
+    },
+    {
+      "term": "Question 12To make use of GDSs, hotels needed to have:A. contracts with the major tour operatorsB. access to a Central Reservation SystemC. an existing relationship with corporate travel agents",
+      "definition": "B. access to a Central Reservation System"
+    },
+    {
+      "term": "Question 13As a result of the growth of the web, the number of potential pathways between the hotel and the consumer exploded...A ... making it easier for hotels to manage their distribution.B ...increasing both the complexity and potential of electronic distribution.C ...but independant hotels successfuly resist this trend by limiting the number of channels with which they work.",
+      "definition": ""
+    },
+    {
+      "term": "Question 14One of the major benefits of working with OTAs is wider distributionA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 15Today, working with OTA's, the most widely used business model is:A. The commission modelB. The merchant model",
+      "definition": "A. The commission model"
+    },
+    {
+      "term": "Question 16For most hotels, working with OTA's has replaced traditional channelsA. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 17Bookings that come from a hotel website are less expensive than bookings through an OTAA. TrueB. FalseC. It depends",
+      "definition": "C. It depends"
+    },
+    {
+      "term": "Question 18What is price parity?A. A clause in the OTA's supplier contracts that prohibits the latter from offering a cheaper price for the same product on any other distribution channelB. A critical piece of merchandising that helps convince the customer to stop searching and actually make their purchase.",
+      "definition": "A. A clause in the OTA's supplier contracts that prohibits the latter from offering a cheaper price for the same product on any other distribution channel"
+    },
+    {
+      "term": "Question 19To calculate the true cost of a brand.com booking, which costs do you need to consider?A. Website developmentB. Transaction cost (booking engine, credit card fees)C. Content maintenance costsD. Online marketing costs",
+      "definition": "A. Website development  B. Transaction cost (booking engine, credit card fees)  C. Content maintenance costs  D. Online marketing costs"
+    },
+    {
+      "term": "Question 20Disruption in terms of hotel distribution is likely to come from:A. AmazonB. GoogleC. MicrosoftD. Facebook",
+      "definition": "A. Amazon   B. Google"
+    },
+    {
+      "term": "Question 21The meta search business model typically works...A ...on a cost per click basisB ... on a cost per acquisitionC ...on a commision per booking basis",
+      "definition": ""
+    },
+    {
+      "term": "Question 22Why is a hotel website content important?A. Competitors will mock you if your website doesn't look good.B. It plays a determining role in both being found by search and converting the webite visitor.C. Drive business to a website with poor descriptive text and low quality images would be counterproductive.",
+      "definition": "B. It plays a determining role in both being found by search and converting the webite visitor."
+    },
+    {
+      "term": "Question 23To understand how to improve both your site and your sales, you should pay particular attention to:A. Insights from your analyticsB. Your hosting strategyC. The topicality of your content",
+      "definition": "A. Insights from your analytics"
+    },
+    {
+      "term": "Question 24When registering a domain name, you should also consider:A. Registering common mispellings of your nameB. Its similarity with your competitor's domain name",
+      "definition": "A. Registering common mispellings of your name"
+    },
+    {
+      "term": "Question 25For hotel websites, images and videos are important in convincing the customer to buy...A ...in all casesB ... for economy and budget hotelsC ...when moving towards the upmarket and luxury end of the market",
+      "definition": ""
+    },
+    {
+      "term": "Question 26According to Google, when trying to find an airline seat, customers search for:A. the brand name of the airlineB. a low cost carrierC. cheap flights",
+      "definition": "C. cheap flights"
+    },
+    {
+      "term": "Question 27Using a database-driven approach to web development gives a more dynamic result, but is expensive and requires more sophisticated hosting options.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 28Using a virtual server provides flexibility and frees the website developer from maintenance requirementsA TrueB False",
+      "definition": ""
+    },
+    {
+      "term": "Question 29Using a pay for position strategy is attractive because it's performance oriented - you pay for what you get.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 30To decrease the cost of using display advertising, you need to focus onA. Decreasing CPMB. Increasing CPMC. Increasing CTRD. Decreasing CTR",
+      "definition": "A. Decreasing CPM   C. Increasing CTR"
+    },
+    {
+      "term": "Question 31When using affiliate marketing, you typically reward partners for every website visitor delivered?A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Question 32When sending promotional emails, it's importantA. To use a dedicated email marketing serviceB. To integrate your efforts with social mediaC. To send resulting traffic to a dedicated landing page",
+      "definition": "A. To use a dedicated email marketing service"
+    },
+    {
+      "term": "Question 33What are the main reasons a hotel should work with OTA's?A. Billoard EffectB. ReachC. Pay-per-performanceD. ReactivityE. Market Information",
+      "definition": "A. Billoard Effect  B. Reach  C. Pay-per-performance  D. Reactivity  E. Market Information"
+    },
+    {
+      "term": "Question 34What does the Billboard Effect mean?A. Using an OTA also increases the number of direct bookings on a hotel websiteB. Agressive merchandising techniques can be used to create a sense of emergency to panic the customer into commiting the purchaseC. Working with OTAs allows hotels to save on the cost of building and updating a direct website",
+      "definition": "A. Using an OTA also increases the number of direct bookings on a hotel website"
+    },
+    {
+      "term": "Question 35Pay-per-Perfomance meansA. The hotel has to pay the OTA an initial set-up or periodic on-going feeB. The hotel only pays when the OTA is successful in driving a booking",
+      "definition": "B. The hotel only pays when the OTA is successful in driving a booking"
+    },
+    {
+      "term": "Question 36What can you do to increase direct bookings in spite of price parity?A. Use loyalty programs as an incentiveB. Translate your website in as many foreign languages as possibleC. Provide added value for the same rate on your brand.com websiteD. Upsell packages including spa treatments, wifi access or tickets to local attractions",
+      "definition": "A. Use loyalty programs as an incentive  C. Provide added value for the same rate on your brand.com website  D. Upsell packages including spa treatments, wifi access or tickets to local attractions"
+    },
+    {
+      "term": "Question 37When working with an OTA, what are the key success factors for maximising business?A. Availability ManagementB. PhotosC. User reviewsD. Competitive ratesE. Content",
+      "definition": "A. Availability Management  B. Photos  C. User reviews  D. Competitive rates  E. Content"
+    },
+    {
+      "term": "Question 38Which information should a hotel stress in the textual content provided to the OTA?A. Its locationB. Description of hotel facilitiesC. The manager's name and career historyD. A list of the amenities provided in the guestroomE. A list of nearby competing hotelsF. Local attractions",
+      "definition": "A. Its location  B. Description of hotel facilities  D. A list of the amenities provided in the guestroom  F. Local attractions"
+    },
+    {
+      "term": "Question 39Insuring the product and service provided match customer expectations is a good way to ...A. help insure positive user reviewsB. maximise repeat business",
+      "definition": "A. help insure positive user reviews"
+    },
+    {
+      "term": "Question 40You should usually be open and available for sale on your selected OTA channels, because ...A. leaving rooms vacant when they could be sold by the OTA is a false economyB. you need to sell each and every room at the maximum possible price and minimum cost each and every nightC. OTAs are valuable partners and you need to develop a working relationship with them to maximise business with them in the long term",
+      "definition": "A. leaving rooms vacant when they could be sold by the OTA is a false economy  B. you need to sell each and every room at the maximum possible price and minimum cost each and every night  C. OTAs are valuable partners and you need to develop a working relationship with them to maximise business with them in the long term"
+    },
+    {
+      "term": "Question 41Analytics-based techniques in revenue management are used to help forecast consumer behavior at the hotel's market level so as to be able to optimize room sales per night at an optimum price.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 42A practical example of revenue management in action is tailoring your room pricing in advance to fit future events, impactful weekends or seasons.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 43Revenue management finds its roots in yield management pioneered by Robert Crandall for use in airlines.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 44In answer to deregulation and fierce competition, American Airlines developed yield management to include advance-purchase restriction, capacity control and non-refundable tickets. The result was that customers turned away from American Airlines causing a loss in profits for the company.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 45Crandall inspired Bill Marriott, CEO of Marriott International, to adopt and enhance yield management specifically for his hotel chain. Which of the following two methods did Marriott employ?A. Targeted discounts based on demandB. Forecasting booking patterns and optimizing room availability by price and length of stay.C. Using intermediaries to handle Marriott bookings",
+      "definition": "A. Targeted discounts based on demand   B. Forecasting booking patterns and optimizing room availability by price and length of stay."
+    },
+    {
+      "term": "Question 46Traditionally, travelers booked directly with \"stay brands\", meaning hotels that competed with each other to attract guests. Now, the \"booking brand\" has become the dominant point of entry for consumersA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 47A hotel's marketing costs tend to rise as they both pay to obtain traffic from \"booking brands\" while at the same time competing with \"stay brands\".A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 48Why is rate parity for bookings important for a hotel? (Please tick ALL that apply)A. If a hotel has a higher price on its own brand website, the customer will be tempted to book through a third-party meaning that the hotel will have to pay a commissionB. Price parity is important because potential foreign guests will be confused by any differenceC. If a hotel has a lower price on its own brand website, it will run the risk of breaching the rules of price parity clauses in their OTA contractsD. It isn't important because the priority is maximizing profit at any cost",
+      "definition": "A. If a hotel has a higher price on its own brand website, the customer will be tempted to book through a third-party meaning that the hotel will have to pay a commission  C. If a hotel has a lower price on its own brand website, it will run the risk of breaching the rules of price parity clauses in their OTA contracts"
+    },
+    {
+      "term": "Question 49Hotels are spending about 20%-30% of room revenue for customer acquisition before the customer even walks through the door. Which of the following isn't included in the calculations of these costs?A. TaxesB. Transaction feesC. CommissionsD. Sales and marketing costs",
+      "definition": "A. Taxes"
+    },
+    {
+      "term": "Question 50Individual hotels or small chains competing with each other to offer the lowest prices also often end up paying the highest commissions for those bookings.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 51PPTC means:A. Product, Price, Time, CustomerB. Product, Place, Time, CustomerC. Positioning, Price, Terms, Contract",
+      "definition": "A. Product, Price, Time, Customer"
+    },
+    {
+      "term": "Question 52Traditionally in the hotel marketplace two types of segmentation come to mind: yield/pricing segmentation and type of hotel segmentationA. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 53Hotels typically start with four macro-level segments: transient, corporate, group and other. This segmentation can then be customized based on the location and other characteristics of the property.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 54Hotels have looked to ______________ for inspiration in order to understand how to set up their online booking engine to offer special rates once a customer logs in based on that individual customer's worth (per-customer stay and spend) to the hotel.A. Leisure parksB. CasinosC. Airlines",
+      "definition": "B. Casinos"
+    },
+    {
+      "term": "Question 55Constrained forecasting measures demand controlled by hotel capacity, which is the number of rooms that you have available in your hotel. It is used for:A. PricingB. Financial purposes",
+      "definition": "B. Financial purposes"
+    },
+    {
+      "term": "Question 56What word is given to when demand outpaces supply for a given day for a given hotel?A. TransgressionB. CompressionC. Depression",
+      "definition": "B. Compression"
+    },
+    {
+      "term": "Question 57From a revenue manager's perspective, if you're able to forecast accurately you can then price effectively and optimize revenue. But what mistake should revenue managers avoid?A. Price to budgetB. Set pricing to forecastsC. Set budgeting to seasonal data",
+      "definition": "A. Price to budget"
+    },
+    {
+      "term": "Question 58Initially hotels offered the same room and room types for the same prices every day of the year. This was called:A. BARB. SeasonalC. Single-rate pricing",
+      "definition": "C. Single-rate pricing"
+    },
+    {
+      "term": "Question 59Which concept of pricing goes back to the business vs. leisure traveler split?A. BAR-LOSB. Weekday/WeekendC. Single-rate pricing",
+      "definition": "B. Weekday/Weekend"
+    },
+    {
+      "term": "Question 60Which of the following offers a \"semi-dynamic\" pricing solution?A. BAR by LOSB. BAR",
+      "definition": "A. BAR by LOS"
+    },
+    {
+      "term": "Question 61A hotel's \"______________\" is the rate at which it is obtaining bookingsA. pick-upB. pace",
+      "definition": "B. pace"
+    },
+    {
+      "term": "A hotel's \"______________\" is amount of bookings over a certain time intervalA. pick-upB. pace",
+      "definition": "A. pick-up"
+    },
+    {
+      "term": "Question 62What should the revenue manager do if he/she starts to notice a specific customer segment beginning to have a higher volume of pick-up than they had forecast over a certain period of time?A. Offer discountsB. Raise pricesC. Decrease prices",
+      "definition": "B. Raise prices"
+    },
+    {
+      "term": "Question 63Effective yielding is a hotel's solution to optimize their revenues against their increasing costs. To maximize revenues over both high demand periods and need periods, what can be done?A. Shut down discount offersB. Increase internet presenceC. Independently price every segment",
+      "definition": "C. Independently price every segment"
+    },
+    {
+      "term": "Question 64What would result if you closed out your discount offer?A. OTAs would no longer show your property on their listsB. A prospective high paying or long staying customer may not find you because he or she searched for that discount and it would show no availabilityC. Demand would rise because your hotel would be seen as selective",
+      "definition": "B. A prospective high paying or long staying customer may not find you because he or she searched for that discount and it would show no availability"
+    },
+    {
+      "term": "Question 65Open pricing enables you to leave discounts open during high demand periods, and lower the discount to capitalize on the demand.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 66One of the most important things for a revenue manager to understand is how critical price and time are, and the sensitivity of both, because these allow you to really understand the customer and the consumer's behavior.A. falseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 67\"The essence of revenue management analytics is in understanding consumers' perception of product __________________________, and accurately aligning product____________, __________________and ___________________ within each customer segment.\" Which of the following words does not belong to the statement?A. PricesB. ValueC. Life-cycleD. AvailabilityE. Placement",
+      "definition": "C. Life-cycle"
+    },
+    {
+      "term": "Question 68If you have multiple customers with different pricing characteristics in the same segment, you're missing revenue.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 69There are two major types of segmentation: one for pricing and the other for marketing purposes.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 70What is the goal with segmentation? Which statement is not true?A. Show an understanding of how you bucket together customer types to enable you then use these core groups to obtain more detailed segmentation.B. Categories of customers should not be drawn up depending on which actions you want to take but rather on which financial objectives you wish to achieve. (right answer)C. Different types of segmentation can be utilized as levers to control consumer actions - primarily purchasing or not purchasing a room at the hotel.",
+      "definition": "B. Categories of customers should not be drawn up depending on which actions you want to take but rather on which financial objectives you wish to achieve. (right answer)"
+    },
+    {
+      "term": "Question 71The rise in Booking brands does not necessarily mean the end of Stay brands. Each has their strong point. Which of the following three words best define their respective strengths?A. Producing customer loyaltyB. Being a central point of informationC. producing customer experiencesD. MarketingE. Providing customer delight",
+      "definition": "B. Being a central point of information  C. producing customer experiences  D. Marketing"
+    },
+    {
+      "term": "Question 72The cost of acquisition is one of the most important aspects of distribution, revenue management and segmentation. Understanding your costs enables you to:A. Maximize the rate that you can charge and maximize your segmentationB. Minimize the rate that you can charge and minimize marketing costsC. Optimize the rate that you can charge and optimize your distribution strategy",
+      "definition": "C. Optimize the rate that you can charge and optimize your distribution strategy"
+    },
+    {
+      "term": "Question 73The increase in complexity of the distribution landscape has two consequences for segmentation: Complications and Power.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 74Hotels typically use two major types of segmentation: there's the yielding segmentation that is geared towards pricing and then there is market segmentation that is more geared toward financial reporting.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 75As a rule of thumb if there is a segment that consistently generates between _________ of your room nights or revenue, it makes sense for a hotel to separate it into its own segment.A. 8-15%B. 15-20%C. 1-5%",
+      "definition": "A. 8-15%"
+    },
+    {
+      "term": "Question 76To reach optimal segmentation, there are:A. 3 key considerations to take into accountB. 4 key considerations to take into accountC. 2 key considerations to take into accountD. 5 key considerations to take into account",
+      "definition": "B. 4 key considerations to take into account"
+    },
+    {
+      "term": "Question 77A distribution channel is simply a channel to get people to hotels and may include hotel websites, online travel agencies, and wholesalers. Which two factors are important to cover?A. Transport and infrastructure in the immediate area of your propertyB. Evaluate your needs as a property - which distribution channels fill your property bestC. Develop a strategy both for the present, short term and long term future",
+      "definition": "B. Evaluate your needs as a property - which distribution channels fill your property best   C. Develop a strategy both for the present, short term and long term future"
+    },
+    {
+      "term": "Question 78A hotel can get huge exposure to consumers through online travel agencies and therefore they are a valuable player in the distribution value chain. What is key from the operational perspective?A. Selecting your OTA based on the lowest commission per first stayB. Converting a customer into a routine or loyal guest after that first stay purchased through an OTAC. Deciding which guests will most probably not return to the property in the future",
+      "definition": "B. Converting a customer into a routine or loyal guest after that first stay purchased through an OTA"
+    },
+    {
+      "term": "Question 79What is important when comparing price and behavior?A. Maintaining prices that are different to market or consumer behaviorB. Maintaining brand imageC. Maintaining one price for all customer and market behaviors",
+      "definition": "A. Maintaining prices that are different to market or consumer behavior   B. Maintaining brand image"
+    },
+    {
+      "term": "Question 80Hotels can't entirely predict market behavior so they need to anticipate some prices, but they can't just set prices without anticipating market behavior. Some customers will only buy on a good deal and others don't care and will buy regardless of price. Analyzing how consumers come to channels, and their spend patterns, is a good way of determining this. Is this statement:A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 81There are three major questions to take into account when thinking about re-segmentation: 1) What type of business or mix of business does the hotel have? 2) Can you tell the booking age of each segment of customer, ADR, booking lead time? 3) Are your revenue and sales and marketing teams pricing and promotional strategies resulting in the hotel selling out the day of the stay?A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 82There are three key questions a hotel should ask itself to determine if they need to re-segment. Which one of the following isn't included in these key questions?A. If yes, are you selling out day-off?B. If yes, can you forecast what each business segment will bring to turnover and hotel profit?C. Can you tell the mix of business that it has? If not, refer back to the circle of segmentation optimization.D. If yes, can you tell the booking behavior of each customer segment, ADR and booking lead-time?",
+      "definition": "B. If yes, can you forecast what each business segment will bring to turnover and hotel profit?"
+    },
+    {
+      "term": "Question 83There are three major efforts a hotel can make in order to best manage the changes arising from third-party distribution and re-connect with all customer segments. The first of these is: __________________ to better identify and understand the different customer behaviors in the market place to optimize pricing.A. Optimize the IT systemB. Use a computerC. Utilize more data",
+      "definition": "C. Utilize more data"
+    },
+    {
+      "term": "There are three major efforts a hotel can make in order to best manage the changes arising from third-party distribution and re-connect with all the customer segments. The second of these is: Re-think segmentation ___________________to target consumers as dynamically as possible to optimize promotions.A. In a more detailed wayB. In a global wayC. According to hotel teams",
+      "definition": "A. In a more detailed way"
+    },
+    {
+      "term": "There are three major efforts a hotel can make in order to best manage the changes arising from third-party distribution and re-connect with all customer segments. The third of these is:_________________acquisition costs and other key metrics to optimize distribution.A. BenchmarkingB. StabilizingC. Integrating",
+      "definition": "A. Benchmarking"
+    },
+    {
+      "term": "Question 84In the context of revenue management, forecasting means anticipating a certain amount of demand around specific customer segments and, in aggregate, an entire hotel property.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 85There are two major means of forecasting: (1) unconstrained forecasts or those controlled by capacity and (2) constrained forecasts or those not controlled by capacity.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Question 86In terms of forecasting, variance is a comparison between two hotels in a typical hospitality year.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 87Forecast-to-budget variance gives you an indication of your forecasted performance (with current on the books production) versus what you budgeted and how far ahead or behind you are pacing.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 88When forecasting, compression is when supply exceeds demand and the result is a compressed market.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Question 89What does RevPAR show?A. The efficiency of the revenue compared to the number of customers who stay at the propertyB. The revenue generated per customer segmentC. The revolving rate of clients per price and per room",
+      "definition": "A. The efficiency of the revenue compared to the number of customers who stay at the property"
+    },
+    {
+      "term": "Question 90A property's constrained forecast is demand controlled by capacity.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 91Unconstrained forecast is total demand for the property if capacity is not a factor. In this instance, if a hotel sells its one hundred rooms, its unconstrained forecast would show the overall market demand for its property on a given night.A. FalseB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Question 92To track pace means:A. Monitoring the number of customers booking over a given period of timeB. Monitoring the place an actual booking occurs, i.e. online or at the front deskC. Monitoring the rapidity of hotel operations",
+      "definition": "A. Monitoring the number of customers booking over a given period of time"
+    },
+    {
+      "term": "Question 93Badly forecasting or under-forecasting is detrimental to a hotel because it may lead to the hotel dropping rates and taking last-minute bookings through discount channels and thus paying high commissions.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 94In terms of forecasting and the results achieved from this, what do operations, revenue managers, and others at the property generally use as a health benchmark for the property?A. InventoryB. DevelopmentC. PerformanceD. Staffing",
+      "definition": "C. Performance"
+    },
+    {
+      "term": "Question 95Which of the following developing data points are being increasingly incorporated into the revenue management process?A. Customer genderB. Property-level booking dataC. Competitor pricingD. Customer nationalityE. Weather",
+      "definition": "B. Property-level booking data  C. Competitor pricing  E. Weather"
+    },
+    {
+      "term": "Question 96One of the most correlated data points is between unconstrained demand forecast and web site traffic.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Question 97Which two data points are factors to consider from a macro-level when forecasting a hotel?A. Monitoring competitor pricingB. Monitoring online presenceC. Monitoring the price of air travelD. Monitoring inflation",
+      "definition": "A. Monitoring competitor pricing   B. Monitoring online presence"
+    }
+  ]
+}

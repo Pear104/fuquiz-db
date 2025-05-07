@@ -1,0 +1,1388 @@
+{
+  "quizSrc": [
+    {
+      "term": "If a company has an IT investment prioritization process, the company is more likely to achieve IT - Business alignment?a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "If there is a failure of IT governance, it is likely that:a. The board needs new directors with superior IT competenceb. The CIO/CTO may be replacedc. Both a and b",
+      "definition": "c. Both a and b"
+    },
+    {
+      "term": "The alignment between IT and business is a key IT management issue?a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What is(are) key IT Governance decision(s)?a. What are the key IT goals for the organization?b. Which business processes should be standardized across the organization?c. What IT infrastructure services should be centralized across the organization?d. How much should the organization invest in IT?e. All of the above.",
+      "definition": "e. All of the above."
+    },
+    {
+      "term": "The CIO most commonly reports to the_____________________.a. CEOb. CFO",
+      "definition": "a. CEO"
+    },
+    {
+      "term": "Business/IT Relationship Managers are used to?a. Make IT architecture decisionsb. Define business process requirementsc. Make IT investment decisionsd. All of the above",
+      "definition": "b. Define business process requirements"
+    },
+    {
+      "term": "In the coordination operating model, firms standardize their business processes?a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "A key feature of the application silo stage of the enterprise IT architecture is:a. Standardized infrastructure across the organizationb. IT applications to meet specific users' needsc. Standardized business processes across the organizationd. Experiments to meet local needs.",
+      "definition": "b. IT applications to meet specific users' needs"
+    },
+    {
+      "term": "The standardized technology stage of the enterprise IT architecture would be appropriate for a firm in the coordination operating model?a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "A key governance mechanism in the business silo stage of enterprise IT architecture is:a. Business caseb. IT standards committeec. Enterprise-wide process owners",
+      "definition": "a. Business case"
+    },
+    {
+      "term": "What is the mechanism through which IT governance affects firm performance? a. IT governances impacts IT-Business Alignment, and IT-Business Alignment impacts Firm Performance. b. IT-Business Alignment influences IT Governance, and IT Governance influences Firm Performance.  c. IT-Business Alignment influences Firm Performance, and Firm Performance influences IT Governance.",
+      "definition": "a. IT governances impacts IT-Business Alignment, and IT-Business Alignment impacts Firm Performance."
+    },
+    {
+      "term": "If a company has a well functioning IT steering committee, the company is more likely to achieve IT-Business alignment? a. True b. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "IT governance leads to?a. IT and business alignment about the new products to introduce.b. IT and business alignment about how business processes should work.c. IT and business alignment about which new markets to enter.d. All of the above.",
+      "definition": "d. All of the above."
+    },
+    {
+      "term": "IT governance includes choices about?a. What key IT decisions need to be made. b. Who makes these decisions? c. How these decisions are made?d. All of the above.",
+      "definition": "d. All of the above."
+    },
+    {
+      "term": "If a company is primarily interested in IT-enabled innovation and differentiation, the _________ is the most appropriate decision making structure.a. Business Monarchyb. IT Monarchyc. Feudald. All of the above.",
+      "definition": "c. Feudal"
+    },
+    {
+      "term": "An IT investment approval process is used to describe:a. The business and IT alignment of a new project.b. The financial cost-benefit analysis for a new project.c. The risk associated with a new project.d. All of the above.",
+      "definition": "d. All of the above."
+    },
+    {
+      "term": "What is a key managerial IT governance decision?a. IT Infrastructure strategyb. IT Architecturec. IT Principle",
+      "definition": "c. IT Principle"
+    },
+    {
+      "term": "If a company competes on the basis of differentiation, then the CIO should ideally report to the ____________.a. CEOb. CFOc. COOd. None of the above.",
+      "definition": "a. CEO"
+    },
+    {
+      "term": "The IT steering committee is a key IT governance decision making structure. The primary role of this decision making structure is to:a. Define IT architecture standards.b. Define IT principles.c. Specify the Service Level Agreements for the IT organization.d. All of the above.",
+      "definition": "b. Define IT principles."
+    },
+    {
+      "term": "In the replication operating model, firms share data across different business units?a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "The rationalized data/optimized core stage of the enterprise IT architecture would be appropriate for a firm operating with the replication model?a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "A distinctive feature of the rationalized data/optimized core stage of the enterprise IT architecture is:a. Standardized infrastructure across the organization.b. IT applications to meet specific users' needs.c. Standardized business processes across the organization.d. Experiments to meet local needs.",
+      "definition": "c. Standardized business processes across the organization."
+    },
+    {
+      "term": "A distinctive governance mechanism in the rationalized data /optimized core stage of enterprise IT architecture is:a. Business case.b. IT standards committee.c. Enterprise-wide process owners.",
+      "definition": "c. Enterprise-wide process owners."
+    },
+    {
+      "term": "In which operating model do firms standardize business processes and share data across business units?a. Diversification.b. Unification.c. Coordination.d. Replication.",
+      "definition": "b. Unification."
+    },
+    {
+      "term": "The evolution of enterprise IT architecture follows this sequence.a. Application Silo, Standardized Technology, Rationalized Data/Optimized Core, Modular Architecture.b. Application Silo, Rationalized Data/Optimized Core, Standardized Technology, Modular Architecture.c. Application Silo, Standardized Technology, Modular Architecture, Rationalized Data/Optimized Core.d. Application Silo, Modular Architecture, Standardized Technology, Rationalized Data/Optimized Core.",
+      "definition": "a. Application Silo, Standardized Technology, Rationalized Data/Optimized Core, Modular Architecture."
+    },
+    {
+      "term": "A distinctive feature of the modularity stage of the enterprise IT architecture is:a. Standardized infrastructure across the organization.b. IT applications to meet specific users' needs.c. Standardized business processes across the organization.d. Experiments to meet local needs.",
+      "definition": "d. Experiments to meet local needs."
+    },
+    {
+      "term": "The key strategic implication of the rationalized data / optimized core stage of enterprise IT architecture is?a. Local optimization.b. Operational efficiency.c. Speed to market.d. All of the above.",
+      "definition": "b. Operational efficiency."
+    },
+    {
+      "term": "The cost of implementing an ERP system is about 1% of annual revenue. This is what type of estimate?a. Order of Magnitudeb. Budget Estimatec. Definitive",
+      "definition": "a. Order of Magnitude"
+    },
+    {
+      "term": "Which of the following costs is an example of operation and maintenance cost?a. Cost of developing the bid specificationb. Cost of running the air conditioning systemc. Cost of transferring the data to another system once the old system is sunsetd. All of the above",
+      "definition": "b. Cost of running the air conditioning system"
+    },
+    {
+      "term": "The use case point method is used to estimate the___________cost of a system?a. Hardwareb. Softwarec. Total cost of ownership",
+      "definition": "b. Software"
+    },
+    {
+      "term": "The use case point method of estimating the cost of software considers?a. Unadjusted actor weightb. Unadjusted use case weightc. Technical complexity factord. Environmental complexity factore. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "In calculating the technical complexity factor, if a factor (e.g., ease of use) has higher assigned value then that factor increases the technical complexity factor:a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "IT systems often create operational benefits. Operational benefits are generally______________________.a. Tangibleb. Intangible",
+      "definition": "a. Tangible"
+    },
+    {
+      "term": "Can the IS department develop the system that users' want? This is ____________________ type of risk.a. Developmentb. Organizationalc. Market",
+      "definition": "a. Development"
+    },
+    {
+      "term": "Can the organization make the changes required to implement a new system? This is an example of____________________risk.a. Developmentb. Organizationalc. Market",
+      "definition": "b. Organizational"
+    },
+    {
+      "term": "An IT project can be divided into segments, and a segment can be implemented based on the outcome of implementation of prior segment(s). This is an example of_________________________?a. Deferralb. Stagingc. Growth option",
+      "definition": "b. Staging"
+    },
+    {
+      "term": "If managerial flexibility is high and the project faces significant uncertainty about costs and benefits, then the real options approach to IT investment is the appropriate approach to evaluate the investment.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "This type of estimate requires understanding of the work packages (units of work) that have to be executed to complete the project.a. Order of Magnitude Estimate.b. Budget Estimate.c. Definitive.",
+      "definition": "c. Definitive."
+    },
+    {
+      "term": "In calculating the environmental complexity factor, if a factor (e.g., stability of requirements) has higher assigned value then that factor increases the environmental complexity factor:a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "IT systems often create strategic benefits. Strategic benefits are generally ________.a. Tangible.b. Intangible.",
+      "definition": "b. Intangible."
+    },
+    {
+      "term": "In the use case method a complex actor has higher impact on the final use case point compared to a less complex use case.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the use case point method of software cost estimation, a higher/larger number for the productivity factor means the developer takes more time to code one use case point, thus the developer is less productive:a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "IT systems often create intangible benefits. These intangible benefits are reflected in the __________ of the firm?a. Balance sheet.b. Market value.",
+      "definition": "b. Market value."
+    },
+    {
+      "term": "An IT system is implemented, even when it has a negative NPV, because the system allows other follow on projects. This is an example of _________ ?a. Deferral.b. Staging.c. Growth option.",
+      "definition": "c. Growth option."
+    },
+    {
+      "term": "Process improvement projects are appropriately evaluated using __________ .a. NPV based business case.b. Real Options analysis.",
+      "definition": "a. NPV based business case."
+    },
+    {
+      "term": "Large system implementations often require cooperation customers and/or supplier? This is an example of _______________ risk.a. Development.b. Organizational.c. Market.",
+      "definition": "c. Market."
+    },
+    {
+      "term": "An IT system is being implemented as it has a positive NPV. However, during system development, regulations change and the project no longer has a positive NPV. The real options approach would suggest _________ ?a. Continue with the project, as project termination may hurt the morale of the project team.b. Terminate the project and reallocate resources to a more profitable project.",
+      "definition": "b. Terminate the project and reallocate resources to a more profitable project."
+    },
+    {
+      "term": "Transformation projects are appropriately evaluated using __________ .a. NPV based business case.b. Real Options analysis.",
+      "definition": "b. Real Options analysis."
+    },
+    {
+      "term": "IT portfolio management is concerned with evaluating individual IT investment opportunities.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Transactional systems are about?a. Proving aggregated information for decision making.b. Performing core business processes of the firm cost effectively.c. Providing customers with a differentiated service.d. All of the above.",
+      "definition": "b. Performing core business processes of the firm cost effectively."
+    },
+    {
+      "term": "Information systems are about?a. Proving aggregated information for decision making.b. Performing core business processes of the firm cost effectively.c. Providing customers with a differentiated service.d. All of the above.",
+      "definition": "a. Proving aggregated information for decision making."
+    },
+    {
+      "term": "Investments in strategic systems are like R&D investments.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "A cost focused firm spends more on________________compared to the average firm.a. Firm-wide infrastructureb. Transactional systemsc. Informational systemsd. Strategic systems",
+      "definition": "b. Transactional systems"
+    },
+    {
+      "term": "IT Portfolio management means that the IT investment portfolio of a firm must be continuously evolving with time.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the cost center approach to IT chargeback, IT units offer services for a price and user organizations choose consumption levels.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "The main advantage of the cost center approach to IT chargeback is ________________.a. The simplicity of the approach.b. The incentives for users to consume IT services prudently.c. The incentives for the IT unit to be as efficient as possible.d. All of the above",
+      "definition": "a. The simplicity of the approach."
+    },
+    {
+      "term": "The main advantage of the profit center approach to IT chargeback is ________________.a. The incentives for users to consume IT services prudently.b. The incentives for the IT unit to be as efficient as possible.c. Both of the above",
+      "definition": "c. Both of the above"
+    },
+    {
+      "term": "Prior research suggests that if the user organizations are presented with an IT service that has a price associated with it, it reduces the demand for the IT service.a. True b. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Project Management is about doing the right projects, whereas Portfolio Management is about doing projects right.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "An innovation focused firm spends more on __________ compared to the average firm.a. Firm wide infrastructureb. Transactional systemsc. Informational systemsd. Strategic systems",
+      "definition": "d. Strategic systems"
+    },
+    {
+      "term": "Information Technology Portfolio Management is more important for firms that:a. Execute one large project every year.b. Execute multiple projects in a given year.",
+      "definition": "b. Execute multiple projects in a given year."
+    },
+    {
+      "term": "Strategic systems are about?a. Providing aggregated information for decision making.b. Performing core business processes of the firm cost effectively.c. Providing competitive advantage or reducing competitive disadvantage.d. All of the above.",
+      "definition": "c. Providing competitive advantage or reducing competitive disadvantage."
+    },
+    {
+      "term": "Which element of the IT investment portfolio is about the long-term strategy of the firm?a. Firm wide infrastructureb. Transactional systemsc. Informational systemsd. Strategic systems",
+      "definition": "a. Firm wide infrastructure"
+    },
+    {
+      "term": "In the service center approach to IT chargeback, IT units offer services for a price where the price is set to recover the IT unit's costs of providing the service. a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "The main advantage of the service center approach to IT chargeback is __________.a. The simplicity of the approach.b. The incentives for users to consume IT services prudently.c. The incentives for the IT unit to be as efficient as possible.d. All of the above.",
+      "definition": "b. The incentives for users to consume IT services prudently."
+    },
+    {
+      "term": "If the IT and the user organizations understand IT costs because of the IT chargeback system in place, then the IT chargeback system is likely to lead to better IT decisions.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the profit center approach to IT chargeback, IT units offer services for a price where the price is set based on the market price for the same service.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "If the IT chargeback system suggests that the IT organization has been continuously reducing the price for an IT service and the price charged compares favorably with the market price for the service, then the IT chargeback system is likely to lead to a higher reputation for competence for the IT organization.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "If users fear losing their status in the organization due to the implementation of a new information system, they are likely to resist the implementation of the system.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "From the status quo bias perspective, if a new systems is very easy to learn and use, it will face less resistance to adoption.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the demand-driven model of user adoption, if users believe that the new system is likely to lead to improvement in their individual performance, they are more likely to adopt the new system?a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "If users believe that leaning to use the new information system is going to cost significant time and effort on their part, it is rational on their part to resist the implementation of the new system.",
+      "definition": "a. True"
+    },
+    {
+      "term": "User training is more important for low complexity information systems than for high complexity information systems.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Top management support is important in increasing user adoption as top management support provides legitimacy to a new system.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "A(n)______________________approach to implementing a new information system is appropriate for implementing a system that improves processes for performing specific activities but is consistent with the current values, norms, skills, structures and incentive systems.a. Evolutionaryb. Revolutionary",
+      "definition": "a. Evolutionary"
+    },
+    {
+      "term": "Broad communication and user involment are a significant feature of ________________________approach to change management.a. Evolutionaryb. Revolutionary",
+      "definition": "a. Evolutionary"
+    },
+    {
+      "term": "Change management in the evolutionary approach to implementing a new system is a recursive adaptive process.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "The key difference between the project management and the learning approach to change management is that in the project management approach the organization thinks of implementing a new system as a one-time effort.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the learning approach to implementing a new system, users learn to use the new systems from ____________?a. Training Programsb. Actual Use",
+      "definition": "b. Actual Use"
+    },
+    {
+      "term": "If users believe that learning to use the new information system is going to cost significant time and effort on their part, it is rational on their part to resist the implementation of the new system.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the demand driven model of user adoption, if a user believes that many other users are adopting the new system, they are less likely to themselves adopt the new system.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Top management support is more important in information systems implementations when task interdependence is low than when task interdependence is high.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "If users have invested significant time and effort to learn and master using the current system, they are more likely to resist the implementation of a new system:a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In the supply driven model of user adoption, institutions that remove knowledge barriers reduce the adoption of new systems.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Users find it easier to learn from and solve problems with the help of peers and coworkers than with help from external consultants and the internal help desk.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Users find it easier to learn from and solve problems with the help of peers and coworkers than with help form external consultants and the internal help desk.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "The evolutionary approach uses ______ to implement a new system.a. Firm milestoneb. Flexible milestones",
+      "definition": "b. Flexible milestones"
+    },
+    {
+      "term": "The role of management in the learning approach to implementing a new system emphasizes:a. Providing clear purpose, scope, and resources to implement the new system.b. Creating an environment where new capabilities are developed and knowledge is shared.",
+      "definition": "b. Creating an environment where new capabilities are developed and knowledge is shared."
+    },
+    {
+      "term": "In the learning approach to implementing a new system, users are more likely to learn to use the new system from ____________________.a. External consultants and power users.b. Self discovery and from peers.",
+      "definition": "b. Self discovery and from peers."
+    },
+    {
+      "term": "The use of outsiders and new management team is more appropriate for the implementation of ___________.a. Evolutionary change.b. Revolutionary change.",
+      "definition": "b. Revolutionary change."
+    },
+    {
+      "term": "What is the mechanism through which IT governance affects firm performance?a. IT governances impacts IT-Business Alignment, and IT-Business Alignment impacts Firm Performance.b. IT-Business Alignment influences IT Governance, and IT Governance influences Firm Performance.c. IT-Business Alignment influences Firm Performance, and Firm Performance influences IT Governance.",
+      "definition": "a. IT governances impacts IT-Business Alignment, and IT-Business Alignment impacts Firm Performance."
+    },
+    {
+      "term": "Can you use a swim-lane diagram to document a business process?a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "External entities are included in the context diagram.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are the four phases of SDLC methodology in order?a. Analyze, Plan, Design, Implementb. Plan, Analyze, Design, Implementc. Plan, Design, Analyze, Implement",
+      "definition": "b. Plan, Analyze, Design, Implement"
+    },
+    {
+      "term": "What key characteristic differentiates RAD - rapid application development from previous methodologies?a. Prototypeb. Iterations",
+      "definition": "b. Iterations"
+    },
+    {
+      "term": "Agile and Waterfall are complementary methodologies that are best used together.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "The System Request is introduced in which of the following SDLC phases?a. Planb. Analyzec. Designd. Implement",
+      "definition": "a. Plan"
+    },
+    {
+      "term": "What are the three dimensions of a feasibility analysis? a. Time, Money, Qualityb. Technical, Economic, Organizational",
+      "definition": "b. Technical, Economic, Organizational"
+    },
+    {
+      "term": "Which of the following roles handles the project's work plan, triple constraint, risk, communication, and critical path?a. Business Analystb. Project Managerc. System Analyst",
+      "definition": "b. Project Manager"
+    },
+    {
+      "term": "In what deliverable does a PM identify phases & deliverables, create WBS, estimate tasks, create dependencies, and assign people to tasks?a. Work Planb. Triple Constraintc. Critical Path",
+      "definition": "a. Work Plan"
+    },
+    {
+      "term": "Which of the following diagrams can be used to document a business process?a. Swim-lane diagramb. Flow chartsc. All of the above",
+      "definition": "c. All of the above"
+    },
+    {
+      "term": "What diagram includes a system, external entities, processes, boundaries, inputs, and outputs?a. Swim-lane diagramb. Context diagram",
+      "definition": "b. Context diagram"
+    },
+    {
+      "term": "What differentiates RAD from Waterfall?a. Prototypingb. Iteration",
+      "definition": "b. Iteration"
+    },
+    {
+      "term": "What differentiates Agile from Waterfall?a. Iteratively delivers features via sprintsb. Clearly defined phases with deliverables",
+      "definition": "a. Iteratively delivers features via sprints"
+    },
+    {
+      "term": "In what phase(s) of SDLC does an ideal Business Analyst contribute?a. Planb. Analyzec. Designd. Implemente. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "In what phase(s) is a System Request document introduced?a. Planb. Analyzec. Designd. Implemente. All of the above",
+      "definition": "a. Plan"
+    },
+    {
+      "term": "What does a feasibility analysis focus on?a. Timeb. Moneyc. Qualityd. All of the abovee. None of the above",
+      "definition": "e. None of the above"
+    },
+    {
+      "term": "In what phase of SDLC methodology does Organizational Readiness occur?a. Planb. Analyzec. Designd. Implemente. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "What phase of the SDLC results in a System Proposal?a. Planb. Analyzec. Designd. Implement",
+      "definition": "b. Analyze"
+    },
+    {
+      "term": "Which of the following is NOT a desirable quality of a good requirement?a. Necessaryb. Consistentc. Multiple",
+      "definition": "c. Multiple"
+    },
+    {
+      "term": "What characteristics should a well-formed requirements have?a. Can be verifiedb. Has to be met or possessed by a system to solve a stakeholder problemc. Measurabled. Defines the performance and capability of the systeme. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "Which of the following is good sample syntax for writing a good requirement.a. [Condition] [Subject] [Action] [Object] [Constraint]b. [Subject] [Condition] [Action] [Object] [Constraint]c. [Subject] [Action] [Value]d. a & ce. b & c",
+      "definition": "d. a & c"
+    },
+    {
+      "term": "Which of the following is good sample syntax for writing a good requirement.a. [Subject] [Action] [Subject] [Value]b. [Condition] [Action or Constraint] [Value]",
+      "definition": "b. [Condition] [Action or Constraint] [Value]"
+    },
+    {
+      "term": "Functional requirements are usually discussed with subject-matter experts.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Non-functional requirements are usually discussed with developers.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which traceability method identifies the gold-plating example given at the beginning of the module video?a. Forward Traceabilityb. Backward Traceability",
+      "definition": "a. Forward Traceability"
+    },
+    {
+      "term": "In what phase of SDLC methodology do we write use cases?a. Planb. Analyzec. Designd. Implement",
+      "definition": "b. Analyze"
+    },
+    {
+      "term": "In a use case, what level of detail has exhaustive, numbered steps with data flows?a. Fully-dressedb. Casualc. Briefs",
+      "definition": "a. Fully-dressed"
+    },
+    {
+      "term": "What are the two major types of relationships among use cases?a. &lt;&lt;extend&gt;&gt; &lt;&lt;include&gt;&gt;b. &lt;&lt;exclude&gt;&gt; &lt;&lt;include&gt;&gt;",
+      "definition": "a. <<extend>> <<include>>"
+    },
+    {
+      "term": "What is used to describe a person, place, object, event or concept about which data are to be maintained?a. Entityb. Crow's foot",
+      "definition": "a. Entity"
+    },
+    {
+      "term": "What are the main constructs of an ERD?a. Actors, Relationships, Data Flowb. Entities, Relationships, Attributes.",
+      "definition": "b. Entities, Relationships, Attributes."
+    },
+    {
+      "term": "What shows that one entity inherits from another entity?a. Specializationb. Generalization",
+      "definition": "b. Generalization"
+    },
+    {
+      "term": "What are the example components of BPMN?a. A start event, sequence flow, task, gateway \"decision\", and end eventb. A boundary, external entities, inputs, and outputs",
+      "definition": "a. A start event, sequence flow, task, gateway \"decision\", and end event"
+    },
+    {
+      "term": "When balancing DFDs and ERDs, what will data stores & some external entities become in an ERD?a. Entitiesb. Attributes",
+      "definition": "a. Entities"
+    },
+    {
+      "term": "When balancing DFDs and ERDs, what will data flows become in an ERD?a. Entitiesb. Attributes",
+      "definition": "b. Attributes"
+    },
+    {
+      "term": "What are the elements of a DFD?a. Process, data flow, data store, external entityb. Actor, boundary, data",
+      "definition": "a. Process, data flow, data store, external entity"
+    },
+    {
+      "term": "What differentiates a context diagram from a process flow diagram?a. Context diagram depicts data flows, sequences of events are not depicted. Process flow depicts the process. Non-data elements are included. Sequence matters.b. Process flow diagram depicts data flows, sequences of events are not depicted. Context diagram depicts the process. Non-data elements are included. Sequence matters.",
+      "definition": "a. Context diagram depicts data flows, sequences of events are not depicted. Process flow depicts the process. Non-data elements are included. Sequence matters."
+    },
+    {
+      "term": "What DFD type focuses on the business and business activities?a. Physical DFDb. Logical DFD",
+      "definition": "b. Logical DFD"
+    },
+    {
+      "term": "How can a DFD be decomposed into a primitive?a. Through structured english, decision tree, or decision tableb. Through structured english, decision tree, or context table",
+      "definition": "a. Through structured english, decision tree, or decision table"
+    },
+    {
+      "term": "Business Process Model and Notation includes which of the following components?a. A start event, sequence flow, task, gateway \"decision\", and end eventb. A boundary, external entities, inputs, and outputs",
+      "definition": "a. A start event, sequence flow, task, gateway \"decision\", and end event"
+    },
+    {
+      "term": "What refers to the maximum number of times an instance in one entity can be associated with instances in the related entity?a. Modularityb. Cardinality",
+      "definition": "b. Cardinality"
+    },
+    {
+      "term": "What type of entity instances store attributes that are common to one or more entity subtypes?a. Supertypeb. Subtype",
+      "definition": "a. Supertype"
+    },
+    {
+      "term": "What type of entity instances may inherit common attributes from its entity supertype?a. Supertypeb. Subtype",
+      "definition": "b. Subtype"
+    },
+    {
+      "term": "A video game is programmed to offer 3 different membership options based on different monthly subscriptions: Gold, Silver, and Bronze members. In Object-Oriented Programming, each type of member would be considered instances of a:a. Classb. Method",
+      "definition": "a. Class"
+    },
+    {
+      "term": "Suppose we wanted to use inheritance to store different types of vehicles for a program being used by a car dealership. If Car, Truck, and Van were subclasses in the program, with Audi and Chevrolet being subclasses of the Car class, what should be the superclass?a. Car Dealershipb. Vehiclec. Customer",
+      "definition": "b. Vehicle"
+    },
+    {
+      "term": "Suppose a program for ordering shoes online is represented by a sequence diagram. If a customer wanted to select a different color of the shoes (which is a variable stored in the shoe class, accessible by a method also in the class), would this be an instance of a(n):a. Actorb. Messagec. Object",
+      "definition": "b. Message"
+    },
+    {
+      "term": "Which of the following is an advantage of ERP over the Best-of-Breed strategy?a. ERP does not lock the firm's data into one ecosystem managed by a single vendor.b. Best-of-Breed requires custom integration into the firm to be functional, which requires more resources to complete. Meanwhile, ERP needs much less customization as it is all from one vendor.",
+      "definition": "b. Best-of-Breed requires custom integration into the firm to be functional, which requires more resources to complete. Meanwhile, ERP needs much less customization as it is all from one vendor."
+    },
+    {
+      "term": "The financial health of an external software developer does not need to be considered in an Alternative Matrix.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Which of the following is NOT true about Business Intelligence Architecture?a. It is better suited to answer questions regarding the trends of purchases, i.e. referencing data over a period of time.b. It supports daily transactions, but not data modeling or analysis.c. It is mostly used for analysts, but not suited well for automated input.",
+      "definition": "b. It supports daily transactions, but not data modeling or analysis."
+    },
+    {
+      "term": "What represents a system's design by referencing physical elements of the software, such as writing functions?a. Data Flow Diagramb. Program Specifications",
+      "definition": "b. Program Specifications"
+    },
+    {
+      "term": "A program for ordering food online on a restaurant's website is currently being tested. The project leader wants to test an instance where a customer wants to know what appetizers pair well with a given entree. This is an example of a Use Case.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which of the three dimensions do Business Analysts focus on during the migration plan (mark all that apply)?a. Preparing the Businessb. Preparing the Technologyc. Preparing the People",
+      "definition": "a. Preparing the Business, , c. Preparing the People"
+    },
+    {
+      "term": "The Maintenance phase is not included in the SDLC described in this course but it is equally important.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "In Object-Oriented Programming, an object is kind of person, place, event, or thing about which we want to capture.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "An application for a fast food chain models each user with a class. Any user can apply a 5% off coupon code when ordering a meal above $10 (represented by a class labelled User), however users that pay a monthly fee can also apply a 10% off coupon code when ordering any menu item from the store and are represented by a subclass of User labeled specialUser. Is this an example of inheritance?a. Yesb. No",
+      "definition": "a. Yes"
+    },
+    {
+      "term": "Which of the following is false?a. It is usually much easier to restructure a UML diagram than restructure code.b. In a sequence diagram, the program is represented visually by an 'actor' that sends 'messages' to the objects throughout the time of the interaction.c. In a state machine diagram, various states of an object in a program are represented by arrows throughout the diagram.",
+      "definition": "c. In a state machine diagram, various states of an object in a program are represented by arrows throughout the diagram."
+    },
+    {
+      "term": "Which of the following is true about acquisition strategies?a. If a firm does not fully understand how to develop or implement a software system, it is often more effective to outsource that system to a vendor.b. In the long run, it is usually more cost-effective to develop new software in-house.c. One of the drawbacks to outsourcing software development is that it is harder to control the quality of the design and ensure that it meets the necessary requirements.",
+      "definition": "c. One of the drawbacks to outsourcing software development is that it is harder to control the quality of the design and ensure that it meets the necessary requirements."
+    },
+    {
+      "term": "Which is the best way to describe an Alternative Matrix?a. Since it considers every technical criteria for a system with a corresponding weight, the resulting scores of an Alternative Matrix for a given system determine which alternative is objectively the best decision for the firm to make as it is comprehensive of every factor going into that system's development.b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system's development.",
+      "definition": "b. The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system's development."
+    },
+    {
+      "term": "Online retailers frequently implement systems that recommend other products to customers based on their previous purchase history, what time of year they made the purchase, what other customers frequently bought in addition to the customers purchase, and other data relating to the purchase. This is an example of:a. Business Intelligence Architectureb. Operational Architecture",
+      "definition": "a. Business Intelligence Architecture"
+    },
+    {
+      "term": "The best implementation might be a human implementation of a physical process.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which of the following is the definition of \"scope creep\"? a. When ERP management locks a firm into one ecosystem, resulting in all data being managed under the same vendor.b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project.",
+      "definition": "b. When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project."
+    },
+    {
+      "term": "The Business Analyst is involved with preparing the technology during the migration plan.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "The Maintenance phase in the SDLC described in this course is the longest and costliest phase.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are some of the roles of the Project Manager during ERP implementation? a. Assess the risks of the implementation in terms of cost and durationb. Secure resources for the implementation team c. Purchase and select the right ERP system d. A and B only",
+      "definition": "D. A and B only"
+    },
+    {
+      "term": "All Fortune 1000 companies use some form of ERP systems.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Business processes are activities that businesses do in their daily operations.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are some difficulties faced when executing business processes?a. A big company should not face any difficulties in their business process, only small companies face such issuesb. Information does not flow between business units, leading to bad decisions being madec. There are multiple business units, which makes coordination of effort difficultd. B and C only",
+      "definition": "D. B and C only"
+    },
+    {
+      "term": "Why do silo effect arise?a. Workers become highly specialized in their work area, and do not know about the capabilities and objectives of other departmentsb. Workers in each department have different incentives schemes and do not optimize their efforts towards the overall good of the companyc. Workers are not paid enough for their workd. A and B only",
+      "definition": "D. A and B only"
+    },
+    {
+      "term": "What are the two definitions of Enterprise System mentioned in the class?a. ERP is an expensive systems used by large companiesb. ERP is a system that supports end-to-end business processesc. ERP is a technology strategy in which operational business transactions are linked to financial transactionsd. A and B onlye. B and C only",
+      "definition": "E. B and C only"
+    },
+    {
+      "term": "'R' in SAP R/3 stands for 'real-time'.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are the three layers in SAP R/3?a. Database, Security, Presentationb. Database, Application, Networkc. Database, Application, Presentationd. Database, Security, Network",
+      "definition": "C. Database, Application, Presentation"
+    },
+    {
+      "term": "Data created in SAP can be deleted easily.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Users can access SAP via the following devices:a. PC desktopsb. Mobile phonesc. Tablet computersd. All of above",
+      "definition": "D. All of above"
+    },
+    {
+      "term": "Which of the following are organizational data?a. Storage locationb. Clientc. Sales Organizationd. All of the above",
+      "definition": "D. All of the above"
+    },
+    {
+      "term": "Fields of master data change frequently.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Fields of master data can be different across organizational units (e.g., plants).a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Within SAP, how many main types of data are there?a. 2b. 3c. 4d. 5",
+      "definition": "B. 3"
+    },
+    {
+      "term": "A unique sale area is made up by a combination ofa. Sales organization, distribution channel, Divisionb. Sale organization, Material Master, Customer Masterc. Company, distribution channel, Sales organizationd. Company, distribution channel, Division",
+      "definition": "A. Sales organization, distribution channel, Division"
+    },
+    {
+      "term": "Why would companies want to have different sales areas in SAP?a. This is to allow companies to account for different product considerations when serving their customersb. This is to allow companies to account for the regional differences when serving their customersc. This is to allow companies to account for different characteristics of distribution channels when serving their customersd. All of above",
+      "definition": "D. All of above"
+    },
+    {
+      "term": "What are instances of master data seen in the class?a. Companyb. Customerc. Factoryd. All of the above",
+      "definition": "B. Customer"
+    },
+    {
+      "term": "Purchase order is an example of a master data.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "The good issue step is performed to indicate that a focal company has fulfilled their part of the transaction by shipping goods to the customer.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are possible scenarios in which delivery and billing documents are combined?a. Two separate deliveries to the same customer made on different days are consolidated into one billing documentb. Two separate deliveries to different customers made on different days are consolidated into one billing documentc. A delivery to a customer is being split into two billing documents to be paid by different departments of the customer companyd. A and C only",
+      "definition": "D. A and C only"
+    },
+    {
+      "term": "The SAP All-in-One ERP solution is good for large enterprises.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "What is true of the SAP By-Design ERP?a. It is meant for small-mid size enterprisesb. It is meant for large size enterprisesc. It is provided as a software-as-a-service (cloud ERP)d. A and C only",
+      "definition": "D. A and C only"
+    },
+    {
+      "term": "Which of the following are offerings provided by Oracle?a. Sage ERPb. JD Edwardsc. Peoplesoft ERPd. B and C only",
+      "definition": "D. B and C only"
+    },
+    {
+      "term": "According to the Clash of Titan report presented in the video, which ERP vendor has the market share?a. Oracleb. Inforc. Microsoft Dynamicsd. SAP",
+      "definition": "D. SAP"
+    },
+    {
+      "term": "Completion of vision in the magic quadrant refers to whether a ERP vendor/provider has a good understanding of the industry to provide ERP features that meets their future needs.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "If my company has many specialized and sophisticated business processes, and is operating in a business environment causes rapid changes to business needs, what type of ERP should I shortlist based on the magic quadrant?a. Leadersb. Challengersc. Visionariesd. Niche Players",
+      "definition": "A. Leaders"
+    },
+    {
+      "term": "If I run a simple business that does not have complicated business processes and is not subjected to rapid changes in the business environment, I should shortlist ERPs from the _________ quadrant.a. Leadersb. Challengersc. Visionariesd. Niche Players",
+      "definition": "D. Niche Players"
+    },
+    {
+      "term": "If a company buys all its ERP module from a single vendor, it is said to be pursuing aa. Best of Suite Strategyb. Best of Breed Strategyc. All of the above",
+      "definition": "A. Best of Suite Strategy"
+    },
+    {
+      "term": "What are the advantages of using a Best of Suite Strategy?a. Less risks in term of system integration as the modules are from the same vendorb. Less costly implementation cost as there is less integration complexityc. It provides the best features across all ERP offeringsd. A and B only",
+      "definition": "D. A and B only"
+    },
+    {
+      "term": "What are the advantages of using a Best of Breed Strategy?a. Less risks in term of system integration as the modules are from the same vendorb. Less costly implementation cost as there is less integration complexityc. It provides the best features across all ERP offeringsd. B and C only",
+      "definition": "C. It provides the best features across all ERP offerings"
+    },
+    {
+      "term": "In the opening case of Target's ERP implementation, what were the bad managerial decisions made that led to a failed outcome?a. Top management decided to pursue an aggressive and tight implementation timeline.b. When populating the ERP system, mid-managers utilized the benchmark figures from the US operations to forecast the sales demand in Canadac. Appropriate checks and balances are not in place, leading store managers to turn off auto-replenishment feature in the system.d. All of above",
+      "definition": "D. All of above"
+    },
+    {
+      "term": "Change Management is:a. People side of technology projectb. A systematic approach to dealing with changec. Only appropriate for ERP-related projectsd. A and B only",
+      "definition": "D. A and B only"
+    },
+    {
+      "term": "When assessing the possible areas of changes during an ERP implementation, it is important to consider elements ofa. Peopleb. Processc. Technologyd. All of above",
+      "definition": "D. All of above"
+    },
+    {
+      "term": "Constant communication of project benefits to the users and a clear illustration of milestones are useful change management techniques for keeping motivation levels high during ERP implementation.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Workers do not need time to adjust to newly implemented ERP if they are well-trained to use the new system prior to its launch.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "What are indicators of ERP implementation success?a. On time implementationb. On budget implementationc. On scope implementationd. All of above.",
+      "definition": "D. All of above."
+    },
+    {
+      "term": "A small company with small amount of capital that has finished implementing a small scale ERP system. The consulting team concludes that there are little risk of of go-live problems as the system does not involve complex interdependencies due to its small scale. What might be a good approach in the rollout of this system?a. Big Bangb. Phased Approach",
+      "definition": "A. Big Bang"
+    },
+    {
+      "term": "A large company with operations in multiple countries has just finished upgrading its legacy system to an Oracle ERP system. The consultant team believes that the risk of go-live problems can be subtantial, given that there are multiple interdependencies across business units. What might be a good approach in the roll out of this system?a. Big Bangb. Phased Approach",
+      "definition": "B. Phased Approach"
+    },
+    {
+      "term": "A retail company has zero experience with ERP implementation. They have hired an external consultant to help them with the implementation of SAP. The retail company is very amendable to the recommendations provided by their consultants. What role should the consultants take on, in general?a. Foot soldiersb. Commandersc. Diplomats",
+      "definition": "B. Commanders"
+    },
+    {
+      "term": "A client company wanted to implement a large scale ERP system. The project scope appears to be highly uncertain and the client does not seem to know what features are to be included in the final deliverable. What would be a good pricing model to use here when charging the client?a. Fixed Priceb. Time and Material",
+      "definition": "B. Time and Material"
+    },
+    {
+      "term": "Businesses can use virtualization technology to:a. Improve efficiencyb. Lower costc. Provide faster maintenance (d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Why does the opex model (such as pay-as-you-go) work for the cloud providers?a. It allows them to generate a steady source of revenue over time from their clientsb. It allows them to offer freemium model to potential clients who can try out the service without significant commitmentc. It allows them to offer any available resources on-demand and charge based on usage (d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which of the following is used to distribute incoming requests among various servers that form a computer cluster?a. Hypervisor (b) Load balancerc. Databased. None of the above",
+      "definition": "(b) Load balancer"
+    },
+    {
+      "term": "Which of the following statements is NOT true for web applications?a. Software runs on the web app provider's serverb. They can be accesses using a client's web browserc. Even if client machines can fail, the data and applications can be still accessed from another client device (d) Requires virtualization of the client's machine",
+      "definition": "(d) Requires virtualization of the client's machine"
+    },
+    {
+      "term": "Which of the following is an example of a hypervisor?a. VMware ESXib. Citrix Xenserverc. Microsoft Hyper-V (d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which is the core technology behind \"cloud computing\"? a. HTTP (b) Virtualizationc. Thin clientsd. Remote Desktop",
+      "definition": "(b) Virtualization"
+    },
+    {
+      "term": "Google's cloud platform offering is a: (a) Public cloud b. Private cloudc. Hybrid cloudd. None of the above",
+      "definition": "(a) Public cloud"
+    },
+    {
+      "term": "Which kind of infrastructure will you prefer if you are operating a business in which some applications have to comply with strict regulatory compliance requirements on data security, while others require automated scalability and load balancing?a. Fog computingb. Private Cloudc. Public Cloud (d) Hybrid Cloud",
+      "definition": "(d) Hybrid Cloud"
+    },
+    {
+      "term": "You are the CIO of a company that wants to create a new software application that would require customizing the operating system for optimal performance. What kind of cloud service are you basically looking for?a. SaaSb. PaaS (c) IaaS",
+      "definition": "(c) IaaS"
+    },
+    {
+      "term": "Which of the following statements is true for data centers?a.Datacenters with fully connected topology improves host-to-host capacityb. Blade servers in a rack are interconnected using the TOR switchc. Hardware maintenance on a server in a datacenter can be performed without interrupting the software applications because of virtualization (d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which of the following statements is NOT true?a. Different wireless technologies occupy different frequency bands.b. WiFi is a wireless technology that offers higher data speed but lower coverage area than cellular network technology (c) Wireless technologies that offer high data speed/rate also offer greater coverage aread. None of the above",
+      "definition": "(c) Wireless technologies that offer high data speed/rate also offer greater coverage area"
+    },
+    {
+      "term": "Which of the following statements is true about base stations in a cellular network?a. Base stations provide coverage over the area of a cellb. Base stations will use different frequencies in adjacent sectorsc. Adjacent base stations participate in the handover process of ongoing mobile conversations(d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Suppose an airport is using RFID tags on ventilation units for monitoring and reporting of their functional status, PDAs for technicians, and SAP Mobile Asset Management software. Which of the following activities can be achieved using these solutions?a. Inspectors can easily check the status of the units from the ground without having to get up and manually inspect them, thus increasing operational efficiency.b. Automatic reporting from the ventilation units will improve error-free reporting and safety of the building.c. Automatic reporting also serves as evidence for genuine repairs(d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which of the following will be most useful for enabling wider usage of QR codes?(a) Include built-in QR scanner app in the smartphonesb. Encourage creation of ad-supported third-party apps for QR code scannersc. Encourage creation of QR code scanning app by individual vendorsd. None of the above",
+      "definition": "(a) Include built-in QR scanner app in the smartphones"
+    },
+    {
+      "term": "Which of the following statements is NOT true about WiFi networks?a. WiFi operates in an unlicensed spectrum band (b) WiFi and cellular networks use the same set of frequenciesc. WiFi is an example of Wireless Local Area Networks (WLAN)d. All of the above",
+      "definition": "(b) WiFi and cellular networks use the same set of frequencies"
+    },
+    {
+      "term": "Which of the following statements is NOT true about femtocells?a. When registered mobile phone users arrive under coverage area of a femtocell, they switch over from the cellular network to femtocell automaticallyb. When mobile phone users leave the coverage area of a femtocell, they switch over from the femtocell to a cellular network seamlessly (c) Existing WiFi or DSL routers can be upgraded to a femtocell without the need for any new hardwared. All of the above",
+      "definition": "(c) Existing WiFi or DSL routers can be upgraded to a femtocell without the need for any new hardware"
+    },
+    {
+      "term": "Which of the following pairing of technology to its coverage area is mismatched?a. Bluetooth - Wireless Personal Area Network (WPAN)b. GSM - Wireless Wide Area Network (WWAN) (c) WiFi - Wirelss Metropolitan Area Network (WMAN) d. CDMA - Wireless Wide Area Network (WWAN)",
+      "definition": "(c) WiFi - Wirelss Metropolitan Area Network (WMAN)"
+    },
+    {
+      "term": "Which of the following is the primary technology used in a mobile payment system like Apple Pay?(a) Near Field Communication (NFC)b. QR codec. Radio Frequency Identification (RFID)d. None of the above",
+      "definition": "(a) Near Field Communication (NFC)"
+    },
+    {
+      "term": "A shopping mall plans to send targeted offers to customers connected to their WiFi network. Which type of data about the customer will be most valuable to send these offers? a. Time of day (b) Geolocationc. Weatherd. None of the above",
+      "definition": "(b) Geolocation"
+    },
+    {
+      "term": "Which of the following issues cannot be addressed effectively with flat rate pricing of network bandwidth?a. There is a large differential between peak and off-peak hour demandb. Some users are consuming a disproportionate amount of bandwidth in peak timec. Some applications are poorly designed and consume too much bandwidth (d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Denial of service (DOS) security attacks are intended to compromise a system's _______.a. Confidentiality (b) Availabilityc. Integrityd. Authenticity",
+      "definition": "(b) Availability"
+    },
+    {
+      "term": "Which of the following statements is true for malwares?a. They are computer programs that can infect other programsb. Many of them can propagate by attaching themselves to files and emailsc. They may not always do outright damage (d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which of the following techniques system administrators use to reduce the risk of password hacking?a. Preventing users from using alphanumeric passwords (b) Enforcing a cap on the number of password retries at login before the account gets lockedc. Encouraging usage of easy to remember dictionary words as passwordsd. All of the above",
+      "definition": "(b) Enforcing a cap on the number of password retries at login before the account gets locked"
+    },
+    {
+      "term": "Which of the following statements about basic encryption techniques NOT true?a. The key used in Caesar cipher should be kept private between the sender and the receiver (b) The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the messagec. The keys used in one-time pads need to be kept private between the sender and the receiverd. The keys used in one-time pads are a pre-selected sequence of random numbers",
+      "definition": "(b) The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the message"
+    },
+    {
+      "term": "Which of the following statements about private key cryptography is true?(a) The same key is used by both the sender and the receiver to encrypt and decrypt a messageb. The sender uses one key to encrypt a message and the receiver uses another key to decrypt it.c. The sender and the receiver do not have to agree upon a shared key in advanced. All of the above",
+      "definition": "(a) The same key is used by both the sender and the receiver to encrypt and decrypt a message"
+    },
+    {
+      "term": "Which of the following statements is true for public key cryptosystem?a. A secret message should be encrypted using the public key of the sender and decrypted using the private key of the receiverb. A secret message should be encrypted using the private key of the sender and decrypted using the public key of the receiverc. A secret message should be encrypted using the private key of the sender and decrypted using the public key of the receiver (d) A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver",
+      "definition": "(d) A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver"
+    },
+    {
+      "term": "In case of digital signatures, which of the following statements will be true? (Digital signatures are not meant to be secret messages, instead they are used to demonstrate that the message must have originated from a particular sender who signed it).(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.b. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular senderc. The message will need to be encrypted using the sender's private key. Anyone can then use the sender's private key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.d. The message will need to be encrypted using the sender's public key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.",
+      "definition": "(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender."
+    },
+    {
+      "term": "Which of the following statements is NOT true about these cyber defense systems?a. Honeypots are legitimate parts of the site that are actually isolated and monitored, and act as traps for attackersb. Honeypots can be used to learn about organization's security weaknesses (c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules.d. None of the above",
+      "definition": "(c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules."
+    },
+    {
+      "term": "Which of the following should be practiced to prevent confidential data loss from cyberattacks?a. Store the encrypted data and the encryption key at different locationsb. Use a two-factor access controlc. Limit third-party access to the internal network(d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "The type of disclosure process in which a new bug discovery is first reported to the software vendor whose product contains the bug is known as:(a) Responsible Disclosureb. Full Disclosurec. Market Disclosured. None of the above",
+      "definition": "(a) Responsible Disclosure"
+    },
+    {
+      "term": "Which of the following statements regarding Blockchain is NOT true?a. Blockchain is a list of records, called blocks, which are linked using cryptography and are accessible for verification by the public.b. Blockchain is a distributed digital ledger in which transactions can be recorded chronologically and publicly.c. Traditional databases also store transaction information chronologically. But secure databases are kept under the centralized control of a host organization and maintained by IT administrators. (d) Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions.",
+      "definition": "(d) Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions."
+    },
+    {
+      "term": "Which of the following statements is NOT true?a. Ethereum is an example of a blockchain(b) The cryptocurrency used in Ethereum are called Bitcoinsc. Hyperledger is an example of open-source blockchaind. The cryptocurrency used in Ethereum are called Ethers",
+      "definition": "(b) The cryptocurrency used in Ethereum are called Bitcoins"
+    },
+    {
+      "term": "Which of the following statements is true?a. In blockchains, any change or new transactions can be realized only by adding a new block of information to the historical transaction records.b. In blockchains, one doesn't erase or override the past records, it adds transactions in a chronological order to a growing list.c. Unlike the ledgers maintained by banks, Bitcoin's blockchain is replicated on networked machines around the world; hence it is called a \"Distributed Ledger\".(d) All of the above.",
+      "definition": "(d) All of the above."
+    },
+    {
+      "term": "Which of the following is NOT true for Bitcoin mining?a. The technology uses a pair of keys for encryptionb. The private key is used by the sender to encrypt the payment messagec. Miners use the sender's public key to validate that the payment request was indeed made by the sender(d) Miners will use the public key to compute the private key of the sender",
+      "definition": "(d) Miners will use the public key to compute the private key of the sender"
+    },
+    {
+      "term": "Which of the following statement is true?a. The process of adding blocks to a blockchain is computationally expensive, and even more so to change blocks further back in the chain.b. Any miner trying to add a new block of data is required to provide a cryptographic proof called Proof of Work.c. To produce the Proof of Work, a miner will have to perform multiple rounds of hashing with the data of the previous block such that the resultant hash value begins with a specified number of zeros.(d) All of the above.",
+      "definition": "(d) All of the above."
+    },
+    {
+      "term": "Which of the following is an application area for smart contracts?a. Supply chains are often inefficient because of paper-based systems and need for multi-party approvals, validation cost, potential for loss and fraud. Smart contracts can provide a secure, accessible digital version to all parties on the blockchain to automate contracts and payment.b. Peer-to-peer buying and selling of goods and services (e.g., in electricity smart grids and ridesharing services) can benefit from smart contracts executed between various parties participating in the blockchain.c. Buyers and sellers of insurance can agree on and claim reparation compensation using smart contracts.(d) All of the above.",
+      "definition": "(d) All of the above."
+    },
+    {
+      "term": "Suppose your organization needs multiple people to store and update transaction records while ensuring immutability. Which one should you choose?a. Traditional database(b) Blockchain",
+      "definition": "(b) Blockchain"
+    },
+    {
+      "term": "Suppose the requirements that your organization has in regards to storing transaction information can be met with either a traditional database or a blockchain. Which one should you choose?(a) Traditional databaseb. Blockchain",
+      "definition": "(a) Traditional database"
+    },
+    {
+      "term": "Suppose your organization needs to store transaction data that should be kept private, immutable, verifiable, but also control who can read and write to it in order to maintain scalability. What should you choose?a. Traditional database (b) Permissioned blockchainc. Public blockchaind. None of the above",
+      "definition": "(b) Permissioned blockchain"
+    },
+    {
+      "term": "Which of the following statements is true?a. A blockchain's technology and process ensure truthful-reporting and provides incentives for participation.b. Cryptography principles implement validation of digital signatures, security, and immutability in a blockchain.c. A blockchain's distributed realization and public accessibility helps overcome censorship.(d) All of the above.",
+      "definition": "(d) All of the above."
+    },
+    {
+      "term": "Can you use a swim-lane diagram to document a business process?a. Yesb. No",
+      "definition": "a. Yes"
+    },
+    {
+      "term": "What are the four phases (in order) of SDLC methodology?a. Analyze, Plan, Design, Implement b. Plan, Analyze, Design, Implement c. Plan, Design, Analyze, Implement",
+      "definition": "b. Plan, Analyze, Design, Implement"
+    },
+    {
+      "term": "What key characteristic differentiates RAD from previous methodologies?a. Prototypesb. Iterations",
+      "definition": "b. Iterations"
+    },
+    {
+      "term": "In SDLC phases, where does an ideal BA contribute?a. Planb. Analyzec. Designd. Implemente. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "The System Request is introduced in which of the following SDLC phases?a. Planb. Analyzec. Designd. Implemente. All of the above",
+      "definition": "a. Plan"
+    },
+    {
+      "term": "What are the three dimensions of a feasibility analysis?a. Time, Money, Qualityb. Technical, Economic, Organizational",
+      "definition": "b. Technical, Economic, Organizational"
+    },
+    {
+      "term": "Which SDLC phases include organizational readiness activities?a. Planb. Analyzec. Designd. Implemente. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "Which of the following roles handles the project's work plan, triple constraint, risk, communication, and critical path?a. Business Analystb. Project Managerc. Systems Analyst",
+      "definition": "b. Project Manager"
+    },
+    {
+      "term": "What characteristics should a well-formed requirements have?a. Can be verifiedb. Has to be met or possessed by a system to solve a stakeholder problemc. Measurabled. Defines the performance and capabiity of the systeme. All of the above",
+      "definition": "e. All of the above"
+    },
+    {
+      "term": "Which of the following is a good sample syntax for writing a good requirement. a. [Condition] [Subject] [Action] [Object] [Constraint] b. [Condition] [Action or Constraint] [Value] c. [Subject] [Action] [Value] d. All of the above",
+      "definition": "d. All of the above"
+    },
+    {
+      "term": "Which of the following is a good sample syntax for writing a good requirement. a. [Condition] [Subject] [Action] [Object] [Constraint] b. [Subject] [Condition] [Action] [Object] [Constraint]",
+      "definition": "a. [Condition] [Subject] [Action] [Object] [Constraint]"
+    },
+    {
+      "term": "Which of the following is a good sample syntax for writing a good requirement. a. [Subject] [Action] [Value] b. [Condition] [Action or Constraint] [Value]",
+      "definition": "b. [Condition] [Action or Constraint] [Value]"
+    },
+    {
+      "term": "Nonfuctional requirements are usually discussed with subject-matter experts.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Which of these is a structured interview requirement?a. Gathering information about the interview subjectb. Identifying the business problemc. Clarifying the user environmentd. Testing potential solutionse. Identifying non-functional requirementsf. All of the above",
+      "definition": "f. All of the above"
+    },
+    {
+      "term": "Which traceability method identifies the gold-plating example at the beginning of this video?a. Forward Traceabilityb. Backward Traceability",
+      "definition": "a. Forward Traceability"
+    },
+    {
+      "term": "In what phase of the SDLC methodology do we create use cases?a. Planb. Analyzec. Designd. Implement",
+      "definition": "b. Analyze"
+    },
+    {
+      "term": "In what phase of SDLC methodology do we write initial test cases?a. Planb. Analyzec. Designd. Implement",
+      "definition": "b. Analyze"
+    },
+    {
+      "term": "What are the components of a data flow diagram?a. process, data flow, data store, external entityb. actor, boundary, data",
+      "definition": "a. process, data flow, data store, external entity"
+    },
+    {
+      "term": "What is the key difference between context diagram and process flow diagram?a. Context diagram depicts data flows, sequences of events are not depicted. Process flow depicts the process. Non-data elements are included. Sequence matters.b. Process flow diagram depicts data flows, sequences of events are not depicted. Context diagram depicts the process. Non-data elements are included. Sequence matters.",
+      "definition": "a. Context diagram depicts data flows, sequences of events are not depicted. Process flow depicts the process. Non-data elements are included. Sequence matters."
+    },
+    {
+      "term": "What type of DFD focuses on the business and business activities?a. Logical DFDb. Physical DFD",
+      "definition": "a. Logical DFD"
+    },
+    {
+      "term": "How can a DFD be decomposed into a primitive?a. Through structured English, decision tree, or context tableb. Through structured English, decision tree, or decision table",
+      "definition": "b. Through structured English, decision tree, or decision table"
+    },
+    {
+      "term": "What are example components of BPMN?a. A start event, sequence flow, task, gateway \"decision\", and end eventb. A boundary, external entities, inputs, and outputs",
+      "definition": "a. A start event, sequence flow, task, gateway \"decision\", and end event"
+    },
+    {
+      "term": "What refers to the maximum number of times an instance in one entity can be associated with instances in the related entity?a. Cardinalityb. Modularity",
+      "definition": "a. Cardinality"
+    },
+    {
+      "term": "When balancing DFDs and ERDs, what will data stores & some external entities be represented as in an ERD?a. Entitiesb. Attributes",
+      "definition": "a. Entities"
+    },
+    {
+      "term": "Which of the following is an advantage of ERP over the Best-of-Breed strategy?a. ERP does not lock the firm's data into one ecosystem managed by a single vendor.b. Best-of-Breed requires custom integration into the firm to be functional, which requires more resources to complete. Meanwhile ERP needs much less customization as it is all from one vendor.",
+      "definition": "b. Best-of-Breed requires custom integration into the firm to be functional, which requires more resources to complete. Meanwhile ERP needs much less customization as it is all from one vendor."
+    },
+    {
+      "term": "A program for ordering food online on a restaurant's website is currently being tested. The project leader wants to test an instance where a customer wants to know what appetizers pair well with a given entree. This is an example of a Use Case.a.Trueb. False",
+      "definition": "a.True"
+    },
+    {
+      "term": "Which of the three dimensions do Business Analysts focus on during the migration plan (mark all that apply)?a. Preparing the Businessb. Preparing the Technologyc. Preparing the Peopled. A and C only",
+      "definition": "d. A and C only"
+    },
+    {
+      "term": "What are some work positions that are available in companies that develops and sells ERP Systems?a. Sales Associateb. Functional Consultantc. System Architectd. Project Managemente. All of above",
+      "definition": "e. All of above"
+    },
+    {
+      "term": "If my company does not develop or sell ERP systems, it is likely that I do not need to learn or use ERP systems?a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Having seen the various potential issues related to the completion of an order fulfillment process, which of the following is a good reason why ERP systems might help companies in this business process?a. ERP systems are expensive systems. By owning an ERP, companies can show their customers that they have good financial healthb. ERP systems can help sales associates make better decisions by presenting information on stock availability and the credit-worthiness of customersc. Since most other companies are using ERPs, it will look bad if a company does not own an ERP",
+      "definition": "b. ERP systems can help sales associates make better decisions by presenting information on stock availability and the credit-worthiness of customers"
+    },
+    {
+      "term": "In this class, we would learn to program and code ERP software.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "When workers work in a department within the company, they get to specialize in one area of work. This style of working is adopted by many companies, and it does not bear any issues.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "A process-oriented view of the organization _________________.a. allows information to flow seamlessly across departmentsb. causes different departments to work in silos",
+      "definition": "a. allows information to flow seamlessly across departments"
+    },
+    {
+      "term": "The layers that SAP R/3 have are:You may choose more than one answer.a. Database Layerb. Project Layerc. Application Layerd. Process Layere. Presentation Layerf. A, C and E",
+      "definition": "f. A, C and E"
+    },
+    {
+      "term": "The full name of SAP company is Systems, Applications, Processes.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "When users use SAP, where is their data stored?a. Their own computerb. The server where the system is hosted",
+      "definition": "b. The server where the system is hosted"
+    },
+    {
+      "term": "What is the purpose of the procurement business process?a. To acquire needed materials externally.b. To acquire needed materials internally.",
+      "definition": "a. To acquire needed materials externally."
+    },
+    {
+      "term": "What is the purpose of the production process?a. To acquire needed material internally.b. To acquire needed material externally.",
+      "definition": "a. To acquire needed material internally."
+    },
+    {
+      "term": "Based on these two business processes, we see that a business process is initiated based on a trigger event.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Within SAP, the company is the highest organization level.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Plants in SAP can be used to represent:a. Retail Storesb. Factoriesc. Distribution Centersd. B and C only",
+      "definition": "d. B and C only"
+    },
+    {
+      "term": "Storage locations are the places where stock is physically kept within a plant.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What is true with regards to sales organizations?a. They are the top organizational level for summarizing sales datab. They are an organization unit responsible for the distribution of goods and servicesc. All of above",
+      "definition": "c. All of above"
+    },
+    {
+      "term": "What are common types of Distribution Channels within SAP?a. Wholesaleb. Retailc. Internetd. All of Above",
+      "definition": "d. All of Above"
+    },
+    {
+      "term": "What types of data might be involved in the creation of transaction data?a. Customer Master Datab. Material Master Datac. Situational Datad. All of above",
+      "definition": "d. All of above"
+    },
+    {
+      "term": "A quotation is a legally binding document, while an inquiry is not legally binding.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which are the top three ERP vendors? Check all that apply.a. Oracleb. Microsoft Dynamicsc. Saged. SAPe. A, B and D",
+      "definition": "e. A, B and D"
+    },
+    {
+      "term": "Which ERP offerings are provided by SAP? Check all that apply.a. Business All-In-Oneb. Business Onec. By Designd. All of the above",
+      "definition": "d. All of the above"
+    },
+    {
+      "term": "Which ERP offerings are provided by MS Dynamics? Check all that applya. GPb. NAVc. AX",
+      "definition": "a. GP"
+    },
+    {
+      "term": "According to the Clash of the Titans article, what are important factors to consider when selecting a ERP system?a. Market shareb. Country of ERP companyc. Cost of Ownershipd. A and C only",
+      "definition": "d. A and C only"
+    },
+    {
+      "term": "What is the biggest shortcoming of SAP?a. Largest market shareb. Highest selection rate when short-listedc. Largest delta between planned and actual implementation duration",
+      "definition": "c. Largest delta between planned and actual implementation duration"
+    },
+    {
+      "term": "The magic quadrant can be used to shortlist viable options for companies.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Ability to execute in the magic quadrant refers whether an ERP system bears certain features for addressing specific business needs of operating in an industry.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are the four types of ERPs under the Magic Quadrant? Check all that apply.a. Leaders, Visionaries, Niche Players, Challengersb. Leaders, Visionaries, Masters, Defendersc. Leaders, Strategists, Niche Players, Challengersd. Leaders, Masters, Defenders, Strategists",
+      "definition": "a. Leaders, Visionaries, Niche Players, Challengers"
+    },
+    {
+      "term": "What might be an industry that would find ERPs falling in the Visionary quadrant to be most appropriate?a. Online platforms that offer home-sharing features (e.g., Airbnb)b. Large retail business (e.g. Walmart)",
+      "definition": "a. Online platforms that offer home-sharing features (e.g., Airbnb)"
+    },
+    {
+      "term": "The CRM module is not redundant because it can handle sophisticated fulfillment tasks that are not provided by the basic fulfillment feature offered by the core ERP module.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "What are the important components to consider within change management with respect to ERP implementation? Check all that apply.a. Communicationb. Moneyc. Trainingd. Process Changee. A, C and D",
+      "definition": "e. A, C and D"
+    },
+    {
+      "term": "Companies tend to underestimate the amount of change that is involved with ERP implementation. To help companies consider the various possible types of changes that are involved, we have just talked about 4 levels of change. In particular, which level of change does structure and culture belong to?a. Level 1b. Level 2c. Level 3d. Level 4",
+      "definition": "c. Level 3"
+    },
+    {
+      "term": "Leadership support towards ERP implementation is essential to the change management, because a lack of support signals to the rest of the company that tasks involved in implementing the system are not as important as their daily tasks. This can lead to lack of interest and cooperation with the ERP implementation team.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "A good approach to utilize leadership support is to utilize a communication protocol that explains the importance of the ERP and describes the implementation needs to the senior management, so that they can motivate the rest of organization in committing their time to the ERP implementation project.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Leadership support and commitment is neededa. During ERP implementationb. After ERP implementationc. All of above",
+      "definition": "c. All of above"
+    },
+    {
+      "term": "Companies typically do not experience disruption to their productivity after ERP implementation, if they do a good job with change management.a. Trueb. False",
+      "definition": "b. False"
+    },
+    {
+      "term": "Over the last 5 minutes, what are some of the discussed techniques that can help to increase the likelihood of ERP implementation success? a. Rigourous Scope Managementb. Early exposure to User Interface/Systemc. Use of Agile Methodology in Implementationd. Selecting the right ERP system using the Magic Quadrante. A, B and C",
+      "definition": "e. A, B and C"
+    },
+    {
+      "term": "What are the approaches in rolling out the ERP systems? Check all that applies.a. Slow and steady rolloutb. Big Bangc. Phase rolloutd. B and C only",
+      "definition": "d. B and C only"
+    },
+    {
+      "term": "What are some advantages of using a single instance ERP? Check all that applies.a. Allows data and business activities to be consolidated across different business unitsb. Lower maintenance costc. Enable Strategic Visiond. All of the above",
+      "definition": "d. All of the above"
+    },
+    {
+      "term": "What are various types of partnership roles that implementation partners could play? a. Foot soldiersb. Service providersc. Commandersd. Diplomatse. A, C and D",
+      "definition": "e. A, C and D"
+    },
+    {
+      "term": "Which of the following is NOT a feature of the Cloud?a. Resources can be purchased on-demandb. Additional resources can be added relatively quicklyc. Cloud resources can be accessed from a range of network devices and platformsd. Users must pay a high flat-fee irrespective of their usage.",
+      "definition": "d. Users must pay a high flat-fee irrespective of their usage."
+    },
+    {
+      "term": "Virtualization can be used to create a layer of separation between the hardware and the operating system and software running on it.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which of the following issues can have a negative impact if a company moves its services to the cloud without full considerations?a. The company did not pay attention to data format compatibility issues before choosing a cloud providerb. The company has private data assets but has not addressed data ownership issues with the chosen cloud providerc. The company has not considered whether their cloud provider will be able to grow and scale up at the same pace as that of the company's growth over a long-term horizon.d. All of the above.",
+      "definition": "d. All of the above."
+    },
+    {
+      "term": "HTML stands for?a. Home Tool Markup Languageb. Hyper Text Markup Languagec. Hyperlinks and Text Markup Language",
+      "definition": "b. Hyper Text Markup Language"
+    },
+    {
+      "term": "Which of the following is NOT an example of a web application?a. HTMLb. Google Docsc. Dropboxd. Youtube",
+      "definition": "a. HTML"
+    },
+    {
+      "term": "Which of the following is NOT true for thin client solutions?(a) It needs to validate with the server after data capture(b) Increases portability in that all applications are on the server that can be accessed from any workstation(c) More expensive to deploy and more work for IT to deploy(d) Provides an opportunity to use older, outdated PCs as the thin clients",
+      "definition": ""
+    },
+    {
+      "term": "All these VMs are sharing the resources provided by the actual host machine.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "For a client with limited IT expertise, a Type 2 hypervisor will be easier to install than a Type 1 hypervisor.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "You are the CIO of a company that wants to create a new software application without having to worry about purchasing and maintaining all the required underlying hardware infrastructure (e.g., network, storage, processor, bandwidth) and operating system support software (e.g., OS updates, antivirus) etc. What are you basically looking for?(a) SaaS(b) PaaS(c) IaaS",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following is an example of SaaS?(a) Cisco Webex(b) Google Docs(c) Citrix GoToMeeting(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "In which of the scenarios is IaaS NOT applicable:(a) When regulatory compliance prohibits offshoring data storage and processing(b) When the demand is very volatile or the organization is growing(c) When there is limited capital to be spent on infrastructure(d) When there is temporary infrastructural need",
+      "definition": ""
+    },
+    {
+      "term": "A public cloud option may be more suitable for an organization than using a private cloud when it needs:(a) Greater control(b) Lower latency(c) Higher elasticity(d) Better performance",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following is true for data centers?(a) Data centers have rows of interconnected servers(b) Data centers maintain backup of the data stored on each server(c) If one server fails, another server in the data center can take over its role without interruption(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statements is NOT true?(a) Fog computing introduces computational power in the edge routers to which IoT devices connect(b) Datacenters with fully connected topology improves host-to-host capacity(c) Blade servers in a rack are interconnected using the TOR switch(d) Fog computing is a technology that is intended to replace Cloud computing",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statement is true?(a) Visible light is not a part of the electromagnetic spectrum(b) All wireless technologies use the same frequency(c) There is a trade-off between the mobility range and data speed that different technologies offer(d) None of the above",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statement is NOT true?(a) Human voice produce analog signals(b) Voice signals can be digitized to a binary representation, which can then be sent over wireless signals through techniques like signal modulation.(c) FM stands for frequency modulation(d) None of the above",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statement is true?(a) The term \"Cellular\" in cellular networks comes from honeycomb shape of areas for a coverage region(b) Adjacent parts of cells in a cellular network operate on different frequencies to minimize interference in wireless data transmission(c) Base stations of adjacent cells participate in the handover process to minimize call drop rates(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statements is true?(a) Mobile CRM modules can help employees in remote locations have real-time access to customer data(b) RFID technology can be used to monitor and get reports on equipment status without the need for physical examination.(c) Using WiFi and other wireless technologies to connect smart home appliances can help realize green buildings(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "Barcode was intenved in?a. 1948b. 1967c. 1946d. 1964",
+      "definition": "a. 1948"
+    },
+    {
+      "term": "Which of the following statements is NOT true?(a) RFID is less expensive than bar codes and QR codes(b) RFID stands for Radio Frequency Identification(c) RFID readers can read multiple RFID tags at the same time(d) The size of the antenna that can be used inside an RFID tag affects the distance from which it can be scanned.",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statements is NOT true about WiFi networks?(a) WiFi operates in an unlicensed spectrum band(b) WiFi and cellular networks use the same set of frequencies(c) WiFi is an example of Wireless Local Area Networks (WLAN)(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statements is NOT true?(a) 1G cellular networks support voice and data services(b) 2G cellular networks support both voice and messaging services(c) 3G and 4G cellular networks support both voice and data services(d) 5G cellular networks will support Internet of Things and other data heavy services",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following pairing of technology to its coverage area is mismatched?(a) Bluetooth - Wireless Metropolitan Area Network (WMAN)(b) WiFi - Wireless Local Area Network (WLAN)(c) CDMA - Wireless Wide Area Network (WWAN)(d) None of the above",
+      "definition": ""
+    },
+    {
+      "term": "The mobile phones we carry today have more computing power than the computers used for the Apollo 11 to land on the moon.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Which of the following technology can be used inside a store to track which aisle a customer is in?(a) Barcode on each product(b) QR code on each product(c) RFID tag on a shopping cart(d) Geolocation data from cell phone",
+      "definition": ""
+    },
+    {
+      "term": "Which of the following statements is true?(a) Usage based pricing for data is a way to charge based on the volume of data consumed(b) Time dependent pricing for data is a way to charge based on the time of day at which data is consumed(c) Location based pricing for data is a way to charge based on the location at which data is consumed(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "Which of these are characteristics of secure communication?(a) Confidentiality(b) Data Integrity(c) Authentication(d) All of the above",
+      "definition": ""
+    },
+    {
+      "term": "A Trojan horse refers to a computer program that...(a) has the intent to slow down a machine through self-replication and using up all the available resources(b) has the intent to open a backdoor on a machine for an attacker to gain remote access(c) has the intent to create an additional layer of protection against viruses on a machine(d) none of the above",
+      "definition": "has the intent to open a backdoor on a machine for an attacker to gain remote access"
+    },
+    {
+      "term": "Which of the following is an example of attack involving impersonation or spying on ongoing data exchanges?(a) IP Spoofing(b) Packet Sniffing(c) Man-in-the-Middle(d) All of the above",
+      "definition": "All of the above"
+    },
+    {
+      "term": "Which of the following statement about cipher-based encryption is NOT true?(a) Caesar ciphers shift the alphabetical letters by a number (key) that is known only to the sender and the receiver of a message.(b) A key challenge with Caesar cipher and its variants is the need to share the key in advance in a trusted environment(c) Caesar cipher is a stronger encryption technique than one-time pads(d) Perfect one time pads can be unbreakable because of the computational power needed",
+      "definition": "(c) Caesar cipher is a stronger encryption technique than one-time pads"
+    },
+    {
+      "term": "Which of the following private key based data encryption system is the strongest?(a) DES(b) 3DES (c) AES (d) All of them are of similar strength",
+      "definition": "(c) AES"
+    },
+    {
+      "term": "Which of the following statements about public key cryptosystem is NOT true?(a) Message can be encoded with one key (either of the two) and decoded with the other(b) Message can only be encoded with the private key and decoded with the public key, not vice versa(c) Someone can know the public key, but that should not allow him or her to deduce the private key(d) It can be used for encryption as well as in authentication and digital signatures",
+      "definition": "(b) Message can only be encoded with the private key and decoded with the public key, not vice versa"
+    },
+    {
+      "term": "Which of the following suggested usage of cyber defense system is correct:(a) Encryption is used to protect sensitive information and data(b) Host-based Intrusion Detection Systems are used to monitor and protect individual machines and systems.(c) Network-based Intrusion Detection Systems are used to monitor and protect organization's network(d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which of the following should be AVOIDED to prevent confidential data loss from cyberattacks?(a) Store the encrypted data and the encryption key at different locations(b) Store the encrypted data and the encryption key at the same location(c) Use a two-factor access control(d) Limit third-party access to the internal network",
+      "definition": "(b) Store the encrypted data and the encryption key at the same location"
+    },
+    {
+      "term": "The type of disclosure process in which a new bug discovery is reported right away to the public is known as:(a) Responsible Disclosure(b) Full Disclosure(c) Market Disclosure(d) None of the above",
+      "definition": "(b) Full Disclosure"
+    },
+    {
+      "term": "Attackers can exploit gaps in cross-organizational processes more easily when algorithmic decision-making is involved. Which of the following technology may best help to address some of these concerns?(a) Blockchain(b) Cloud computing(c) Internet of Things(d) None of the above",
+      "definition": "(a) Blockchain"
+    },
+    {
+      "term": "Which of the following statements about blockchain is NOT true?(a) It is a distributed ledger that records transactions(b) It has a centralized validation system(c) It uses cryptographic codes for securing transaction records(d) It is the technology behind Bitcoin",
+      "definition": "(b) It has a centralized validation system"
+    },
+    {
+      "term": "Which of the following statements provides a valid reason in favor of blockchains over traditional databases?(a) Traditional databases are not capable of storing transaction information(b) Transaction data stored in a traditional database can be validated by anyone but blockchains offer a more closed solution that increases security.(c) Transaction data are stored in a traditional database under the control of a single administrator who needs to be trusted, whereas blockchains create a distributed ledger that can be validated by anyone.(d) All of the above",
+      "definition": "(c) Transaction data are stored in a traditional database under the control of a single administrator who needs to be trusted, whereas blockchains create a distributed ledger that can be validated by anyone."
+    },
+    {
+      "term": "Which of the following statements is true about Bitcoins?(a) Bitcoin is the world's first digital currency based on the blockchain technology that was launched in 2009 as an alternative to traditional currency.(b) In Bitcoins, there is no need to have an actual physical currency because its blockchain keeps an entire transaction history on who owned each bitcoin at different times in the past.(c) Transaction records in banking are centrally controlled and closed to the public for security reasons, whereas bitcoin brings in the public to validate every ownership and transaction, thus adding transparency.(d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "Which of the following statements is NOT true about Bitcoins?(a) Bitcoin uses cryptography to maintain security and immutability of transactions.(b) Bitcoin miners use private key cryptography for encrypting transactions.(c) Miners in Bitcoin blockchain collect and validate transaction requests.(d) When a miner successfully validates and adds a new block of transaction records to the chain, they earn bitcoins in lieu of their computational power spent in this process.",
+      "definition": "(b) Bitcoin miners use private key cryptography for encrypting transactions."
+    },
+    {
+      "term": "Which of the following statements about the steps of Bitcoin mining is NOT true?(a) Bitcoin miners scoop up a whole bunch of transaction requests that they process(b) Bitcoin miners check to ensure that the digital signatures are valid and that there are enough bitcoins in the wallet for a valid transaction.(c) Miners compete globally to produce blocks of validated transactions. The first miner to produce a valid block of transactions earns bitcoins and their block is added to end of the blockchain.(d) All the miners participated in mining will get an equal share of the bitcoins for participating in the computation process.",
+      "definition": "(d) All the miners participated in mining will get an equal share of the bitcoins for participating in the computation process."
+    },
+    {
+      "term": "In the context of the irreversibility of blockchains, which of the following statement is NOT true?(a) The process of adding blocks to a blockchain is such that it is very expensive - in terms of computational power, and hence, electricity - to add new blocks and even more so to change blocks further back in the chain.(b) Any miner trying to add a new block of data is required to provide a cryptographic proof called Proof of Work.(c) To produce the Proof of Work, a miner will have to perform multiple rounds of hashing with the data of the previous block such that the resultant hash value begins with a specified number of zeros.(d) A miner predicts what hash values will be produced and adjusts the data used in the hashing process.",
+      "definition": "(d) A miner predicts what hash values will be produced and adjusts the data used in the hashing process."
+    },
+    {
+      "term": "Which of the following is true for smart contracts?(a) They are software code outlining contracts associated with transactions, which remain unaltered, accessible and publicly verifiable for the blockchain's lifespan.(b) Smart contracts often interface with external applications that reside outside the blockchain(c) Smart contracts can be used for peer-to-peer transactions, e.g., smart electricity grid, ridesharing services, etc(d) All of the above",
+      "definition": "(d) All of the above"
+    },
+    {
+      "term": "College diplomas, transcripts, and other educational records are being tracked and stored in Blockchains because they provide easy accessibility, verifiability and immutability of data.a. Trueb. False",
+      "definition": "a. True"
+    },
+    {
+      "term": "Suppose your organization has data needs to be secured and stored centrally. What technology option should you use?(a) Traditional Database (b) Blockchain",
+      "definition": "(a) Traditional Database"
+    },
+    {
+      "term": "Suppose multiple stakeholders in a supply chain need to update some records in a dynamic manner but they all want verifiability and immutability of the data. What technology option should you use?(a) Traditional Database (b) Blockchain",
+      "definition": "(b) Blockchain"
+    },
+    {
+      "term": "Which of the following statements is true?(a) Cheap land, cheap electricity, and easy access to advanced hardware vendors for customization are beneficial for blockchain mining.(b) As applications of Blockchains continue to grow, the energy consumption for the computation will be a key factor for enterprises to consider.(c) Smaller scale permissioned blockchain that limit participation to trusted miners can reduce computational overhead and energy needs. (d) All of the above.",
+      "definition": "(d) All of the above."
+    }
+  ]
+}

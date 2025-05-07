@@ -1,0 +1,220 @@
+{
+  "quizSrc": [
+    {
+      "term": "Which one of the following best describes what you need to do in order to run the program?A.Compile the program, create a new object for the class, and call the method.B.Create a new object for the class, call the method, and then compile the program.C.Create a new object for the class, compile the program, and call the method.D.Compile the program, call the method, and then create a new object for the class.",
+      "definition": "A.Compile the program, create a new object for the class, and call the method."
+    },
+    {
+      "term": "Which one of the following best describes how one knows in BlueJ that a class has compiled successfully?1 / 1 pointA An object is automatically created to indicate compilation success.B The program automatically runs to indicate compilation success.C The class icon removes the shaded diagonal lines to indicate compilation success.D The class icon turns the color red to indicate compilation success.",
+      "definition": "C The class icon removes the shaded diagonal lines to indicate compilation success."
+    },
+    {
+      "term": "Which one of the following best describes BlueJ?1 / 1 point A BlueJ is software that organizes data files.B BlueJ is a programming environment.C BlueJ is an object-oriented programming language.D BlueJ is a word processor for editing code.",
+      "definition": "B BlueJ is a programming environment."
+    },
+    {
+      "term": "int a = 5;int b = 3;int c = 4;c = a + b ;What is the value of c after these lines execute?",
+      "definition": ""
+    },
+    {
+      "term": "int a =1;int b = a+2;int c = b+b;What is the value of c after these lines execute?",
+      "definition": ""
+    },
+    {
+      "term": "int a = 3 ;int b = 4 + a / 2 ;int c = b % 3 ;What is the value of c after these lines execute?",
+      "definition": ""
+    },
+    {
+      "term": "int f(int x) {return x*2 - 1;}int h() {int a = 3;int b = f(a) + f(4);return b;}What is the return value of the call h()?",
+      "definition": " "
+    },
+    {
+      "term": "int g (int a) {if (a &lt; 9) {return 9; }if (a &lt; 7) {return 7; }if (a &lt; 4) {return 4; }return 0;}What is the return value of the call g(5)?",
+      "definition": ""
+    },
+    {
+      "term": "int k (int a, int b) {if (a &lt; b) {if (b &gt; 4) {return 0 ; }else {return 1; } }else {if (a &gt; 4) {return 2; }else {return 3; } }}For which of the values a and b would 2 be the return value?1 / 1 pointA a=2, b=0B a=6, b=6C a=6, b=8D a=1, b=3",
+      "definition": "B a=6, b=6"
+    },
+    {
+      "term": "public void play () { Frog fred = new Frog(); Cat jiang = new Cat(); fred.hop(4); jiang.jump(5, fred); String greet = That is all\"; fred.say(greet, 3);}Without seeing any details of classes used in this program and their methods, but assuming the methods shown are valid methods for these classes, which one of the following are methods in the Frog class?A hop and sayB Only jumpC Only hopD Only sayE hop, jump and say",
+      "definition": "A hop and say"
+    },
+    {
+      "term": "public class Thing {private int a;public Thing(int x) { a = x; }public int geta() {return a; }public void print() {int b = 4;System.out.println(geta() + \" \" + b); }}What is (or are) the instance variable(s) in this class?1 / 1 pointA aB a, x, and bC xD bE a and x",
+      "definition": "A a"
+    },
+    {
+      "term": "public class Something {public void run() { FileResource f = new FileResource(\"words.txt\");for (String g : f.lines()) { System.out.println(g); System.out.println(g); } }}Suppose the file words.txt contains the following lines:cat giraffebirdzebraHow many times is the for loop executed?",
+      "definition": ""
+    },
+    {
+      "term": "int m = 7 ;int n = 9 ;double d = 4.5 ;double f = 8.974 ;Which one of the following arithmetic expressions would need a cast for the addition to work? (Hint: Review the video on Types if you are unsure what casting variables means.)",
+      "definition": ""
+    },
+    {
+      "term": "public class Thing {private int a;public Thing(int x) { a = x; }public int geta() {return a ; }public void print() {int b = 4 ; System.out.println(geta() + \" \" + b); }}And consider the following code segment that uses the Thing class.Thing f = new Thing(4);System.out.println(f.geta());Which one of the following is NOT a primitive type?A xB aC fD b",
+      "definition": "C f"
+    },
+    {
+      "term": "Question 1 Which one of the following shows how you could assign the character variable ch to the lowercase version of itself, without having to write any additional methods?A ch=ch.toLowerCase();B ch=character.toLowerCase(ch);C ch =toLowerCase(ch);D Character.toLowerCase(ch);",
+      "definition": "B ch=character.toLowerCase(ch); D Character.toLowerCase(ch);"
+    },
+    {
+      "term": "Consider writing the method isAorE that has one char parameter, ch. This method should return true if ch is either 'a' or 'e', and otherwise return false.Which two of the following are correct implementations for the method isAorE?A public boolean isAorE (char ch) {if (ch != 'a' || ch != 'e') {return false; }return true;}B public boolean isAorE (char ch) {if (ch == 'a') {return true; }if (ch == 'e') {return true; }return false;}C public boolean isAorE (char ch) {if (ch == 'a') {return true; }else {return false; }if (ch == 'e') {return true; }else {return false; }}D public boolean isAorE (char ch) {if (ch == 'a' || ch == 'e') {return true; }return false;}E public boolean isAorE(char ch) {if (ch == 'ae') {return true; }return false;}",
+      "definition": "  "
+    },
+    {
+      "term": "Assume that isVowel is a method with one char parameter, and that this method returns true if that character is a vowel, and false if it is not a vowel.Consider the following code to replace all vowels in a string phrase with a given character ch.StringBuilder sb = new StringBuilder(phrase);for (int k=0; k &lt; sb.length(); k++) {// MISSING CODE}Which one of the following is the missing code to modify sb so that all vowels in sb are replaced with the character ch?A if (isVowel(sb.charAt(k))) { sb.setCharAt(k, ch);}B if (isVowel(sb.charAt(k)) == ch) { sb.setCharAt(k, ch);}C if (isVowel(sb[k] == ch)) { sb[k] = ch;}D if ( (isVowel(sb[k])) == ch) { sb[k] = ch;}E if ( (isVowel(sb[k]))) { sb[k] = ch;}F if (sb.charAt(isVowel(k))) { sb.setCharAt(k, ch);}",
+      "definition": ""
+    },
+    {
+      "term": "Consider the following definition where phrase is a String.StringBuilder sb = new StringBuilder(phrase);Which two of the following are correct ways to ask if a character in the kth position of sb is equal to the character ch, when we want them to match regardless of case?A char one = Character.toLowerCase(sb.charAt(k));char two = Character.toLowerCase(ch);if (one == two) {Bif (Character.toLowerCase(sb[k] == ch)) {Cif (Character.toLowerCase(sb.charAt(k)) == Character.toLowerCase(ch)) {Dchar one = sb.charAt(k).toLowerCase();char two = Character.toLowerCase(ch);if (one == two) {Eif (sb.charAt(k).toLowerCase() == Character.toLowerCase(ch)) {",
+      "definition": "  "
+    },
+    {
+      "term": "Encrypt the following phrase with Caesar Cipher key 15.At noon be in the conference room with your hat on for a surprise party. YELL LOUD!What is the encrypted string?(Note: Your encrypted string should preserve spacing and punctuation.)",
+      "definition": "                                                                                  "
+    },
+    {
+      "term": "Encrypt the following phrase with the algorithm described for using two Caesar Cipher keys, with key1 = 8 and key2 = 21.At noon be in the conference room with your hat on for a surprise party. YELL LOUD!What is the encrypted string?(Note: Your encrypted string should preserve spacing and punctuation.)",
+      "definition": "                                                                                            "
+    },
+    {
+      "term": "Which two of the following check correctly if the last character of the String word is not a letter?Aif ( ! word.charAt(Character.isLetter(word.length()-1))) { wordlength--;}Bif ( ! Character.isLetter(word.charAt(word.length()-1))){ wordlength--;}Cif ( ! word.charAt(word.length()-1)) { wordlength--;}Dif (Character.isLetter(word.charAt(word.length()-1)) == false) { wordlength--;}Eif (word.char(Character.isLetter(word.length()-1)) == false) { wordlength--;}Fif (word.charAt(word.length()-1) == false) { wordlength--;}",
+      "definition": "  "
+    },
+    {
+      "term": "for(String word : resource.words()){int wordlength = word.length();if (wordlength &gt;= counts.length) { wordlength = counts.length - 1; }if (wordlength &gt; 0 ) { counts[wordlength] ++; }}Which one of the following best describes the purpose of the first if statement?A All words that are of length greater than or equal to the size of the counts array are not counted in any counter.B All words that are of length greater than or equal to the size of the counts array are shortened to a smaller size that is countable before they are counted.C The wordlength of every word is reduced by one as the counter in the array is off by one since the first counter in the array is at index 0.D All words that are of length greater than or equal to the size of the counts array are counted in the last counter in the array.",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following words (or rather groups of characters with no blanks) might need a special case in the countWordLengths method?1 / 1 pointA $B \"Hello\"C !-Check-!D Bird:,",
+      "definition": ""
+    },
+    {
+      "term": "Consider the following code for the halfOfString method that is given a string named message and a starting position named start, and returns a new string that is formed from every other character starting with the given start location.String answer = \"\";// MISSING CODEreturn answer;Which one of the following is the missing code for this method?Afor (int k = 0; k&lt; message.length() ; k+= 2) { answer = answer + message.charAt(start);}Bfor (int k = start; k&lt; message.length() ; k+= 2) { answer = answer + message.charAt(k);}Cfor (int k = 0; k&lt; message.length() ; k+= start) { answer = answer + message.charAt(k);}Dfor (int k = start; k&lt; message.length() ; k+= 2) { answer = answer + message.charAt(start);}Efor (int k = start+2; k&lt; message.length() ; k+= 2) { answer = answer + message.charAt(start);}",
+      "definition": ""
+    },
+    {
+      "term": "Suppose we decided to write an eyeball method for the two-key decrypt algorithm.Which one of the following obstacles would make using the eyeball method difficult?1 / 1 pointA We would need to decrypt with all possible key combinations resulting in 26+26 = 52 possible combinations to look at.B We would need to decrypt with all possible key combinations resulting in 26+26 = 52 keys with 52*52 = 2704 possible key combinations to look at.C We would need to decrypt with all possible key combinations resulting in 26*26 = 676 possible combinations to look at.D We would need to decrypt with all possible key combinations resulting in 26+26 = 52 keys with 52+52 = 104 possible key combinations to look at.",
+      "definition": ""
+    },
+    {
+      "term": "The following phrase was encrypted with the two key encryption method discussed in the programming exercise, using two unknown keys.Akag tjw Xibhr awoa aoee xakex znxag xwkoWhat is the decrypted message?(You'll need to figure out which keys were used to encrypt it.)",
+      "definition": "                                        "
+    },
+    {
+      "term": "The following phrase was encrypted with the two key encryption method we discussed using the two keys 2 and 20.Top ncmy qkff vi vguv vbg ycpxWhat is the decrypted message?(Note: You should preserve the spacing in your answer.)",
+      "definition": "                                "
+    },
+    {
+      "term": "Which of the following options is the best choice for adding an additional private field to the CaesarCipher class to make it easier to call the decrypt method on a string that was encrypted using an object of this class?1 / 1 pointA The String input which is a parameter to the encrypt method.B The for loop variable in the for loop in the encrypt method.C The character variable that reads one character at a time from the input String parameter in the encrypt method.D The integer key which is a parameter to the constructor.",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following best describes the approach for the decrypt method that has one String parameter encrypted?Assume decrypt can also access the key parameter that was used in the constructor, and that value is stored in an instance variable named mainKey in the constructor.ACaesarCipher cc = new CaesarCipher(mainKey);return encrypt(cc.encrypted);BCaesarCipher cc = new CaesarCipher(mainKey);return cc.encrypt(encrypted);CCaesarCipher cc = new CaesarCipher(26);return encrypt(cc.encrypted);DCaesarCipher cc = new CaesarCipher(26-mainKey);return encrypt(cc.encrypted);ECaesarCipher cc = new CaesarCipher(26);return cc.encrypt(encrypted);FCaesarCipher cc = new CaesarCipher(26-mainKey);return cc.encrypt(encrypted);",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following is the best idea for the method breakCaesarCipher?1 / 1 pointA Compute a CaesarCipher object, and then call encrypt.B Create a CaesarCipher. Then calculate the frequency of all the letters in the encrypted string, using countLetters and compute the index of the largest frequency using maxIndex. Then call decrypt on the encrypted string.C Compute a CaesarCipher object for every possible key. Then for each one, decrypt and then calculate the frequency of all the letters using countLetters. Compute the index of the largest frequency over all of them. Return the decrypted string that goes with maxIndex.D Calculate the frequency of all the letters using countLetters and compute the index of the largest frequency using maxIndex. Use those values to determine the key, then create a CaesarCipher with that key and call decrypt on the encrypted string.",
+      "definition": ""
+    },
+    {
+      "term": "In the class TestCaesarCipher, should the method countLetters be public or private?1 / 1 pointA publicB private",
+      "definition": ""
+    },
+    {
+      "term": "Consider the following two classes Simple and TestSimple for the remaining questions.public class Simple{  private String word;  private String phrase;  public Simple(int number, String w) {  word = w;  phrase = mystery(number, w);  }  private String mystery(int num, String s) {  String answer = \"\";  for (int k=0; k&lt;num; k++) {  answer = answer + s;  }  return answer;  }  public String toString() {  return phrase + \" is \" + word + \" repeated\"; }}public class TestSimple{ public void print() {  Simple item = new Simple(3, \"blue\");  System.out.println(item);  } }Why is there no return type for the method Simple?",
+      "definition": "                                "
+    },
+    {
+      "term": "public class Simple{  private String word;  private String phrase;  public Simple(int number, String w) {  word = w;  phrase = mystery(number, w);  }  private String mystery(int num, String s) {  String answer = \"\";  for (int k=0; k&lt;num; k++) {  answer = answer + s;  }  return answer;  }  public String toString() {  return phrase + \" is \" + word + \" repeated\"; }}public class TestSimple{ public void print() {  Simple item = new Simple(3, \"blue\");  System.out.println(item);  } }What is printed when the print method in TestSimple is called?",
+      "definition": "                            "
+    },
+    {
+      "term": "public class Simple{  private String word;  private String phrase;  public Simple(int number, String w) {  word = w;  phrase = mystery(number, w);  }  private String mystery(int num, String s) {  String answer = \"\";  for (int k=0; k&lt;num; k++) {  answer = answer + s;  }  return answer;  }  public String toString() {  return phrase + \" is \" + word + \" repeated\"; }}public class TestSimple{ public void print() {  Simple item = new Simple(3, \"blue\");  System.out.println(item);  } }Suppose the following line is added as the last line in the print method of the class TestSimple.System.out.println(item.mystery(5, \"ho\"));How does this line affect what happens with the code in the print method?",
+      "definition": "                                                                                                                        "
+    },
+    {
+      "term": "Which one of the following is the first gene for this strand of DNA where you want to consider all three of the stop codons?\"AATGCTAACTAGCTGACTAAT\"1 / 1 pointA/ ATGCTAACTAGB/ The empty stringC/ ATGCTAACTAGCTGAD/ ATGCTAE/ ATGCTAAF/ CTAACTAGC",
+      "definition": ""
+    },
+    {
+      "term": "String dna = \"CTGCCTGCATGATCGTA\";int pos = dna.indexOf(\"TG\");int count = 0;while (pos &gt;= 0) { count = count + 1; pos = dna.indexOf(\"TG\",pos);}System.out.println(count);Which of the following best describes the error?1 / 1 pointA Each time pos is reset in the while loop it finds the same \"TG\".B The count is off by 1. The count should be initialized to 1 to take into account the first \"TG\" that is found.C The two lines in the body of the while loop should be swapped so the count happens after pos is given a new value.D The variable pos should be initialized to 0 in line 2 and only set with indexOf inside the while loop.",
+      "definition": ""
+    },
+    {
+      "term": "while (count &lt; 3) { count += 1; newDna = newDna + dna.substring(startPos,pos); startPos = pos+1; pos = dna.indexOf(\"T\", startPos);if (pos == -1) {break; }}How many different ways are there to break out of this loop?1 / 1 pointA 2B 0, it is an infinite loopC 1D 3",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following conditionals correctly evaluates to true if the integer num is an odd number and to false if it is an even number.",
+      "definition": "                "
+    },
+    {
+      "term": "If dna is a String and cgcount is the integer number of C's and G's in the String, which one of the following is the correct return statement to return the decimal number of the ratio of C's and G's in the string to the length of the string?",
+      "definition": "                                      "
+    },
+    {
+      "term": "int countcg = 0;int start = 0;while (true) {int pos = dna.indexOf(\"C\", start);if (pos == -1) {break; } countcg += 1;}Which one of the following best describes how to fix this error?1 / 1 pointA The code start = pos - 1; should go right before the line containing if (pos == -1).B The code start = pos; should go immediately after the line containing countcg += 1;.C The code start = pos + 1; should go immediately after the line containing countcg += 1;.D The code start = pos; should go right before the line containing if (pos == -1).E The code start = pos - 1; should go immediately after the line containing countcg += 1.F The code start = pos + 1; should go right before the line containing if (pos == -1).",
+      "definition": ""
+    },
+    {
+      "term": "Consider that storeAll is a method that returns a StorageResource of Strings. Which one of the following is a valid statement that would be useful in the storeAll method?",
+      "definition": "                                   "
+    },
+    {
+      "term": "Suppose there is a CSV file with a column named Exports. A CSVRecord is used to get a String named export, representing the data in this column.Which one of the following is the correct code for the if condition to determine if both the Strings exportItem1 and exportItem2 are in this CSVRecord in the export column?",
+      "definition": "                                                                    "
+    },
+    {
+      "term": "Which one of the following is a correct version of the code for comparing the name of a country that is in a CSV file that the CSVParser variable parser is processing to see if it is the same name as the String variable country?",
+      "definition": "                                                                                              "
+    },
+    {
+      "term": "If cr is a CSVRecord from one of the weather data files, which one of the following is a correct way to add a temperature from the file to an accumulating double variable named total?A double temp = Double.parseDouble(cr.get(\"TemperatureF\"));total += temp;Btotal += cr.get(\"TemperatureF\");Ctotal += cr.get(Double.parseDouble(\"TemperatureF\"));Ddouble temp = cr.get(\"TemperatureF\");total += Double.parseDouble(temp);",
+      "definition": ""
+    },
+    {
+      "term": "Suppose the name of the file that has the coldest temperature is obtained with this line of code:filenameWithColdestTemp = something.getName();Which one of the following must be true about something?1 / 1 pointA something must be of type CSVParserB something must be of type FileC something must be of type CSVRecordD something must be of type DirectoryResource",
+      "definition": ""
+    },
+    {
+      "term": "In the first version of GladLibs we saw in this lesson, assume an ArrayList named wordsUsed will store words that are used as replacements, so no replacement word will be used more than once. Which one of the following could be the MISSING CODE for the code below in GladLibs to make sure that no word is used twiceString sub = getSubstitute(w.substring(first+1,last));while (true) { [MISSING CODE]}Aif (! wordsUsed.contains(sub)) { wordsUsed.add(sub);break;}sub = getSubstitute(w.substring(first+1,last));Bif ( !wordsUsed.contains(sub)) { sub = getSubstitute(w.substring(first+1,last)); wordsUsed.add(sub);break;}Cif (! wordsUsed.contains(sub)) { wordsUsed.add(sub); sub = getSubstitute(w.substring(first+1,last));break;}Dsub = getSubstitute(w.substring(first+1,last));if (! wordsUsed.contains(sub)) { wordsUsed.add(sub);break;}",
+      "definition": ""
+    },
+    {
+      "term": "Consider the map version of GladLibs, and consider the method totalWordsInMap that returns the total number of words in all the ArrayLists in the HashMap myMap. Which one of the following is the best choice for the loop in this method?Afor (ArrayList category : myMap.keySet()) {Bfor (String category : myMap.keySet()) {Cfor (ArrayList&lt;String&gt; category : myMap.keySet()) {Dfor (int category : myMap.keySet()) {",
+      "definition": ""
+    },
+    {
+      "term": "Consider the map version of GladLibs, and consider the method totalWordsConsidered that returns the total number of words in the ArrayLists of the categories that were used for a particular GladLib. What type of private instance variable would be the best choice to solve this problem?1 / 1 pointA A HashMap of String to String, mapping a category seen to the first word seen in that category.B An int representing the total number of words from categories.C An ArrayList of Integers representing the sizes of the unique categories ArrayLists.D An ArrayList of Strings representing the unique categories used.",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following is the correct code for the constructor LogAnalyzer?Arecords = new ArrayList&lt;LogEntry&gt;();BArrayList&lt;LogEntry&gt; records = new ArrayList&lt;LogEntry&gt;(filename);Crecords = new ArrayList&lt;LogEntry&gt;(filename);DArrayList&lt;LogEntry&gt; records = new ArrayList&lt;LogEntry&gt;();",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following is the best answer for the line in the method readFile that will use WebLogParser to parse a line from the file?Assume that line is a String representing one line from the file.AWebLogParser.parseEntry(line);BLogEntry le = WebLogParser.parseEntry(line);CWebLogParser.parseEntry(line) = LogEntry le;DSystem.out.println(WebLogParser.parseEntry(line));",
+      "definition": ""
+    },
+    {
+      "term": "Suppose a new integer variable named location will be added as a private variable to the LogEntry class. This variable should be initialized as 0 just once when the object is created.Where is the best location in the class to initialize this variable?AInitialize location when it is declared as a private variable, not in a method, as:private int location =0;BInitialize location in the constructor with the code:int location=0;CInitialize location in the readFile method with the codelocation =0;DInitialize location in the readFile method with the code:int location=0;EInitialize location in the constructor with the code:location=0;",
+      "definition": ""
+    },
+    {
+      "term": "When the getName method signature is added to the Filter interface, which of the following is most likely NOT a needed change to the DepthFilter class?1 / 1 pointA A new method setName to change the name of the filter.B A new private String instance variable to store the name of the filter.C A new method getName to return the name of the filter.D A parameter in the constructor to initialize the name of the filter.",
+      "definition": ""
+    },
+    {
+      "term": "Consider an ArrayList of following six integers.2 4 5 9 8 1What does this ArrayList look like after two passes of selection sort that sorts the elements in numeric order from smallest to largest?1 / 1 pointA 1 2 4 9 8 5B 1 2 5 4 9 8C 1 2 5 9 8 4D 1 4 5 9 8 2E 2 4 5 9 8 1F 4 1 5 2 8 9",
+      "definition": ""
+    },
+    {
+      "term": "Question 5Consider an ArrayList of following six integers.4 2 5 9 8 1What does this ArrayList look like after two passes of bubble sort that sorts the elements in numeric order from smallest to largest?1 / 1 pointA 2 4 1 5 8 9B 2 4 5 1 8 9C 2 4 5 8 1 9D 4 2 5 1 8 9E 4 2 5 8 1 9D 4 2 5 9 8 1",
+      "definition": ""
+    }
+  ]
+}

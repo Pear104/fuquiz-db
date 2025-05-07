@@ -1,0 +1,1460 @@
+{
+  "quizSrc": [
+    {
+      "term": "What is the primary method by which robots (crawlers, spiders) discover new web pages?A. Robots follow the path created by websites linking to each otherB. Google and other search engines manually add new sites to an index on a regular basisC. User queries activate robots and cause them to begin searching the webD. Webmasters submit their sites to be indexed",
+      "definition": "A. Robots follow the path created by websites linking to each other"
+    },
+    {
+      "term": "True or False: Search engines have evolved to the point where the relevance and density of keywords are no longer a ranking factor for websites.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What does a robot determine about a new website once it has analyzed it? (Select all that apply.)A. The relevance of content to a user's searchB. What topics the site should rank forC. The quality of the site's contentD. What the site is about",
+      "definition": "D. What the site is about"
+    },
+    {
+      "term": "What action can you take to aid in the process of having web crawlers, spiders, or robots discover your site?A. Perform a search queryB. Submit your site directly to a search engineC. Add your site to free services like Google Webmasters Tools",
+      "definition": "C. Add your site to free services like Google Webmasters Tools"
+    },
+    {
+      "term": "In the early days, Google ranked content based primarily on:A. User generated contentB. BacklinksC. SpeedD. User experience",
+      "definition": "B. Backlinks"
+    },
+    {
+      "term": "To cut down on spam Google has:A. Made authority and page-rank more importantB. Google has not cut down spamC. Made improvements to transparency, personalized search, and moreD. Made speed more important",
+      "definition": "C. Made improvements to transparency, personalized search, and more"
+    },
+    {
+      "term": "From the list below, choose the answer that most closely matches what the instructor described as the BEST way to learn and implement SEO, according to the lectures in this lesson.A. Continuous practice, testing, and modifying of content and optimization plansB. Following Google best practices and reaching out to Google with questions and concernsC. Repetition of ideas and policies that have been proven to succeed in the pastD. Strict adherence to standards documents and workflow procedures",
+      "definition": "A. Continuous practice, testing, and modifying of content and optimization plans"
+    },
+    {
+      "term": "The overall focus of most \"white hat\" SEOs is traditionally:A. Improving organic search resultsB. \"Churn and burn\" SEO (high turnover)C. Acquiring paid linksD. Increasing advertising revenue",
+      "definition": "A. Improving organic search results"
+    },
+    {
+      "term": "How much of a website's traffic comes from the first page of search results?A. Less than 20%B. Approximately 25%C. Approximately 70%D. Close to 100%E. Approximately 40%",
+      "definition": "C. Approximately 70%"
+    },
+    {
+      "term": "Based on the discussion of SEO careers in this course, which of the following are potential careers that fall under the SEO umbrella? (Select all that apply.)A. D​eveloping content for blogs and social mediaB. W​orking on-site at a marketing agencyC. W​orking in-house for a companyD. R​unning the Public Relations campaign for a websiteE. C​ontracting for a variety of sites and companies",
+      "definition": "B. W​orking on-site at a marketing agency C. W​orking in-house for a company E. C​ontracting for a variety of sites and companies"
+    },
+    {
+      "term": "True or False: Search Engine Marketing is another, interchangeable term for SEO.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "S​EO is:A. B​enefits from complimentary marketing disciplinesB. A​ specialist field that doesn't need to work with other marketing disciplinesC. O​ften a \"one and done\" strategyD. M​ore of a web developer skill than a marketing one",
+      "definition": "A. B​enefits from complimentary marketing disciplines"
+    },
+    {
+      "term": "In the context of this course and of SEO, what is an algorithm?A. A set of standards put in place to penalize fraudulent or inappropriate websitesB. A piece of software designed to analyze content and determine where it displays in searchC. A physical server system that stores and executes search commands based on specific criteriaD. A loose collection of rules applied manually to discourage certain SEO practicesE. A purpose-built program used to \"crawl\" and index websitesF. All of these describe an algorithm",
+      "definition": "B. A piece of software designed to analyze content and determine where it displays in search"
+    },
+    {
+      "term": "SEOs have determined that Google uses over _____ ranking factors that go into ranking a website, and over _____ updates a year to their ranking and listing algorithms.A. 500, 1000B. 50, 100C. 100, 200D. 75, 60E. 200, 500",
+      "definition": "E. 200, 500"
+    },
+    {
+      "term": "Why do search engines need to adjust their algorithms frequently?A. Search engines face penalties if they do not frequently update their algorithms.B. All webmasters follow best practices when optimizing their websites for search engine ranking, and search engines need to make frequent updates to keep up with the latest best practices.C. They want to ensure the authority of sites created without a clear SEO strategy.D. Some webmasters over-optimize a site for a particular algorithm to increase the site's rank despite whether or not it is relevant.",
+      "definition": "D. Some webmasters over-optimize a site for a particular algorithm to increase the site's rank despite whether or not it is relevant."
+    },
+    {
+      "term": "What does Google's list of SEO best practices offer SEO professionals?A. It provides guidelines for deceptive SEO strategiesB. It offers guidelines on how to ensure websites are over-optimized for searchC. It provides guidelines for how to trick search engines into ranking a website first for a particular topicD. It offers guidelines on how to ensure websites are optimized for search",
+      "definition": "D. It offers guidelines on how to ensure websites are optimized for search"
+    },
+    {
+      "term": "Which of the following statements is NOT true concerning the Panda update?A. It was designed to prevent sites with low quality content from ranking well in search resultsB. It was a one-time update that eliminated low quality websites from ranking well in search resultsC. Panda updates roll out gradually over several monthsD. It is not a one-time update. Panda updates continue to roll out from time to time.",
+      "definition": "B. It was a one-time update that eliminated low quality websites from ranking well in search results"
+    },
+    {
+      "term": "Which of the following are considered manipulative link practices? (Select all that apply.)A. Comment spamB. Link networksC. Aggressive exact match anchor textD. Paid links",
+      "definition": "A. Comment spam B. Link networks C. Aggressive exact match anchor text D. Paid links"
+    },
+    {
+      "term": "What does Google's Link Disavow tool do?A. Allows website owners to remove their links to other sitesB. Allows website owners to remove spammy linksC. Rolls out the latest Penguin update to a siteD. Allows websites to remove links to high quality sites that boost a site's authority",
+      "definition": "B. Allows website owners to remove spammy links"
+    },
+    {
+      "term": "Panda is an update that looks at:A. Site SpeedB. Content QualityC. Backlink QualityD. All of the above",
+      "definition": "B. Content Quality"
+    },
+    {
+      "term": "Which algorithm is the precursor to BERT?A. PenguinB. MobilegeddonC. Rank BrainD. Caffeine",
+      "definition": "C. Rank Brain"
+    },
+    {
+      "term": "Google updates its algorithms:A. Thousands of times a yearB. About once or twice a yearC. Only when necessary",
+      "definition": "A. Thousands of times a year"
+    },
+    {
+      "term": "According to the course, which of the following have SEOs decided is no longer the most valid ranking factor?A. Link profileB. Specific Keyword densityC. Topic associationD. Semantic analysisE. Optimized content",
+      "definition": "B. Specific Keyword density"
+    },
+    {
+      "term": "An extended, natural term or phrase that appears on a page and increases relevancy is known as a:A. Focus keywordB. Dynamic keywordC. Semantic relationshipD. Long-tail keywordE. Synonym keyword",
+      "definition": "D. Long-tail keyword"
+    },
+    {
+      "term": "Semantic analysis can be summarized as:A. Looking at how words are related to each otherB. Looking at how words are related to a registered domain nameC. Looking at how \"focus\" keywords are related to keyword trends on related sitesD. Looking at how words are organized and cataloged on business sitesE. Looking at how keywords relate to paid search resultsF. All of the above",
+      "definition": "A. Looking at how words are related to each other"
+    },
+    {
+      "term": "Entity Association is when:A. Software tries to determine if a query can be matched to a paid, branded linkB. A search algorithm compares existing content with previously-penalized contentC. Search engine providers attempt to match a specific individual to their fraudulent site(s)D. Software tries to determine if a query can be matched to a specific individual or thingE. A gatekeeper program tries to determine if the user accessing a site is a real human or a botF. All of the above",
+      "definition": "D. Software tries to determine if a query can be matched to a specific individual or thing"
+    },
+    {
+      "term": "When considering the validity of a brand, search providers consider which factors?A. Active social media presenceB. Valid contact information listed on homepageC. Search volume based on brand nameD. Number of mentions around the webE. Engagement with search providers to increase marketingF. All of the above",
+      "definition": "F. All of the above"
+    },
+    {
+      "term": "Which of the following are ways Google algorithms are able to determine how useful documents on the web are to users?A. Topic modeling and associationB. Keyword analysis and number of backlinksC. Analyzing the number of backlinks to the documentD. Keyword usage and over-optimization",
+      "definition": "A. Topic modeling and association"
+    },
+    {
+      "term": "Topic Association is _______. (Select all that apply.)A. A method of linking to other websites based on their topic or themeB. Used by search engines to improve location identification capabilitiesC. Used by search engines to determine relevancy and trustworthiness of a siteD. Utilized by search engines to analyze the theme or topic of a site",
+      "definition": "C. Used by search engines to determine relevancy and trustworthiness of a site D. Utilized by search engines to analyze the theme or topic of a site"
+    },
+    {
+      "term": "Keeping in mind how Topic Association affects search engine results, what is one way you can optimize content for a website to have it seen as more relevant to a particular topic?A. Perform your own, thorough semantic analysis of the siteB. String long tail keywords one after the other throughout the site regardless of how they make sense contextuallyC. Determine a site's keyword and use it repeatedly throughout the websiteD. Determine a site's keyword and then use words and phrases related to or synonymous with the focus keyword",
+      "definition": "D. Determine a site's keyword and then use words and phrases related to or synonymous with the focus keyword"
+    },
+    {
+      "term": "Which of the following are true statements regarding why brands are carrying more importance in Google's relevancy algorithm? (Select all that apply.)A. Google does not appear to favor brands or associated entities with its relevancy algorithmB. Users appear to be more satisfied with search results when they see brands they recognizeC. Searchers' familiarity with certain brands means they are biased towards themD. Smaller brands bring a greater variety of users to sites",
+      "definition": "B. Users appear to be more satisfied with search results when they see brands they recognize C. Searchers' familiarity with certain brands means they are biased towards them"
+    },
+    {
+      "term": "What are some ways you can help your brand grow online? (Select all that apply.)A. Acquire links from trusted sitesB. Create great contentC. Don't put resources into offline effortsD. Develop social presence",
+      "definition": "A. Acquire links from trusted sites B. Create great content D. Develop social presence"
+    },
+    {
+      "term": "BERT helps GoogleA. Better understand human languageB. Target sites with lots of adsC. Improve the authority of a websiteD. All of the above",
+      "definition": "A. Better understand human language"
+    },
+    {
+      "term": "BERT looks at context by:A. Looking at the reading level of the contentB. Analyzing the formatting of the contentC. Finding words synonymous with the topicD. Looking at words such as \"to\", \"on\", \"near\" etc.",
+      "definition": "D. Looking at words such as \"to\", \"on\", \"near\" etc."
+    },
+    {
+      "term": "Core web vitals looks at things like:A. User experience factors such as site loading time and securityB. How often your website is updated for the webC. The quality of backlinks to a siteD. The quality of the content on the site",
+      "definition": "A. User experience factors such as site loading time and security"
+    },
+    {
+      "term": "To rank in Googles Top News Stories you need:A. Publish newsworthy contentB. To integrate AMP into your siteC. Ensure your content is mobile friendlyD. Meet a minimum score on Core Web Vitals",
+      "definition": "D. Meet a minimum score on Core Web Vitals"
+    },
+    {
+      "term": "What is the intent of EAT?A. To ensure that all sites provide a good user experienceB. To ensure that people don't spend money at low quality sitesC. To make the web more secureD. To surface content that users can rely on and trust",
+      "definition": "D. To surface content that users can rely on and trust"
+    },
+    {
+      "term": "EAT Stands for:A. Expertise Authority TrustB. Experts Always TranslateC. Every Application TrustsD. Equal Authority Transferred",
+      "definition": "A. Expertise Authority Trust"
+    },
+    {
+      "term": "Rich Snippets are also called:A. Universal snippetsB. Featured resultsC. Rich resultsD. Featured snippets",
+      "definition": "C. Rich results"
+    },
+    {
+      "term": "What is a featured snippet?A. Local search resultsB. A visual change in the search result, such as review starsC. An article, video, or image displayed at the top of search resultsD. Results in \"people also ask\" boxes",
+      "definition": "C. An article, video, or image displayed at the top of search results"
+    },
+    {
+      "term": "When should you optimize for rich snippets?A. Only if you want good brand visibilityB. AlwaysC. You can't optimize for rich snippetsD. Only if your position 0 result will not impact your CTR",
+      "definition": "B. Always"
+    },
+    {
+      "term": "Suppose you know your audience is active on Twitter, which of the following would be a good tool to use to gather data?A. FollowerwonkB. AARP AnalyticsC. SimilarWebD. Alexa",
+      "definition": "A. Followerwonk"
+    },
+    {
+      "term": "What does a persona represent?A. Optimized keyword content and phrasesB. Your ideal buyerC. A cross-section of the demographic dataD. Localized phrases used to describe an item like cookie vs. biscuit or soda vs. pop.",
+      "definition": "B. Your ideal buyer"
+    },
+    {
+      "term": "It's really helpful to have a buyer persona in place so you can better understand the user's needs and how they searched the web.A. TrueB. F​alse",
+      "definition": "A. True"
+    },
+    {
+      "term": "Personas play a major part in:(Select all that apply.)A. I​nitial keyword researchB. Strengthening your strategyC. K​ey performance indicatorsD. C​ontent strategy",
+      "definition": "A. I​nitial keyword research D. C​ontent strategy"
+    },
+    {
+      "term": "When you're starting out the initial process of building your marketing persona, the best place to start is:A. f​rom your existing customers or usersB. t​hrough surveys of new customersC. f​rom new customers or usersD. t​hrough various social media sites",
+      "definition": "A. f​rom your existing customers or users"
+    },
+    {
+      "term": "There are many ways to acquire information about your current users' needs and behaviors that will help when you build out an ideal persona for targeting more users like them. These involve existing tools you have as well as reaching out to users directly. Those tools are:(Select all that apply.)A. F​acebook SearchB. S​urvey your existing usersC. G​oogle AnalyticsD. G​oogle Search ConsoleE. S​urvey new customers or users",
+      "definition": "B. S​urvey your existing users C. G​oogle Analytics D. G​oogle Search Console"
+    },
+    {
+      "term": "In marketing, you're going to see personas split into two major groups. The first will be potential buyers, and the second will be existing customers.A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The potential buyer is made up of:(​Select all that apply.)A. People that have a problem they're searching for and need to figure out a solution.B. People who aren't aware that your service exists.C. People that have been exposed to it briefly in the past but haven't become customers.D. People who are probably not aware of your product.",
+      "definition": "A. People that have a problem they're searching for and need to figure out a solution. B. People who aren't aware that your service exists. C. People that have been exposed to it briefly in the past but haven't become customers. D. People who are probably not aware of your product."
+    },
+    {
+      "term": "When you start developing a marketing persona, what are the two ways you can use keyword research?A. U​se keywords that will identify what your product or service does.B. U​se keywords that market directly to your existing and future customers.C. Use keywords that'll help you define your user and build your persona.​D. Use keywords that will help you discover potential search queries that you can then match to content service offerings and more.​",
+      "definition": "C. Use keywords that'll help you define your user and build your persona.​ D. Use keywords that will help you discover potential search queries that you can then match to content service offerings and more.​"
+    },
+    {
+      "term": "What are some things to understand about your existing customers?(Select all that apply.)A. These consumers are already your customers, and they already enjoy what you offer.B. They are people who currently shop with you or use your service.C. What areas they think you can improve upon.D. What they like best about your product or service.",
+      "definition": "A. These consumers are already your customers, and they already enjoy what you offer. B. They are people who currently shop with you or use your service. C. What areas they think you can improve upon. D. What they like best about your product or service."
+    },
+    {
+      "term": "Which of the following is an aspect of on-page SEO?A. Optimizing site keywordsB. Developing links to your websiteC. Improving source codeD. Encompassing social media",
+      "definition": "A. Optimizing site keywords"
+    },
+    {
+      "term": "Which of the following meta-data are important to on-page SEO? (Select all that apply.)A. Meta-descriptionB. Title tagsC. Meta-keywordsD. Heading tags",
+      "definition": "A. Meta-description B. Title tags D. Heading tags"
+    },
+    {
+      "term": "Why is it important to have the brand at the end of the title tag?A. The company is concerned about branding first and foremostB. The brand name can then be abbreviatedC. What the page is about should be first",
+      "definition": "C. What the page is about should be first"
+    },
+    {
+      "term": "What IS NOT a best practice for optimizing content?A. Repeat your keyword oftenB. Link to other related websitesC. Use synonyms for keywordsD. Add images and other resources",
+      "definition": "A. Repeat your keyword often"
+    },
+    {
+      "term": "What is the best way for looking at all the information needed for on-page SEO?A. Use the title tag to tell you about the rest of the meta-dataB. Look at the meta-data separatelyC. A crawler like Screaming FrogD. Only look at the search results",
+      "definition": "C. A crawler like Screaming Frog"
+    },
+    {
+      "term": "Suppose you want to make sure to cover the three key areas of SEO; which of the following would you put into place?A. Branding, keywords and title tagsB. On-page Optimization, Technical Optimization, and Off-page OptimizationC. Improving source code, social media, and analyzing meta-data",
+      "definition": "B. On-page Optimization, Technical Optimization, and Off-page Optimization"
+    },
+    {
+      "term": "Suppose you have searched for a topic of interest in a search engine, when the Meta-Data returns some words in the meta-description are in bold; what are these words in bold type?A. KeywordsB. Meta-DataC. Website or URLD. Meta-Tags",
+      "definition": "A. Keywords"
+    },
+    {
+      "term": "Which of the following are best practices to optimize a Title Tag for SEO? (Select all that apply.)A. Make sure Title Tag accurately and concisely describes your pageB. Aim to make Title Tag no longer than 55 to 60 characters in lengthC. Aim to make Title Tag no longer than 75 to 140 characters in length.D. Only use important keywords in Title TagE. Put keywords at the end of a Title Tag",
+      "definition": "A. Make sure Title Tag accurately and concisely describes your page B. Aim to make Title Tag no longer than 55 to 60 characters in length D. Only use important keywords in Title Tag"
+    },
+    {
+      "term": "Which of the following are ways to best use Meta Descriptions for on-page optimization strategy? (Select all that apply.)A. Aim to keep meta descriptions under 160 characters in length.B. Don't worry about crafting a good meta description because it does not directly impact rank.C. Write a meta description using keywords as much as possible while accurately describing the content.",
+      "definition": "A. Aim to keep meta descriptions under 160 characters in length. C. Write a meta description using keywords as much as possible while accurately describing the content."
+    },
+    {
+      "term": "Which of the following are best practices for content optimization? (Select all that apply.)  | Make sure content is relevant to the theme of your site. , Organize content within subdirectories  , Duplicate relevant text or content on one page of your site to other related pages to make sure users see it.  , Just copy content from other sites to save yourself time as long as it is high quality. , Add unique content that adds value to site visitors and users.",
+      "definition": "A. Organize content within subdirectories B. Add unique content that adds value to site visitors and users. E. Make sure content is relevant to the theme of your site."
+    },
+    {
+      "term": "How did page rank used to be determined? (Select all that apply.)A. By the number of visitors to your websiteB. By the amount of links to your websiteC. By the quality of links to your websiteD. By an exponential rank from 0-10",
+      "definition": "B. By the amount of links to your website C. By the quality of links to your website D. By an exponential rank from 0-10"
+    },
+    {
+      "term": "What IS NOT a best practice for creating strong site authority through links?A. Make sure that good keywords in anchor text is used for linksB. Try to remove spammy linksC. Edit your back link profile regularlyD. Have a link exchange with another website",
+      "definition": "D. Have a link exchange with another website"
+    },
+    {
+      "term": "A natural link profile would have a link such as:(Select all that apply.)A. Click hereB. Anchor text surrounded by content that relatesC. www.example.com",
+      "definition": "A. Click here B. Anchor text surrounded by content that relates C. www.example.com"
+    },
+    {
+      "term": "Why is social media an important tool of off-page SEO? (Select all that apply.)A. It helps to build a brandB. Social media can improve site authority just like any other linkC. Some social media pages are crawled and indexed",
+      "definition": "A. It helps to build a brand C. Some social media pages are crawled and indexed"
+    },
+    {
+      "term": "What IS NOT an opportunity of Pinterest?A. Ranks well for long tail niche keywordsB. Pins and boards are indexedC. Boards with more active followers rank better in searchesD. Pinterest can create a strong back link profile to your website",
+      "definition": "D. Pinterest can create a strong back link profile to your website"
+    },
+    {
+      "term": "Which elements make up an effective Off-site SEO strategy? (Select all that apply.)A. Check Toolbar PageRankB. Gain genuine, high-quality links to your site.C. Increase brand recognition through social media.",
+      "definition": "B. Gain genuine, high-quality links to your site. C. Increase brand recognition through social media."
+    },
+    {
+      "term": "Which of the following are best practices to earn links naturally and be judged well by Google? (Select all that apply.)A. Gaining a high amount of links to your site from other related sites attracted by good contentB.Having requests for \"no follow\" code on linksC. Quality of links back to your siteD. Skillfully manipulating other sites to link to your siteE. The relevance of sites linking to your site.",
+      "definition": "A. Gaining a high amount of links to your site from other related sites attracted by good content C. Quality of links back to your site E. The relevance of sites linking to your site."
+    },
+    {
+      "term": "Which of the following are good ways to earn links to your site naturally? (Select all that apply.)A. Create a great user experience on your siteB. Cater to your user baseC. Provide great content for your user baseD. Purchase links from related sites",
+      "definition": "A. Create a great user experience on your site B. Cater to your user base C. Provide great content for your user base"
+    },
+    {
+      "term": "Which of the following are ways to optimize social media as part of your overall SEO strategy? (Select all that apply.)A. Neglect \"no follow\" links because they have no SEO benefit.B. Create great content that is attractive as a Tweet or Re-Tweet.C. Make attention to social media part of your overall SEO strategy, but you don't need to focus on it until much later in the processD. Optimize your Pinterest boards.",
+      "definition": "B. Create great content that is attractive as a Tweet or Re-Tweet. D. Optimize your Pinterest boards."
+    },
+    {
+      "term": "In which of the following ways can link analysis benefit your SEO? (Select all that apply.)A. Maximize backlinksB. Avoid penaltiesC. Improve site authority",
+      "definition": "A. Maximize backlinks B. Avoid penalties C. Improve site authority"
+    },
+    {
+      "term": "Which of the following IS NOT an aspect of technical SEO?A. Resolving site errorsB. The creation of XML and HTML SitemapsC. The creation of robots.txt filesD. Optimizing site keywords",
+      "definition": "D. Optimizing site keywords"
+    },
+    {
+      "term": "Which of the following are functions of the robot.txt file? (Select all that apply.)A. It provides search engine bots your preferences for crawl speedB. It identifies specific pages that should not be crawled by search engine botsC. It outlines the site structure",
+      "definition": "A. It provides search engine bots your preferences for crawl speed B. It identifies specific pages that should not be crawled by search engine bots"
+    },
+    {
+      "term": "It is important to include an XML Sitemap for all of the following reasons EXCEPT:A. With new sites it can be uploaded to Google Search Console or Bing Webmaster tools to inform the search engine of the presence of your siteB. The XML Sitemap includes behind the scenes activity of your website such as when a page was last updatedC. The XML Sitemap outlines the site structure for search engine botsD. It outlines the structure of your site for your audience",
+      "definition": "D. It outlines the structure of your site for your audience"
+    },
+    {
+      "term": "When updating to a new site, which of the following is the most preferred method of redirecting from an old page to new content?A. A temporary redirect from the old page to a comparable new pageB. A permanent redirect from the old page to the most relevant category in the new siteC. A temporary redirect from the old page to the most relevant category in the new siteD. A permanent redirect from the old page to a comparable new page",
+      "definition": "D. A permanent redirect from the old page to a comparable new page"
+    },
+    {
+      "term": "Why are soft 404 errors more difficult to resolve than traditional 404 errors?A. Because they are due to server error, your must wait for the error to resolve itselfB. Because they do not pose a problem for SEO, webmasters are slow to address themC. It takes time to design custom 404 error pages for your siteD. Soft 404 pages are pages that still return a status code of 200 (okay) and are picked up by tools such as Google Search Console",
+      "definition": "D. Soft 404 pages are pages that still return a status code of 200 (okay) and are picked up by tools such as Google Search Console"
+    },
+    {
+      "term": "Which of the following is Technical SEO concerned with? (Select all that apply.)A. Laying a strong visual presence for your siteB. Make it easier for your audience to find your site.C. Make it easier for search engine robots to index your site.",
+      "definition": "B. Make it easier for your audience to find your site. C. Make it easier for search engine robots to index your site."
+    },
+    {
+      "term": "___________ SEO focuses on how well search engine spiders can crawl your site and index your content. Which of the following correctly fills the blank?A. On-pageB. Off-siteC. TechnicalD. Off-page",
+      "definition": "C. Technical"
+    },
+    {
+      "term": "You have been hired to optimize a website, which of the following is essential to include in your SEO strategy? (Select all that apply.)A. Technical SEOB. Content and Keyword recommendationsC. Off-page StrategyD. Maximize visual attractiveness and color balancing",
+      "definition": "A. Technical SEO B. Content and Keyword recommendations C. Off-page Strategy"
+    },
+    {
+      "term": "HTTP Response Status Codes are an important part of Technical SEO; what does HTTP stand for?A. High Text Transfer ProtocolB. Hyper Text Trial PropertiesC. Hypertext Transfer Protocol",
+      "definition": "C. Hypertext Transfer Protocol"
+    },
+    {
+      "term": "Which of the following are best practices for designing and handling 404 error pages on your site? (Select all that apply.)A. On arriving at a 404 page, provide users with helpful linksB. Redirect to a more appropriate pageC. Look and feel of the 404 page should differ in style from the rest of your site so as not to be confused with active content.D. Maximize the amount of 404 pages a site produces.",
+      "definition": "A. On arriving at a 404 page, provide users with helpful links B. Redirect to a more appropriate page"
+    },
+    {
+      "term": "A new site that sells Sci-fi memorabilia is about to launch. Which of the following keywords will best drive the right kind of traffic to the site?A. Sci-fi superfanB. Buy Sci-fi collectiblesC. Han shot first (or other key pop culture Sci-fi phrases)D. Top Sci-fi characters",
+      "definition": "B. Buy Sci-fi collectibles"
+    },
+    {
+      "term": "Which of the following are ways that companies can adjust for the seasonality of searches?A. Publish blog posts to correlate with an increase in searches on the blog topicB. Launch a website redesign when the product is most in demandC. Adjust content for males between the ages of 18-25 based on your audience analysisD. Create blog posts based on common questions that your audience has",
+      "definition": "A. Publish blog posts to correlate with an increase in searches on the blog topic"
+    },
+    {
+      "term": "True or false: Long tail keywords should be avoided when selecting keywords for your siteA. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following are reasons to conduct an audience analysis using tools like Google Trends, Alexa, Quantcast, and Follwerwonk? (Select all that apply.)A. You modify the language and tone of your site based on factors such as the age or home regions of your audienceB. You select a market strategy based on the email or texting habits of your audienceC. You would like to understand your audience to help you refine and choose keywords to targetD. You plan to adjust blog post and site resources based on your audience's needs",
+      "definition": "A. You modify the language and tone of your site based on factors such as the age or home regions of your audience B. You select a market strategy based on the email or texting habits of your audience C. You would like to understand your audience to help you refine and choose keywords to target D. You plan to adjust blog post and site resources based on your audience's needs"
+    },
+    {
+      "term": "Which of the following are ways to refine keywords to better match the terms your target audience might use to find you? (Select all that apply.)A. Move from a broad descriptive word like \"Games\" to a more specific descriptive phrase like \"PC Games\"B. Provide only relevant keywords to a specific question a user is asking but not information a user might want to ask.C. Keep searcher intent in mind",
+      "definition": "A. Move from a broad descriptive word like \"Games\" to a more specific descriptive phrase like \"PC Games\" C. Keep searcher intent in mind"
+    },
+    {
+      "term": "Which of the following represents the path and progress through the stages of a search in the correct order?A. Awareness &gt; Evaluation &gt; Preference &gt; PurchaseB. Awareness &gt; Preference &gt; Evaluation &gt; PurchaseC. Navigational &gt; Transactional &gt; InformationalD. Evaluation &gt; Preference &gt; Awareness &gt; Purchase",
+      "definition": "A. Awareness &gt; Evaluation &gt; Preference &gt; Purchase"
+    },
+    {
+      "term": "Which of the following will help to brainstorm good longtail keywords and generate content ideas?A. Consider questions users will ask and prefixes such as \"How...,\" \"Why...,\" \"Where...\" \"Which...\"B. Brainstorm with a small group of friends who think they know your target audience.C. Use a whiteboard to write out your ideas",
+      "definition": "A. Consider questions users will ask and prefixes such as \"How...,\" \"Why...,\" \"Where...\" \"Which...\""
+    },
+    {
+      "term": "Why is it important to estimate the competitiveness of a potential keyword? (Select all that apply.)  | Estimating the competitiveness will help you to set appropriate expectations for clients , Estimating keyword competitiveness will help manage the size of the keyword list , Estimating the competitiveness will help determine how long it will take to see results",
+      "definition": "Estimating the competitiveness will help you to set appropriate expectations for clients , Estimating the competitiveness will help determine how long it will take to see results"
+    },
+    {
+      "term": "True or False: Analytics tools such as Google Webmaster are usually not very useful in assessing customer intent.",
+      "definition": "False"
+    },
+    {
+      "term": "True or False: Listing brand is the best way to optimize your title tag.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Keyword selection on a larger site should be determined by which of the following factors:A. competition, search volume, brand placement on siteB. competition, search volume, intent, audience alignmentC. competition, intent, brand placement on site, audience alignmentD. search volume, intent, brand placement on site",
+      "definition": "B. competition, search volume, intent, audience alignment"
+    },
+    {
+      "term": "True or False: An existing site is more likely to have pages that work well with the keywords you have identified.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following make up the criteria used to select keywords?A. Relevancy, intent, and competitivenessB. Localization, relevancy, and competitivenessC. Relevancy, intent, and gut instinctD. Competitiveness, relevancy, and redundancy",
+      "definition": "A. Relevancy, intent, and competitiveness"
+    },
+    {
+      "term": "Suppose you want to identify online competition based on keyword usage, what tools might you use for this? (Select all that apply.)A. MOZ keyword difficulty toolB. Open Site ExplorerC. Majestic SEO",
+      "definition": "A. MOZ keyword difficulty tool B. Open Site Explorer C. Majestic SEO"
+    },
+    {
+      "term": "Suppose your client gave you a list of sites they consider to be their direct competitors; what should your attitude be toward organic competitors that are not on their list?A. You should ignore them and focus on what the client asked you to do.B. Include organic competitors that the client may not consider to be their competition.C. You should consider these organic competitors by not inform your client, except on the direct competitors they listed.",
+      "definition": "B. Include organic competitors that the client may not consider to be their competition."
+    },
+    {
+      "term": "When you are organizing your top competitors to develop a plan to compete, what is an effective way to make the results of your analysis easier to grasp? (Select all that apply.)  | Put the data into a long list of text and numbers. , Color-code the results to emphasize the strength of competitors. , Put the data into a block of text separated by commas. , Put each competitor in columns with their related keyword category.",
+      "definition": "Color-code the results to emphasize the strength of competitors. , Put each competitor in columns with their related keyword category."
+    },
+    {
+      "term": "You've been hired to assign keywords to a site's existing pages to optimize SEO and you're eager to dive in, but what questions should you ask first? (Select all that apply.)  | How well do chosen keywords fit in title tags and heading tags? , How is the page performing from a user experience standpoint?   , How well does that page's content match competitor's text copy?  , What pages may need a revamp based on user engagement?   ",
+      "definition": "How well do chosen keywords fit in title tags and heading tags? , How is the page performing from a user experience standpoint? , What pages may need a revamp based on user engagement?"
+    },
+    {
+      "term": "True or False: The first step in developing a competitive analysis is to determine how your target audience reacts to your content.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "When we perform an internal content audit on our own or a client's site, we should also:A. Take notes about the appearance of our pages and the images we useB. List other resources we could addC. Look for opportunities to improve contentD. All of the above",
+      "definition": "D. All of the above"
+    },
+    {
+      "term": "Elements of a good domain level content strategy include:A. All of these answers are correctB. keywordsC. blog contentD. site has a central themeE. strong brand",
+      "definition": "A. All of these answers are correct"
+    },
+    {
+      "term": "True of False: The four types of content are evergreen, trending, seasonal, and general.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False: Customers visiting a site where there is a call to action are more likely to perform that action.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False: The most important step in developing a site-wide strategy is identifying effective keywords.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or False: Placing valuable resource material in a sub-domain increases the main domain authority of a competitor's site.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What are things we should be paying attention to when doing an analysis of social signals? (Select all that apply.)A. Design content that invites more interaction, such as pinnable images.B. Analyze which are the most used sites.C. Add a call-to-action connecting target audiences to useful sites.",
+      "definition": "A. Design content that invites more interaction, such as pinnable images. B. Analyze which are the most used sites. C. Add a call-to-action connecting target audiences to useful sites."
+    },
+    {
+      "term": "When conducting an internal content audit, it is best to start with data from the last:A. 6-monthsB. 2-weeks or newerC. 12-monthsD. 3-months",
+      "definition": "A. 6-months"
+    },
+    {
+      "term": "Mobile Massage provides mobile massage services to local businesses for their employees. They are proud to offer massage services in a company's address during business hours. They believe in the power of massage on one's mind, body, and productivity level; thus consider themselves as an effective productivity partner. They have built a website, but seem to be falling short in increasing their customer base. What should they do to increase brand presence and build consumer trust and loyalty?A. Provide discounts and incentives to new customers.B. Create a content strategy to optimize the content on the site.C. Create more engaging content that can be shared with other consumers.D. Hire outside content writers to develop generic content to attract a variety of users",
+      "definition": "B. Create a content strategy to optimize the content on the site."
+    },
+    {
+      "term": "When optimizing your app you should focus on:A. Only on Google Play firstB. Both app store optimization as well as external optimizationC. Only on your websiteD. Only on Apple Store first",
+      "definition": "B. Both app store optimization as well as external optimization"
+    },
+    {
+      "term": "What is an example of an external app SEO method?A. Creating a solid content marketing strategyB. Improving the user experience in the app itselfC. Building backlinks to the app store listings",
+      "definition": "A. Creating a solid content marketing strategy"
+    },
+    {
+      "term": "What is an example of ASO?A. Having a good content marketing strategy in placeB. Optimizing your apps titles and descriptionsC. Making sure that your website points to your app store listing",
+      "definition": "B. Optimizing your apps titles and descriptions"
+    },
+    {
+      "term": "Both app stores will evaluate things like:A. Whether or not your app has an external websiteB. How many backlinks your app store listing hasC. Keywords in tagsD. User metrics such as uninstall rate, app speed, and more",
+      "definition": "D. User metrics such as uninstall rate, app speed, and more"
+    },
+    {
+      "term": "What is an A/B test?A. Splitting traffic across different variations of the appB. When you record people using the app to see how they navigateC. Measuring the CTR of visits from your website to your app listing",
+      "definition": "A. Splitting traffic across different variations of the app"
+    },
+    {
+      "term": "Both Google and Apple have built-in A/B testing functionality.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Why should you optimize screenshots?A. To improve downloads and retentionB. To clearly state the price of your appC. To meet quality guidelines of the app storesD. To make sure your app is featured in the right category",
+      "definition": "A. To improve downloads and retention"
+    },
+    {
+      "term": "Which of these is a good reason to forecast?A. Making sure your forecast exactly matches actual numbersB. So you look busy to executivesC. To help train new hiresD. Getting approval for appropriate resources to finish a project",
+      "definition": "D. Getting approval for appropriate resources to finish a project"
+    },
+    {
+      "term": "SEO forecasting is difficult because:A. The landscape can change frequentlyB. You can't easily communicate your resultsC. You have to use expensive tools",
+      "definition": "A. The landscape can change frequently"
+    },
+    {
+      "term": "Creating a custom CTR curve is:A. Absolutely necessaryB. There's no point because there are industry-standard onesC. Helpful but not required",
+      "definition": "C. Helpful but not required"
+    },
+    {
+      "term": "KPI stands for:A. Key Paid IndicatorsB. Key Performance IndicatorC. Keyword Personalization Index",
+      "definition": "B. Key Performance Indicator"
+    },
+    {
+      "term": "With KPIs you should have:A. A lot of different KPIs showcase your effortsB. A combination of smaller KPIs and bigger ones so you can benchmarkC. Focus only on the ones that matter most",
+      "definition": "C. Focus only on the ones that matter most"
+    },
+    {
+      "term": "ROI stands for:A. Return on InvestmentB. Revenue on ImpactC. Really Optimistic IndexingD. Revenue Opposition Investment",
+      "definition": "A. Return on Investment"
+    },
+    {
+      "term": "With SEO you:A. Generally see a longer-term ROI than that of paidB. Can get higher budgets than paid campaignsC. Immediately see the ROI of your efforts",
+      "definition": "A. Generally see a longer-term ROI than that of paid"
+    },
+    {
+      "term": "What is the main reason that you should do a mini-audit of a site prior to working with a client?A. It helps you provide a list of problems that previous SEO work has caused for the site.B. It helps you identify the costs associated with each of the client's SMART goals.C. It helps you identify ways to provide immediate value and set the timeline for the project.D. It helps you identify problems for the client that you will not be able to address.",
+      "definition": "C. It helps you identify ways to provide immediate value and set the timeline for the project."
+    },
+    {
+      "term": "In your initial conversation with clients, why is it a good idea to share a few quick wins and opportunities? (Select all that apply.)  | You can save the client money by letting them know how to make gains without hiring you. , It provides a complete road map of all of the work you will do during the project. , Identifying opportunities helps to identify ways that your expertise is needed. , Quick wins provide a means to show immediate value to your services.",
+      "definition": "B. Identifying opportunities helps to identify ways that your expertise is needed. C. Quick wins provide a means to show immediate value to your services."
+    },
+    {
+      "term": "Which of the following IS NOT a SMART goal?  | Increase sales of Adidas brand shoes by 25% by the end of the fiscal year. , Increase leads generated from our website by 10% by the end of the quarter. , Reduce the site bounce rate by 15% in six months. , Generate more site traffic within three months.",
+      "definition": "C. Generate more site traffic within three months."
+    },
+    {
+      "term": "Which of the following is an unrealistic client expectation that should be reframed early in your relationship?A. Within eight months, attain a number one rank for their top keyword.B. The client expects 20% more completed checkouts within six months.C. Within 12 months, site traffic will triple.D. By the end of the fiscal year 50% fewer visitors will bounce from the site.",
+      "definition": "A. Within eight months, attain a number one rank for their top keyword."
+    },
+    {
+      "term": "Imagine that one of your client's primary goals is to increase the amount of traffic to their site. The chart below compares this year's data (in blue) to last year's data (in red). Is this year's dip (in blue) after June an indicator that you are likely to have trouble meeting the client's goal?A. Probably not. The traffic is still significantly higher than where it was at the same time last year. There is some reason to think that this is a seasonal dip.B. Definitely. There is a clear need to shift approach based on the decline in traffic.C. Probably. The traffic dramatically decreased from June to July. This spells trouble.",
+      "definition": "A. Probably not. The traffic is still significantly higher than where it was at the same time last year. There is some reason to think that this is a seasonal dip."
+    },
+    {
+      "term": "What are some quick wins you should try when working with a new client? (Select all that apply.)  Ensure their is a robots.txt file uploaded and appropriate areas are blocked. , Add more keywords to the site. , Have the client install Google Webmaster Tools & Google Analytics on their computer. , Discussing with the client everything that is wrong with the site from an SEO perspective. , Add more text to the homepage and other important pages.",
+      "definition": "B. Add more text to the homepage and other important pages. C. Ensure their is a robots.txt file uploaded and appropriate areas are blocked. E. Have the client install Google Webmaster Tools & Google Analytics on their computer."
+    },
+    {
+      "term": "When looking at traffic for a site, which of these should you most be concerned about:A. Paid VisitsB. Direct VisitsC. Referring Site VisitsD. Organic VisitsE. Total Visits",
+      "definition": "D. Organic Visits"
+    },
+    {
+      "term": "Suppose you are working in-house, scoping an SEO project, which of the following should you be able to do? (Select all that apply.)A. Prioritize work neededB. Estimate ability to meet various deadlinesC. Estimate a project's length",
+      "definition": "A. Prioritize work needed B. Estimate ability to meet various deadlines C. Estimate a project's length"
+    },
+    {
+      "term": "Suppose you have separated keywords into thematic groups associated with specified areas of a site. You notice one group is performing poorly for keyword rankings; what should this prompt you to do?A. Check all areas of the site with a complete site audit.B. Revise all the keywords on the site.C. Go into the area of the site associated with that keyword group toD. see how that area can be improved.",
+      "definition": "go into the area of the site associated with that keyword group to see how that area can be improved."
+    },
+    {
+      "term": "True or False:According to this module, search engines like all these things:- A well-structured site- Page relevance for common search terms- Earned links from third-party sitesA. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Suppose you are seeking to increase your site's ranking with search engines. You want the links to and from your site to be seen as highly valuable to search engines. What kinds of links are considered most valuable? (Select all that apply.)A. Links that have topical relevance to your site and within your market spaceB. Links you bought without consideration for relevance or authorityC. Links from sites considered authoritative in your market space",
+      "definition": "A. Links that have topical relevance to your site and within your market space C. Links from sites considered authoritative in your market space"
+    },
+    {
+      "term": "What are some ways of thinking about links to your site? (Select all that apply.)A. Votes in a popular electionB. Valid citations in a research paperC. A P.O.E.M.D. A spider crawling its web",
+      "definition": "A. Votes in a popular election B. Valid citations in a research paper"
+    },
+    {
+      "term": "Which of the following are not good content marketing strategies when you are seeking to build your reputation, visibility, and provide you with high-quality links? (Select all that apply.)A. Seek to get your content published on sites that have high authority in your market space.B. Publish high-quality content as guest posts on third-party sites.C. Publish in as many third-party sites as possible, even if the themes are irrelevant to your site and your audience.D. Artificially insert keyword phrases into your content as links to your site, even if the words can't logically fit in the same sentence.",
+      "definition": "C. Publish in as many third-party sites as possible, even if the themes are irrelevant to your site and your audience. D. Artificially insert keyword phrases into your content as links to your site, even if the words can't logically fit in the same sentence."
+    },
+    {
+      "term": "Building your audience is essential to online success. Several of the following are ways to build your audience; which one is not?A. Selectively buy followers on social media to increase the apparent size of your audience.B. Seek to connect with influencers in your market space and share content with them.C. Seek to engage your audience.D. Creating content of such quality that it will be shared with OPA, other people's audiences.E. Share great content on social media to those who show an interest in your topic or share market space.F. Seek to connect with those who actually care about your topic and content.",
+      "definition": "A. Selectively buy followers on social media to increase the apparent size of your audience."
+    },
+    {
+      "term": "What is the best way to get links to your site?A. Solicit other sites to link to yours.B. Content marketing - when viewed as an ecosystem.C. Optimize keyword searches for each page.",
+      "definition": "B. Content marketing - when viewed as an ecosystem."
+    },
+    {
+      "term": "Content marketing should focus on building or gaining two things as the best way to obtain high-quality links and trigger other behavior patterns that online search engines use as ranking signals. What are those two things?A. ReputationB. Contacts with mediaC. A list of influencers in your marketD. VisibilityE. A large email marketing list",
+      "definition": "A. Reputation D. Visibility"
+    },
+    {
+      "term": "True or False: A \"Holistic\" view of the content marketing ecosystem conveys the idea that the whole is more than merely the sum of its parts, in theory, or practice.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "According to this module, content marketing is explained as being all of the things listed below, except one. Which item is not true about content marketing?A. Content marketing helps you receive high-quality links that drive higher SEO rankings.B. Content marketing is all about manipulation and bending the rules.C. Content marketing is the safest and best approach to obtaining high-quality links.D. Content marketing is key to building the reputation and visibility of your business online.",
+      "definition": "B. Content marketing is all about manipulation and bending the rules."
+    },
+    {
+      "term": "Which one of the following is not true about how you should relate to your audience?A. It's all about getting visibility with your target audiences.B. Raise visibility by going to where your audience goes.C. Publish where your audience is not present since you never know who you might reach.D. Don't publish where your audience is not present.",
+      "definition": "C. Publish where your audience is not present since you never know who you might reach."
+    },
+    {
+      "term": "This module emphasized the importance of building relationships within your online community. Complete this statement with the best possible answer: \"Basic social interaction and _______ that guides your behavior off-line should also guide your behavior online.\"A. CourtesyB. AgressionC. DeterminationD. Intuition",
+      "definition": "A. Courtesy"
+    },
+    {
+      "term": "Considerable attention was given to discovering demographic information about various social media platforms such as Facebook, Twitter, Instagram, Pinterest, Snapchat, LinkedIn, and others. Why do you need such demographic information? (Select all that apply.)A. Discover where your audience goes online, so that you can go where your audience goesB. To get some sense of which social media platforms make the most sense for youC. To get more links back to your siteD. To establish yourself as an expert in your market space",
+      "definition": "A. Discover where your audience goes online, so that you can go where your audience goes B. To get some sense of which social media platforms make the most sense for you"
+    },
+    {
+      "term": "Which of the following strategies is the recommended way to choose the best platform for your business?A. Experiment with multiple platforms before finalizing a strategy.B. Use the platform that everyone uses.C. Read extensively and choose without trying any of the platforms.",
+      "definition": "A. Experiment with multiple platforms before finalizing a strategy."
+    },
+    {
+      "term": "Which of the following is not one of the recommended steps or actions you should take to get an early mover advantage when becoming an early adopter of new platforms?A. Recognize new channels as they're developing.B. If a new platform appears to be working, keep engaging there to build a following.C. Test the waters for the potential in new channels.D. Wait to see how the newly emerging platform performs for several months before investing any time, energy, and focus.E. Try a new platform but if it is not working for you, dump it or de-emphasize it.",
+      "definition": "D. Wait to see how the newly emerging platform performs for several months before investing any time, energy, and focus."
+    },
+    {
+      "term": "True or False:The following are all ways to help build an audience on social media platforms:- Be a genuine part of the community- Bring value to the community- Aspire and work to become one of the more important members of - the community- Give many times before you ask others to give to or do for youA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Suppose you are trying to put together a Top Ten list of things you should do to engage your audience on social media. Below is a list of four things, but two of them do not belong on the Top Ten list. Select the two items that do not belong on the list while trying to create audience engagement.A. Speak at conferences.B. Treat your online interactions like you're a part of a community, being sure to participate.C. While interacting in a community where there are influencers and ordinary members, focus your attention solely on the influencers since they have the power to help you achieve your important business goals and less influential people do not.D. Try to completely divorce your online and offline activities.",
+      "definition": "C. While interacting in a community where there are influencers and ordinary members, focus your attention solely on the influencers since they have the power to help you achieve your important business goals and less influential people do not. D. Try to completely divorce your online and offline activities."
+    },
+    {
+      "term": "True or False: A target audience generally consists of Media, Bloggers, Influencers, Potential Customers, Customers, and other people in your market space.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False: The take-away lesson from the Hilton Suggests case study is this: Even when a social media effort seems like a great idea and may have an enthusiastic reception, it still must meet the established business goals.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The case study showed that Copyblogger consistently has very strong sharing of every piece of content they put out there. This can be attributed to:(Select all that apply.)A. They consistently produce great content.B. They have a strong social-media presence.C. They are supported with strong social-media programs.",
+      "definition": "A. They consistently produce great content. B. They have a strong social-media presence. C. They are supported with strong social-media programs."
+    },
+    {
+      "term": "Which one of the following is not a way you can give influencers reasons to share your content or write about it?A. Be trustworthy, because they will have to have a certain amount of trust in you.B. Create truly excellent content.C. Aggressively pursue a relationship with the influencer and relentlessly ask them to share your content with their audience.D. Make it relevant.",
+      "definition": "C. Aggressively pursue a relationship with the influencer and relentlessly ask them to share your content with their audience."
+    },
+    {
+      "term": "Which of the following is not one of the steps in the process for building a good relationship with an influencer?A. See what non-professional interests they seem to like such as sports, wine, or cars.B. Try to discover their home address and send them a personal note or drop off a gift.C. Add more value than what you expect in return.",
+      "definition": "B. Try to discover their home address and send them a personal note or drop off a gift."
+    },
+    {
+      "term": "Which is not one of the good tactics to build relationships with influencers?A. Get an introduction from someone they trust.B. Engage them in dialog online or in person.C. Ask influencers to interview you for their audience.D. Re-share their content.",
+      "definition": "C. Ask influencers to interview you for their audience."
+    },
+    {
+      "term": "Which of the following is considered a \"hack\" to help you get started with collaboration as you seek to build relationships with influencers? (Select all that apply.)A. The Opportunities Hack: where you watch for opportunities on social media and respond if you canB. Pick Low-hanging Fruit Hack: where you make the most of opportunities that become available to youC. The Round-up Hack: where you get brief contributions on a theme from several influencers.",
+      "definition": "A. The Opportunities Hack: where you watch for opportunities on social media and respond if you can B. Pick Low-hanging Fruit Hack: where you make the most of opportunities that become available to you C. The Round-up Hack: where you get brief contributions on a theme from several influencers."
+    },
+    {
+      "term": "Which of the following is not one of the possible benefits of using Facebook in conjunction with your contact list as an advertising technique to gain extra visibility and targeted exposure for your high quality content?A. Make sure that your content reaches every person on your contact email list.B. Put your content in front of a look-alike audience who are similar in characteristic to everybody who is on your mailing list.C. You gain the powerful ability to target ads directly to your select email list of media and influencers.D. You gain extra visibility.",
+      "definition": "A. Make sure that your content reaches every person on your contact email list."
+    },
+    {
+      "term": "Which of the following statements are true about content marketing? (Select all that apply.)A. When you are trying to reach a potential linker, focus your attention on trying to get reach that person by just one path. That way you don't diffuse your energy.B. Over time, if you're successful, a potential linker may learn about your content or article from multiple sources.C. Content marketing can be likened to advertising even though you are not paying for it.D. Multiple impressions actually matter with content marketing, as they do in advertising.",
+      "definition": "B. Over time, if you're successful, a potential linker may learn about your content or article from multiple sources. C. Content marketing can be likened to advertising even though you are not paying for it. D. Multiple impressions actually matter with content marketing, as they do in advertising."
+    },
+    {
+      "term": "While focusing on building relationships with influencers, which of the following is seen as being the most important?A. Focus on making sure the SEO for your site is excellent.B. Focus on having a large enough list of influencers' correct email addresses.C. Focus on making sure you have lots of content to share, even if it is not of the highest quality.D. Focus on establishing the right mindset before you start.",
+      "definition": "D. Focus on establishing the right mindset before you start."
+    },
+    {
+      "term": "True or False: In addition to many online ways to build relationships with influencers, it is highly recommended to attend conferences to meet with an influencer in person, 1-on-1, as shown at the pinnacle of this pyramid.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following completes this statement: \"This is what you get if you don't add value __________.\"A. Nothing!B. A lukewarm responseC. Value from others",
+      "definition": "A. Nothing!"
+    },
+    {
+      "term": "Which one of the following is NOT a true statement when it comes to trying to build a relationship with an influencer.A. You should learn what they value.B. It really is all about what you wantC. You should study what they publish.D. What matters is the value that you can offer to influencers.",
+      "definition": "B. It really is all about what you want"
+    },
+    {
+      "term": "True or False: Content marketing is about growing your reputation and visibility online and for that reason creating \"good\" content is not enough.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "All except one of the following are factors associated with a higher correlation of shares and links. Which one on this list is not a factor noted as contributing to getting both shares and links?A. Having an authoritative reputationB. Using highly visual content like infographics and videosC. Delivering longer-form content with value and depthD. Presenting data-driven research studiesE. Having an audience that cares about your opinion",
+      "definition": "B. Using highly visual content like infographics and videos"
+    },
+    {
+      "term": "Why is content that gets many social media shares, not likely to get many links?A. People like to share things that have caused them to stop and think deeply.B. People like to share things that cause an emotional reaction.C. The social media post is not using the correct keywords to attract links.",
+      "definition": "B. People like to share things that cause an emotional reaction."
+    },
+    {
+      "term": "Which of the following are suggested ways to leverage YouTube to build your own video channel? (Select all that apply.)A. Write a nice blog post about your YouTube video on your blog and include a transcript.B. Publish videos on YouTube.C. Leverage YouTube as a search engine because it is a search engine; therefore get traffic off YouTube itself.",
+      "definition": "A. Write a nice blog post about your YouTube video on your blog and include a transcript. B. Publish videos on YouTube. C. Leverage YouTube as a search engine because it is a search engine; therefore get traffic off YouTube itself."
+    },
+    {
+      "term": "When it comes to creating video as part of your anchor content, which list below is the most important to have?A. The right kind of mindset, the right kind of attitude, and the right kind of partnersB. The right kind of attitude, the right kind of equipment, and the right kind of humorC. The right kind of studio, the right kind of environment, and the right kind of content",
+      "definition": "C. The right kind of studio, the right kind of environment, and the right kind of content"
+    },
+    {
+      "term": "True or False: There are many different types of content opportunities, but the key to success in your content marketing efforts is picking the right types of content that fit your business needs and goals best.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following is not one of the reasons a partnership between a small organization like Ten by Ten would appeal to a giant company like Intel?A. Intel is not interested in reaching the same audience.B. They don't need approvals the same way that Intel would if they were trying to do the same things themselves.C. A smaller company, like Ten by Ten, is going to be faster moving.D. Intel doesn't have the budget set aside. While they have significant cash, all of that cash is allocated, so they might not have a budget to put into a project like this.",
+      "definition": "     A. Intel is not interested in reaching the same audience.   D. Intel doesn't have the budget set aside. While they have significant cash, all of that cash is allocated, so they might not have a budget to put into a project like this."
+    },
+    {
+      "term": "Which of the following accurately describes what made 7th generation's content marketing campaign successful?A. They focused on creatively displaying and highlighting their eco-friendly consumer packaged goods and products in videos on YouTube.B. They focused on creating content about eco-friendliness, and positioned themselves as a health and wellness company that just happens to produce consumer packaged goods.C. They made an interactive website where customers could get answers to any question they might have about their eco-friendly products.",
+      "definition": "B. They focused on creating content about eco-friendliness, and positioned themselves as a health and wellness company that just happens to produce consumer packaged goods."
+    },
+    {
+      "term": "Which of the following may help you reach these target audiences listed at right? (Select all that apply.)A. Branded and editorial contentB. Social media promotion and engagementC. Offline content",
+      "definition": "A. Branded and editorial content B. Social media promotion and engagement C. Offline content"
+    },
+    {
+      "term": "Link and tweets in social profile are all consideredA. Paid linkB. No follow linksC. Follow links",
+      "definition": "B. No follow links                 "
+    },
+    {
+      "term": "The title tag is major component of A. on site element B. on-page element C. off site element",
+      "definition": "B. on-page element       A. on site element          "
+    },
+    {
+      "term": "Page Authority metric from Open Site Explorer (MOZ), which is their approximation ofGoogle's Pagerank, while Domain Authority, which is an estimate of a site's overallauthorityA. TrueB False",
+      "definition": "   "
+    },
+    {
+      "term": "Importance of content stragety(check all apply)A User engagement and higher rankingsB User engagement and lower rankingsC Introduce protential customers to brandD More opportunities to increase band presenceE Gain customer trust and loyaltyF Push sale",
+      "definition": "   "
+    },
+    {
+      "term": "From an SEO standpointA The H1 tag is the most important of the heading tags, and then H2 tags aresomewhat important in the grand scheme of thingsB All heading tags are same importantC The H1 and H2 tag are the most important of the heading tags and then H3",
+      "definition": ""
+    },
+    {
+      "term": "In the stages of search, 3 types of query areA Information, transactional and rankingB Navigational, informational and transactionalC Navigational, informational and evaluation",
+      "definition": ""
+    },
+    {
+      "term": "Penguin NOT focuses on sites that have high amount of manipulative link buildingpractices in placeA. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "The importance of quality content includesA. Using any the topice or theme of your pageB. Repeat keyword as much as possibleC. Should be well organized only in main directoriesD. None of the above",
+      "definition": "D. None of the above"
+    },
+    {
+      "term": "The call to action doesn't always need to be the same or be loud and obnoxious, itcan take the place of a helpful hint within your contentA. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "When dealing with larger site to find the best keywords, the process usually isA Competitive analysis, find similar keywords then refined, select the best keywordsB. Refined keywords to a few select choices, competitive analysis, select the bestkeywords which represent the siteC Competitive analysis then select the best keywords from the competition",
+      "definition": "B. Refined keywords to a few select choices, competitive analysis, select the best"
+    },
+    {
+      "term": "Direct marketing benefitsA.Longer lifespan of content High content distribution, increased visibility of content andtraffic.B Improved brand recognition, Contributes to thought leadership and brand reputation.C All of the above",
+      "definition": ""
+    },
+    {
+      "term": "Using Google Analytics, you can get an idea of how well keywords are actuallysitting in traffic by:A. Looking at organic landing pages and comparing those pages toyour keyword map.B. Looking at paid landing pages and comparing those pages to yourkeyword map.",
+      "definition": "A. Looking at organic landing pages and comparing those pages to"
+    },
+    {
+      "term": "Which of the following IS NOT an example of a company adjusting for theseasonality of searchesA. A tuxedo rental company includes web content geared toward a femaleaudience since they know their research show that women planing wedings arethe majority of their site visitors.B. A lip balm company increases web advertising during the winter months.C. A car company posts blog posts about the safety ratings of their new cars during thefall months when the new car come out",
+      "definition": "A. A tuxedo rental company includes web content geared toward a female"
+    },
+    {
+      "term": "The Round-up hack is where you choose a theme and ask a number of influencersto each contribute one point or tip on that topic. Which of the following are positivebenefits of usuing the Round-up Hack?(check all that apply)A The influencer will reciprocate by including you as an expecrt in one of their round-uparticlesB It is really easy for influencers, so they may be more likely to agreeC It should take them only a few minutesD Every influencer included in the round-up will most likely post it to their socialmedia, so you get immediate visibility",
+      "definition": "  "
+    },
+    {
+      "term": "Which answer is right for validation linkA you can vote for yourselfB Link can be purchasedC Swap links with sites that are extremely relevant and valuable to business",
+      "definition": ""
+    },
+    {
+      "term": "In which cases, let Google choose the Description for youA If your page is a static pageB If your page is a broad focus topic or on multiple keywords",
+      "definition": ""
+    },
+    {
+      "term": "The 404 status code means that the page is banned from the server and still canview under conditionA FalseB True",
+      "definition": ""
+    },
+    {
+      "term": "Your audiences can serve as your best source for content more than developsaround a keywordA FalseB True",
+      "definition": ""
+    },
+    {
+      "term": "When publishing guest posts on third-party sites the right way includes which of thefollowing? (Check all that apply)A Creating high-value content B Putting content on someone else's siteC sprinkling keyword phrases in your guest post just in hopes of getting linksD Skillfully integrating as many links as possible into the body of your guest postE Getting some sort of link back to your site, usually within the attribution of thepost",
+      "definition": "  "
+    },
+    {
+      "term": "E-A-T algorithm stands for A Expertise, Authoritativeness, and TrustB Experience, Authoritativeness, and TrustC Experience, Authoritativeness, and TimeD Expertise,Authoritativeness, and Time",
+      "definition": ""
+    },
+    {
+      "term": "Steps to build relationship with influencerA Learn about them, tell them about yourself, promote a businessB send an email, tell them about yourself, promote a businessC Learn about them, find a way to add value and create trust",
+      "definition": ""
+    },
+    {
+      "term": "Ranking factors are divided into three key areas A Content quality, Offsite factors, DomainB Content quality, Social engagement, DomainC Keyword, Inbound &amp; Outbound link, Site speedD On-page, Offsite factors, Domain",
+      "definition": ""
+    },
+    {
+      "term": "Which one is not Building your Audience processA Paid link B social media C guest postD start publishing online",
+      "definition": ""
+    },
+    {
+      "term": "White hat SEO as follows searching and best practices laid out by Google and othersearch engines. While black hat SEOs lend to go against the grain and participate inwhat some might consider manipulative practicesA TrueB False",
+      "definition": ""
+    },
+    {
+      "term": "The purpose of a keyword map is to help us A. Create focused pages grouped around a keyword or group of keywordsB. Determine the theme of the pageC Avoid using duplicate keywordsD Creates a reference document for clientsE All of above",
+      "definition": ""
+    },
+    {
+      "term": "Links do not need be valid citations A True B False",
+      "definition": ""
+    },
+    {
+      "term": "The title tag cannot be longer than 60 characters, because ofA. Search engines will retitle tags longer than 60 charactersB. Additional characters will get cut off in search resultsC this doesn't look appealing to usersD All of the above",
+      "definition": ""
+    },
+    {
+      "term": "If the sites does not have a page or pages that work with the keywords you haveresearched and chosen, you can ( check all that apply)A Select a less competitive keyword that better matches the contentB Change the copy on a page to match the keywordC Create an entirely new page that matches the keyword",
+      "definition": " "
+    },
+    {
+      "term": "One of SEO's main functions isA Understand how people are searching onlive, what they are looking for, andhow to best deliver that information to themB find the best design for website to attract user.",
+      "definition": ""
+    },
+    {
+      "term": "Which one of the following identify the components of a content marketing programthat will lift the authority of your siteA Publishing great content on your siteB Off-site publishing such as media interviews, featured videos, and so on.C All of these will lift the authority of your siteD Publishing high-quality guest posts or other content on 3 party sites",
+      "definition": ""
+    },
+    {
+      "term": "Good practices for selecting keywords (Select all that apply)A Provide answers to a variety of questions around a particular topic B Adding something to get more specificC Consider the importance of proper keywordD Keyword must be very broadE one must always keep searcher intent in mind",
+      "definition": "   "
+    },
+    {
+      "term": "PageRank was scored betweenA 0 to 10B 0 to 100C 0 to 5",
+      "definition": ""
+    },
+    {
+      "term": "To avoid being penalized by Pande, you must (check all that apply)A Bringing helpful and valuable information userB content is surrounded in advertisements C Add value to website D Automatically generated content by a program and inserts applicable keywords",
+      "definition": " "
+    },
+    {
+      "term": "When look back, at both major and minor Google's algorithm updates over the last10 years (check all that apply)A Google want to update better algorithmB Google's building a more user-friendly webC Google's trying to better understand the userD Google want to promote good ads on a site",
+      "definition": "                                                                                          "
+    },
+    {
+      "term": "Good tools for understanding the kind of Content Will Resonate Your Customers A Google supporting centerB Google analyticsC Google Chrome's ShareMetric",
+      "definition": "                            "
+    },
+    {
+      "term": "Each time a search is performed, results are A Only a list of organic results are displayedB Both organic results and paid results are displayedC Only paid results are displayed",
+      "definition": ""
+    },
+    {
+      "term": "To avoid getting local or personalized results when using Google you should (checkall that apply)A Sign in Google productsB Sign into MOZ to avoid having to manually enter keywordsC Sign out of Google products D Sign out of MOZ to avoid having to manually enter keywords",
+      "definition": "                                                                                      "
+    },
+    {
+      "term": "How exactly social media influences SEO A Officially endorsing outgoing links, direct impact, Links will pass authorityB Not officially endorsing outgoing links, NO direct impact, Links will NOT passauthority",
+      "definition": "                                                                                       "
+    },
+    {
+      "term": "The Round-up hack is where you choose a theme and ask a number of influencersto each contribute one point or tip on that. Which are positive (check all that apply)A It is really easy for influencers, so they may be more likely to agreeB It should take them only a few minutes C Every influencer in the round-up will most likely post it to their social media soyou get immediate visibilityD The influencer will reciprocate by including you as an expert in one of their round-uparticles",
+      "definition": "                                                                                                                                                                                                    "
+    },
+    {
+      "term": "On-page Optimization includes focusing on various elements in the code of thepage. Technical SEO optimizes the content of your site A True B False",
+      "definition": "      "
+    },
+    {
+      "term": "Proper competitive analysis will allow you to provide your client or employer A What resources they should put in the place on projectB How long it takes to see results C ALL OF ABOVED What kind of budget they may need to see the result?",
+      "definition": "             "
+    },
+    {
+      "term": "There are several kinds of content that would work well at the core of a contentmarketing campaign (check all that apply)A Interactive content to draw your audience inB Images, Video, InfographicC Promotion &amp; GameD Interviews % Case studiesE Data-driven studies",
+      "definition": "                                                                                                                         "
+    },
+    {
+      "term": "Hummingbird and RankBrain updates were created with the aim A To cut down poor link building B To better understand human search",
+      "definition": "                                "
+    },
+    {
+      "term": "Which of the following are potential impacts of poorly developed content (check allthat apply)A Content can fail to address the goals of the businessB Can be too genericC Appeals to targeted audiencesD Can lead to low rankings",
+      "definition": "                                                                                                    "
+    },
+    {
+      "term": "The primary rule for creating great content is to find out what your audience islooking for and provide that on your site A FalseB True",
+      "definition": "     "
+    },
+    {
+      "term": "The majority of your traffic will naturally come from these middle tal phrases A True B False",
+      "definition": "      "
+    },
+    {
+      "term": "Which of the following are elements of a website algorithm (check all that apply) A All of these answers are correctB which queries should lead to a website C Quality of a websiteD Where in the organic search results the site is displayedE Whether or not the site is receiving traffic consistent with its marketing portfolio",
+      "definition": "                                                                                                                         "
+    },
+    {
+      "term": "The title tags length should be A 45 characters or lessB 75 characters or lessC 65 characters or lessD 55 characters or less",
+      "definition": "                      "
+    },
+    {
+      "term": "The keywords were selected must showed clear intent, related and aligns withaudienceA TrueB False",
+      "definition": "     "
+    },
+    {
+      "term": "What does Core Web Vitals impact? A Rankings on desktop B Both Rankings on desktop and mobileC Rankings on mobile D Not necessarily \"the\" ranking factor",
+      "definition": "                                    "
+    },
+    {
+      "term": "29 One of SEO's main functions isA find the best design for website to attract user.B Understand how people are searching onlive, what they are looking for, andhow to best deliver that information to them",
+      "definition": "                                                                                                                       "
+    },
+    {
+      "term": "Assessing Link Value include (check all apply)A Domain Authority B Domain nameC Topical relevance D Page Authority",
+      "definition": "                                                      "
+    },
+    {
+      "term": "OPA in building your Audience in Marketing Content is A Other people's audienceB Other paid audienceC Open Policy Agent",
+      "definition": "                        "
+    },
+    {
+      "term": "A consistent and significant correlation between shares and links is LinkedlnA FalseB True",
+      "definition": "      "
+    },
+    {
+      "term": "When it comes to anchor content, which of the following is trueA Anchor content can help you get over the hump so that you may start to get more andmore engagement more easilyB Author credibility is small roleC When you deliver anchor content plan for this to take a short time D If the content is truly excellent, you should expect immediate results",
+      "definition": "                                                                   "
+    },
+    {
+      "term": "Which of the following are characteristic of anchor content? (check all that apply) A It has to be materially better than pre existing resources other people havepublished on the same topic on the webB It's often comprehensive on a topic C It's more about the emotion because that's what is most likely to get you bothshares and links D Content where-in a single place- you can drive significant changes inreputation and visibilityE It must be base on data-driven study",
+      "definition": "                                                                                                                                                                                                                                                                                                                                                          "
+    },
+    {
+      "term": "Why shouldn't you change a URL for SEO? A Important keywords are not at the beginning of a URLB It needs less parameters in the URLC The webpage may lose the history and authority it has already built upD The keywords and subdirectories are not as accurate as they should be",
+      "definition": "                                                                       "
+    },
+    {
+      "term": "The Meta Description is the websites addressA FalseB True",
+      "definition": "      "
+    },
+    {
+      "term": "How to perform proper keyword research? (Select all that apply)A Find a relevant keyword in other website B Understand how people are likely to search C Why they choose the keywords they do",
+      "definition": "                                                                                  "
+    },
+    {
+      "term": "Each engines such as Google or Bing or another search engine have the differentgoals to provide relevant information for a user's search query A FalseB True",
+      "definition": "      "
+    },
+    {
+      "term": "What are the main categories SEOs have decided affect page rank? (check allapply)A On-page factors, which affect a specific page of your siteB Server-side factors, which affect your site and all other sites hosted on thesame serverC Off-site factors such as links to and from your site and your social mediaprofile D Hierarchy factors, which affect pages at the top level of your site and tricide down to\"sub\" pagesE Domain-level, which modify and affect your site as a whole, regardless of thespecific page F All of the above",
+      "definition": "                                                                                                                                                                                                                                                                            "
+    },
+    {
+      "term": "Choose the right answerA When creating guest post, you need to think about the high-value content and the relevance of where you're placing itB When creating guest post, you need to think about the high-value contentC When creating guest post, you need to put in as much places as you can",
+      "definition": "                                                                                                                      "
+    },
+    {
+      "term": "These updates of Google's algorithmsA May not always be huge or impact your website directlyB Always huge impact your websiteC Not affect to your website",
+      "definition": "                                                       "
+    },
+    {
+      "term": "Off-site SEo very focused on developing good relationship with other webmasters, itis similar toA AdvertisingB MarketingC Public relations",
+      "definition": "                 "
+    },
+    {
+      "term": "Evergreen content should avoid ______________ to ensure a longer shelf-life(check all that apply)A References to datesB References to useful information C References to current news itemsD References to technologies",
+      "definition": "                                                                                  "
+    },
+    {
+      "term": "Which of the following are good principles for building an audience on online socialmedia? (check all that apply)A Create content worth sharing B Be an expect on some part of what you coverC Bring value to the community D ask before you give",
+      "definition": "                                                                                                         "
+    },
+    {
+      "term": "On-page optimization is the practice of optimizing elements of a page or a group ofpages, this refers A The content on the page, links from other websites, and optimizing the pages meta dataB technical aspects of improving the websites links from other websites and keyword choice for the pageC the content of the page keyword choice for the page and optimizing the pages meta dataD keyword choice for the pag, optimizing the pages meta data and social media",
+      "definition": "                                                                                       "
+    },
+    {
+      "term": "Proper competitive analysis will allow you to provide your client or employer A What kind of budget they may need to see the results?B What resources they should put in place on a projectC How long it takes to see results?D All of the above",
+      "definition": "                 "
+    },
+    {
+      "term": "There are four types of contentA Trending content, Seasonal content, General content, Promotion contentB Evergreen content,Trending content, Seasonal content, General contentC Trending content, Seasonal content, Branding content,Promotion content",
+      "definition": "                                                                      "
+    },
+    {
+      "term": "According to Google, the content they deemed low-quality would be A Lots of weird sentences are lacked a substantial amount of relevant contentB Ton of grammar and spelling issues, unnatural and something human probably didn'twriteC A ton of adsD All of the above",
+      "definition": "                 "
+    },
+    {
+      "term": "In keyword competitive analysis, while we ended up with a large amount ofkeywords, we will actually only be using a small percentage of themA TrueB False",
+      "definition": "     "
+    },
+    {
+      "term": "Once you have assembled a list of competitions, the main factors to check forincludeA A ranked homepageB Optimized title tagC All of the choicesD Site authorityE Quality of content",
+      "definition": "                   "
+    },
+    {
+      "term": "How to give influencers a reason to share your content or to write about them?A Add their name in your contentB Paid for themC Content has to be relevant and good",
+      "definition": "                                    "
+    },
+    {
+      "term": "Pinterest itself offers great SEo opportunities because of (check all apply)A Sharing content extremely easyB Offer a lot of value to your business if used effectivelyC Highly rank for relate search quenesD Pinterest is simultaneously a social network and a search engineE Many of their pins and boards are indexed in Google",
+      "definition": "                                                                                                                                                     "
+    },
+    {
+      "term": "Using the SERP analysis ( the analysis report), you will have an overview of the topcompetitors for your chosen keyword phrases A FalseB True",
+      "definition": "     "
+    },
+    {
+      "term": "In the title tag, people differentiate between what page is about and the brand byusing A The pipe symbolB The ampersand symbolC The open bracket symbolD The slash symbol",
+      "definition": "                "
+    },
+    {
+      "term": "Before using The Link Disavow tool, it is recommended that you check the following(check all apply)A Make sure your site is actually penalized by Penguin before you disavow linksB Make sure your site is not actually penalized by Penguin before you disavow linksC Make sure the links you disavow are actually poor-quality linksD Make sure the links you disavow are actually not poor-quality linksE Make sure you remove the www version of the link and any non www versions of the link that may be playing to your website",
+      "definition": ""
+    },
+    {
+      "term": "According to Google, the poor link building tactic would be (check all apply)A Many external linksB Spam links and irrelevant sitesC Has a high percentage of anchor text with specific keywords targetedD Paid link",
+      "definition": "                                                                                                      "
+    },
+    {
+      "term": "Why is it important to create content for people when improving SEO? Because it reduces server load Because it solely focuses on keywords Because it helps in link building Because search engines prioritize user-relevant content",
+      "definition": "Because search engines prioritize user-relevant content."
+    },
+    {
+      "term": "Which of the following best describes the significance of Google's search algorithm 'weather report'? It predicts the weather conditions based on search trends. It analyzes user behavior and preferences to enhance search results. It provides insights into potential changes and updates in Google's search algorithm. It offers guidelines on improving website speed and performance.",
+      "definition": "It provides insights into potential changes and updates in Google's search algorithm."
+    },
+    {
+      "term": "What is a key benefit of conducting regular SEO audits? Boosting the number of social media followers Decreasing the website's bounce rate Identifying and fixing technical issues Increasing the number of advertisements on your site",
+      "definition": "Identifying and fixing technical issues"
+    },
+    {
+      "term": "Which of the following are timeless best practices for SEO? Select all that apply. Monitoring Google updates Prioritizing user experience Conducting SEO tests Auditing the website Ignoring industry trends",
+      "definition": "Monitoring Google updates Prioritizing user experience Conducting SEO tests Auditing the website"
+    },
+    {
+      "term": "Which of the following are types of algorithmic updates in SEO? Select all that apply Off-site related changes Content-related changes Social media changes Technical updates Marketing updates",
+      "definition": "Off-site related changes Content-related changes Technical updates"
+    },
+    {
+      "term": "Which of the following are recognized as technical considerations for website development in the context of SEO? Select all that appl Incorporating excessive use of flash content Utilizing HTTPS for secure connections Optimizing meta tags and descriptions Using large, high-resolution images without compression Ensuring mobile-friendliness",
+      "definition": "Utilizing HTTPS for secure connections Optimizing meta tags and descriptions Ensuring mobile-friendliness"
+    },
+    {
+      "term": "What is an important practice for improving SEO performance? Ignoring website traffic Testing how site changes impact your SEO Avoiding algorithm updates Focusing only on off-site SEO",
+      "definition": "Testing how site changes impact your SEO"
+    },
+    {
+      "term": "Which of the following are methods for staying informed about algorithm updates? Select all that apply Subscribing to SEO newsletters Ignoring social media channels Relying solely on word of mouth Checking website traffic analytics Following industry blogs",
+      "definition": "Subscribing to SEO newsletters Checking website traffic analytics Following industry blogs"
+    },
+    {
+      "term": "Which of the following is a critical ranking factor for SEO? Number of images on a page Website color scheme Font type used on the website Backlink quality",
+      "definition": "Backlink quality."
+    },
+    {
+      "term": "Which of the following practices are considered important for off-site SEO? Select all that apply Engaging with social media influencers Optimizing meta tags Participating in online forums Acquiring high-quality backlinks Improving page load speed",
+      "definition": "Engaging with social media influencers Participating in online forums Acquiring high-quality backlinks"
+    },
+    {
+      "term": "Which of the following are criteria for assessing Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T) in website ranking? Select all that apply.",
+      "definition": "Author's credentials and qualifications, Demonstrating clear expertise in the subject matter, Quality of external links pointing to the site"
+    },
+    {
+      "term": "Which of the following factors are considered part of Core Web Vitals? Select all that apply.",
+      "definition": "Cumulative Layout Shift (CLS), Largest Contentful Paint (LCP) , Interaction to Next Paint (INP)"
+    },
+    {
+      "term": "Which of the following strategies is essential for building a strong brand presence online?",
+      "definition": "Consistent and high-quality content creation"
+    },
+    {
+      "term": "Which tool is commonly used for finding and testing schema markup and structured data?",
+      "definition": "Google's Structured Data Testing Tool"
+    },
+    {
+      "term": "What is the significance of web vitals for web performance?",
+      "definition": "Web vitals help in measuring critical aspects of user experience such as loading, interactivity, and visual stability."
+    },
+    {
+      "term": "Which strategies can help in optimizing content for SEO? Select all that apply.",
+      "definition": "Incorporating E-E-A-T factors in the content, Ensuring content freshness by regularly updating content"
+    },
+    {
+      "term": "Which of the following is a significant factor that Google considers in determining whether a site is a brand?",
+      "definition": "Consistency in NAP (Name, Address, Phone number) data"
+    },
+    {
+      "term": "Identify the key elements of the ultimate E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) guide. Select all that apply.",
+      "definition": "Creating high-quality content that demonstrates expertise, Including quotes from experts in the field, Building authoritative backlinks from reputable sources"
+    },
+    {
+      "term": "What is the primary purpose of the Lighthouse tool in SEO?",
+      "definition": "To measure site performance and identify areas for improvement."
+    },
+    {
+      "term": "Which of the following methods can help in ensuring trustworthiness through external factors? Select all that apply.",
+      "definition": "Building backlinks from reputable sites, Getting positive online reviews"
+    },
+    {
+      "term": "What is one of the methods for ensuring trustworthiness through on-site factors?",
+      "definition": "Displaying clear contact information and privacy policy"
+    },
+    {
+      "term": "What is a key benefit of using Google Trends for your SEO strategy? | It helps you identify seasonal trends in keyword searches. , It provides a list of backlinks to your site. , It offers detailed demographic data about your audience. , It shows the exact number of visitors to your competitors' websites.",
+      "definition": "It helps you identify seasonal trends in keyword searches."
+    },
+    {
+      "term": "Which of the following are essential components in creating a user persona? Select all that apply. | Setting up website hosting services. , Identifying the audience's interests and preferences. , Understanding the audience's search intent. , Determining the coding language for website development.",
+      "definition": "Identifying the audience's interests and preferences. Understanding the audience's search intent."
+    },
+    {
+      "term": "What are some methods of creating a user persona? Select all that apply | Sending discounts for your products and services , Sending out surveys , Analyzing forums and online groups , Looking at their browsing history , Interviewing target users or existing users",
+      "definition": "Sending out surveys Analyzing forums and online groups Interviewing target users or existing users"
+    },
+    {
+      "term": "Why is developing a buyer persona important for keyword selection in SEO? | It helps in selecting keywords that are relevant to the audience's needs and interests , It ensures that only high-competition keywords are selected , It improves website aesthetics , It increases the number of keywords in the website content",
+      "definition": "It helps in selecting keywords that are relevant to the audience's needs and interests"
+    },
+    {
+      "term": "What role is usually tasked with creating user personas? | This can fall under multiple marketing roles. , The customer service team , Website developers , The sales team",
+      "definition": "This can fall under multiple marketing roles."
+    },
+    {
+      "term": "What is an alternative use of Google Trends for SEO? | To design website layouts , To create social media content , To find email addresses of potential customers , To see related search terms and topics",
+      "definition": "To see related search terms and topics"
+    },
+    {
+      "term": "Identify the characteristics and needs of potential buyers that should be included in a marketing persona. Select all that apply. | Shopping behavior , The name of their high school , Demographic details (age, gender, location) , Internet connection speed , Pain points and challenges",
+      "definition": "Shopping behavior Demographic details (age, gender, location) Pain points and challenges"
+    },
+    {
+      "term": "Which of the following features can you utilize with Google Trends? Select all that apply. | Analyze search trends globally , Explore search interest by region , Compare the popularity of search terms over time , Identify the exact number of searches for a term , Track real-time website traffic",
+      "definition": "Analyze search trends globally Explore search interest by region Compare the popularity of search terms over time"
+    },
+    {
+      "term": "What are some methods for finding keywords the user is searching for? Select all that apply | Using Google Trends , Reviewing email marketing campaigns , Looking at people that also ask questions , Reading books",
+      "definition": "Using Google Trends Looking at people that also ask questions "
+    },
+    {
+      "term": "What is the primary purpose of developing a user persona in marketing? | To increase the number of social media followers , To improve website loading speed , To better understand the audience and their intent , To create a fictional character for advertisements",
+      "definition": "To better understand the audience and their intent"
+    },
+    {
+      "term": "Which of the following are considered key factors in off-page SEO? Select all that apply. | Meta tags on the website , Backlinks from other websites , Domain authority , Page load speed , Social media engagement",
+      "definition": "Backlinks from other websites , Domain authority , Social media engagement"
+    },
+    {
+      "term": "Identify sustainable trends in SEO. Select all that apply. | Incorporating video content , Increased trust and expertise , Focusing solely on desktop users , Ignoring mobile optimization , Utilizing AI to write content",
+      "definition": "Incorporating video content , Increased trust and expertise"
+    },
+    {
+      "term": "What is a significant change in the SEO landscape with the introduction of AI and machine learning? | Enhanced ability to understand user intent and context. , Decreased need for mobile optimization. , Increased use of keyword stuffing. , Higher importance of exact match keywords.",
+      "definition": "Enhanced ability to understand user intent and context."
+    },
+    {
+      "term": "What was one of the key milestones in the evolution of Google Search? | The creation of the Yahoo Directory , The introduction of the PageRank algorithm , The development of the first web browser , The launch of Bing search engine",
+      "definition": "The introduction of the PageRank algorithm"
+    },
+    {
+      "term": "How do advancements in search engine technology impact user behavior? Select all that apply. | Users are more likely to find relevant information quickly , Users spend less time on websites , Users are more likely to scroll further down the page , Users are less likely to click on ads , Users prefer to use only one search engine",
+      "definition": "Users are more likely to find relevant information quickly , Users are more likely to scroll further down the page"
+    },
+    {
+      "term": "Which of the following best explains how search engines evaluate web pages? | By counting the number of images on the web page. , By calculating the amount of time a user spends on a web page. , By checking if the web page is updated daily. , By analyzing content, structure, and backlinks to determine relevance and authority.",
+      "definition": "By analyzing content, structure, and backlinks to determine relevance and authority."
+    },
+    {
+      "term": "Which of the following factors are involved in on-page SEO? Select all that apply | Content quality , Keyword optimization , Server speed , Backlink generation , Meta tags",
+      "definition": "Content quality , Keyword optimization , Meta tags"
+    },
+    {
+      "term": "What is an important trend in SEO? | Decreased importance of mobile optimization , Reduced use of AI in search algorithms , Increased focus on ethical SEO practices , Focus on black-hat SEO techniques",
+      "definition": "Increased focus on ethical SEO practices"
+    },
+    {
+      "term": "Recognize the potential career growth and associated salaries in the SEO industry. Select all that apply. | SEO knowledge is limited to marketing teams. , Advanced SEO skills can lead to higher salaries and leadership positions. , Entry-level SEO roles do not offer much in terms of salary. , SEO specialists typically earn the same regardless of location. , SEO professionals often see significant career growth due to the increasing demand for their skills.",
+      "definition": "Advanced SEO skills can lead to higher salaries and leadership positions. , SEO professionals often see significant career growth due to the increasing demand for their skills."
+    },
+    {
+      "term": "Identify the various career paths within the field of Search Engine Optimization (SEO). Select all that apply. | SEO analyst , Social media manager , Technical SEO specialist , Content writer , Advertising copywriter",
+      "definition": "SEO analyst , Technical SEO specialist , Content writer"
+    },
+    {
+      "term": "Which of the following factors is crucial for effective search engine optimization? | Number of advertisements on the website , Frequency of social media posts , The color scheme of the website , Keyword research and usage",
+      "definition": "Keyword research and usage"
+    },
+    {
+      "term": "Identify the key factors that contribute to effective search engine optimization (SEO). Select all that apply. | Backlinks from reputable websites , Proper use of meta tags , Multiple types of content , High-quality content creation , High volume of advertisements , Frequent social media updates",
+      "definition": "Backlinks from reputable websites , Proper use of meta tags , Multiple types of content , High-quality content creation"
+    },
+    {
+      "term": "How does understanding the evolution of SEO impact current best practices? | It eliminates the need for backlink strategies. , It suggests that keyword density is the most important factor. , It highlights outdated practices that should be avoided. , It shows that meta tags are no longer useful.",
+      "definition": "It highlights outdated practices that should be avoided."
+    },
+    {
+      "term": "Which of the following best describes the importance of adapting to changes in search behavior for SEO professionals? | It helps in reducing the cost of website hosting. , It improves the overall design of the website. , It allows for more keyword stuffing on the website. , It ensures the website remains relevant and visible to users.",
+      "definition": "It ensures the website remains relevant and visible to users."
+    },
+    {
+      "term": "Which specific example demonstrates how SEO knowledge can benefit a role outside of SEO and marketing? | Sales positions , Managing payroll and finances effectively , Improving content strategies for better user engagement , Scheduling employee shifts efficiently",
+      "definition": "Improving content strategies for better user engagement"
+    },
+    {
+      "term": "What is one of the primary reasons for the increasing demand for SEO expertise in non-marketing roles? | SEO contributes to better data-driven decision-making across various functions. , SEO reduces the need for customer service personnel. , SEO improves the efficiency of internal communications within organizations. , SEO helps in enhancing the visibility of internal documents.",
+      "definition": "SEO contributes to better data-driven decision-making across various functions."
+    },
+    {
+      "term": "What is the primary role of Search Engine Optimization (SEO) in website visibility? | To manage the website's social media presence , To increase a website's ranking on search engine results pages (SERPs) , To design the website's layout and graphics , To regularly update website content",
+      "definition": "To increase a website's ranking on search engine results pages (SERPs)"
+    },
+    {
+      "term": "Select the key career advice elements for SEO professionals. Select all that apply. | Developing cross-disciplinary skills , Building a strong professional network , Ignoring changes in search engine algorithms , Focusing solely on keyword ranking , Continual learning and staying updated with industry trends",
+      "definition": "Developing cross-disciplinary skills , Building a strong professional network , Continual learning and staying updated with industry trends"
+    },
+    {
+      "term": "Imagine that one of your client's primary goals is to increase the amount of traffic to their site. The chart below compares this year's data (in blue) to last year's data (in red). Is this year's dip (in blue) after June an indicator that you are likely to have trouble meeting the client's goal?",
+      "definition": "Probably not. The traffic is still significantly higher than where it was at the same time last year. There is some reason to think that this is a seasonal dip."
+    },
+    {
+      "term": "Suppose you are in your initial meeting with a new client; which of the following are questions you should ask? (Select all that apply.)",
+      "definition": "A. What keywords are you currently tracking? B. (If they have worked with an SEO firm previously) ask, \"What did you like and dislike?\" C. Have you previously used other domain names? E. Has your company previously worked with an SEO firm?"
+    },
+    {
+      "term": "Why do search engines not like link exchanges? | Because they increase the load on the search engine servers , Because they can lead to too many outbound links from a website , Because they can lead to irrelevant links on a website , Because they are a form of compensated link and used to manipulate page rank",
+      "definition": "Because they are a form of compensated link and used to manipulate page rank"
+    },
+    {
+      "term": "Which of the following types of links are typically disliked by search engines? (Select all that apply.) | Links from websites with a high bounce rate , Internal links , Links from high-authority websites , Links from unrelated websites , Link exchanges , Paid links without the 'nofollow' attribute",
+      "definition": "Link exchanges , Paid links without the 'nofollow' attribute"
+    },
+    {
+      "term": "Your website recently participated in a large scale link exchange program. How might this affect your website's SEO? | It might get penalized due to the unnatural increase in backlinks , It will improve because the website will be seen as more popular , It won't be affected because search engines don't consider link exchanges , It will improve because of the increased number of backlinks",
+      "definition": "It might get penalized due to the unnatural increase in backlinks"
+    },
+    {
+      "term": "Which of the following is a critical step in structuring a content marketing campaign? | Ignoring audience feedback , Integrating the campaign with a broader marketing strategy , Focusing solely on your product's features , Limiting the campaign to a single platform",
+      "definition": "Integrating the campaign with a broader marketing strategy"
+    },
+    {
+      "term": "Which of the following are important aspects of structuring a content marketing campaign? (Select all that apply.) | Ignoring SEO considerations , Aligning with overall business goals , Monitoring and adjusting the campaign as needed , Identifying target audience , Using only one type of content",
+      "definition": "Aligning with overall business goals , Monitoring and adjusting the campaign as needed , Identifying target audience"
+    },
+    {
+      "term": "Why is it important to align a content marketing campaign with the overall business strategy? | To ensure the campaign supports the company's broader goals , To make certain the campaign only uses trending topics , To guarantee immediate increases in sales , To ensure that the campaign is cost-effective",
+      "definition": "To ensure the campaign supports the company's broader goals"
+    },
+    {
+      "term": "What is the primary goal of a content marketing campaign? | Increasing short-term sales , Attracting new employees , Boosting brand awareness , Improving website design",
+      "definition": "Boosting brand awareness"
+    },
+    {
+      "term": "A business has been using clickbait headlines in their content marketing campaign to improve their SEO rankings. What is your evaluation of this strategy? | It's a good strategy because it increases social media shares , It's a bad strategy because it doesn't incorporate keywords , It's a bad strategy because it can lead to a high bounce rate , It's a good strategy because it attracts a lot of users",
+      "definition": "It's a bad strategy because it can lead to a high bounce rate"
+    },
+    {
+      "term": "What is the most effective way to use content marketing campaigns to drive higher SEO rankings? | By using a lot of industry jargon in the content , By using exaggerated headlines to attract users , By posting the same content on multiple platforms , By producing high-quality, relevant content that answers the users' queries",
+      "definition": "By producing high-quality, relevant content that answers the users' queries"
+    },
+    {
+      "term": "How should keywords be incorporated into a content marketing campaign to optimize SEO? | They should be used in the content's title and throughout the text in a natural way , They should be densely packed into the content , They should be hidden in the website's code , They should only be used in the meta tags",
+      "definition": "They should be used in the content's title and throughout the text in a natural way"
+    },
+    {
+      "term": "Which of the following is NOT a type of content marketing campaign? (Select all that apply.) | Physical billboard campaign , Social media  , User-generated content , Brand awareness campaign",
+      "definition": "Physical billboard campaign"
+    },
+    {
+      "term": "Why is a 'Thought leadership campaign' considered a type of content marketing campaign? | It involves promoting a product through paid advertising. , It involves creating and sharing content that establishes the brand as a leader in its industry. , It involves distributing physical promotional materials. , It involves creating user-generated content.",
+      "definition": "It involves creating and sharing content that establishes the brand as a leader in its industry."
+    },
+    {
+      "term": "What is the main advantage of a 'Brand awareness campaign' over a 'Product launch campaign'? | Brand awareness campaigns are cheaper to run , Brand awareness campaigns can reach a larger audience , Brand awareness campaigns have a more specific target audience , Brand awareness campaigns focus on building long-term recognition and trust",
+      "definition": "Brand awareness campaigns focus on building long-term recognition and trust"
+    },
+    {
+      "term": "What are characteristics of successful data-driven studies? (Select all that apply.) | It provides a broad overview of your market. , It's carefully promoted to the media that writes about related topics. , Contains data that you've assembled based on research , It contains information that addresses knowledge gaps related to a hot topic in your market.",
+      "definition": "It's carefully promoted to the media that writes about related topics. , Contains data that you've assembled based on research , It contains information that addresses knowledge gaps related to a hot topic in your market."
+    },
+    {
+      "term": "Which of the following factors are considered in link valuation? (Select all that apply.) | The position of the link on the page , The authority of the linking site , The number of other links on the page , The size of the link , The color of the link , The relevance of the linking site",
+      "definition": "The authority of the linking site , The relevance of the linking site"
+    },
+    {
+      "term": "What are the characteristics of Skyscraper content? (Select all that apply.) | It tends to be on more specific topics as they're easier to rank for. , It's designed to steal rankings from competitors. , It tends to be on broad topics as these are more valuable search terms. , It contains authoritative information on a topic.",
+      "definition": "It tends to be on more specific topics as they're easier to rank for. , It contains authoritative information on a topic."
+    },
+    {
+      "term": "What is the value of working with experts for your content marketing campaign? (Select all that apply.) | Experts will make people link to your site. , The presence of experts on your site guarantees that the media will link to you. , It improves your chances of getting a link because the opinion of experts is something that others respect. , It can result in content that Google chooses to rank because of its quality.",
+      "definition": "It improves your chances of getting a link because the opinion of experts is something that others respect. , It can result in content that Google chooses to rank because of its quality."
+    },
+    {
+      "term": "What are the characteristics of guest posting? (Select all that apply.) | High volume guest posting is the preferred strategy. , Guest posting should focus on a small number of sites that have a similar target audience as your business. , Your guest posts can be about nearly any topic. , High volume guest posting is dangerous.",
+      "definition": "High volume guest posting is dangerous. , Guest posting should focus on a small number of sites that have a similar target audience as your business."
+    },
+    {
+      "term": "Which of the following best describes how social media impacts SEO? | Social media can increase your brand and reputation online which indirectly impacts SEO as over time it will lead to more links to your site. , The number of followers on social media impacts SEO , The number of likes and shares on social media impacts SEO , Social Media does not impact SEO",
+      "definition": "Social media can increase your brand and reputation online which indirectly impacts SEO as over time it will lead to more links to your site."
+    },
+    {
+      "term": "Is social media a Google ranking factor? | Google has not disclosed this information , No , Yes, directly , Yes, indirectly",
+      "definition": "Yes, indirectly"
+    },
+    {
+      "term": "Which of the following tactics can help connect social media with SEO strategy? | Increasing the number of followers on social media , Including keywords in social media posts , Linking to your website from social media profiles , Engaging with followers on social media , Sharing high-quality content on social media",
+      "definition": "Including keywords in social media posts"
+    },
+    {
+      "term": "You've found that your target audience primarily uses X (formerly Twitter). Which marketing tactic is most likely to help meet your goal of increasing brand awareness? | Limiting your posts to business hours , Posting long blog posts daily , Running a hashtag campaign , Direct messaging every follower",
+      "definition": "Running a hashtag campaign"
+    },
+    {
+      "term": "Which of the following tactics will best help you understand where your target audience hangs out on social media? | Posting a survey on your website asking where they hang out , Checking the demographics of different social media platforms , Throwing a virtual party on a random platform and seeing who shows up , Assuming they hang out on the same platforms you do",
+      "definition": "Checking the demographics of different social media platforms"
+    },
+    {
+      "term": "Which of the following factors should be considered when deciding which marketing tactics to use for your business goals on social media? (Select all that apply.) | The color scheme of your branding , The demographics of your target audience , The time your target audience is most active , The type of content your target audience engages with",
+      "definition": "The demographics of your target audience The time your target audience is most active"
+    },
+    {
+      "term": "What is a good approach to creating content that engages your target audience on social media? | Use analytics to understand what content resonates with your audience and adapt accordingly , Ignore comments and feedback on your posts , Post the same content on all platforms , Only post content about your products or services",
+      "definition": "Use analytics to understand what content resonates with your audience and adapt accordingly"
+    },
+    {
+      "term": "Which of the following are effective methods to engage your target audience on social media? (Select all that apply.) | Use a variety of content formats (e.g., videos, infographics, articles) , Engage in conversations with followers , Consistently post promotional content , Ignore negative comments or criticism",
+      "definition": "Use a variety of content formats (e.g., videos, infographics, articles) Engage in conversations with followers"
+    },
+    {
+      "term": "Which of the following best describes a strategy to build an audience with social media? | Create and share valuable, relevant content consistently across multiple social media platforms , Target a broad audience to maximize reach , Post content at random times throughout the day , Focus on only one social media platform",
+      "definition": "Create and share valuable, relevant content consistently across multiple social media platforms"
+    },
+    {
+      "term": "How does social sharing of your content by other people help you with SEO? | When people share your content on a social site you get exposed to their audience. , When you Like their post that reshares your content Google sees that as a ranking factor. , Google looks at how many social shares your content gets and treats that as a ranking factor. , Links in social media posts are an SEO ranking factor.",
+      "definition": "When people share your content on a social site you get exposed to their audience."
+    },
+    {
+      "term": "In a case study, a brand increased its reputation by constructively responding to negative reviews publicly and promptly. What SEO benefit does this strategy provide? | It shows users that the brand is trustworthy and credible , It discourages other users from leaving reviews , It increases the website's loading speed , It increases the number of backlinks to the website",
+      "definition": "It shows users that the brand is trustworthy and credible"
+    },
+    {
+      "term": "You posted a blog article on your website and shared it on your social media channels. The post got a lot of engagement. What impact does this likely have on your SEO? | Positive impact, as the engagement directly boosts your website's search engine ranking , Positive impact, as the engagement can lead to increasing your reputation online and potentially result in links to your site , Negative impact, as search engines may view the engagement as spam , No impact, as social media engagement doesn't affect SEO",
+      "definition": "Positive impact, as the engagement can lead to increasing your reputation online and potentially result in links to your site"
+    },
+    {
+      "term": "Which of the following best describes the role of social media marketing in SEO optimization? | To increase the number of backlinks to your website , To reduce the bounce rate on your website , To increase the visibility of your website in search engine results , To improve the domain authority of your website",
+      "definition": "To increase the number of backlinks to your website"
+    },
+    {
+      "term": "Which of the following are ways that social media marketing can support SEO? (Select all that apply.) | By driving traffic to your website , By indirectly generating backlinks , By reducing website bounce rate , By improving website speed , By improving the user experience on your website , By increasing brand awareness",
+      "definition": "By indirectly generating backlinks"
+    },
+    {
+      "term": "When considering a social media platform for your SEO strategy, which of the following factors should you not prioritize? | Ease of use for the audience , The platform's popularity among your target audience , The latest trend in social media , Integration with other marketing channels",
+      "definition": "The latest trend in social media"
+    },
+    {
+      "term": "You're choosing a platform for your social media strategy. A platform you're considering has a huge user base, but your target audience is not active there. What should you do? | Choose the platform because of its large user base , Ignore the platform because your audience isn't there , Try the platform anyway and see how it goes , Choose the platform and try to attract your audience there",
+      "definition": "Ignore the platform because your audience isn't there"
+    },
+    {
+      "term": "Which of the following tactics would you consider as part of a successful social media strategy for SEO optimization? (Select all that apply.) | Consistent posting of high-quality content , Using relevant hashtags to increase visibility , Engaging with followers and responding to comments , Sharing only promotional content , Buying followers to increase your reach",
+      "definition": "Consistent posting of high-quality content Using relevant hashtags to increase visibility"
+    },
+    {
+      "term": "What impact can influencers have on SEO? | Influencers can harm SEO by generating low-quality content , Influencers can boost SEO through increased backlinks , Influencers negatively impact SEO as they compete for the same keywords , Influencers have no impact on SEO",
+      "definition": "Influencers can boost SEO through increased backlinks"
+    },
+    {
+      "term": "Which of the following is the best way to measure the impact of influencer marketing on SEO? | Number of likes on influencer's post , Number of followers the influencer has , Increase in backlinks , Ranking of the influencer's own website",
+      "definition": "Increase in backlinks"
+    },
+    {
+      "term": "Which of the following are ways influencers can contribute to SEO? (Select all that apply.) | Creating high-quality content for your site , Endorsing your content resulting in attracting backlinks to that content , Endorsing your content and building your brand awareness as a result , Saying negative things about your competitors.",
+      "definition": "Endorsing your content resulting in attracting backlinks to that content"
+    },
+    {
+      "term": "What are methods for using Facebook to connect with influencers? (Select all that apply.) | Leverage influencer marketplaces to identify and connect with influencers. , Become an active participant in Facebook Groups , Reshare all of their posts on Facebook. , Pay influencers to create and promote content for you. , Reference them 5 times per day in Facebook Groups to get their attention.",
+      "definition": "Leverage influencer marketplaces to identify and connect with influencers."
+    },
+    {
+      "term": "If you comment on the social posts of influencers will it help you build a relationship with them? | No, your comments will annoy them. , Comment on every third post so that you appear regularly in their feed. , Comment on all of their posts, perhaps even multiple times per post. , Add comments to their posts where you can add value to the conversation.",
+      "definition": "Add comments to their posts where you can add value to the conversation."
+    },
+    {
+      "term": "Which of the following are ways influencers can impact SEO? (Select all that apply.) | By improving the website's code quality , By increasing social media engagement , Endorsing your content resulting in attracting backlinks to that content , By increasing website loading speed , By attracting new visitors to the website",
+      "definition": "By increasing social media engagement"
+    },
+    {
+      "term": "Why is it important to collaborate with influencers who have a similar audience to your target market? | Because it ensures the influencer will endorse your brand, content, or product , Because it guarantees increased website traffic , Because it improves the website's design , Because it increases the likelihood of their audience being interested in your content, product or service",
+      "definition": "Because it increases the likelihood of their audience being interested in your content, product or service"
+    },
+    {
+      "term": "What would be the potential downside of partnering with an influencer whose audience does not align with your target market? (Select all that apply.) | The influencer may not agree to partner , There is less chance that the influencer's activities will result in backlinks to your site , The SEO optimization might become too complex , The website might crash due to increased traffic",
+      "definition": "There is less chance that the influencer's activities will result in backlinks to your site"
+    },
+    {
+      "term": "What is the primary role of influencers in SEO optimization? | To increase your brand and reputation online , To manage the website , To design the website layout , To write the website content",
+      "definition": "To increase your brand and reputation online"
+    },
+    {
+      "term": "Why is the most important reason to maintain a genuine relationship with influencers and not just treat them as promotional tools? | Because it leads to better conversions , Because it can lead to long-term collaboration , Because it leads to better engagement , Because it leads to a faster website.",
+      "definition": "Because it can lead to long-term collaboration"
+    },
+    {
+      "term": "What is the primary objective of creating relationships with influencers in SEO? | To increase your brand and reputation and increase your website's visibility , To increase the website's sales , To increase the website's traffic , To increase the website's backlinks",
+      "definition": "To increase your brand and reputation and increase your website's visibility"
+    },
+    {
+      "term": "Which of the following are effective ways to build relationships with influencers for SEO purposes? (Select all that apply.) | Offering them exclusive content , Sending them unsolicited promotional material , Providing them with valuable feedback , Engaging with their content regularly , Ignoring their content preferences",
+      "definition": "Offering them exclusive content"
+    },
+    {
+      "term": "What are some types of sites that have a strong correlation between social shares and inbound links for their content pages? (Select all that apply.) | Sites that publish data-driven content , Prominent news sites , E-commerce websites , Web hosting web sites",
+      "definition": "Sites that publish data-driven content , Prominent news sites"
+    },
+    {
+      "term": "What makes up anchor content? (Select all that apply.) | Content that is mobile optimized , Content that addresses topics that aren't well covered by other content on the web , Content that links out to lots of other websites , Content that is authoritative",
+      "definition": "Content that addresses topics that aren't well covered by other content on the web , Content that is authoritative"
+    },
+    {
+      "term": "Based on the case study of Ahrefs content marketing case study, which of the following tactics were used? (Select all that apply.) | Improving site speed , Utilizing social media for increased reach , Creating valuable content for users , Researching media needs related to their target market (SEO) , Focusing on mobile optimization",
+      "definition": "Utilizing social media for increased reach , Creating valuable content for users"
+    },
+    {
+      "term": "If a potential partner's website has a low domain authority but a highly engaged audience that aligns with your target audience, should you still consider partnering with them? | No, because the low domain authority will harm your SEO , Yes, but only if they can improve their domain authority , Yes, because the audience alignment is the most important , No, because it's not worth the effort",
+      "definition": "Yes, because the audience alignment is the most important"
+    },
+    {
+      "term": "Which of the following actions can contribute to building successful partnerships for optimizing SEO? (Select all that apply.) | Purchasing backlinks , Creating a joint webinar, video, or event , Collaborating on a joint research project and publishing the results , Exchanging guest posts",
+      "definition": "Creating a joint webinar, video, or event , Collaborating on a joint research project and publishing the results , Exchanging guest posts"
+    },
+    {
+      "term": "What is the most important characteristic of a good partner? | Their social media followers and posting frequency , Their website size only , Alignment with your target audience , Their search engine rankings",
+      "definition": "Alignment with your target audience"
+    },
+    {
+      "term": "How do you determine whether a media person is someone you should reach out to? | You should only reach out to media people for whom you get a personal introduction. , You should reach out to everyone that covers your market space. , If you're able to find their email address, you should reach out to them , You've built a list of media contacts that have written about closely related topics",
+      "definition": "You've built a list of media contacts that have written about closely related topics"
+    },
+    {
+      "term": "How should you approach outreach to media people? (Select all that apply.) | Include a brief but clear list of the key points of interest in your content. , Send the same email to all the media people you reach out to. , Limit the length of your pitch to 3 or 4 paragraphs , Personalize your pitch",
+      "definition": "Include a brief but clear list of the key points of interest in your content. , Personalize your pitch"
+    },
+    {
+      "term": "Identify key elements of a successful content marketing campaign. (Select all that apply.) | Copying someone else's content marketing ideas and publishing something nearly identical , High word count , Keeping the content up to date , You've completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps. , Publishing only very high quality, up to date, information , You've researched the media that covers your market and identified numerous potential targets that may be willing to link to your content.",
+      "definition": "You've completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps. , You've researched the media that covers your market and identified numerous potential targets that may be willing to link to your content."
+    },
+    {
+      "term": "After analyzing your data, you find that infographics are the most linked to content on your website. What should be your next step? | Invest in paid advertising for infographics , All of these are correct , Stop creating other types of content , Consider creating more infographics",
+      "definition": "Consider creating more infographics"
+    },
+    {
+      "term": "Which of the following tools would be beneficial to use when analyzing data to see which content gets the most links and shares? | Adobe Analytics , BuzzSumo , Microsoft Excel , Google Analytics",
+      "definition": "BuzzSumo"
+    },
+    {
+      "term": "When considering whether or not a campaign makes sense should you consider piggybacking on recent news events? | Yes, by creating content that introduces new angles to the trending news stories , Yes, creating content similar to new stories published by major media sites is a great way to attract links. , No, this type of content doesn't get many links. , No, unless you have a major media site this type of content won't work for you.",
+      "definition": "Yes, by creating content that introduces new angles to the trending news stories"
+    },
+    {
+      "term": "In the AGCO case study they used YouTube as a channel to promote their brand. But isn't this a bad idea since links to YouTube won't help your website? | Yes, because links to YouTube are harmful as they distract people from linking to your site. | Yes, since all the links will go to YouTube this won't have any value. | No, building your brand in a significant way will raise your visibility, and this can lead to third parties implementing links to your website. | No, the links to YouTube do have direct SEO value for your website.",
+      "definition": "No, building your brand in a significant way will raise your visibility, and this can lead to third parties implementing links to your website."
+    },
+    {
+      "term": "Evaluate and select the following content marketing strategies for their effectiveness in next-level content marketing. (Select all that apply.) | Focusing solely on short-form content for quick consumption , Create content on a fixed schedule. , Using a variety of formats like blogs, podcasts, and videos , Create unique data-driven content that introduces new valuable data into a hot topic area in your market.",
+      "definition": "Using a variety of formats like blogs, podcasts, and videos , Create unique data-driven content that introduces new valuable data into a hot topic area in your market."
+    },
+    {
+      "term": "Analyzing your competitor's content strategy is a part of next-level content marketing. Which of the following is the most effective way to do this? | Copying their most successful content verbatim , Looking for patterns in their content and applying those to your strategy , Using their content to see what has worked for them and generate ideas, but create unique content , Ignoring their content, focusing only on your own",
+      "definition": "Using their content to see what has worked for them and generate ideas, but create unique content"
+    },
+    {
+      "term": "Which of the following tactics can be used in a content marketing campaign to improve SEO rankings? (Select all that apply.) | Attracting backlinks from reputable websites , Creating high-quality, relevant content , Using keywords naturally in the content , Plagiarizing content from high-ranking websites",
+      "definition": "Attracting backlinks from reputable websites , Creating high-quality, relevant content , Using keywords naturally in the content"
+    },
+    {
+      "term": "If you reshare the social posts of influencers will it help you build a relationship with them? | Yes, reshare all of their content. | Yes, share every third post that they make. | No, don't reshare their content. | Yes, share their content that aligns most closely with your interests",
+      "definition": "Yes, share their content that aligns most closely with your interests"
+    },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" },
+    { "term": "aaaaaaaaaaa", "definition": "bbbbbbbbbb" }
+  ]
+}

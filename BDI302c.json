@@ -1,0 +1,1328 @@
+{
+  "quizSrc": [
+    {
+      "term": "Which of the following is an example of big data utilized in action today?A. The InternetB. Individual, Unconnected Hospital DatabasesC. Wi-Fi NetworksD. Social Media",
+      "definition": "D. Social Media"
+    },
+    {
+      "term": "What reasoning was given for the following: why is the \"data storage to price ratio\" relevant to big data?A. Larger storage means easier accessibility to big data for every user because it allows users to download in bulk.B. It isn't, it was just an arbitrary example of big data usage.C. Companies can't afford to own, maintain, and spend the energy to support large data storage unless the cost is sufficiently low.D. Lower prices mean larger storage becomes easier to access for everyone, creating bigger amounts of data for client-facing services to work with.",
+      "definition": "D. Lower prices mean larger storage becomes easier to access for everyone, creating bigger amounts of data for client-facing services to work with."
+    },
+    {
+      "term": "What is the best description of personalized marketing enabled by big data?A. Being able to obtain and use customer information for groups of consumers and utilize them for marketing needs.B. Being able to use personalized data from every single customer for personalized marketing needs.C. Marketing to each customer on an individual level and suiting to their needs.",
+      "definition": "B. Being able to use personalized data from every single customer for personalized marketing needs."
+    },
+    {
+      "term": "Of the following, which are some examples of personalized marketing related to big data?A. News outlets gathering information from the internet in order to report them to the public.B. A survey that asks your age and markets to you a specific brand.C. Facebook revealing posts that cater towards similar interests.",
+      "definition": "C. Facebook revealing posts that cater towards similar interests."
+    },
+    {
+      "term": "What is the workflow for working with big data?A. Theory -> Models -> Precise AdviceB. Extrapolation -> Understanding -> ReproducingC. Big Data -> Better Models -> Higher Precision",
+      "definition": "C. Big Data -> Better Models -> Higher Precision"
+    },
+    {
+      "term": "Which is the most compelling reason why mobile advertising is related to big data?A. Mobile advertising in and of itself is always associated with big data.B. Since almost everyone owns a cell/mobile phone, the mobile advertising market is large and thus requires big data to contain all the information.C. Mobile advertising benefits from data integration with location which requires big data.D. Mobile advertising allows massive cellular/mobile texting to a wide audience, thus providing large amounts of data.",
+      "definition": "C. Mobile advertising benefits from data integration with location which requires big data."
+    },
+    {
+      "term": "What are the three types of diverse data sources?A. Machine Data, Organizational Data, and PeopleB. Machine Data, Map Data, and Social MediaC. Information Networks, Map Data, and PeopleD. Sensor Data, Organizational Data, and Social Media",
+      "definition": "A. Machine Data, Organizational Data, and People"
+    },
+    {
+      "term": "What is an example of machine data?A. Weather station sensor output.B. Social MediaC. Sorted data from Amazon regarding customer info.",
+      "definition": "A. Weather station sensor output."
+    },
+    {
+      "term": "What is an example of organizational data?A. Disease data from Center for Disease Control.B. Satellite DataC. Social Media",
+      "definition": "A. Disease data from Center for Disease Control."
+    },
+    {
+      "term": "Of the three data sources, which is the hardest to implement and streamline into a model?A. Machine DataB. PeopleC. Organizational Data",
+      "definition": "B. People"
+    },
+    {
+      "term": "Which of the following summarizes the process of using data streams?A. Integration -> Personalization -> PrecisionB. Big Data -> Better Models -> Higher PrecisionC. Theory -> Models -> Precise AdviceD. Extrapolation -> Understanding -> Reproducing",
+      "definition": "A. Integration -> Personalization -> Precision"
+    },
+    {
+      "term": "Where does the real value of big data often come from?A. Size of the data.B. Having data-enabled decisions and actions from the insights of new data.C. Combining streams of data and analyzing them for new insights.D. Using the three major data sources: Machines, People, and Organizations.",
+      "definition": "C. Combining streams of data and analyzing them for new insights."
+    },
+    {
+      "term": "What does it mean for a device to be \"smart\"?A. Having a specific processing speed in order to keep up with the demands of data processing.B. Connect with other devices and have knowledge of the environment.C. Must have a way to interact with the user.",
+      "definition": "B. Connect with other devices and have knowledge of the environment."
+    },
+    {
+      "term": "What does the term \"in situ\" mean in the context of big data?A. Bringing the computation to the location of the data.B. In the situationC. The sensors used in airplanes to measure altitude.D. Accelerometers.",
+      "definition": "A. Bringing the computation to the location of the data."
+    },
+    {
+      "term": "Which of the following are reasons mentioned for why data generated by people are hard to process? Choose all that apply.A. Very unstructured data.B. Skilled people to analyze the data are hard to come by.C. The velocity of the data is very high.D. They cannot be modeled and stored.",
+      "definition": "A. Very unstructured data. B. Skilled people to analyze the data are hard to come by. C. The velocity of the data is very high."
+    },
+    {
+      "term": "What is the purpose of retrieval and storage; pre-processing; and analysis in order to convert multiple data sources into valuable data?A. Since the multi-layered process is built into the Neo4j database connection.B. Designed to work like the ETL process.C. To enable ETL methods.D. To allow scalable analytical solutions to big data.",
+      "definition": "D. To allow scalable analytical solutions to big data."
+    },
+    {
+      "term": "Which of the following are benefits of organization-generated data? Choose all that apply.A. Better Profit MarginsB. Customer SatisfactionC. High VelocityD. Improved SafetyE. Higher Sales",
+      "definition": "A. Better Profit Margins B. Customer Satisfaction D. Improved Safety E. Higher Sales"
+    },
+    {
+      "term": "What are data silos and why are they bad?A. Data produced from an organization that is spread out. Bad because it creates unsynchronized and invisible data.B. A giant centralized database to house all the data production within an organization. Bad because it hinders opportunity for data generation.C. Highly unstructured data. Bad because it does not provide meaningful results for organizations.D. A giant centralized database to house all the data produces within an organization. Bad because it is hard to maintain as highly structured data.",
+      "definition": "A. Data produced from an organization that is spread out. Bad because it creates unsynchronized and invisible data."
+    },
+    {
+      "term": "Which of the following are benefits of data integration? Choose all that apply.A. Unify your data system.B. Adds value to big data.C. Reduce data complexity.D. Increase data collaboration.E. Monitoring of data.F. Increase data availability.",
+      "definition": "A. Unify your data system. B. Adds value to big data. C. Reduce data complexity. D. Increase data collaboration. F. Increase data availability."
+    },
+    {
+      "term": "Amazon has been collecting review data for a particular product. They have realized that almost 90% of the reviews were mostly a 5/5 rating. However, of the 90%, they realized that 50% of them were customers who did not have proof of purchase or customers who did not post serious reviews about the product. Of the following, which is true about the review data collected in this situation?A. Low VolumeB. Low VeracityC. High VeracityD. High VolumeE. Low ValenceF. High Valence",
+      "definition": "B. Low Veracity"
+    },
+    {
+      "term": "As mentioned in the slides, what are the challenges to data with a high valence?A. Complex Data Exploration AlgorithmsB. Difficult to IntegrateC. Reliability of Data",
+      "definition": "A. Complex Data Exploration Algorithms"
+    },
+    {
+      "term": "Which of the following are the 6 V's in big data?A. VisionB. ValenceC. VarietyD. VeracityE. ValueF. VelocityG. Volume",
+      "definition": "B. Valence C. Variety D. Veracity E. Value F. Velocity G. Volume"
+    },
+    {
+      "term": "What is the veracity of big data?A. The abnormality or uncertainties of data.B. The connectedness of data.C. The size of the data.D. The speed at which data is produced.",
+      "definition": "A. The abnormality or uncertainties of data."
+    },
+    {
+      "term": "What are the challenges of data with high variety?A. Hard in utilizing group event detection.B. Hard to perform emergent behavior analysis.C. Hard to integrate.D. The quality of data is low.",
+      "definition": "C. Hard to integrate."
+    },
+    {
+      "term": "Which of the following is the best way to describe why it is crucial to process data in real-time?A. More accurate.B. Prevents missed opportunities.C. More expensive to batch process.D. Batch processing is an older method that is not as accurate as real-time processing.",
+      "definition": "B. Prevents missed opportunities."
+    },
+    {
+      "term": "What are the challenges with big data that has high volume?A. Storage and AccessibilityB. Effectiveness and CostC. Cost, Scalability, and PerformanceD. Speed Increase in Processing",
+      "definition": "C. Cost, Scalability, and Performance"
+    },
+    {
+      "term": "Which of the following are parts of the 5 P's of data science and what is the additional P introduced in the slides?A. PerceptionB. ProgrammabilityC. PurposeD. ProductE. PlatformsF. ProcessG. People",
+      "definition": "B. Programmability C. Purpose D. Product E. Platforms F. Process G. People"
+    },
+    {
+      "term": "Which of the following are part of the four main categories to acquire, access, and retrieve data?A. Remote DataB. Web ServicesC. Traditional DatabasesD. Text FilesE. NoSQL Storage",
+      "definition": "A. Remote Data C. Traditional Databases D. Text Files E. NoSQL Storage"
+    },
+    {
+      "term": "What are the steps required for data analysis?A. Select Technique, Build Model, EvaluateB. Investigate, Build Model, EvaluateC. Classification, Regression, AnalysisD. Regression, Evaluate, Classification",
+      "definition": "A. Select Technique, Build Model, Evaluate"
+    },
+    {
+      "term": "Of the following, which is a technique mentioned in the videos for building a model?A. AnalysisB. InvestigationC. ValidationD. Evaluation",
+      "definition": "A. Analysis"
+    },
+    {
+      "term": "What is the first step in finding a right problem to tackle in data science?A. Ask the Right QuestionsB. Define the ProblemC. Define GoalsD. Assess the Situation",
+      "definition": "B. Define the Problem"
+    },
+    {
+      "term": "What is the first step in determining a big data strategy?A. Organizational Buy-InB. Build In-House ExpertiseC. Business ObjectivesD. Collect Data",
+      "definition": "C. Business Objectives"
+    },
+    {
+      "term": "Why is data science mainly about teamwork?A. Data science requires a variety of expertise in different fields.B. Exhibition of curiosity is required.C. Analytic solutions are required.D. Engineering solutions are preferred.",
+      "definition": "A. Data science requires a variety of expertise in different fields."
+    },
+    {
+      "term": "What are the ways to address data quality issues?A. Data WranglingB. Generate best estimates for invalid values.C. Remove data with missing values.D. Merge duplicate records.E. Remove outliers.",
+      "definition": "B. Generate best estimates for invalid values. C. Remove data with missing values. D. Merge duplicate records. E. Remove outliers."
+    },
+    {
+      "term": "What is done to the data in the preparation stage?A. Identify Data Sets and Query DataB. Understand Nature of Data and Preliminary Analysis.C. Retrieve DataD. Build ModelsE. Select Analytical Techniques",
+      "definition": "B. Understand Nature of Data and Preliminary Analysis. | Cleaning, Integrating, and Packaging"
+    },
+    {
+      "term": "Which of the following is the best description of why it is important to learn about the foundations for big data?A. Foundations help you revisit calculus concepts required in the understanding of big data.B. Foundations stand the test of time.C. Foundations is all that is required to show a mastery of big data concepts.D. Foundations allow for the understanding of practical concepts in Hadoop.",
+      "definition": "D. Foundations allow for the understanding of practical concepts in Hadoop."
+    },
+    {
+      "term": "What is the benefit of a commodity cluster?A. Much faster than a traditional super computer.B. Cost EffectiveC. Enables fault tolerance D. Prevents network connection failure.E. Prevents individual component failures.",
+      "definition": "B. Cost Effective C. Enables fault tolerance"
+    },
+    {
+      "term": "What is a way to enable fault tolerance?A. System Wide RestartB. Redundant Data StorageC. Data-Parallel Job RestartD. Distributed ComputingE. Better LAN Connection",
+      "definition": "B. Redundant Data Storage C. Data-Parallel Job Restart"
+    },
+    {
+      "term": "What are the specific benefit(s) to a distributed file system?A. High Fault ToleranceB. High ConcurrencyC. Large StorageD. Data Scalability",
+      "definition": "A. High Fault Tolerance B. High Concurrency D. Data Scalability"
+    },
+    {
+      "term": "Which of the following are general requirements for a programming language in order to support big data models?A. Optimization of Specific Data TypesB. Utilize Map Reduction MethodsC. Enable Adding of More RacksD. Handle Fault ToleranceE. Support Big Data Operations",
+      "definition": "A. Optimization of Specific Data Types C. Enable Adding of More Racks D. Handle Fault Tolerance E. Support Big Data Operations"
+    },
+    {
+      "term": "What does IaaS provide?A. Hardware OnlyB. Computing EnvironmentC. Software On-Demand",
+      "definition": "A. Hardware Only"
+    },
+    {
+      "term": "What does PaaS provide?A. Hardware OnlyB. Software On-DemandC. Computing Environment",
+      "definition": "C. Computing Environment"
+    },
+    {
+      "term": "What does SaaS provide?A. Computing EnvironmentB. Software On-DemandC. Hardware Only",
+      "definition": "B. Software On-Demand"
+    },
+    {
+      "term": "What are the two key components of HDFS and what are they used for?A. FASTA for genome sequence and Rasters for geospatial data.B. NameNode for metadata and DataNode for block storage.C. NameNode for block storage and Data Node for metadata.",
+      "definition": "B. NameNode for metadata and DataNode for block storage."
+    },
+    {
+      "term": "What is the job of the NameNode?A. Coordinate operations and assigns tasks to Data NodesB. Listens from DataNode for block creation, deletion, and replication.C. For gene sequencing calculations.",
+      "definition": "A. Coordinate operations and assigns tasks to Data Nodes"
+    },
+    {
+      "term": "What is the order of the three steps to Map Reduce?A. Shuffle and Sort -> Map -> ReduceB. Map -> Reduce -> Shuffle and SortC. Shuffle and Sort -> Reduce -> MapD. Map -> Shuffle and Sort -> Reduce",
+      "definition": "D. Map -> Shuffle and Sort -> Reduce"
+    },
+    {
+      "term": "What is a benefit of using pre-built Hadoop images?A. Guaranteed hardware support.B. Less software choices to choose from.C. Quick prototyping, deploying, and validating of projects.D. Quick prototyping, deploying, and guaranteed bug free.",
+      "definition": "C. Quick prototyping, deploying, and validating of projects."
+    },
+    {
+      "term": "What is an example of open-source tools built for Hadoop and what does it do?A. Zookeeper, analyze social graphs.B. Zookeeper, management system for animal named related components.C. Giraph, for processing large-scale graphs.D. Giraph, for SQL-like queries.E. Pig, for real-time and in-memory processing of big data.",
+      "definition": "B. Zookeeper, management system for animal named related components. C. Giraph, for processing large-scale graphs."
+    },
+    {
+      "term": "What is the difference between low level interfaces and high level interfaces?A. Low level deals with interactivity while high level deals with storage and scheduling.B. Low level deals with storage and scheduling while high level deals with interactivity.",
+      "definition": "B. Low level deals with storage and scheduling while high level deals with interactivity."
+    },
+    {
+      "term": "Which of the following are problems to look out for when integrating your project with Hadoop?A. Advanced AlogrithmsB. Random Data AccessC. Task Level ParallelismD. Data Level ParallelismE. Infrastructure Replacement",
+      "definition": "A. Advanced Alogrithms B. Random Data Access C. Task Level Parallelism E. Infrastructure Replacement"
+    },
+    {
+      "term": "As covered in the slides, which of the following are the major goals of Hadoop?A. Facilitate a Shared EnvironmentB. Enable ScalabilityC. Provide Value for DataD. Latency Sensitive TasksE. Optimized for a Variety of Data TypesF. Handle Fault Tolerance",
+      "definition": "A. Facilitate a Shared Environment B. Enable Scalability C. Provide Value for Data E. Optimized for a Variety of Data Types F. Handle Fault Tolerance"
+    },
+    {
+      "term": "What is the purpose of YARN?A. Allows various applications to run on the same Hadoop cluster.B. Enables large scale data across clusters.C. Implementation of Map Reduce.",
+      "definition": "A. Allows various applications to run on the same Hadoop cluster."
+    },
+    {
+      "term": "What are the two main components for a data computation framework that were described in the slides?A. Node Manager and Applications MasterB. Applications Master and ContainerC. Resource Manager and Node ManagerD. Resource Manager and ContainerE. Node Manager and Container",
+      "definition": "C. Resource Manager and Node Manager"
+    },
+    {
+      "term": "At 2:45 of the video, the Instructor creates a filter for all of the counties in California with a population greater than 1,000,000. However, included in the results is the entire state of California. This anomalous value might skew our analysis if, for example, we wanted to compute the average population of these results. What additional filter might work to resolve this problem?A. Add a filter to detect and remove results which do not include the word \"County\" in column G.B. Add a filter which finds all counties with population greater than 100,000 AND less than 10,000,000 for column H (CENSUS2010POP).C. Add a filter where the value in column E is greater than 1,000,000.D. None of the above",
+      "definition": "A. Add a filter to detect and remove results which do not include the word \"County\" in column G."
+    },
+    {
+      "term": "(Questions 8 and 9 pertain to the video lecture \"Exploring the Semistructured Data Model of JSON\")Given a tweet, what path would you most likely enter to obtain a count of the number of followers for a user?A. user/followers_countB. user/statuses_countC. user/listed_countD. None of the above",
+      "definition": "A. user/followers_count"
+    },
+    {
+      "term": "Which of the following fields are nested within the 'entities' field (select all that apply)?A. user_mentionsB. urlsC. symbolsD. viewsE. eventsF. tweets",
+      "definition": "A. user_mentions B. urls C. symbols"
+    },
+    {
+      "term": "What is a possible pitfall of utilizing Excel as a way to manipulate small databases?A. Excel does not enforce many principles of relational data models.B. Excel does not allow algorithms for data manipulation.C. Excel is a user program and thus cannot run on a server.",
+      "definition": "A. Excel does not enforce many principles of relational data models."
+    },
+    {
+      "term": "What does the term \"atomic\" mean in the context of relational databases?A. A tuple that cannot be reduced.B. One unit of information that cannot be decomposed.C. A column or row of data. Depends on the context.D. Fixed schema of a particular database.",
+      "definition": "B. One unit of information that cannot be decomposed."
+    },
+    {
+      "term": "What is the Pareto-Optimality problem?A. Find the shortest path from source node to target node.B. Find the best possible path given two or more optimization criteria where neither constraint can be fully optimized simultaneously.C. Find the optimal path that requires going through specific nodes given by the user.",
+      "definition": "B. Find the best possible path given two or more optimization criteria where neither constraint can be fully optimized simultaneously."
+    },
+    {
+      "term": "What constitutes a community within a graph?A. Many anomalous neighborhoods within the same vicinity.B. A dense amount of edge connections between nodes in a community and a few connections across communities.C. A neighborhood defined by an integer constant K around a specific node. All K+1 nodes belong in another community.D. High density of nodes at a certain location.",
+      "definition": "B. A dense amount of edge connections between nodes in a community and a few connections across communities."
+    },
+    {
+      "term": "Why are trees useful for semi-structured data such as XML and JSON?A. Trees take advantage of the parent-child relationship of the data for easy navigation.B. Computers can easily visualize the data with a tree structure.C. It is not always the case that XML and JSON can be represented as trees.D. They are only useful for XML data as tree-like structure is apparent with tags. While JSON does not contain a tree-like structure as it contains arrays.",
+      "definition": "A. Trees take advantage of the parent-child relationship of the data for easy navigation."
+    },
+    {
+      "term": "What is the general purpose of modeling data as vectors?A. Results can be ordered by similarity using vector projection.B. Enables image searching.C. Enables weighting of the query.D. The ability to normalize vectors allowing probability distributions.",
+      "definition": "A. Results can be ordered by similarity using vector projection."
+    },
+    {
+      "term": "From the information given in question 7, what are the constraints, if any, which we have placed on the Account Number field for the end of year collection?A. Account should have at most n digits.B. There are no constraints.C. If we had n duplicate Account Numbers then we will remove n-1 duplicate fields.D. Account Number should be unique.",
+      "definition": "D. Account Number should be unique."
+    },
+    {
+      "term": "Suppose 100 people signup for our system and of the 100 people, 60 of them did not input an address. The system lists the values as NULL for these empty entries in the address field. Would this situation still have structure for our data?A. Yes the data has structure because we have placed a structural constraint on the data, thus the data will always have the originally defined structure.B. No because the majority of data do not have a specific field filled, thus our originally defined structure is lost.",
+      "definition": "A. Yes the data has structure because we have placed a structural constraint on the data, thus the data will always have the originally defined structure."
+    },
+    {
+      "term": "What is true between data modeling and the formatting of the data?A. The data does not necessarily need to be formatted in a way that represents the data model. Just so long as it can be extrapolated.B. There is always one specific schema for storing model data that is the best and preferred method for the specific data representation.C. There is a one to one correspondence between formatting data and data modeling. For every model of data, there is only one way to store the data.",
+      "definition": "A. The data does not necessarily need to be formatted in a way that represents the data model. Just so long as it can be extrapolated."
+    },
+    {
+      "term": "What is streaming?A. Using static data stored from a real time source in order to process and guide the application.B. Calculating results using real time data otherwise known as streaming data.C. Utilizing real time data to compute and change the state of an application continuously.D. Using sensors to manipulate the system, such as a smart car being able to drive by itself using sensors to detect road hazards.",
+      "definition": "C. Utilizing real time data to compute and change the state of an application continuously."
+    },
+    {
+      "term": "Of the following, what best describes the properties of working with streaming data?A. Independent computations that do not rely on previous or future data.B. Does not ping the source interactively for a response upon receiving the data.C. Always unbounded in sequence, in other words, data is not guaranteed to be in order.D. Data is always utilized for streaming the application.E. Small time windows for working with data.F. Data manipulation is near real time.",
+      "definition": "A. Independent computations that do not rely on previous or future data. B. Does not ping the source interactively for a response upon receiving the data. E. Small time windows for working with data. F. Data manipulation is near real time."
+    },
+    {
+      "term": "What is a characteristic of streaming data?A. The data is finite and requires only finite time and space to process the data.B. The data is unbounded in size and the size determines the time and space of processing the data.C. Data is finite in size and size determines the time and space of processing the data.D. Data is unbounded in size but requires only finite time and space to process it.",
+      "definition": "D. Data is unbounded in size but requires only finite time and space to process it."
+    },
+    {
+      "term": "What type of algorithm is required for analyzing streaming data?A. Accurate and ConsistentB. Fast and SimpleC. Fast and ComplexD. Accurate and Memory Efficient",
+      "definition": "B. Fast and Simple"
+    },
+    {
+      "term": "What is lambda architecture?A. A specific method for processing streaming data using special real time processes.B. A method to process streaming data by utilizing batch processing and real time processing.C. A specific hardware architecture for a server made specifically for processing real time data.",
+      "definition": "B. A method to process streaming data by utilizing batch processing and real time processing."
+    },
+    {
+      "term": "Of the following, which best represents the challenge regarding the size and frequency of data?A. There may not be data to produce the notion of size and frequency.B. The size and frequency of the streaming data may be too small.C. The size and frequency of the streaming data may be sporadic.",
+      "definition": "C. The size and frequency of the streaming data may be sporadic."
+    },
+    {
+      "term": "What is the difference between data lakes and data warehouses?A. Data lakes house raw data while data warehouses contain pre-formatted data.B. Data lakes utilize hierarchical systems while data warehouses use object storage.C. Data lakes contain only files while data warehouses contain only databases.",
+      "definition": "A. Data lakes house raw data while data warehouses contain pre-formatted data."
+    },
+    {
+      "term": "What is schema-on-read?A. The process where formatted data is given structure when read.B. Another name for data lakes.C. Data is stored as raw data until it is read by an application where the application assigns structure.D. The process where data is pre-formatted prior to being read but the schema is loaded on read.",
+      "definition": "C. Data is stored as raw data until it is read by an application where the application assigns structure."
+    },
+    {
+      "term": "The desired characteristics of a BDMS include (select all that apply):A. A flexible semi-structured data modelB. Support for ACIDC. A full query languageD. Continuous data ingestionE. Support for common \"Big Data\" data typesF. Narrow range of query sizes",
+      "definition": "A. A flexible semi-structured data model C. A full query language D. Continuous data ingestion E. Support for common \"Big Data\" data types"
+    },
+    {
+      "term": "Fill in the blank with the best answer: CAP theorem states that _________ all at once within a distributed computer system?A. it is necessary to have consistency, availability, and partition toleranceB. it is necessary to have consistency, accuracy, and partial toleranceC. it is impossible to have consistency, accuracy, and partial toleranceD. it is impossible to have consistency, availability, and partition tolerance",
+      "definition": "D. it is impossible to have consistency, availability, and partition tolerance"
+    },
+    {
+      "term": "What is the purpose of the acronym BASE?A. To impose properties on a BDMS in order to guarantee certain results.B. Enables stricter enforcement of ACID type design.C. The same as ACID.D. To overcome CAP theorem.",
+      "definition": "A. To impose properties on a BDMS in order to guarantee certain results."
+    },
+    {
+      "term": "What are ziplists in Redis?A. A special type of data type that can store hashes that point to multiple attributes.B. A special type of data type that can store up to 512 mb of image data.C. A compressed list that is stored within the value of the database.D. A look up table that is stored as a value in the database. Look up table points to actual values in memory.",
+      "definition": "C. A compressed list that is stored within the value of the database."
+    },
+    {
+      "term": "What is one of the main features of Aerospike?A. Enables real time data streaming from external sources.B. Support for geospatial data storage and geospatial queries.C. Better equipped for string based search applications.D. Images as values within the database.",
+      "definition": "B. Support for geospatial data storage and geospatial queries."
+    },
+    {
+      "term": "What database would be best suited for the following scenario: An app development company is trying to implement a cloud based storage system for their new map-based app. The cloud will manage the longitude and latitude of the data in order to track user location.A. SolrB. RedisC. AerospikeD. Vertica",
+      "definition": "C. Aerospike"
+    },
+    {
+      "term": "What database would be best suited for the following scenario: A big wholesale company is trying to implement a search engine for their products.A. RedisB. AerospikeC. SolrD. Vertica",
+      "definition": "C. Solr"
+    },
+    {
+      "term": "Which of the following data types are supported by Redis? (select all that apply)A. StringsB. ListsC. ImagesD. HashesE. Sorted SetsF. Streaming Video",
+      "definition": "A. Strings B. Lists D. Hashes E. Sorted Sets"
+    },
+    {
+      "term": "What does it mean for a query language to be declarative?A. The language specifies both the process of how to obtain the data and specifies what data to obtain.B. The language specifies what data to obtain.C. The language specifies the process of how to obtain the data.D. A language specific declaration of data types in order to define the method of data retrieval.",
+      "definition": "B. The language specifies what data to obtain."
+    },
+    {
+      "term": "Use the following table named \"user_table\" to answer the next 2 problems.userIdusernameemail1adminadmin@corporate.moe2h4xor1337@rawr.cteHow would you go about querying the entire username column (however many)? A. SELECT username FROM user_tableB. SELECT user_table FROM usernameC. SELECT username FROM user_table WHERE userId=1D. SELECT username FROM userId WHERE *",
+      "definition": "A. SELECT username FROM user_table"
+    },
+    {
+      "term": "How would you go about querying the entire database table (please refer to question 2's table)?A. SELECT username, email FROM userIdB. SELECT * FROM user_tableC. SELECT user_table FROM *D. SELECT  FROM  WHERE user_table",
+      "definition": "B. SELECT * FROM user_table"
+    },
+    {
+      "term": "What is the global indexing table?A. A global table that uses a specific technique called indexing and the table uses an index as the primary key.B. An index table in order to keep track of data records within one machine.C. An index table in order to keep track of a given data type that might exist within multiple machines.D. An index table in order to keep track of a given data type that might exist within one machine.",
+      "definition": "C. An index table in order to keep track of a given data type that might exist within multiple machines."
+    },
+    {
+      "term": "What are the three computing steps of a semi-join?A. Project, Ship, ReduceB. Project, Decompose, SendC. Index, Join, DisplayD. Query, Join, DisplayE. None Applicable",
+      "definition": "A. Project, Ship, Reduce"
+    },
+    {
+      "term": "What is the purpose of a semi-join?A. Increase the efficiency of sending data across multiple machines.B. Another name for join: an operation to combine two tables by column.C. Increase the speed of the join for trade-off of increased data transmission cost.",
+      "definition": "A. Increase the efficiency of sending data across multiple machines."
+    },
+    {
+      "term": "What is a subquery?A. A query statement within another query.B. A short query than normal.C. An alternative query that acts as a substitute for another query.",
+      "definition": "A. A query statement within another query."
+    },
+    {
+      "term": "What is a correlated subquery?A. A type of query that contains a relationship between a variable attribute x and a variable attribute y. The two variables have a dependent relationship causing a correlation.B. A type of query that contains a subquery that requires information from a query one level up.C. A type of query that requires two tables in order to calculate values.",
+      "definition": "B. A type of query that contains a subquery that requires information from a query one level up."
+    },
+    {
+      "term": "What is the purpose of GROUP BY queries?A. Enables calculations based on specific columns of the table.B. Required before you can use functions like AVG, SUM, MIN, MAX, COUNT.C. Enables queries within queries.",
+      "definition": "A. Enables calculations based on specific columns of the table."
+    },
+    {
+      "term": "Consider the following generic statement for questions 10-12:db.<collection>.find(<query filter>, <projection>).<cursor modifier> Which part of the statement would reflect that of the FROM statement in SQL as illustrated in the lecture? A. <query filter>B. <projection>C. <cursor modifier>D. <collection>",
+      "definition": "D. <collection>"
+    },
+    {
+      "term": "Which part of the statement would reflect that of the SELECT statement in SQL as illustrated in the lecture?A. <collection>B. <query filter>C. <cursor modifier>D. <projection>",
+      "definition": "D. <projection>"
+    },
+    {
+      "term": "Which part of the statement would reflect that of the WHERE statement in SQL as illustrated in the lecture?A. <projection>B. <query filter>C. <cursor modifier>D. <collection>",
+      "definition": "B. <query filter>"
+    },
+    {
+      "term": "A sample part of the data structure is as follows:{ _id:1, userIndex: 10, email: \"arealeamil@notreallu.asd\", retainRate:2}What would be the most likely statement that we would need to grab email info for user indexes greater than 24?A. db.userIndex.find({email:{$lte:24}}, {_id:0})B. db.userIndex.find({email:{$gt:24}}, {_id:0})C. db.email.find({userIndex:{$gt:24}}, {email:1, _id:0})D. db.email.find({userIndex:{$lte:24}}, {email:1, _id:0})",
+      "definition": "C. db.email.find({userIndex:{$gt:24}}, {email:1, _id:0})"
+    },
+    {
+      "term": "What does it mean to have a _id:0 within our query statement?A. Grab as many objects as possible.B. Grab the first object in the results.C. Does not have an effect, simple convention left for compatibility issues.D. Tell MongoDB not to return a document id.",
+      "definition": "D. Tell MongoDB not to return a document id."
+    },
+    {
+      "term": "This quiz encompasses data and content from Week 1 and 2, so we recommend reviewing that material from last week for this quiz as well. What is the highest level that the team has reached in gameclicks? (Hint: use the MAX operation in postgres).A. 9B. 10C. 8D. 7E. 6",
+      "definition": "C. 8"
+    },
+    {
+      "term": "What does the following line of code do in postgres?SELECT count(userid) FROM (SELECT buyclicks.userId, teamLevel, price FROM buyclicks JOIN gameclicks on buyclicks.userId = gameclicks.userId) temp WHERE price=3 and teamLevel=5;A. Finds the total number of user ids (repeats allowed) in buy-clicks that have bought items with prices worth $3 and was in a team with level 5 at some point in time.B. Displays the users who have bought items worth $3 and have had a team with level 5.C. This is an invalid line of code, the subquery is not formatted properly.D. Counts the users who exists between both gameclicks and buyclicks files.",
+      "definition": "A. Finds the total number of user ids (repeats allowed) in buy-clicks that have bought items with prices worth $3 and was in a team with level 5 at some point in time."
+    },
+    {
+      "term": "In the MongoDB data set, what is the username of the twitter account who has a tweet_followers_count of exactly 8973882?A. FIFAcomB. SasSpearC. AutocenteritD. CreateImga",
+      "definition": "A. FIFAcom"
+    },
+    {
+      "term": "What is the main problem with big data information integration?A. Mediated SchemaB. Pay-as-you-go modelC. Probabilistic Schema MappingD. Many sources",
+      "definition": "D. Many sources"
+    },
+    {
+      "term": "What would be the two possible solutions associated with \"big data\" information integration as mentioned in lecture? (Choose 2)A. Probabilistic Schema MappingB. Customer TransactionsC. Pay-as-you-go ModelD. Attribute GroupingE. Mediated Schema",
+      "definition": "A. Probabilistic Schema Mapping C. Pay-as-you-go Model"
+    },
+    {
+      "term": "What are mediated schemas?A. Schemas created from customer info.B. Schemas created entirely from attribute grouping.C. Schema created from integrating two or more schemas.D. A type of probabilistic schema mapping.",
+      "definition": "C. Schema created from integrating two or more schemas."
+    },
+    {
+      "term": "In attribute grouping, how would one evaluate if two attributes should go together? (Choose 2)A. Similarity of AttributesB. Customer InteractionC. Probability of Two Attributes Co-occurringD. Integrated ViewsE. Candidate Designs",
+      "definition": "A. Similarity of Attributes C. Probability of Two Attributes Co-occurring"
+    },
+    {
+      "term": "What is a data item?A. The real worth of a data value.B. Data found in a mediated schema.C. Data that represents an aspect of a real-world entity.D. Data found in a customer transaction.",
+      "definition": "C. Data that represents an aspect of a real-world entity."
+    },
+    {
+      "term": "What is data fusion?A. Another term for customer analytics.B. Extracting true sources from a data source.C. Extracting a global value from a data source.D. Extracting the true value of a data item.",
+      "definition": "D. Extracting the true value of a data item."
+    },
+    {
+      "term": "What is a potential problem of having too many data sources as mentioned in lecture?A. None, the problem is not a problem when using big data methodologies.B. Too many data values.C. Too much data processing required for compression.D. Schema mapping becomes impossible.",
+      "definition": "B. Too many data values."
+    },
+    {
+      "term": "What do we mean when we say \"the true value of a data item\"?A. Extrapolated data from a data item that represents the worth of that item.B. Another term for data fusion.C. Data created from statistical estimations.",
+      "definition": "A. Extrapolated data from a data item that represents the worth of that item."
+    },
+    {
+      "term": "What is a potential method to deal with too many data sources as mentioned in lecture?A. Compare and weigh each source by their trustworthiness.B. None, the more the better.C. Randomly select a sample of sources to represent the various data sources.D. Take less samples per tick.",
+      "definition": "A. Compare and weigh each source by their trustworthiness."
+    },
+    {
+      "term": "Which of the queries below will return the average population of the counties in Georgia (be careful not to include the population of the state of Georgia itself)?A. source=\"census.csv\" CTYNAME != \"Georgia\" STNAME=\"Georgia\" | stats mean(CENSUS2010POP)B. source=\"census.csv\" STNAME=\"Georgia\" | stats mean(CENSUS2010POP)C. source=\"census.csv\" CTYNAME != \"Georgia\" STNAME=\"Georgia\" | stats sum(CENSUS2010POP)D. None of the above",
+      "definition": "A. source=\"census.csv\" CTYNAME != \"Georgia\" STNAME=\"Georgia\" | stats mean(CENSUS2010POP)"
+    },
+    {
+      "term": "Of the options below, which query allows you to find the state with the most counties?A. source=\"census.csv\" | stats count by CTYNAME | sort num(count)B. stats count by STNAME | sort -countC. source=\"census.csv\" | stats count by STNAME | sort count descD. source=\"census.csv\" | stats count by CENSUS2010POP | sort count",
+      "definition": "C. source=\"census.csv\" | stats count by STNAME | sort count desc"
+    },
+    {
+      "term": "What is data-parallelism as defined in lecture?A. Running the same function simultaneously for the partitions of a data set on multiple cores.B. At each step of the data pipeline, process values simultaneously by using multiple cores.C. Having multiple multiple data pipelines at the same time.D. Simultaneously processing input data from multiple cores.",
+      "definition": "A. Running the same function simultaneously for the partitions of a data set on multiple cores."
+    },
+    {
+      "term": "Of the following, which procedure best generalizes big data procedures such as (but not limited to) the map reduce process?A. split->do->mergeB. split->map->shuffle and sort->reduceC. split->sort->mergeD. split ->shuffle and sort->map->reduce",
+      "definition": "A. split->do->merge"
+    },
+    {
+      "term": "What are the three layers for the Hadoop Ecosystem? (Choose 3)A. Data Creation and StorageB. Data Management and StorageC. Data Integration and ProcessingD. Coordination and Workflow ManagementE. Data Manipulation and Integration",
+      "definition": "B. Data Management and Storage C. Data Integration and Processing D. Coordination and Workflow Management"
+    },
+    {
+      "term": "What are the 5 key points in order to categorize big data systems?A. Coordination, Latency, Productivity, Flexibility, Fault ToleranceB. Coordination, Latency, Productivity, Speed, Fault ToleranceC. Execution model, Speed, Scalability, Flexibility, Fault ToleranceD. Execution model, Latency, Scalability, Programming Language, Fault Tolerance",
+      "definition": "D. Execution model, Latency, Scalability, Programming Language, Fault Tolerance"
+    },
+    {
+      "term": "What is the lambda architecture as shown in lecture?A. An architecture that natively supports lambda calculus.B. A type of hybrid data processing architecture.C. A type of swappable data processing layer.D. A type of architecture that only contains part of the data processing method.",
+      "definition": "B. A type of hybrid data processing architecture."
+    },
+    {
+      "term": "Which of the following scenarios is NOT an aggregation operation?A. Averaging the total number of data per type.B. Removing undefined values.C. Counting the total number of data per type.D. Counting the total number of data.",
+      "definition": "B. Removing undefined values."
+    },
+    {
+      "term": "What usually happens to data when aggregated as mentioned in lecture?A. Data becomes personalized.B. Data becomes faster to process.C. Data become organized.D. Data becomes smaller.",
+      "definition": "D. Data becomes smaller."
+    },
+    {
+      "term": "What is K-means clustering?A. Classify data by k decisions.B. Divide samples using k lines.C. Classify data by k actions.D. Group samples into k clusters.",
+      "definition": "D. Group samples into k clusters."
+    },
+    {
+      "term": "Why is Hadoop not a good platform for machine learning as mentioned in lecture? (Choose 4)A. Bottleneck using HDFS.B. Java support only.C. Too massive.D. Map and Reduce Based Computation.E. No interactive shell and streaming.F. Requires nodes and multiple machines.G. Unable to support machine learning.",
+      "definition": "A. Bottleneck using HDFS. B. Java support only. D. Map and Reduce Based Computation. E. No interactive shell and streaming."
+    },
+    {
+      "term": "What are the layers (parts) of Spark? (Choose 5)A. Spark RDDB. Spark CoreC. Worker NodeD. MLlibE. Spark GraphF. GraphxG. Spark StreamingH. SparkSQL",
+      "definition": "B. Spark Core D. MLlib F. Graphx G. Spark Streaming H. SparkSQL"
+    },
+    {
+      "term": "What is in-memory processing?A. Having the pipeline completely in memory.B. Having the input completely in memory.C. Writing data to disk between pipeline steps.D. Writing data to memory between pipeline steps.E. Having the input completely in disk.F. Having the pipeline completely in disk.",
+      "definition": "D. Writing data to memory between pipeline steps."
+    },
+    {
+      "term": "What does the following line of code do?words = lines.flatMap(lambda line: line.split(\" \"))A. Each line in the document is split up into words.B. Each word is merged into lines to be counted later.C. Each word in each line is counted.D. Each line in the document is split into various Spark partitions.",
+      "definition": "A. Each line in the document is split up into words."
+    },
+    {
+      "term": "What does the following line of code imply about the state of partitions before the action is performed?words = lines.flatMap(lambda line: line.split(\" \"))A. There is only one single partition containing the full document.B. Each Spark partition corresponds to a line in the document.C. Each Spark partition corresponds to a word in the document.",
+      "definition": "B. Each Spark partition corresponds to a line in the document."
+    },
+    {
+      "term": "When the following command is executed, where is the file written and how can it be accessed?counts.coalesce(1).saveAsTextFile('hdfs:/user/cloudera/wordcount/outputDir')A. The local file system and through the directory with the \"cd\" terminal command.B. HDFS and through the system directory with the \"cd\" terminal command.C. The local file system and through the \"hadoop fs\" command.D. HDFS and through the \"hadoop fs\" command.",
+      "definition": "D. HDFS and through the \"hadoop fs\" command."
+    },
+    {
+      "term": "What does the number one (1) allow us to do in the following line of code?tuples = words.map(lambda word: (word,1))A. The number represents the number of partitions in charge of keeping track of each word.B. None, completely arbitrary in order to apply an algorithm that requires a tuple.C. Treat each word with a weight of one during the counting process.D. The number represents the number of partitions in charge of counting each line.",
+      "definition": "C. Treat each word with a weight of one during the counting process."
+    },
+    {
+      "term": "Which part of SPARK is in charge of creating RDDs?A. Spark ExecutorB. Local CPUC. Worker NodeD. Driver ProgramE. Storage",
+      "definition": "D. Driver Program"
+    },
+    {
+      "term": "How does lazy evaluation work in Spark?A. Transformations are not executed until the action stage.B. Transformations are queued and executed at a certain threshold.C. Actions are queued and executed at a certain threshold.D. Actions are not executed until the transformation stage.",
+      "definition": "A. Transformations are not executed until the action stage."
+    },
+    {
+      "term": "What are the consequences of lazy evaluation as mentioned in lecture?A. Errors sometimes do not show up until the action stage.B. Hiccups within the system during queue execution.C. There are no consequences.",
+      "definition": "A. Errors sometimes do not show up until the action stage."
+    },
+    {
+      "term": "What is a wide transformation?A. Transformations that take a lot of nodes to complete.B. A transformation that requires data shuffling across node partitions.C. A longer time-taking transformation compared to narrow transformations.D. The name for the most used transformations.",
+      "definition": "B. A transformation that requires data shuffling across node partitions."
+    },
+    {
+      "term": "Where does the data for each worker node get sent to after a collect function is called?A. Other Worker NodesB. None; Stays in the Same NodeC. Spark SQLD. Spark StreamingE. Spark Context",
+      "definition": "E. Spark Context"
+    },
+    {
+      "term": "What are DataFrames?A. A special type of data node that contains framework to manipulate SQL.B. A column like data format that can be read by Spark SQL.C. A type of narrow transformation.",
+      "definition": "B. A column like data format that can be read by Spark SQL."
+    },
+    {
+      "term": "Can RDD's be converted into DataFrames directly without manipulation?A. No: lines have to be converted into row.B. YesC. No: RDD's needed to be made relational first.D. No: RDD's cannot be converted into DataFrames.",
+      "definition": "A. No: lines have to be converted into row."
+    },
+    {
+      "term": "What is the function of Spark SQL as mentioned in lecture? (Choose 3)A. Better worker node interpolation.B. Deploy business intelligence tools over Spark.C. Efficient data manipulation using SQL like structure.D. Better ability to manipulate big data.E. Connect to variety of databases.F. Enables relational queries on Spark.",
+      "definition": "B. Deploy business intelligence tools over Spark. E. Connect to variety of databases. F. Enables relational queries on Spark."
+    },
+    {
+      "term": "What is a triplet in GraphX?A. A type of data to contain the information on connections between vertices and edges.B. A type of data to contain vertex info.C. A type of data to contain edge info.D. A type of data to contain both edge and vertex info.",
+      "definition": "A. A type of data to contain the information on connections between vertices and edges."
+    },
+    {
+      "term": "What does the following filter line of code do?df.filter(df[\"teamlevel\"] > 1)A. Select the first two columns of the data and displays only team levels greater than 1.B. Filter each row to show only team levels larger than 1.C. Filter each column to show only team levels larger than 1.D. Select the first two columns of the data and filter each column to show only team levels larger than 1.",
+      "definition": "B. Filter each row to show only team levels larger than 1."
+    },
+    {
+      "term": "What does the following do?df.select(\"userid\", \"teamlevel\").show(5)A. Select the columns named \"userid\" and \"teamlevel\" and display first 5 rows.B. Display all columns except \"userid\" and \"teamlevel\".C. Select the rows named \"userid\" and \"teamlevel\" and display first 5 rows.D. Display all rows except \"userid\" and \"teamlevel\".",
+      "definition": "A. Select the columns named \"userid\" and \"teamlevel\" and display first 5 rows."
+    },
+    {
+      "term": "What does the 1 represent in the following line of code?ssc = StreamingContext(sc,1)A. To specific debug output.B. A batch interval of 1 second.C. To create only one partition to manage the stream.D. To create one single context.",
+      "definition": "B. A batch interval of 1 second."
+    },
+    {
+      "term": "What does the following code do?window = vals.window(10, 5)A. Creates a window that combines 10 seconds worth of data and moves by 5 seconds.B. Creates 10 windows with 5 seconds worth of data in them.C. Creates a batch interval between 10 seconds and 5 seconds.D. Creates 10 windows with 5 batch intervals inbetween.",
+      "definition": "A. Creates a window that combines 10 seconds worth of data and moves by 5 seconds."
+    },
+    {
+      "term": "What is NOT machine learning?A. Learning from dataB. Data-driven decisionsC. Discover hidden patternsD. Explicit, step-by-step programming",
+      "definition": "D. Explicit, step-by-step programming"
+    },
+    {
+      "term": "Which of the following is NOT a category of machine learning?A. Cluster AnalysisB. RegressionC. ClassificationD. Algorithm PredictionE. Association Analysis",
+      "definition": "D. Algorithm Prediction"
+    },
+    {
+      "term": "Which categories of machine learning techniques are supervised?A. cluster analysis and association analysisB. classification and regressionC. classification and cluster analysisD. regression and association analysis",
+      "definition": "B. classification and regression"
+    },
+    {
+      "term": "In unsupervised approaches,A. the target is unlabeled.B. the target is provided.C. the target is unknown or unavailable.D. the target is what is being predicted.",
+      "definition": "C. the target is unknown or unavailable."
+    },
+    {
+      "term": "What is the sequence of the steps in the machine learning process?A. Acquire -> Prepare -> Analyze -> Report -> ActB. Prepare -> Acquire -> Analyze -> Report -> ActC. Acquire -> Prepare -> Analyze -> Act -> ReportD. Prepare -> Acquire -> Analyze -> Act -> Report",
+      "definition": "A. Acquire -> Prepare -> Analyze -> Report -> Act"
+    },
+    {
+      "term": "Are the steps in the machine learning process apply-once or iterative?A. IterativeB. The first two steps, Acquire and Prepare, are apply-once, and the other steps are iterative.C. Apply-once",
+      "definition": "A. Iterative"
+    },
+    {
+      "term": "Phase 2 of CRISP-DM is Data Understanding. In this phase,A. we define the problem or opportunity to be addressed.B. we prepare the data for analysis.C. we acquire as well as explore the data that is related to the problem.",
+      "definition": "C. we acquire as well as explore the data that is related to the problem."
+    },
+    {
+      "term": "What is the main difference between KNIME and Spark MLlib?A. KNIME requires programming, while Spark MLlib does not.B. KNIME requires programming in Java, while Spark MLlib requires programming in Python.C. KNIME originated in Germany, while Spark MLlib was created in California, USA.D. KNIME is a graphical user interface-based machine learning tool, while Spark MLlib provides a programming-based distributed platform for scalable machine learning algorithms.",
+      "definition": "D. KNIME is a graphical user interface-based machine learning tool, while Spark MLlib provides a programming-based distributed platform for scalable machine learning algorithms."
+    },
+    {
+      "term": "Which of these statements is true about samples and variables?A. A variable describes a specific characteristic of an entity in your data.B. All of these statements are true.C. A sample can have many variables to describe it.D. A sample is an instance or example of an entity in your data.",
+      "definition": "B. All of these statements are true."
+    },
+    {
+      "term": "Other names for 'variable' areA. sample, row, observationB. numerical, quantitativeC. feature, column, attributeD. categorical, nominal",
+      "definition": "C. feature, column, attribute"
+    },
+    {
+      "term": "What is the purpose of exploring data?A. To digitize your data.B. To generate labels for your data.C. To gather your data into one repository.D. To gain a better understanding of your data.",
+      "definition": "D. To gain a better understanding of your data."
+    },
+    {
+      "term": "What are the two main categories of techniques for exploring data? Choose two.A. CorrelationsB. OutliersC. VisualizationD. HistogramE. Summary statisticsF. Trends",
+      "definition": "C. Visualization E. Summary statistics"
+    },
+    {
+      "term": "Which of the following are NOT examples of summary statistics?A. skewness, kurtosisB. mean, median, modeC. data sources, data locationsD. standard deviation, range, variation",
+      "definition": "C. data sources, data locations"
+    },
+    {
+      "term": "What are the two measures for measuring shape as mentioned in the lecture? Choose two.A. SkewnessB. ModeC. KurtosisD. RangeE. Contingency Table",
+      "definition": "A. Skewness C. Kurtosis"
+    },
+    {
+      "term": "Which of the following would NOT be a good reason to use a box plot?A. To show correlations between two variables.B. To show and compare distribution valuesC. To show data distribution shapes such as asymmetry and skewness.",
+      "definition": "A. To show correlations between two variables."
+    },
+    {
+      "term": "All of the following are true about data visualization EXCEPTA. Should be used with summary statistics for data exploration.B. Is more important than summary statistics for data explorationC. Provides an intuitive way to look at data.D. Is useful for communicating results.",
+      "definition": "B. Is more important than summary statistics for data exploration"
+    },
+    {
+      "term": "Which of the following is NOT a data quality issue?A. Scaled dataB. Missing valuesC. Inconsistent dataD. Duplicate data",
+      "definition": "A. Scaled data"
+    },
+    {
+      "term": "Imputing missing data means toA. drop samples with missing values.B. replace missing values with outliers.C. merge samples with missing values.D. replace missing values with something reasonable.",
+      "definition": "D. replace missing values with something reasonable."
+    },
+    {
+      "term": "A data sample with values that are considerably different than the rest of the other data samples in the dataset is called an/a _____________.A. NoiseB. Inconsistent dataC. OutlierD. Invalid data",
+      "definition": "C. Outlier"
+    },
+    {
+      "term": "Which one of the following examples illustrates the use of domain knowledge to address a data quality issue?A. Drop samples with missing valuesB. None of theseC. Merge duplicate records while retaining relevant dataD. Simply discard the samples that lie significantly outside the distribution of your data",
+      "definition": "C. Merge duplicate records while retaining relevant data"
+    },
+    {
+      "term": "Which of the following is NOT an example of feature selection?A. Re-formatting an address field into separate street address, city, state, and zip code fields.B. Replacing a missing value with the variable mean.C. Adding an in-state feature based on an applicant's home state.D. Removing a feature with a lot of missing values.",
+      "definition": "B. Replacing a missing value with the variable mean."
+    },
+    {
+      "term": "Which one of the following is the best feature set for your analysis?A. Feature set with the smallest number of featuresB. Feature set that contains exclusively re-coded featuresC. Feature set with the largest number of featuresD. Feature set with the smallest set of features that best capture the characteristics of the data for the intended application",
+      "definition": "D. Feature set with the smallest set of features that best capture the characteristics of the data for the intended application"
+    },
+    {
+      "term": "The mean value and the standard deviation of a zero-normalized feature areA. mean = 1 and standard deviation = 1B. mean = 1 and standard deviation = 0C. mean = 0 and standard deviation = 1D. mean = 0 and standard deviation = 0",
+      "definition": "C. mean = 0 and standard deviation = 1"
+    },
+    {
+      "term": "Which of the following is NOT true about PCA?A. PCA is a dimensionality reduction technique that removes a feature that is very correlated with another feature.B. PCA stands for principal component analysisC. PC1, the first principal component , captures the largest amount of variance in the data along a single dimension.D. PC1 and PC2, the first and second principal components, respectively, are always orthogonal to each other.",
+      "definition": "A. PCA is a dimensionality reduction technique that removes a feature that is very correlated with another feature."
+    },
+    {
+      "term": "When we remove all the missing values from the dataset, the number of rows is 1064, yet the variable with most missing values has 1089 rows. Why did the number of rows decrease so much?A. Because the missing values in each column are not necessarily in the same rowB. Because rows with missing values as well as rows with 0s are removedC. Because rows with missing values as well as rows with duplicate values are removed",
+      "definition": "A. Because the missing values in each column are not necessarily in the same row"
+    },
+    {
+      "term": "Which of the following is a TRUE statement about classification?A. In a classification problem, the target variable has only two possible outcomes.B. Classification is an unsupervised task.C. Classification is a supervised task.",
+      "definition": "C. Classification is a supervised task."
+    },
+    {
+      "term": "In which phase are model parameters adjusted?A. Training phaseB. Testing phaseC. Data preparation phaseD. Model parameters are constant throughout the modeling process.",
+      "definition": "A. Training phase"
+    },
+    {
+      "term": "Which classification algorithm uses a probabilistic approach?A. k-nearest-neighborsB. decision treeC. naive bayesD. none of the above",
+      "definition": "C. naive bayes"
+    },
+    {
+      "term": "What does the 'k' stand for in k-nearest-neighbors?A. the number of nearest neighbors to consider in classifying a sampleB. the number of training datasetsC. the distance between neighbors: All neighboring samples that are 'k' distance apart from the sample are considered in classifying that sample.D. the number of samples in the dataset",
+      "definition": "A. the number of nearest neighbors to consider in classifying a sample"
+    },
+    {
+      "term": "During construction of a decision tree, there are several criteria that can be used to determine when a node should no longer be split into subsets. Which one of the following is NOT applicable?A. All (or X% of) samples have the same class label.B. The tree depth reaches a maximum threshold.C. The number of samples in the node reaches a minimum threshold.D. The value of the Gini index reaches a maximum threshold.",
+      "definition": "D. The value of the Gini index reaches a maximum threshold."
+    },
+    {
+      "term": "Which statement is true of tree induction?A. An impurity measure is used to determine the best split for a node.B. You want to split the data in a node into subsets that are as homogeneous as possibleC. For each node, splits on all variables are tested to determine the best split for the node.D. All of these statements are true of tree induction.",
+      "definition": "D. All of these statements are true of tree induction."
+    },
+    {
+      "term": "What does 'naive' mean in Naive Bayes?A. The model assumes that the input features are statistically independent of one another. The 'naïve' in the name of classifier comes from this naïve assumption.B. The full Bayes' Theorem is not used. The 'naive' in naive bayes specifies that a simplified version of Bayes' Theorem is used.C. The Bayes' Theorem makes estimating the probabilities easier. The 'naïve' in the name of classifier comes from this ease of probability calculation.",
+      "definition": "A. The model assumes that the input features are statistically independent of one another. The 'naïve' in the name of classifier comes from this naïve assumption."
+    },
+    {
+      "term": "The feature independence assumption in Naive Bayes simplifies the classification problem byA. assuming that the prior probabilities of all classes are independent of one another.B. assuming that classes are independent of the input features.C. ignoring the prior probabilities altogether.D. allowing the probability of each feature given the class to be estimated individually.",
+      "definition": "D. allowing the probability of each feature given the class to be estimated individually."
+    },
+    {
+      "term": "KNIME: Considering the Numeric Binner node again, what would happen if the \"Append new column\" box is not checked?A. The relative_humidity_3pm variable will become a categorical variableB. The relaltive_humidity_3pm variable will remain unchanged, and a new unnamed categorical variable will be createdC. The relative_humidity_3pm variable will become undefined, and an error will occur",
+      "definition": "A. The relative_humidity_3pm variable will become a categorical variable"
+    },
+    {
+      "term": "KNIME: How many samples had a missing value for air_temp_9am before missing values were addressed?A. 5B. 3C. 0",
+      "definition": "A. 5"
+    },
+    {
+      "term": "KNIME: How many samples were placed in the test set after the dataset was partitioned into training and test sets?A. 213B. 851C. 20",
+      "definition": "A. 213"
+    },
+    {
+      "term": "KNIME: What are the target and predicted class labels for the first sample in the test set?A. Both are humidity_not_lowB. Target class label is humidity_not_low, and predicted class label is humidity_lowC. Target class label is humidity_low, and predicted class label is humidity_not_low",
+      "definition": "A. Both are humidity_not_low"
+    },
+    {
+      "term": "Spark: What values are in the number column?A. Integer values starting at 0B. Time and date valuesC. Random integer values",
+      "definition": "A. Integer values starting at 0"
+    },
+    {
+      "term": "Spark: With the original dataset split into 80% for training and 20% for test, how many of the first 20 samples from the test set were correctly classified?A. 19B. 10C. 1",
+      "definition": "A. 19"
+    },
+    {
+      "term": "Spark: If we split the data using 70% for training data and 30% for test data, how many samples would the training set have (using seed 13234)?A. 730B. 334C. 70",
+      "definition": "A. 730 | 731"
+    },
+    {
+      "term": "A model that generalizes well means thatA. The model performs well on data used to adjust its parameters.B. The model is overfitting.C. The model does a good job of fitting to the noise in the data.D. The model performs well on data not used in training.",
+      "definition": "D. The model performs well on data not used in training."
+    },
+    {
+      "term": "What indicates that the model is overfitting?A. Low training error and high generalization errorB. Low training error and low generalization errorC. High training error and high generalization errorD. High training error and low generalization error",
+      "definition": "A. Low training error and high generalization error"
+    },
+    {
+      "term": "Which method is used to avoid overfitting in decision trees?A. Pre-pruning and post-pruningB. None of theseC. Pre-pruningD. Post-pruning",
+      "definition": "A. Pre-pruning and post-pruning"
+    },
+    {
+      "term": "Which of the following best describes a way to create and use a validation set to avoid overfitting?A. random sub-samplingB. All of theseC. k-fold cross-validationD. leave-one-out cross-validation",
+      "definition": "B. All of these"
+    },
+    {
+      "term": "Which of the following statements is NOT correct?A. The training set is used to adjust the parameters of the model.B. The test set is used for model selection to avoid overfitting.C. The validation set is used to determine when to stop training the model.D. The test set is used to evaluate model performance on new data.",
+      "definition": "B. The test set is used for model selection to avoid overfitting."
+    },
+    {
+      "term": "How is the accuracy rate calculated?A. Add the number of true positives and the number of false negatives.B. Divide the number of true positives by the number of true negatives.C. Subtract the number of correct predictions from the total number of predictions.D. Divide the number of correct predictions by the total number of predictions",
+      "definition": "D. Divide the number of correct predictions by the total number of predictions"
+    },
+    {
+      "term": "Which evaluation metrics are commonly used for evaluating the performance of a classification model when there is a class imbalance problem?A. precision and errorB. accuracy and errorC. precision and recallD. precision and accuracy",
+      "definition": "C. precision and recall"
+    },
+    {
+      "term": "How do you determine the classifier accuracy from the confusion matrix?A. Divide the sum of the off-diagonal values in the confusion matrix by the total number of samples.B. Divide the sum of the diagonal values in the confusion matrix by the total number of samples.C. Divide the sum of the diagonal values in the confusion matrix by the sum of the off-diagonal values.D. Divide the sum of all the values in the confusion matrix by the total number of samples.",
+      "definition": "B. Divide the sum of the diagonal values in the confusion matrix by the total number of samples."
+    },
+    {
+      "term": "KNIME: In the confusion matrix as viewed in the Scorer node, low_humidity_day is:A. the target class labelB. the predicted class labelC. the only input variable that is categorical",
+      "definition": "A. the target class label"
+    },
+    {
+      "term": "KNIME: In the confusion matrix, what is the difference between low_humidity_day and Prediction(low_humidity_day)?A. low_humidity_day is the target class label, and Prediction(low_humidity_day) is the predicted class labelB. low_humidity_day is the predicted class label, and Prediction(low_humidity_day) is the target class labelC. There is no difference. The two are the same",
+      "definition": "A. low_humidity_day is the target class label, and Prediction(low_humidity_day) is the predicted class label"
+    },
+    {
+      "term": "KNIME: In the Table View of the Interactive Table, each row is color-coded. Blue specifies:A. that the target class label for the sample is humidity_not_lowB. that the target class label for the sample is humidity_lowC. that the predicted class label for the sample is humidity_not_lowD. that the predicted class label for the sample is humidity_low",
+      "definition": "A. that the target class label for the sample is humidity_not_low"
+    },
+    {
+      "term": "KNIME: To change the colors used to color-code each sample in the Table View of the Interactive Table node:A. change the color settings in the Color Manager nodeB. change the color settings in the Interactive Table dialogC. It is not possible to change these colors",
+      "definition": "A. change the color settings in the Color Manager node"
+    },
+    {
+      "term": "KNIME: In the Table View of the Interactive Table, the values in RowID are not consecutive because:A. the RowID values are from the original dataset, and only the test samples are displayed hereB. the samples are randomly ordered in the tableC. only a few samples from the test set are randomly selected and displayed here",
+      "definition": "A. the RowID values are from the original dataset, and only the test samples are displayed here"
+    },
+    {
+      "term": "Spark: To get the error rate for the decision tree model, use the following code:A. print (\"Error = %g \" % (1.0 - accuracy))B. evaluator = MuticlassClassificationEvaluator( labelCol=\"label\", predictionCol=\"prediction\", metricName=\"error\")C. error = evaluator.evaluate(1 - predictions)",
+      "definition": "A. print (\"Error = %g \" % (1.0 - accuracy))"
+    },
+    {
+      "term": "Spark: To get the error rate for the decision tree model, use the following code:A. print (\"Error = %g \" % (1.0 - accuracy))B. evaluator = MuticlassClassificationEvaluator( labelCol=\"label\", predictionCol=\"prediction\", metricName=\"error\")C. error = evaluator.evaluate(1 - predictions)",
+      "definition": "1print(\"Error=%g\"%(1.0-accuracy))Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_22:focus .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_22:focus .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_22:focus .monaco-list-row.selected { background-color: #0069d1; } .monaco-list.list_id_22:focus .monaco-list-row.selected:hover { background-color: #0069d1; } .monaco-list.list_id_22:focus .monaco-list-row.selected { color: #ffffff; } .monaco-drag-image, .monaco-list.list_id_22:focus .monaco-list-row.selected.focused { background-color: #0074e8; } .monaco-drag-image, .monaco-list.list_id_22:focus .monaco-list-row.selected.focused { color: #ffffff; } .monaco-list.list_id_22 .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_22 .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_22 .monaco-list-row.selected { background-color: #e4e6f1; } .monaco-list.list_id_22 .monaco-list-row.selected:hover { background-color: #e4e6f1; } .monaco-list.list_id_22:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color: #f0f0f0; } .monaco-list.list_id_22.drop-target, .monaco-list.list_id_22 .monaco-list-rows.drop-target, .monaco-list.list_id_22 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; } .monaco-list-type-filter { background-color: #efc1ad } .monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); } .monaco-list-type-filter.no-matches { border: 1px solid #be1100; } .monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M."
+    },
+    {
+      "term": "Spark: To print out the accuracy as a percentage, use the following code:A. print (\"Accuracy = %.2g\" % (accuracy * 100))B. print (\"Accuracy = %100g\" % (accuracy))C. print (\"Accuracy = %100.2g\" % (accuracy))",
+      "definition": "A. print (\"Accuracy = %.2g\" % (accuracy * 100))"
+    },
+    {
+      "term": "What is the main difference between classification and regression?A. In classification, you're predicting a categorical variable, and in regression, you're predicting a nominal variable.B. In classification, you're predicting a number, and in regression, you're predicting a category.C. In classification, you're predicting a category, and in regression, you're predicting a number.D. There is no difference since you're predicting a numeric value from the input variables in both tasks.",
+      "definition": "C. In classification, you're predicting a category, and in regression, you're predicting a number."
+    },
+    {
+      "term": "Which of the following is NOT an example of regression?A. Predicting the price of a stockB. Predicting the demand for a productC. Estimating the amount of rainD. Determining whether power usage will rise or fall",
+      "definition": "D. Determining whether power usage will rise or fall"
+    },
+    {
+      "term": "In linear regression, the least squares method is used toA. Determine the regression line that best fits the samples.B. Determine how to partition the data into training and test sets.C. Determine whether the target is categorical or numerical.D. Determine the distance between two pairs of samples.",
+      "definition": "A. Determine the regression line that best fits the samples."
+    },
+    {
+      "term": "How does simple linear regression differ from multiple linear regression?A. In simple linear regression, the input has only categorical variables. In multiple linear regression, the input can be a mix of categorical and numerical variables.B. In simple linear regression, the input has only one variable. In multiple linear regression, the input has more than one variables.C. In simple linear regression, the input has only categorical variables. In multiple linear regression, the input has only numerical variables.D. They are the just different terms for linear regression with one input variable.",
+      "definition": "B. In simple linear regression, the input has only one variable. In multiple linear regression, the input has more than one variables."
+    },
+    {
+      "term": "The goal of cluster analysis isA. To segment data so that differences between samples in the same cluster are minimized and differences between samples of different clusters are maximized.B. To segment data so that all categorical variables are in one cluster, and all numerical variables are in another cluster.C. To segment data so that differences between samples in the same cluster are maximized and differences between samples of different clusters are minimized.D. To segment data so that all samples are evenly divided among the clusters.",
+      "definition": "A. To segment data so that differences between samples in the same cluster are minimized and differences between samples of different clusters are maximized."
+    },
+    {
+      "term": "Cluster results can be used toA. Determine anomalous samplesB. Classify new samplesC. Create labeled samples for a classification taskD. All of these choices are valid uses of the resulting clusters.E. Segment the data into groups so that each group can be analyzed further",
+      "definition": "D. All of these choices are valid uses of the resulting clusters."
+    },
+    {
+      "term": "A cluster centroid isA. The mean of all the samples in the two closest clusters.B. The mean of all the samples in the clusterC. The mean of all the samples in all clustersD. The mean of all the samples in the two farthest clusters.",
+      "definition": "B. The mean of all the samples in the cluster"
+    },
+    {
+      "term": "The main steps in the k-means clustering algorithm areA. Calculate the distances between the cluster centroids, then find the two closest centroids.B. Assign each sample to the closest centroid, then calculate the new centroid.C. Count the number of samples, then determine the initial centroids.D. Calculate the centroids, then determine the appropriate stopping criterion depending on the number of centroids.",
+      "definition": "B. Assign each sample to the closest centroid, then calculate the new centroid."
+    },
+    {
+      "term": "The goal of association analysis isA. To find the number of outliers in the dataB. To find the most complex rules to explain associations between as many items as possible in the data.C. To find the number of clusters for cluster analysisD. To find rules to capture associations between items or events",
+      "definition": "D. To find rules to capture associations between items or events"
+    },
+    {
+      "term": "In association analysis, an item set isA. A set of items that infrequently occur togetherB. A transaction or set of items that occur togetherC. A set of items that two rules have in commonD. A set of transactions that occur a certain number of times in the data",
+      "definition": "B. A transaction or set of items that occur together"
+    },
+    {
+      "term": "The support of an item setA. Captures the correlation between the items in that item setB. Captures the frequency of that item setC. Captures how many times that item set is used in a ruleD. Captures the number of items in that item set",
+      "definition": "B. Captures the frequency of that item set"
+    },
+    {
+      "term": "Rule confidence is used toA. Measure the intuitiveness of a ruleB. Prune rules by eliminating rules with low confidenceC. Determine the rule with the most itemsD. Identify frequent item sets",
+      "definition": "B. Prune rules by eliminating rules with low confidence"
+    },
+    {
+      "term": "Why is it necessary to scale the data (Step 4)?A. Since the values of the features are on different scales, all features need to be scaled so that no one feature dominates the clustering results.B. Since the values of the features are on different scales, all features need to be scaled so that all values will be positive.C. Since the values of the features are on different scales, all features need to be scaled so that the cluster centers can be displayed on the same plot for easier analysis.",
+      "definition": "A. Since the values of the features are on different scales, all features need to be scaled so that no one feature dominates the clustering results."
+    },
+    {
+      "term": "This line of code creates a k-means model with 12 clusters:kmeans = KMeans (k=12, seed=1)What is the significance of \"seed=1\"?A. This sets the seed to a specific value, which is necessary to reproduce the k-means resultsB. This means that this is the first iteration of k-means. The seed value is incremented by 1 every time k-means is executedC. This specifies that the first cluster centroid is set to sample #1",
+      "definition": "A. This sets the seed to a specific value, which is necessary to reproduce the k-means results"
+    },
+    {
+      "term": "Which of the following are graphs? (check all that apply)A. https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/DAGEx.pngB. https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/PieChartSmaller.png",
+      "definition": "A. https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/DAGEx.png"
+    },
+    {
+      "term": "Which of the following is the correct adjacency matrix for this graph?https://blogger.googleusercontent.com/img/a/AVvXsEiUXhTJr0i7HDlgyKfwcdYWV5b5sAPXs80MBlETSkTc6EANBDCmnRb8BDVvfvJR5tguTFY5q7h8xUyVkXZ_a-1e2eDA1BYl2SGByjPQtOHrgiPpvsH84V-J7jR6mgVKa0pfOppSOjJUeZyEPGcQ6nLEEpRJ8PbVU-nW7isqOgESaoYJtI48eKBMEVrcHw=w145-h112A. https://blogger.googleusercontent.com/img/a/AVvXsEi7fi_ZD_l4zF1k7Z6I9DyOEicKbHjWDwHN2NiWrGWwzJKalbu_FP4xFRv-IpRKhayKyY7cDqKL2S0zGdR263FmDz0JQWhu53gR4X9fJ_20bChGfZZqAKmRjIGlaLhbsZOd0peNIIWuNYHupY9cf5IY0G4fFjQW0-NJVe9ygmbDvHX8D3vPFumaE1KvbA=w167-h169B. Neither option is correct.C. https://blogger.googleusercontent.com/img/a/AVvXsEih8UVbm76FFiOfBrBwg1i2-40bqQ91WtEesa2O3YwCTj5ujJhjBhU-EyDWaRCCLb55HhCfFg6AsUwmJAWNuMxCK7uCfSfPO5yXm9uiM1JB2fXPiiRQxX07vpuU3M1nkYGOsn_uq_cceRZ0fpwOcj1Nrh3IlSSZGay655xWJirJhReUYvZh9bHWkrivDw=w194-h180",
+      "definition": "C. https://blogger.googleusercontent.com/img/a/AVvXsEih8UVbm76FFiOfBrBwg1i2-40bqQ91WtEesa2O3YwCTj5ujJhjBhU-EyDWaRCCLb55HhCfFg6AsUwmJAWNuMxCK7uCfSfPO5yXm9uiM1JB2fXPiiRQxX07vpuU3M1nkYGOsn_uq_cceRZ0fpwOcj1Nrh3IlSSZGay655xWJirJhReUYvZh9bHWkrivDw=w194-h180"
+    },
+    {
+      "term": "Which of the following content would be objects (or nodes) in a graph that represents the activity in a facebook page?A. Created_post (the action of creating a post)B. comment textC. locationD. post textE. friends (the action of making someone your friend)",
+      "definition": "B. comment text C. location D. post text"
+    },
+    {
+      "term": "Based on the videos, which kinds of analysis might one be able to perform on a tweet graph?A. find interacting groups of usersB. extract conversation threadsC. find influencers in a twitter community",
+      "definition": "A. find interacting groups of users B. extract conversation threads C. find influencers in a twitter community"
+    },
+    {
+      "term": "The key reason mentioned in the video that biology applications need Big Data analytics is...A. The complexity of interactions that correlate to inform phenotypes.B. The integration of multiple data sources from different researchers and of different sources of information.C. The new use of computational techniques to explore new areas of biology research more quickly than can be done with \"live\" or wetlab experiments.",
+      "definition": "B. The integration of multiple data sources from different researchers and of different sources of information."
+    },
+    {
+      "term": "Which of the Vs BEST describes the result in constant increasing in the number of edges in a graph, sometimes causing challenges in knowing when one has found \"an answer\" to one's analysis question?A. VolumeB. VarietyC. ValenceD. Velocity",
+      "definition": "D. Velocity"
+    },
+    {
+      "term": "Which of the Vs results in increased algorithmic complexity (which can cause analyses to not be able to finish running in reasonable amounts of time)?A. VolumeB. VarietyC. ValenceD. Velocity",
+      "definition": "A. Volume"
+    },
+    {
+      "term": "Which of the Vs results in challenges due to graphs created from varying kinds, formats, sources, and meanings of data?A. ValenceB. VolumeC. VarietyD. Velocity",
+      "definition": "C. Variety"
+    },
+    {
+      "term": "Which of the Vs causes increased interconnectivity of a graph -- which can cause problems in analysis due to density?A. VarietyB. ValenceC. VolumeD. Velocity",
+      "definition": "B. Valence"
+    },
+    {
+      "term": "Updating a graph with a stream of posting information on facebook is an example of which of the Vs?A. VelocityB. VolumeC. VarietyD. Valence",
+      "definition": "A. Velocity"
+    },
+    {
+      "term": "Studying Amarnath's gmail interactions over time (as gmail started to be used by more and more people) is BEST defined as an impact of which of the Vs?A. ValenceB. VelocityC. VarietyD. Volume",
+      "definition": "A. Valence"
+    },
+    {
+      "term": "A graph representing tweets would have only \"one type\" (e.g. label) of node.A. TrueB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "In a network representing the world wide web nodes would likely represent:A. HyperlinksB. WebpagesC. Google search termsD. Individual computers",
+      "definition": "B. Webpages"
+    },
+    {
+      "term": "In a network representing the world wide web edges (or links) would likely representA. HyperlinksB. WebpagesC. Google search termsD. Individual computers",
+      "definition": "A. Hyperlinks"
+    },
+    {
+      "term": "In an email network, which might reasonably be represented by weight on edges?A. the total number of people who sent an email in a weekB. average number of emails sent from one user to another in a weekC. the total number of emails sent by one user in a week",
+      "definition": "B. average number of emails sent from one user to another in a week"
+    },
+    {
+      "term": "A loop in a graph is where:A. when there is a edge from A->B, there is also an edge from B->A.B. where there is a path in some way from a node, through 1 or more other nodes, back to the original node.C. where there is an edge from a node to itself.",
+      "definition": "C. where there is an edge from a node to itself."
+    },
+    {
+      "term": "An example of a loop in a graph could occur when:A. Someone emails themselfB. Someone emails a friend who repliesC. Someone emails a friend, who emails another friend, who then replies to you",
+      "definition": "A. Someone emails themself"
+    },
+    {
+      "term": "When trying to represent a relationship between Maria and Julio who have more than one relationship to each other (e.g., tennis partner, co-worker, emergency contact) which of the following would be needed in a graph representing those relationshipsA. Separate graphs for each kind of relationshipB. Multiple edges between Maria and JulioC. Multiple nodes for each of Maria and Julio, to capture the various relationships",
+      "definition": "B. Multiple edges between Maria and Julio"
+    },
+    {
+      "term": "In many applications paths (where we go from one node to another without repeating nodes) are more useful than walks (where we can repeat a node when going from one node to another).A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Trails (paths without repeated edges) can be interesting in which of the following problem applications?A. An email network tracing frequency of emails from one person to another.B. An email network tracing email replies.C. Routing to avoid using the same bridge or road.D. Routing to avoid visiting the same city.",
+      "definition": "C. Routing to avoid using the same bridge or road."
+    },
+    {
+      "term": "Suppose we have an email network where the edges of a graph represent the number of emails from one user to another. If I was going to ask if Maria had sent any emails that (either directly or through forwarding from others) reached Julio, I would ask if: A. Julio's node was reachable from Maria nodeB. Maria's node was reachable from Julio's node",
+      "definition": "A. Julio's node was reachable from Maria node"
+    },
+    {
+      "term": "If I want to find the diameter of a graph, I should start by finding the shortest path between each set of nodes.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "What is the diameter of this graph?A. 1B. 2C. 3",
+      "definition": "B. 2"
+    },
+    {
+      "term": "This question is about \"best paths\". To find the most discussed email in an email network, would we be looking to minimize a function or maximize a function?A. MaximizeB. Minimize",
+      "definition": "A. Maximize"
+    },
+    {
+      "term": "Which are the two kinds of constraints on paths discussed in the video on basic path analytics? (check 2) Hint: remember the example of Amarnath needing to get to work by taking his son to school.A. Exclusion of nodes and/or edgesB. Inclusion of nodes and/or edgesC. Directionality",
+      "definition": "A. Exclusion of nodes and/or edges B. Inclusion of nodes and/or edges"
+    },
+    {
+      "term": "What are examples of preference constraints in the Google Maps application?A. Avoid roads under constructionB. Avoid highwaysC. Include son's school",
+      "definition": "A. Avoid roads under construction B. Avoid highways"
+    },
+    {
+      "term": "Which of the statements below is true?A. Dijsktra's algorithm is computationally efficient (has low computational complexity).B. Dijsktra's algorithm is computationally inefficient (has high computational complexity).",
+      "definition": "B. Dijsktra's algorithm is computationally inefficient (has high computational complexity)."
+    },
+    {
+      "term": "In the video on \"Inclusion and Exclusion Constraints\" we learn that adding constraints can actually make our analysis job easier. For example, when we require that a given node be included on a path, which of the following impacts now make the analysis job easier? (Choose 2)A. Reduction of the size of the graphB. Splitting the task into 2 independent shortest path problemsC. Changing the weights on the edges of the graph and/or subgraphs",
+      "definition": "A. Reduction of the size of the graph B. Splitting the task into 2 independent shortest path problems"
+    },
+    {
+      "term": "The example given in the lectures of when a power network loses power in large portions of its service area was an example of what?A. a problem that can occur when centrality is too highB. an attack which causes disconnection of the graphC. high levels of connectivity which make it easy to bring a network down",
+      "definition": "B. an attack which causes disconnection of the graph"
+    },
+    {
+      "term": "Is the following graph strongly connected, weakly connected or neither?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/ABCD--Counter-Clockwise.pngA. strongly connectedB. neitherC. weakly connected",
+      "definition": "A. strongly connected"
+    },
+    {
+      "term": "Is the following graph strongly connected, weakly connected or neither?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/ABCD-Pointing-to-C.pngA. weakly connectedB. neitherC. strongly connected",
+      "definition": "A. weakly connected"
+    },
+    {
+      "term": "If you were going to look for a node which would be most likely to be the target of an attack to disconnect a network, what would be the best characteristic to look for?A. low degree nodesB. high degree nodesC. nodes that, if they were removed, would cause the graph to go from strongly connected to weakly connected",
+      "definition": "B. high degree nodes"
+    },
+    {
+      "term": "What is the out-degree of node B?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q5.pngA. 0B. 1C. 2D. 3",
+      "definition": "A. 0"
+    },
+    {
+      "term": "What is the in-degree of node B?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q5.pngA. 0B. 1C. 2D. 3",
+      "definition": "D. 3"
+    },
+    {
+      "term": "In the graph below, which node is the greatest listener?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q6.pngA. AB. BC. CD. D",
+      "definition": "B. B"
+    },
+    {
+      "term": "In the graph below, which node is the greatest talker?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q6.pngA. AB. BC. CD. D",
+      "definition": "D. D"
+    },
+    {
+      "term": "In the graph below, which nodes are the greatest communicators? (Hint: there's a tie)https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q7.pngA. AB. BC. CD. D",
+      "definition": "A. A C. C"
+    },
+    {
+      "term": "What would we be looking for if we followed the steps below? Note: we have 2 graphs.Create a table for each graph where, for each node, you list the degree of the node.For each graph, create a histogram indicating how many nodes in that graph have a specific degree (e.g., how many nodes have degree 1? 2? etc.).Use advanced approaches (e.g. Euclidean distances) to compare these two histograms.A. SimilarityB. CentralityC. CommunityD. Connectivity",
+      "definition": "A. Similarity"
+    },
+    {
+      "term": "Which of the following are the three type of analytics questions asked about communities?A. StaticB. EvolutionC. PredictionD. Connection",
+      "definition": "A. Static B. Evolution C. Prediction"
+    },
+    {
+      "term": "What type of community analytics question is the following?Did a community form on twitter around the 2014 World Cup in Brazil?A. StaticB. PredictionC. EvolutionD. Connection",
+      "definition": "C. Evolution"
+    },
+    {
+      "term": "Which type of community analytics question is the following?How tightly knit was the 2014 World Cup twitter community on July 13, 2014 (the day of the finals)?A. ConnectionB. PredictionC. EvolutionD. Static",
+      "definition": "D. Static"
+    },
+    {
+      "term": "What is the internal degree of the node indicated in the graph below?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q12.pngA. 1B. 2C. 3D. 4",
+      "definition": "C. 3"
+    },
+    {
+      "term": "What is the external degree of the node indicated in the graph below?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q12.pngA. 1B. 2C. 3D. 4",
+      "definition": "A. 1"
+    },
+    {
+      "term": "Which of the two graphs below is more modular?https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/raw/master/05%20-%20Graph%20Analytics%20for%20Big%20Data/img/Q13.pngA. AB. B",
+      "definition": "B. B"
+    },
+    {
+      "term": "Which of the following community tracking phases best describes what (usually) happens a few months after two companies merge?A. BirthB. SplitC. GrowD. ContractE. MergeF. Death",
+      "definition": "D. Contract"
+    },
+    {
+      "term": "Which of the following community tracking phases usually occurs when a company spins off a start-up?A. ContractB. GrowC. BirthD. SplitE. DeathF. Merge",
+      "definition": "D. Split"
+    },
+    {
+      "term": "An influencer in a network is defined as:A. a node which can reach all other nodes quicklyB. a node which has heavy weight edges to at least 1/2 of the nodes in the networkC. the biggest gossip in the network",
+      "definition": "A. a node which can reach all other nodes quickly"
+    },
+    {
+      "term": "Which of the following are the 2 core \"key player\" problems that centrality analytics can address?A. What is the shortest path through a networkB. Which nodes' removal will maximally disrupt the networkC. Which nodes have the highest ratio of out-degree nodes to in-degree nodesD. A set of nodes which can reach (almost) all other nodes",
+      "definition": "B. Which nodes' removal will maximally disrupt the network D. A set of nodes which can reach (almost) all other nodes"
+    },
+    {
+      "term": "What kind of centrality would you want to analyze in a graph if you wanted to inject information that flows through the shortest path in a network and have it spread quickly?A. ClosenessB. GroupC. Between-nessD. Degree",
+      "definition": "A. Closeness"
+    },
+    {
+      "term": "What kind of centrality would you want to analyze in a graph if you wanted maximize commodity flow in a network?A. GroupB. Between-nessC. ClosenessD. Degree",
+      "definition": "B. Between-ness"
+    },
+    {
+      "term": "What kind of centrality identifies \"hubness\"?A. Between-nessB. DegreeC. GroupD. Closeness",
+      "definition": "B. Degree"
+    },
+    {
+      "term": "Which of the following is a Cypher command used to combine two or more query results?A. unionB. combineC. mergeD. return",
+      "definition": "A. union"
+    },
+    {
+      "term": "For a graph network whose nodes are all of type \"MyNode\", which has both incoming and outgoing edges, and which has both root and leaf nodes, what will the following Cypher code return in a Neo4j report?match (n:MyNode)<-[r]-() return nA. All nodes and edges except leaf nodes and their edges.B. All nodes except root nodes.C. Edges but no nodes.D. The entire network, all nodes and edges",
+      "definition": "B. All nodes except root nodes."
+    },
+    {
+      "term": "The Cypher query language shares some commands in common with SQL.A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "The following query will return a graph containing whatever loops might exist. match (n)-[r]-(n) return n, r A. TrueB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which Cypher pattern is used to represent a node?A. ()B. []C. {}D. <>",
+      "definition": "A. ()"
+    },
+    {
+      "term": "Neo4j is a ...A. Graph databaseB. Relational databaseC. None of the above",
+      "definition": "A. Graph database"
+    },
+    {
+      "term": "Which Cypher command launches a Neo4j database search?A. MATCHB. RETURNC. CREATED. None of the above",
+      "definition": "A. MATCH"
+    },
+    {
+      "term": "Cypher does not include a specific command to find the shortest path in a graph network.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Cypher includes a 'diameter' command to find the longest path in a graph network.A. FalseB. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "The query match (n)-[r]->(m) where m <> n return distinct n, m, count(r) gives usA. the count of all non loop edges between every adjacent node pair.B. the count of all edges between every adjacent node pair.C. the count of all edges.D. None of the above",
+      "definition": "A. the count of all non loop edges between every adjacent node pair."
+    },
+    {
+      "term": "The query match (n)-[r]->(m) where m <> n return distinct n, m, count(r) as myCount order by myCount desc limit 1 produces what?A. a random edgeB. the node with the maximum number of looping edgesC. two neighboring nodes, each with a high outdegreeD. the pair of nodes with the maximum number of multi-edges between them",
+      "definition": "D. the pair of nodes with the maximum number of multi-edges between them"
+    },
+    {
+      "term": "The query match p=(n {Name:'BRCA1'})-[:AssociationType*..2]->(m) return p produces what?A. The 2-neighborhood of the node whose name is 'BRCA1'B. The neighbors whose distance is greater than 1 and less than 2 of the node whose name is 'BRCA1'C. The neighbors' neighbors of the node whose name is 'BRCA1'D. The neighbors of the node whose name is 'BRCA1'",
+      "definition": "A. The 2-neighborhood of the node whose name is 'BRCA1'"
+    },
+    {
+      "term": "In this code snippet below from the Hands On exercise on importing data, '100L + row...' adds 100 to the value of every country ID. Which of the following statements are true regarding this decision? (Note: you may select more than one)val countries: RDD[(VertexId, PlaceNode)] = sc.textFile(\"./EOADATA/country.csv\"). filter(! _.startsWith(\"#\")). map {line =>val row = line split ',' (100L + row(0).toInt, Country(row(1))) }A. Another option would have been to add 100 to the metropolis keys as they were imported, and leave the country keys as they were originally numbered.B. This step was needed to create unique keys between the country and the metropolis datasets.C. Another option would be to add 500 to the country keys.",
+      "definition": "A. Another option would have been to add 100 to the metropolis keys as they were imported, and leave the country keys as they were originally numbered. B. This step was needed to create unique keys between the country and the metropolis datasets. C. Another option would be to add 500 to the country keys."
+    },
+    {
+      "term": "In the metro example, what is an in-degree in relation to a country? Hint: this was covered in the Building a Degree Histogram Hands On exercise.A. A metro area or metropolis.B. Another city.C. A street in a city.D. A continent.",
+      "definition": "A. A metro area or metropolis."
+    },
+    {
+      "term": "In the Facebook graph example, the visualization looked like broccoli. Why?A. In a directed graph, the stalks are large.B. Social networks have communities or pockets of people who interact densely.C. The high centrality of some people nodes in facebook gives the graph its broccoli shape.",
+      "definition": "B. Social networks have communities or pockets of people who interact densely."
+    },
+    {
+      "term": "What are some examples of open-source tools built for Hadoop and what does it do? | Pig, for real-time and in-memory processing of big data. | Zookeeper, analyze social graphs. | Zookeeper, management system for animal named related components. | Giraph, for SQL-like queries.",
+      "definition": "Pig, for real-time and in-memory processing of big data."
+    },
+    {
+      "term": "Run wordcount on the alice.txt file. This can be done by using hadoop commands. Remember to place the file into the HDFS. How many times does the word Cheshire occur? (Do not include the word 'Cheshire with an apostrophe. The string -->'Cheshire<-- does not count)Enter a number: | ",
+      "definition": "6"
+    },
+    {
+      "term": "The set of example MapReduce applications includes wordmedian, which computes the median length of words in a text file. If you run wordmedian using alice.txt as input, what is the median word length?Note that wordmedian prints the median length to the terminal at the end of the MapReduce job; the output file does not contain the median length.Enter a number: | ",
+      "definition": "4"
+    },
+    {
+      "term": "Of the following, which is an example of personalized marketing related with big data? | A survey that asks your age and markets to you a specific brand. | Google ordering ads to show items based on recent and past search results. | News outlets gathering information from the internet in order to report them to the public.",
+      "definition": "Google ordering ads to show items based on recent and past search results."
+    },
+    {
+      "term": "According to Ilkay, why is exploring data crucial to better modeling? Data exploration... <complete the sentence> | enables a description of data which allows visualization. | leads to data understanding which allows an informed analysis of the data. | enables histograms and others graphs as data visualization. | enables understanding of general trends, correlations, and outliers.",
+      "definition": "leads to data understanding which allows an informed analysis of the data."
+    },
+    {
+      "term": "How many user id's (repeats allowed) have reached the highest level as found in the previous question? (Hint: For postgres: you may either use two queries or use a sub-query). | 122757 | 67271 | 106436 | 98823 | 51294",
+      "definition": "51294"
+    },
+    {
+      "term": "How many user id's (repeats allowed) reached the highest level in game-clicks and also clicked the highest costing price in buy-clicks? Hint: Refer to question 4 for ideas. | 66887 | 32747 | 73226 | 23301",
+      "definition": "32747"
+    },
+    {
+      "term": "(Questions 1-3 pertain to the video lecture \"Exploring the Relational Data Model of CSV\") What is the approximate population of La Paz county in the state of Arizona for the CENSUS2010POP (column H)? (Choose the best answer.) | 15000 | 10000 | 25000 | 20000",
+      "definition": "20000"
+    },
+    {
+      "term": "What county in the state of Wyoming has the smallest estimated population? | Sweetwater | Platte | Niobrara | Uinta",
+      "definition": "Niobrara"
+    },
+    {
+      "term": "(Questions 4 and 5 pertain to the video \"Exploring Sensor Data\")How often (in seconds) do the R5 measurements occur? | 50 | 40 | 30 | 60",
+      "definition": "60"
+    },
+    {
+      "term": "What is the field for rain accumulation? | Sm | Dx | Dn | Rc",
+      "definition": "Rc"
+    },
+    {
+      "term": "(Questions 6 and 7 pertain to the video lecture \"Exploring the Array Data Model of an Image\")What is the (Red, Green, Blue) pixel value for location 500, 2000? | (134, 145, 46) | (163, 118, 79) | (100, 123, 149) | (50, 156, 182)",
+      "definition": "(163, 118, 79)"
+    },
+    {
+      "term": "Is this value likely to be land or ocean? | Ocean | Land",
+      "definition": "Land"
+    },
+    {
+      "term": "For the following questions 7, 8, and 9, suppose a registration website creates data with the following fields for each person registered (note: if the user does not input a value, NULL is stored instead): Name, Date, Address, and Account Number. Suppose we collect data month by month. Each month, we would have a batch of data containing the fields listed above. At the end of the year, we want to summarize our registrant activities for the entire year, so we would remove redundancies in our data by removing any records with duplicate account numbers from month to month. What type of operation do we use in this scenario? | Union | Not an Operation | Join | Subsetting",
+      "definition": "Union"
+    },
+    {
+      "term": "What is the average population of the counties in the state of Georgia (be careful not to include the population of the state of Georgia itself)? | 394383.53786 | 60928.635220 | 243767.4564 | 45373.454788",
+      "definition": "60928.635220"
+    },
+    {
+      "term": "What state contains the most counties? | Texas | California | Georgia | Alaska",
+      "definition": "Texas"
+    },
+    {
+      "term": "Of the options below, which query allows you to find the most populated counties in the state of Texas? | STNAME=\"Texas\" CENSUS2010POP > 100000 | sort -CENSUS2010POP | table CENSUS2010POP,CTYNAME | STNAME=\"Texas\" CENSUS2010POP > 100000 | sort CENSUS2010POP desc | table CENSUS2010POP,CTYNAME | Both | Neither",
+      "definition": "Both"
+    },
+    {
+      "term": "What is the most populated county in the state of Texas? | Harris | Dallas | Travis | Bexar",
+      "definition": "Harris"
+    },
+    {
+      "term": "What does the following code do?window(\"time\", \"10 seconds\") | Delays timestamps by 10 seconds | Replaces the column \"time\" with a 10 second window | Accelerates timestamps by 10 seconds | Creates a 10 second window, using column \"time\" timestamps.",
+      "definition": "Creates a 10 second window, using column \"time\" timestamps."
+    },
+    {
+      "term": "query = ( windowed_data .writeStream .outputMode(\"update\") .trigger(processingTime=\"10 seconds\") .foreachBatch(lambda batch_df, epoch_id: batch_df.show(truncate=False)) .start()) In the previous code, Which method initiates the retrieval of streaming data? | foreachBatch() | outputMode() | trigger() | start()",
+      "definition": "start()"
+    },
+    {
+      "term": "How many tweets have location not null? | 6973 | 5957 | No option applicable. | 6945 | 6937",
+      "definition": "6937"
+    },
+    {
+      "term": "How many people have more followers than friends? (Hint : use this.user instead of user). | 5809 | 5590 | 6673 | 5206 | 6238",
+      "definition": "5809"
+    },
+    {
+      "term": "Perform a query that returns the text of tweets which have the string \"http://\". Which of the following substrings do NOT occur in the results? (Choose all that apply) | @espn | @Ass0Star | @Infosmessi_ | @DundalkFC | @TerraceImages",
+      "definition": "@Infosmessi_ | @DundalkFC"
+    },
+    {
+      "term": "Query: Return all the tweets which contain text \"England\" but not \"UEFA\". In these results the string \"Euro 2016\" appears in... | 2 tweets | 3 tweets | More than 6 tweets. | 5 tweets | 0 tweets",
+      "definition": "2 tweets"
+    },
+    {
+      "term": "Query: Get all the tweets from the location \"Ireland\" which also contain the string \"UEFA\". In this result the user with the highest friends count is... | ProfitwatchInfo | irishexaminer | DerekRantsGames | Pauldonaghue | Insight4News4",
+      "definition": "ProfitwatchInfo"
+    },
+    {
+      "term": "How many different countries are mentioned in at least one tweet? | 112 | 211 | 44 | 64",
+      "definition": "44"
+    },
+    {
+      "term": "How many times is any country mentioned in a tweet? | 26634 | 397 | 211 | 52",
+      "definition": "397"
+    },
+    {
+      "term": "What are the three countries with the highest mentioned count | Thailand, Iceland, Mexico | Nigeria, Slovakia, Germany | Norway, Nigeria, France | Thailand, Mexico, Denmark",
+      "definition": "Norway, Nigeria, France"
+    },
+    {
+      "term": "How many times was France mentioned in a tweet? | 8 | 25 | 30 | 42",
+      "definition": "42"
+    },
+    {
+      "term": "Which country was mentioned most: Kenya, Wales, or Netherlands? | Wales | Kenya | Netherlands",
+      "definition": "Wales"
+    },
+    {
+      "term": "What is the average number of times a country is mentioned? (Round to the nearest integer) | 44 | 15 | 9 | 3",
+      "definition": "9"
+    },
+    {
+      "term": "What is the maximum of the average wind speed measurements at 9am (to 2 decimal places)? | 23.56 | 29.84 | 5.50 | 4.55",
+      "definition": "23.56"
+    },
+    {
+      "term": "How many rows containing rain accumulation at 9am measurements have missing values? | 6 | 4 | 3 | 2",
+      "definition": "6"
+    },
+    {
+      "term": "What is the correlation between the relative humidity at 9am and at 3pm (to 2 decimal places, and without removing or imputing missing values)? | 0.88 | 1.00 | -0.45 | 0.19",
+      "definition": "0.88"
+    },
+    {
+      "term": "If the histogram for air temperature at 9am has 50 bins, what is the number of elements in the bin with the most elements (without removing or imputing missing values)? | 57 | 224 | 49 | 166",
+      "definition": "57"
+    },
+    {
+      "term": "What is the approximate maximum max_wind_direction_9am when the maximum max_wind_speed_9am occurs? | 70 | 30 | 312",
+      "definition": "70"
+    },
+    {
+      "term": "If we remove all missing values from the data, how many air pressure at 9am measurements have values between 911.736 and 914.67? | 77 | 287 | 80",
+      "definition": "77"
+    },
+    {
+      "term": "If we impute the missing values with the minimum value, how many air temperature at 9am measurements are less than 42.292? | 28 | 23 | 1 | 5",
+      "definition": "28"
+    },
+    {
+      "term": "How many samples have missing values for air_pressure_9am? | 3 | 5 | 1092 | 0",
+      "definition": "3"
+    },
+    {
+      "term": "Which column in the weather dataset has the most number of missing values? | rain_accumulation_9am | number | They are all the same | air_temp_9am",
+      "definition": "rain_accumulation_9am"
+    },
+    {
+      "term": "KNIME: In configuring the Numeric Binner node, what would happen if the definition for the humidity_low bin is changed from] -infinity ... 25.0 [ to ] -infinity ... 25.0 ] (i.e., the last bracket is changed from [ to ] ? | The definition for the humidity_low bin would change from excluding 25.0 to including 25.0 | The definition for the humidity_low bin would change from having 25.0 as the endpoint to having 25.1 as the endpoint | Nothing would change",
+      "definition": "The definition for the humidity_low bin would change from excluding 25.0 to including 25.0"
+    },
+    {
+      "term": "KNIME: In the Table View of the Interactive Table, each row is color-coded. Red specifies: | that the target class label for the sample is humidity_not_low | that the target class label for the sample is humidity_low | that the predicted class label for the sample is humidity_not_low | that the predicted class label for the sample is humidity_low",
+      "definition": "that the target class label for the sample is humidity_not_low"
+    },
+    {
+      "term": "Spark: In the last line of code in Step 4, the confusion matrix is printed out. If the \"transpose()\" is removed, the confusion matrix will be displayed as: | 12array([[87.,19.],[28.,84.]])Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12array([[84.,28.],[19.,87.]])Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M. | 12array([[84.,87.],[19.,28.]])Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.",
+      "definition": "12array([[84.,28.],[19.,87.]])Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M."
+    },
+    {
+      "term": "What percentage of samples have 0 for rain_accumulation? | 157812 / 158726 = 99.4% | 157237 / 158726 = 99.1% | There is not enough information to determine this",
+      "definition": "157812 / 158726 = 99.4%"
+    },
+    {
+      "term": "If we wanted to create a data subset by taking every 5th sample instead of every 10th sample, how many samples would be in that subset? | 317,452 | 1,587,257 | 158,726",
+      "definition": "317,452"
+    },
+    {
+      "term": "This line of code creates a k-means model with 12 clusters:1kmeans=KMeans(k=12,seed=1)Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_1:focus .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_1:focus .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_1:focus .monaco-list-row.selected { background-color: #0069d1; } .monaco-list.list_id_1:focus .monaco-list-row.selected:hover { background-color: #0069d1; } .monaco-list.list_id_1:focus .monaco-list-row.selected { color: #ffffff; } .monaco-drag-image, .monaco-list.list_id_1:focus .monaco-list-row.selected.focused { background-color: #0074e8; } .monaco-drag-image, .monaco-list.list_id_1:focus .monaco-list-row.selected.focused { color: #ffffff; } .monaco-list.list_id_1 .monaco-list-row.focused { background-color: #d6ebff; } .monaco-list.list_id_1 .monaco-list-row.focused:hover { background-color: #d6ebff; } .monaco-list.list_id_1 .monaco-list-row.selected { background-color: #e4e6f1; } .monaco-list.list_id_1 .monaco-list-row.selected:hover { background-color: #e4e6f1; } .monaco-list.list_id_1:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color: #f0f0f0; } .monaco-list.list_id_1.drop-target, .monaco-list.list_id_1 .monaco-list-rows.drop-target, .monaco-list.list_id_1 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; } .monaco-list-type-filter { background-color: #efc1ad } .monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); } .monaco-list-type-filter.no-matches { border: 1px solid #be1100; } .monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Information: Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing Control+M.What is the significance of \"seed=1\"? | This sets the seed to a specific value, which is necessary to reproduce the k-means results | This means that this is the first iteration of k-means. The seed value is incremented by 1 every time k-means is executed | This specifies that the first cluster centroid is set to sample #1",
+      "definition": "This sets the seed to a specific value, which is necessary to reproduce the k-means results"
+    },
+    {
+      "term": "Just by looking at the values for the cluster centers, which cluster contains samples with the lowest relative humidity? | Cluster 5 | Cluster 9 | Cluster 1",
+      "definition": "Cluster 5"
+    },
+    {
+      "term": "What do clusters 0, 4, and 8 have in common? | They capture weather patterns associated with warm and dry days | They capture weather patterns associated with high air pressure | They capture weather patterns associated with very strong winds",
+      "definition": "They capture weather patterns associated with warm and dry days"
+    },
+    {
+      "term": "If we perform clustering with 20 clusters (and seed = 1), which cluster appears to identify Santa Ana conditions (lowest humidity and highest wind speeds)? | Cluster 16 | Cluster 5 | Cluster 1",
+      "definition": "Cluster 16"
+    },
+    {
+      "term": "We did not include the minimum wind measurements in the analysis since they are highly correlated with the average wind measurements. What is the correlation between min_wind_speed and avg_wind_speed (to two decimals)? (Compute this using one-tenth of the original dataset, and dropping all rows with missing values.) | 0.97 | -0.12 | 0.62",
+      "definition": "0.97"
+    },
+    {
+      "term": "[NOTE: The following questions apply to the results from the \"Practicing Graph Analytics in Neo4j With Cypher\" Assignment using the dataset titled 'gene_gene_associations_50k.csv'.What is the number of nodes returned? | 50,000 | 9656 | 9756 | 8673",
+      "definition": "9656"
+    },
+    {
+      "term": "What's the number of edges? | 50,000 | 49,834 | 46,621 | None of the above",
+      "definition": "46,621"
+    },
+    {
+      "term": "The number of loops in the graph is: | 1035 | 1395 | 1221 | 1243",
+      "definition": "1221"
+    },
+    {
+      "term": "How many non-directed shortest paths are there between the node named 'BRCA1' and the node named 'NBR1'? | 8 | 9 | 10 | None of the above",
+      "definition": "9"
+    },
+    {
+      "term": "The top 2 nodes with the highest outdegree are: | GRB2 and TP53 | EP300 and BRCA1 | MEPCE and EGFR | SNCA and BRCA1",
+      "definition": "SNCA and BRCA1"
+    },
+    {
+      "term": "Applying the example queries provided to you, create the degree histogram for the network. How many nodes in the graph have a degree of 3? | 1351 | 821 | 675 | 512",
+      "definition": "821"
+    },
+    {
+      "term": "In the metro example, what is an in-degree in relation to a country? Hint: this was covered in Hands-On: Building a GraphOpens in a new tab | A street in a city. | Another city. | A metro area or metropolis. | A continent.",
+      "definition": "A metro area or metropolis."
+    },
+    {
+      "term": "In Hands On: Network Connectedness and ClusteringOpens in a new tab , Antarctica is easy to identify. Why? | It had many edges | It had a vertex ID of 205. | It is the green dot that that has no connections, or it is the least connected cluster.",
+      "definition": "It is the green dot that that has no connections, or it is the least connected cluster."
+    }
+  ]
+}

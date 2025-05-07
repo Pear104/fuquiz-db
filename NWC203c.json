@@ -1,0 +1,1232 @@
+{
+  "quizSrc": [
+    {
+      "term": "Which of following protocol is HTTP built upon?a.SMTPb.UDPc.TCPd.IP",
+      "definition": "c.TCP"
+    },
+    {
+      "term": "Which of following requirements are necessary for packet networks to support multiple and diverse applications?a.Transfer arbitrary message sizeb.Low delay for interactive applicationsc.Packets have maximum lengthd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "What was the concern of the telephone system that motivated the ARPANET design?a.Scalabilityb.Vulnerabilityc.Efficiencyd.None of the above",
+      "definition": "b.Vulnerability"
+    },
+    {
+      "term": "Which of the following is an application layer protocol?a.DNSb.HTTPc.TCPd.UDP",
+      "definition": "b.HTTP"
+    },
+    {
+      "term": "Which of the following are features of ARPANET design?a.Connectionless packet transmissionb.Routing tables at the packet switchesc.Destinations identified by unique addressesd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Bluetooth is an example ofa.Personal Area Networkb.Metropolitan Area Networkc.Local Area Networkd.Wide Area Network",
+      "definition": "a.Personal Area Network"
+    },
+    {
+      "term": "In the layer hierarchy as the data packet moves from the upper to the lower layers, headers area.Modifiedb.Addedc.Rearrangedd.Removed",
+      "definition": "b.Added"
+    },
+    {
+      "term": "The ________ is the physical path over which a message travelsa.Routeb.Protocolc.Pathd.Medium",
+      "definition": "d.Medium"
+    },
+    {
+      "term": "Three or more devices share a link in ________ connectiona.Unipointb.Multipointc.Point to Pointd.None of the above",
+      "definition": "b.Multipoint"
+    },
+    {
+      "term": "Which of the following is true for Transport Control Protocola.Connection orientedb.Process to Processc.Transport layer protocold.Connectionless",
+      "definition": "a.Connection oriented"
+    },
+    {
+      "term": "Which of the following networks use store-and-forward switching operation? (Choose 2)a.Wireless Networksb.Computer networksc.Telegraph networksd.Telephone networks",
+      "definition": "b.Computer networks, c.Telegraph networks"
+    },
+    {
+      "term": "There are similarities between message switching and packet switching. Which of following that applies to packet switching but not to message switching?a.Variable length of information blockb.Supporting multiple applicationsc.Store-and-forwardd.All of the above",
+      "definition": "b.Supporting multiple applications"
+    },
+    {
+      "term": "Which of the following networks can be connection-oriented?(Choose 2)a.Telegraph networksb.Computer networksc.Telephone networksd.All of the above",
+      "definition": "b.Computer networks, c.Telephone networks"
+    },
+    {
+      "term": "A protocol is a set of precise and unambiguous rules that governsa.How two or more communicating entities in a layer are to interactb.Messages that can be sent and receivedc.Actions that are to be taken when a certain event occursd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "DNS is a domain-name-service that responds to queries of domain name to IP address or IP address to domain name. DNS uses services provided bya.TCPb.UDPc.HTTPd.None of the above",
+      "definition": "b.UDP"
+    },
+    {
+      "term": "A network used to join the individual networks at different sites into one extended network is calleda.LANb.VPNc.SANd.PAN",
+      "definition": "b.VPN"
+    },
+    {
+      "term": "Upon receipt of a bad segment, UDP?a.It does not do flow and error controlb.Retransmissionc.It does error controld.It does flow control",
+      "definition": "a.It does not do flow and error control"
+    },
+    {
+      "term": "Which OSI layer is responsible for providing end-to-end communication with reliable service?a.Session layerb.Network layerc.Transport layerd.Data link layer",
+      "definition": "c.Transport layer"
+    },
+    {
+      "term": "Which OSI layer is responsible for dividing the transmitted bit stream into frames?a.Network layerb.Data link layerc.Transport layerd.Application layer",
+      "definition": "b.Data link layer"
+    },
+    {
+      "term": "Which OSI layer is responsible for determining which route through the network to use?a.Network layerb.Data link layerc.Transport layerd.None of the above",
+      "definition": "a.Network layer"
+    },
+    {
+      "term": "Which feature does the data link layer and transport layer have in common?a.Medium access controlb.All of the abovec.Flow controld.Congestion control",
+      "definition": "c.Flow control"
+    },
+    {
+      "term": "Which protocol glues the network of networks together as the Internet?a.TCPb.UDPc.IPd.None of the above",
+      "definition": "c.IP"
+    },
+    {
+      "term": "In a LAN, which address is used to transfer frames to appropriate destination?a.IP addressb.Physical addressc.Domain named.None of the above",
+      "definition": "b.Physical address"
+    },
+    {
+      "term": "Suppose an application layer entity wants to send an L-byte message to its peer process, using an existing TCP connection. The TCP segment consists of the message plus 20 bytes of header. The segment is encapsulated into an IP packet that has an additional 20 bytes of header. The IP packet in turn goes inside an Ethernet frame that has 18 bytes of header and trailer. What is the bandwidth utilization in terms of the percentage of the transmitted bits in the physical layer corresponds to message information if L = 500 bytes?a.70%b.80%c.100%d.90%",
+      "definition": "d.90%"
+    },
+    {
+      "term": "Of the following services, which service(s) does the IP layer provides?a.Error controlb.Flow controlc.Connection-based data transferd.None of the above",
+      "definition": "d.None of the above"
+    },
+    {
+      "term": "Which of the following is true about the ways in which the OSI reference model and TCP/IP reference model differ.a.All of the aboveb.TCP/IP model does not have presentation layer, but OSI model hasc.They differ in the number of layersd.TCP/IP model does not have session layer, but OSI model has",
+      "definition": "a.All of the above"
+    },
+    {
+      "term": "Which of following statements is true about how the data link layer and transport layer differ?a.Data link layer is concerned with framing and the transport layer is notb.Data link layer is concerned with flow control and the transport layer is notc.Data link layer is concerned with multiplexing and the transport layer is notd.All of the above",
+      "definition": "a.Data link layer is concerned with framing and the transport layer is not"
+    },
+    {
+      "term": "This layer is an addition to OSI modela.Application layerb.Presentation layerc.Session layerd.Presentation layer and Session layer",
+      "definition": "d.Presentation layer and Session layer"
+    },
+    {
+      "term": "The functionalities of presentation layer includesa.Data compressionb.Data encryptionc.Data decryptiond.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of the following applications would you select TCP protocol for? (Choose 2)a.File transferb.None of the abovec.Web browsingd.Domain name service",
+      "definition": "a.File transfer, c.Web browsing"
+    },
+    {
+      "term": "In BSD socket API, which type of socket is used to create a TCP socket?a.SOCK_STREAMb.SOCK_RAWc.SOCK_DGRAMd.None of the above",
+      "definition": "a.SOCK_STREAM"
+    },
+    {
+      "term": "In BSD socket API, which type of socket is used to create a UDP socket?a.SOCK_STREAMb.SOCK_DGRAMc.SOCK_RAWd.None of the above",
+      "definition": "b.SOCK_DGRAM"
+    },
+    {
+      "term": "In BSD socket API, which system call is used to assign a network address to the socket?a.listen()b.bind()c.connect()d.None of the above",
+      "definition": "b.bind()"
+    },
+    {
+      "term": "In BSD socket API, if a client knows the server name but not server's network address, what system call should the client use to get server's network address?a.gethostbyname()b.Connect()c.gettimeofday()d.None of the above",
+      "definition": "a.gethostbyname()"
+    },
+    {
+      "term": "In a transmission system, which of the following statement is true for a receiver (Choose 2)a.Receives energy from mediumb.Converts information into signal suitable for transmissionc.Converts received signal into a form suitable for delivery to userd.All of the above",
+      "definition": "a.Receives energy from medium, c.Converts received signal into a form suitable for delivery to user"
+    },
+    {
+      "term": "In digital transmission, long distance digital communications require the use of a generator to recover original data sequence and re-transmits on next segmenta.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In twisted pair, a category 5 UTP cable can support a data rate of up to 16MHza.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Which of the following statement is true for optical fibera.Plentiful bandwidth for new servicesb.Dominates long distance transmissionc.Distance less of a cost factor in communicationsd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of the following are advantages of optical fiber (Choose 2)a.No corrosionb.Noise immunityc.Wavelength dependencyd.Extremely low bandwidth",
+      "definition": "a.No corrosion, b.Noise immunity"
+    },
+    {
+      "term": "In BSD socket API, which call is usually used for transmitting data in the connectionless mode?a.accept()b.connect()c.sendto()d.None of the above",
+      "definition": "c.sendto()"
+    },
+    {
+      "term": "Which of following statement about TCP/UDP sockets is wrong?a.TCP socket is stream orientedb.UDP socket is block orientedc.TCP is faster than UDPd.All of the above",
+      "definition": "c.TCP is faster than UDP"
+    },
+    {
+      "term": "Which of following are commonly used as digital communication medium?a.Twisted pairb.All of the abovec.Optical fiberd.Coaxial cable",
+      "definition": "b.All of the above"
+    },
+    {
+      "term": "Consider a network link that has distance of 100 meters, and signal traverses at the speed of light in cable 2.5 x 10^8 meters per second. The link has transmission bandwidth of 100 megabits/second (100 x 10^6 bits per second). The packet size is 400 bits. What is the signal propagation delay?a.None of the aboveb.4 x 10^-7 secondsc.4 x 10^-9 secondsd.4 x 10^-6 seconds",
+      "definition": "b.4 x 10^-7 seconds"
+    },
+    {
+      "term": "Consider a network link that has distance of 100 meters, and signal traverses at the speed of light in cable 2.5 x 10^8 meters per second. The link has transmission bandwidth of 100 megabits/second (100 x 10^6 bits per second). The packet size is 400 bits. What is the packet transmission delay?a.4 x 10^-9 secondsb.None of the abovec.4 x 10^-7 secondsd.4 x 10^-6 seconds",
+      "definition": "d.4 x 10^-6 seconds"
+    },
+    {
+      "term": "An API allows application programs to access certain resources through a predefined interface?a.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In transport protocol, which of the following statements is true for User Datagram Protocola.It enables best-effort connectionless transfer of individual block of informationb.It enables connection-oriented reliable transfer of individual block of informationc.It enables best-effort connectionless reliable transfer of a stream of bytesd.None of the above",
+      "definition": "a.It enables best-effort connectionless transfer of individual block of information"
+    },
+    {
+      "term": "Which of the following sentences are true for connectionless stream mode of service (Choose 3)a.Destination address with each blockb.Multiple write/read between peer processesc.Send/receive to/from multiple peer processesd.No setup overhead and delay",
+      "definition": "a.Destination address with each block, c.Send/receive to/from multiple peer processes, d.No setup overhead and delay"
+    },
+    {
+      "term": "In transmission delay, in order to reduce the number of bits in a message we use data compressiona.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "Which of the following is true of data compression algorithms (Choose 3)a.Represent the information using fewer bitsb.Recover information approximatelyc.Modify data headersd.Recover original information exactly",
+      "definition": "a.Represent the information using fewer bits, b.Recover information approximately, d.Recover original information exactly"
+    },
+    {
+      "term": "Given a 7-bit information frame (0, 1, 0, 1, 1, 0, 1), what is the even parity bit?a.1b.0c.None of the above",
+      "definition": "b.0"
+    },
+    {
+      "term": "Which of following statements are true for single-bit parity error detection? (Choose 2)a.It can detect all single bit errors in an information frameb.It can detect all double bit errors in an information framec.It can detect all tripe bit errors in an information framed.None of the above",
+      "definition": "a.It can detect all single bit errors in an information frame, c.It can detect all tripe bit errors in an information frame"
+    },
+    {
+      "term": "Which of following statements are true for two-dimensional parity error detection?a.It can detect all single bit errors in an information frameb.It can correct all single bit errors in an information framec.It can detect all double bit errors in an information framed.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Assume bit errors occur at random. If each bit has 50% probability to be in error by transmission. What is the probability of a four-bit frame to be in error by transmission?a.1/4b.1/8c.1/16d.None of the above",
+      "definition": "c.1/16"
+    },
+    {
+      "term": "What is the binary sequence that corresponds to polynomial code X^3 + x^2 + 1?a.1101b.1110c.111d.0111",
+      "definition": "a.1101"
+    },
+    {
+      "term": "Block codes are generated using _____.a.Generator matrixb.Generator polynomialc.Both of the mentionedd.None of the mentioned",
+      "definition": "a.Generator matrix"
+    },
+    {
+      "term": "Which of the following is true for two-dimensional parity check (Choose 2)a.Arrange information in rowsb.Arrange information in columnsc.Add multiple parity bits to each columnd.More parity bit to improve coverage",
+      "definition": "b.Arrange information in columns, d.More parity bit to improve coverage"
+    },
+    {
+      "term": "Polynomial codes are implemented using shift register circuitsa.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "What is the binary equivalent of the following polynomial arithmeticx7 + x6 + x5 + x2 + 1a.11100101b.11011101c.11101101d.11100111",
+      "definition": "a.11100101"
+    },
+    {
+      "term": "Using Euclidean Division, what will be the remainder of 70 by 999 where 70 is the divisor and 999 is the dividenda.21b.19c.17d.14",
+      "definition": "b.19"
+    },
+    {
+      "term": "Given an information polynomial code I(x) = X^7 + x^6 + x^1 + 1, which is its corresponding per-bit information frame?a.11000011b.01100011c.10100010d.None of the above",
+      "definition": "a.11000011"
+    },
+    {
+      "term": "What is the remainder obtained by dividing x^7 + x^5 + 1 by the generator polynomial x^3 + 1?a.None of the aboveb.x^2 + 1c.x^2 + xd.x^2 + x + 1",
+      "definition": "d.x^2 + x + 1"
+    },
+    {
+      "term": "Given a generator polynomial g(x) = x^3 + x + 1. Consider the information sequence 1001. By CRC method, what is the resulted codeword for transmission?a.1001111b.1010110c.1001110d.1001000",
+      "definition": "c.1001110"
+    },
+    {
+      "term": "Which of following generator polynomial can detect all single bit errors in an information frame?a.g(x) = xb.g(x) = x^2c.g(x) = x + 1d.All of the above",
+      "definition": "c.g(x) = x + 1"
+    },
+    {
+      "term": "Internet protocols use check bits to detect errors, instead of using CRC polynomial. The primary rationale isa.Strength of error detection capabilityb.Simplicity of implementationc.CRC polynomial cannot work for Internet protocolsd.None of the above",
+      "definition": "b.Simplicity of implementation"
+    },
+    {
+      "term": "The two basic approaches in error control are error prevention and detection, and error correction and re-transmissiona.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Find parity bit for 1001011a.0b.1c.2d.None of the above",
+      "definition": "a.0"
+    },
+    {
+      "term": "The divisor in a cyclic code is normally called the _________.a.Degreeb.Redundancyc.Generatord.None of the above",
+      "definition": "c.Generator"
+    },
+    {
+      "term": "The checksum of 0000 and 0000 isa.0101b.1010c.1111d.0000",
+      "definition": "c.1111"
+    },
+    {
+      "term": "In ASCII, a single parity bit code can detect ________ errors.a.Twob.An even number ofc.An odd number ofd.No errors",
+      "definition": "c.An odd number of"
+    },
+    {
+      "term": "In networks where errors are infrequent, which approach is favored for efficiency?a.Hop-by-hop approachb.End-to-end approachc.Either one of the aboved.Neither one of the above",
+      "definition": "b.End-to-end approach"
+    },
+    {
+      "term": "Which of the following statements is true about the stop-and-wait ARQ protocol?a.Stop-and-wait is only efficient if the link delay-bandwidth product is smallb.Stop-and-wait is only efficient if the link delay-bandwidth product is largec.Stop-and-wait is only efficient if the link bandwidth is highd.Stop-and-wait is only efficient if the link bandwidth is low",
+      "definition": "a.Stop-and-wait is only efficient if the link delay-bandwidth product is small"
+    },
+    {
+      "term": "Consider a situation where an interactive application produces a packet to send each keystroke from the client and the server echoes each keystroke that it receives from the client. Which of following strategies for sending ACK frames in a Go-Back-N is appropriate for the situation?a.send an ACK frame immediately after each frame is receivedb.send an ACK frame after every other frame is receivedc.send an ACK frame when the next piggyback opportunity arisesd.Any one of the above",
+      "definition": "c.send an ACK frame when the next piggyback opportunity arises"
+    },
+    {
+      "term": "Consider a bulk data transfer application where a server sends a large file that is segmented in a number of full-size packets that are to be transferred to the client. Assume the channel has a low probability of error. Which of following strategies for sending ACK frames in a Go-Back-N is appropriate for the situation?a.send an ACK frame after every other frame is receivedb.send an ACK frame immediately after each frame is receivedc.send an ACK frame when the next piggyback opportunity arisesd.Any one of the above",
+      "definition": "a.send an ACK frame after every other frame is received"
+    },
+    {
+      "term": "Consider Selective Repeat ARQ flow control protocol. In the following scenario, what should be the value of frame number x at receiver B?a.3b.2c.4d.None of the above",
+      "definition": "b.2"
+    },
+    {
+      "term": "ARQ protocols combine error detection, retransmission and sequence numbering to provide reliabilitya.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "A service model specifies a level of performance that can be expected in the transfer of information.a.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "A service offered at a given layer can include which of the following feature(s)a.Sequencingb.Reliabilityc.Timingd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Digital communication technologies may introduce errors in communication, which of the following can be used to provide reliable communication (Choose 2)a.DNSb.UDPc.TCPd.HDLC",
+      "definition": "c.TCP, d.HDLC"
+    },
+    {
+      "term": "Ensuring that information is not altered during transfer is associated witha.Availabilityb.Authenticationc.Confidentialityd.Integrity",
+      "definition": "d.Integrity"
+    },
+    {
+      "term": "Given 3 bits for sequence numbers, what is the maximum sliding window size at the receiver in Go Back 3 ARQ?a.3b.7c.8d.None of the above",
+      "definition": "b.7"
+    },
+    {
+      "term": "Given 3 bits for sequence numbers in Selective Repeat ARQ. If the sender already set the sliding window size to be 4, what is the maximum sliding window size at the receiver?a.3b.8c.7d.None of the above",
+      "definition": "d.None of the above"
+    },
+    {
+      "term": "Consider Selective Repeat ARQ flow control protocol. In the following scenario, what should be the value of frame number x at receiver B?a.3b.2c.4d.None of the above",
+      "definition": "b.2"
+    },
+    {
+      "term": "In the scenario above, what should be the value of frame number y at receiver B?a.3b.8c.7d.None of the above",
+      "definition": "c.7"
+    },
+    {
+      "term": "If the probability of error is very low in a communication link, which of the following statements is true about performance of ARQ protocol?a.Stop-and-wait and Go-back-N ARQ protocols have similar performanceb.Stop-and-wait and Selective Repeat ARQ protocols have similar performancec.Go-back-N ARQ and Selective Repeat ARQ protocols have similar performanced.None of the above",
+      "definition": "c.Go-back-N ARQ and Selective Repeat ARQ protocols have similar performance"
+    },
+    {
+      "term": "In peer-to-peer protocol, the purpose of Automatic Repeat Request is (Choose 2)a.to ensure a sequence of information packet is delivered out-of-orderb.to ensure a sequence of information packet is delivered in orderc.to ensure a sequence of information packet is delivered without errors or duplication despite transmission errors and lossesd.to ensure a sequence of information packet is delivered with an ACK request",
+      "definition": "b.to ensure a sequence of information packet is delivered in order, c.to ensure a sequence of information packet is delivered without errors or duplication despite transmission errors and losses"
+    },
+    {
+      "term": "Which of the basic elements of ARQ is associated with negative acknowledgementa.Error detecting codeb.Timeout mechanismc.ACKsd.NAKs",
+      "definition": "d.NAKs"
+    },
+    {
+      "term": "In Go-Back-N ARQ, a procedure where transmission of a new frame is begun before the completion of time of the previous frame transmission is calleda.Transitioningb.Pipeliningc.Channelingd.None of the above",
+      "definition": "b.Pipelining"
+    },
+    {
+      "term": "In Stop-and-Wait protocol, sequence number are not requireda.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "The disadvantage of Stop-and-Wait protocola.Error free communication channel does not existb.Acknowledgement may get lostc.Deadlock situation may occurd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of the following statements are true for the best-effort service of IP?a.Packets can arrive with errors or be lostb.Packets can arrive out-of-orderc.Packets can arrive after very long delaysd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of following services belong to the data link layer?a.Insert framing information into the transmitted stream to indicate the boundaries that define framesb.Provide error control to ensure reliable transmissionc.Provide flow control to prevent the transmitter from overrunning the receiver bufferd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which ARQ flow control protocol is used by TCP?a.Stop-and-Waitb.Selective Repeatc.Go-back-Nd.None of the above",
+      "definition": "b.Selective Repeat"
+    },
+    {
+      "term": "By framing, frame boundaries can be determined usinga.Character Countsb.Control Charactersc.Flagsd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of following statements are true about framing protocols?a.PPP uses character-based framing which requires byte stuffingb.HDLC uses Flag-based framing which required bit stuffingc.All of the aboved.None of the above",
+      "definition": "c.All of the above"
+    },
+    {
+      "term": "In IP network, which of the following statement is incorrecta.Packets can arrive out-of-orderb.Packets can arrive with errors or be lostc.Packets can arrive after long delaysd.Packets always arrive on time",
+      "definition": "d.Packets always arrive on time"
+    },
+    {
+      "term": "Framing involves identifying the beginning and end of a block of information within a digital streama.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "Which of the following statements are true for PPP byte stuffinga.Malicious users may inflate bandwidthb.Size of frame varies unpredictably due to byte insertionc.All of the aboved.None of the above",
+      "definition": "c.All of the above"
+    },
+    {
+      "term": "In PPP authentication, which of the following is true for Password Authentication Protocol (Choose 3)a.After several attempts, LCP closes linkb.Initiator and authenticator share a secret keyc.Transmitted unencrypted, susceptible to eavesdroppingd.Initiator must send ID and password",
+      "definition": "a.After several attempts, LCP closes link, c.Transmitted unencrypted, susceptible to eavesdropping, d.Initiator must send ID and password"
+    },
+    {
+      "term": "In HDLC frame format, flag is used to identify secondary station (1 or more octets)a.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Perform the bit stuffing procedure for the following binary sequence: 1101111111011111110101. What is the outcome?a.110111110110111110110101b.110111111101111111010100c.0010000000100000001010d.None of the above",
+      "definition": "a.110111110110111110110101"
+    },
+    {
+      "term": "Perform bit de-stuffing for the following sequence: 11101111101111100111110.a.11101111111111011111b.00010000010000011000001c.11100111111110011111d.None of the above",
+      "definition": "a.11101111111111011111"
+    },
+    {
+      "term": "HDLC is another data link control protocol widely in use. Its framing is based on which of the following?a.Byte stuffingb.Bit stuffingc.Word stuffingd.None of the above",
+      "definition": "b.Bit stuffing"
+    },
+    {
+      "term": "PPP is a data link protocol for point-to-point lines in Internet. Its framing is based on which of the following?a.Byte stuffingb.Bit stuffingc.Word stuffingd.None of the above",
+      "definition": "a.Byte stuffing"
+    },
+    {
+      "term": "Which of following statements are true for HDLC?a.supports various data transfer modesb.supports multi-point links and point to point linksc.implements error control and flow control mechanismsd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In PPP authentication, which of the following is true for Challenge-Handshake Authentication Protocol (CHAP) (Choose 2)a.Authenticator can reissue challenge during sessionb.After several attempts, LCP closes linkc.Initiator must send ID and passwordd.Initiator and authenticator share a secret key",
+      "definition": "a.Authenticator can reissue challenge during session, d.Initiator and authenticator share a secret key"
+    },
+    {
+      "term": "In error detection and loss recovery, which of the following statement is correcta.Frames may undergo errors in transmissionb.CRCs detect errors and such frames treated as lostc.Frames lost due to loss-of-synchronization or receiver buffer overflowd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In multiplexing, Last IN First Out (LIFO) is used to determine the order of packet transmissiona.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Generic Framing Procedure (GFP) allows the implementation of multiple transport modes that may coexist within the same transport channela.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In Generic Framing Procedure (GFP), which of the following sentences are correct (Choose 3)a.GFP rely on byte-stuffing mechanism to delineate protocol data units (PDUs)b.GFP uses an explicit payload length indicator provided in its frame header to accommodate variable length PDUsc.GFP provides flexible encapsulation framework that supports either a fixed or variable length frame structured.GFP uses a variation of HEC-based self delineation technique",
+      "definition": "b.GFP uses an explicit payload length indicator provided in its frame header to accommodate variable length PDUs, c.GFP provides flexible encapsulation framework that supports either a fixed or variable length frame structure, d.GFP uses a variation of HEC-based self delineation technique"
+    },
+    {
+      "term": "What is the primary function of medium access control?a.It is to deal with the flow control of a shared communication link.b.It is to minimize or eliminate the incidence of collisions of a shared communication link.c.It is to deal with the congestion control of a shared communication link.d.None of the above",
+      "definition": "b.It is to minimize or eliminate the incidence of collisions of a shared communication link."
+    },
+    {
+      "term": "What is the primary benefit provided by the Slotted ALOHA compared to ALOHA?a.Higher maximum throughputb.Lower access delayc.Both of the aboved.None of the above",
+      "definition": "a.Higher maximum throughput"
+    },
+    {
+      "term": "What is the vulnerable period of collisions in ALOHA?a.Round-trip propagation delayb.One frame transmission timec.Two frame transmission timed.None of the above",
+      "definition": "c.Two frame transmission time"
+    },
+    {
+      "term": "What is the vulnerable period of collisions in Slotted ALOHA?a.Round-trip propagation delayb.One frame transmission timec.Two frame transmission timed.None of the above",
+      "definition": "b.One frame transmission time"
+    },
+    {
+      "term": "What is the vulnerable period of collisions in Carrier Sense Multiple Access (CSMA)?a.One frame transmission timeb.Round-trip propagation delayc.None of the aboved.One propagation delay",
+      "definition": "d.One propagation delay"
+    },
+    {
+      "term": "The primary function of Media Access Control is to minimize or eliminate the instance of the collisions to achieve a reasonable utilization of the mediuma.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In media sharing techniques, which of the following are channelization approaches (Choose 3)a.Data Division Multiple Accessb.Code Division Multiple Accessc.Time Division Multiple Accessd.Frequency Division Multiple Access",
+      "definition": "b.Code Division Multiple Access, c.Time Division Multiple Access, d.Frequency Division Multiple Access"
+    },
+    {
+      "term": "Corresponding box of Carrier Sense Multiple Access/Collision Detection can be replaced by one of thea.Non-persistent processb.I-persistent processc.P-persistent processd.Persistent process",
+      "definition": "d.Persistent process"
+    },
+    {
+      "term": "Random access is also called thea.Controlled accessb.Channelizationc.Authenticationd.Contention methods",
+      "definition": "d.Contention methods"
+    },
+    {
+      "term": "In Carrier Sense Multiple Access (CSMA), possibility of collision still exist because ofa.Propagation delayb.Collision delayc.Transmit delayd.None of the above",
+      "definition": "a.Propagation delay"
+    },
+    {
+      "term": "Polling is a scheduling approach for dynamic medium access control. Which of following statements are correct?a.Polling can provide fairness through regulated access opportunitiesb.All of the abovec.Polling can provide bounds on access delay to the shared mediumd.Polling performance can deteriorate with large delay-bandwidth product",
+      "definition": "b.All of the above"
+    },
+    {
+      "term": "2) In a collision-free reservation system that has a large number of light-traffic stations, and the delay-bandwidth product is larger than 1. Which of following MAC protocol is a good fit for stations to reserve mini-slots?a.1-persistent CSMAb.Slotted ALOHAc.CSMA/CDd.None of the above",
+      "definition": "b.Slotted ALOHA"
+    },
+    {
+      "term": "In Carrier Sense Multiple Access with collision detection (CSMA-CD), how long will it take a collision to be detected and resolved?a.Round-trip propagation delayb.One propagation delayc.One frame transmission timed.None of the above",
+      "definition": "a.Round-trip propagation delay"
+    },
+    {
+      "term": "Suppose that the ALOHA protocol is used to share a 56 kbps satellite channel. Suppose that frames are 1000 bits long. What is the maximum throughput of the system in number of frames per second.a.1 frame per secondb.10 frames per secondc.100 frames per secondd.None of the above",
+      "definition": "b.10 frames per second"
+    },
+    {
+      "term": "Consider building a CSMA/CD network running at 1Gbps over a 1-km cable. The signal speed in the cable is 200,000 km/sec. What is the minimum frame size?a.64 Bytesb.640 Bytesc.1250 Bytesd.None of the above",
+      "definition": "c.1250 Bytes"
+    },
+    {
+      "term": "In media access control, which of the following statements are true for Channelization (Choose 3)a.Inflexible in allocating bandwidth to users with different requirementsb.Inefficient for bursty trafficc.Widely used in internet trafficd.Does not scale well to large numbers of users",
+      "definition": "a.Inflexible in allocating bandwidth to users with different requirements, b.Inefficient for bursty traffic, d.Does not scale well to large numbers of users"
+    },
+    {
+      "term": "Time-out period is equal to maximum possible propagation delay ofa.Square-tripb.Triangle-tripc.Round-tripd.Rectangle-trip",
+      "definition": "c.Round-trip"
+    },
+    {
+      "term": "Carrier Sense Multiple Access (CSMA) is based on medium calleda.Listen before sendingb.Sense before transmitc.Sense before Collisiond.Listen before talk",
+      "definition": "b.Sense before transmit"
+    },
+    {
+      "term": "In Carrier Sense Multiple Access (CSMA), if station senses medium before trying to use it then chance of collision can bea.Increasedb.Reducedc.Doubledd.Highlighted",
+      "definition": "b.Reduced"
+    },
+    {
+      "term": "Which of the following is not true for MAC schedulinga.More efficient channel utilizationb.Less variability in delaysc.Can provide fairness to stationsd.Reduced computational or procedural complexity",
+      "definition": "d.Reduced computational or procedural complexity"
+    },
+    {
+      "term": "Which of following features are typically true for local area networks?a.All of the aboveb.High speedc.Low round-trip delayd.Low error rate",
+      "definition": "a.All of the above"
+    },
+    {
+      "term": "Use HDLC and Ethernet to identify similarities between medium access control and data link control protocols. Which of following statements are true? (Choose 2)a.Both contains framing information that delineates the beginning and end of each frame.b.Both check the CRC in the received frames for errorsc.Both implement error control and flow control for reliable transmission.d.None of the above",
+      "definition": "a.Both contains framing information that delineates the beginning and end of each frame., b.Both check the CRC in the received frames for errors"
+    },
+    {
+      "term": "Use IEEE 802.3 and IEEE 802.11 to discuss differences between wired and wireless LANs. Which of following statements are true about the differences?a.Collision detectionb.Station mobilityc.All of the aboved.Error rate",
+      "definition": "c.All of the above"
+    },
+    {
+      "term": "Which of following is not a primary responsibility of the MAC sublayer in LANs?a.Protocol data unit addressingb.Fragmentation and reassembly of MAC service data unitc.Reliable connection-oriented serviced.Channel access",
+      "definition": "c.Reliable connection-oriented service"
+    },
+    {
+      "term": "In Ethernet, slot time that is at least the round-trip propagation delay, is the critical system parameter fora.upper bound on time to detect collisionb.All of the abovec.upper bound on time to acquire channeld.quantum for re-transmission scheduling",
+      "definition": "b.All of the above"
+    },
+    {
+      "term": "Which one of the following event is not possible in wireless LAN.a.Multi-mode data transferb.Collision avoidancec.Collision detectiond.Acknowledgement of data frames",
+      "definition": "c.Collision detection"
+    },
+    {
+      "term": "In 802.11 protocol, MAC can alternate between Contention Periods (CPs) and Contention-Free Periods (CFPs)a.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "CSMA/CD is not used in DCF becausea.a station is unable to listen to the channel for collisions while transmittingb.physical carrier sense detects the presence of other WLAN usersc.in idle state, a station is unable to listen to the channel for collisionsd.None of the above",
+      "definition": "a.a station is unable to listen to the channel for collisions while transmitting"
+    },
+    {
+      "term": "In infrastructure network supporting voice and data traffic, data traffic is transported through the CP and voice traffic through the CFPa.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "In 802.11 protocol, which of the following statements are true for Basic Service Set (BSS) (Choose 2)a.Location in a Basic Service Area (BSA)b.Multiple BSSs interconnected by Central System (CS)c.Distinct collocated BSS's cannot coexistd.Stations in BSS can communicate with each other",
+      "definition": "a.Location in a Basic Service Area (BSA), d.Stations in BSS can communicate with each other"
+    },
+    {
+      "term": "Consider a Gigabit Ethernet hub with stations at a 100-meter distance and average frame size of 512 bytes. Assume the propagation speed is at 2/3 of light speed. What is the value of normalized delay-bandwidth product?a.0.0122b.0.122c.1.22d.None of the above",
+      "definition": "b.0.122"
+    },
+    {
+      "term": "Wireless data communication is compelling, because of (Choose 2)a.Its easy and low-cost deploymentb.Its support to personal and mobile devicesc.Its high reliability to noise and interferenced.All of the above",
+      "definition": "a.Its easy and low-cost deployment, b.Its support to personal and mobile devices"
+    },
+    {
+      "term": "Why not use CSMA/CD in a wireless LAN? The primary reason isa.The round-trip delay in a wireless LAN is too largeb.The frame is usually very small in a wireless LANc.The hidden station problemd.All of the above",
+      "definition": "c.The hidden station problem"
+    },
+    {
+      "term": "In IEEE 802.11 MAC for wireless LANs, which of following inter-frame space (IFS) is used to transmit high-priority frames such as ACKs?a.DIFSb.PIFSc.None of the aboved.SIFS",
+      "definition": "d.SIFS"
+    },
+    {
+      "term": "Which of following statements identifies the similarity between HDLC (data link control) and Ethernet (medium access control)a.Both provide connection-oriented packet transfer services to the network layerb.All of the abovec.Both implement error control and flow control functions to provide reliable transmissiond.Both contain framing information that delineates the beginning and end of each frame",
+      "definition": "d.Both contain framing information that delineates the beginning and end of each frame"
+    },
+    {
+      "term": "Which multiple access technique is used by IEEE 802.11 standard for wireless LAN?a.ALOHAb.CDMAc.CSMA/CDd.CSMA/CA",
+      "definition": "d.CSMA/CA"
+    },
+    {
+      "term": "In CSMA/CA, An amount of time divided into slots calleda.Contention windowb.Contention procedurec.Contention energyd.Contention signals",
+      "definition": "a.Contention window"
+    },
+    {
+      "term": "Which of the following are management services offered by the MAC sublayer in wireless LAN (Choose 2)a.Power managementb.Network managementc.Storage managementd.Roaming within ESS",
+      "definition": "a.Power management, d.Roaming within ESS"
+    },
+    {
+      "term": "In medium access control sublayer, medium usage is mediated by the access control during contention perioda.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "In Carrier Sense Multiple Access/Collision Detection (CSMA/CD), to continue transmission process we use aa.Signalb.Loopc.Stationd.Access point",
+      "definition": "b.Loop"
+    },
+    {
+      "term": "Which layer LAN bridges work on?a.Transport layerb.Network layerc.Medium access controld.None of above",
+      "definition": "c.Medium access control"
+    },
+    {
+      "term": "One can use repeaters, bridges and routers to interconnect two LANs. Which of the following approaches will make local traffic stay in its own LAN? (Choose 2)a.bridgesb.routersc.repeatersd.All of the above",
+      "definition": "a.bridges, b.routers"
+    },
+    {
+      "term": "Of the following network layer functions, which one is optional?a.Routingb.Forwardingc.Congestion controld.None of the above",
+      "definition": "c.Congestion control"
+    },
+    {
+      "term": "Of the following, which is a basic function of transparent bridge?a.All of the aboveb.Prevents loops in the topologyc.Forwards frames from one LAN to anotherd.Learns where stations are attached to the LAN",
+      "definition": "a.All of the above"
+    },
+    {
+      "term": "It is possible for a network layer to provide a choice of services to the user of the network. Which of following the IP network layer offersa.Best-effort connectionless serviceb.All of the abovec.connection-oriented reliable stream serviced.connection-oriented transfer of packets with delay guarantee",
+      "definition": "a.Best-effort connectionless service"
+    },
+    {
+      "term": "The network layer is considered the most complex layer because of the following reasons (Choose 3)a.Responsible for displaying received information to usersb.Requires coordinated actions of multiple, geographically distributed network elementsc.User scalabilityd.Challenges such as addressing and routing",
+      "definition": "b.Requires coordinated actions of multiple, geographically distributed network elements, c.User scalability, d.Challenges such as addressing and routing"
+    },
+    {
+      "term": "An end-to-end function is best implemented at a lower level than at a higher levela.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Which of the following is an essential network functiona.Forwardingb.Routingc.Priority and schedulingd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In network layer, which of the following statement is true for packet networksa.Individual packet streams are highly burstyb.User demand can undergo dramatic changec.Internet structure is highly decentralizedd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "The main purpose of access multiplexer is to combine the typically bursty traffic flows from the individual computers into aggregate flowsa.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "Which of the following functions can a home router perform?a.All of the aboveb.Local area network access using WiFic.Private IP addresses in home by network address translationd.Single global IP address using DHCP",
+      "definition": "a.All of the above"
+    },
+    {
+      "term": "Consider a three hop network from the source to the destination. Let m be the packet transmission time at each hop. Let n be the propagation delay at each hop. Assume there is no queuing delay and processing time at each hop. Based on store-and-forward, what is the total time for the packet to be transmitted to the destination?a.m + nb.3m + nc.3m + 3nd.None of the above",
+      "definition": "c.3m + 3n"
+    },
+    {
+      "term": "Consider a three hop network from the source to the destination. Let m be the message transmission time at each hop. Let n be the propagation delay of each hop. Assume there is no queueing delay and processing time at each hop. Based on store-and-forward, what is the total time for three packets to be transmitted to the destination by packet pipelining?a.3m + 3nb.5m + 3nc.9m + 9nd.None of the above",
+      "definition": "b.5m + 3n"
+    },
+    {
+      "term": "Six stations (S1-S6) are connected to an extended LAN through transparent bridges (B1 and B2), as shown in the following figure. Initially, the forwarding tables are empty. Both bridges use backward learning to build their tables. Suppose station S2 transmits a frame to S1. Which of following statements is correct?a.The frame will reach bridge B1 onlyb.The frame will reach bridge B2 onlyc.None of the aboved.The frame will reach both bridges B1 and B2",
+      "definition": "d.The frame will reach both bridges B1 and B2"
+    },
+    {
+      "term": "Following the above question. Suppose stations S 3 transmits a frame to S5. Which of following statements is correct?a.The frame will reach bridge B1 onlyb.The frame will reach bridge B2 onlyc.The frame will reach both bridges B1 and B2d.None of the above",
+      "definition": "c.The frame will reach both bridges B1 and B2"
+    },
+    {
+      "term": "One can use repeaters, bridges and routers to interconnect two LANs. Which of the following approaches will make local traffic appear in both LANs?a.Repeaterb.Routersc.Bridgesd.All of the above",
+      "definition": "a.Repeater"
+    },
+    {
+      "term": "Packet pipelining can lead to latency in message deliverya.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "In internet, switching is done by using datagram approach to packet switching at thea.Network layerb.Data link layerc.Application layerd.Physical layer",
+      "definition": "a.Network layer"
+    },
+    {
+      "term": "A transparent bridge's duties includea.Forwardingb.Blockingc.Filtering framed.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "For a 10Mbps Ethernet link, if the length of the packet is 32bits, the transmission delay is(in microseconds)a.3.2b.0.32c.32d.320",
+      "definition": "a.3.2"
+    },
+    {
+      "term": "Which of following networks represents an example of virtual circuit switching at the network layer?a.IPb.ATMc.Both of the aboved.All of the above",
+      "definition": "b.ATM"
+    },
+    {
+      "term": "Consider a three hop network from the source to the destination. Let m be the message transmission time at each hop. Let n be the propagation delay of each hop. Assume there is no queueing delay and processing time at each hop. Based on cut-through switching, what is the total time for three packets to be transmitted to the destination?a.3m + 3nb.5m + 3nc.9m + 9nd.None of the above",
+      "definition": "a.3m + 3n"
+    },
+    {
+      "term": "Which of following issue exists in virtual-circuit subnet but not in datagram subnet?a.Addressingb.State informationc.Routingd.None of the above",
+      "definition": "b.State information"
+    },
+    {
+      "term": "Which of following describe general goals in a routing algorithm?a.Rapid responsiveness to network changesb.Robustness under high load and link failurec.Low overhead for implementationd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of following describe benefits of flooding, a specialized routing approach?a.No routing table needed for routersb.Useful in propagating information to all nodesc.Always reach the destination by the fastest pathd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "A Virtual-Circuit Network (VCN) is normally implemented in thea.session layerb.data link layerc.network layerd.Physical layer",
+      "definition": "b.data link layer"
+    },
+    {
+      "term": "In routing approaches, which of the following statement is true for deflection routing (Choose 2)a.Fixed, preset routing proceduresb.No route synthesisc.Useful in starting up networkd.Predefined source to destination route",
+      "definition": "a.Fixed, preset routing procedures, b.No route synthesis"
+    },
+    {
+      "term": "To reduce size of routing table, routers do lookup table on MAC addressa.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Flooding may easily swamp the network as one packet creates multiple packets, possibly in exponential growth rate. What are possible means to reduce resource consumption in the network?a.Use a time-to-live field in each packet to limit its lifetimeb.Add a unique identifier to a packet for removing its duplicatec.Use address and sequence number to discard duplicatesd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "What are possible metrics for routing?a.Hop countb.Delayc.Bandwidthd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Consider the network as shown in the figure. We use the Bellman-Ford algorithm to find the set of shortest paths from all nodes to the destination node 2. Each node maintains an entry (n, cost) about the next node along the current shortest path and the current minimum cost from the node to the destination. Initially, each node has entry (-1, infinity). In the first algorithm iteration, which nodes will update their entries and inform their neighbors? (Choose 2)a.1b.4c.5d.All of the above",
+      "definition": "a.1, c.5"
+    },
+    {
+      "term": "Following the above question, in the second algorithm iteration, which nodes will update their entries and inform their neighbors?a.3b.4c.6d.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Following the above question, in the third algorithm iteration, which nodes will update their entries and inform their neighbors?a.3b.4c.6d.All of the above",
+      "definition": "c.6"
+    },
+    {
+      "term": "In link state routing, after the construction of link state packets new routes are computed usinga.Dijkstra's algorithmb.Bellman Ford algorithmc.Leaky bucket algorithmd.None of the above",
+      "definition": "a.Dijkstra's algorithm"
+    },
+    {
+      "term": "A subset of a network that includes all the routers but contains no loops is calleda.Broadcast structureb.spanning treec.Multi-destination routing structured.None of the above",
+      "definition": "b.spanning tree"
+    },
+    {
+      "term": "In a router, which of the following statement is true for creating routing tablesa.Need information on state of linksb.Need to distribute link state information using a routing protocolc.Need to compute routes based on informationd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In a virtual-circuit packet network, routing is determined during connection set-upa.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In deflection routing, bufferless operation is considered a disadvantage due to packet lossa.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "What is the root problem of Bellman-Ford algorithm for distance vector approach?a.Counting to infinityb.Flooding overheadc.Cannot work in IPd.All of the above",
+      "definition": "a.Counting to infinity"
+    },
+    {
+      "term": "Which of following describe the benefits of link state routing compared to distance vector routing?a.Fast convergenceb.Support for multiple metricsc.Support for multiple paths to a destinationd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "What is the root problem of link state routing?a.Counting to infinityb.Flooding overheadc.Slow reaction to link failuresd.All of the above",
+      "definition": "b.Flooding overhead"
+    },
+    {
+      "term": "Which of following is the implementation of distance vector approach in the IP routing protocol?a.RIPb.OSPFc.BGPd.None of the above",
+      "definition": "a.RIP"
+    },
+    {
+      "term": "Which of following is the implementation of link state approach in the IP routing protocol?a.RIPb.OSPFc.BGPd.None of the above",
+      "definition": "b.OSPF"
+    },
+    {
+      "term": "In Routing Information Protocol (RIP), the use of max number limited to 15 limits the count-to-infinity problema.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In an OSPF network, routers in area only knows complete topology inside area and limits the flooding of link-state information to areaa.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In link state routing, which of the following are possible steps taken to resolve the problem of old update messages (Choose 2)a.Add time stamp to each update messageb.Add sequence number to each update messagec.Add a null number to each update messaged.None of the above",
+      "definition": "a.Add time stamp to each update message, b.Add sequence number to each update message"
+    },
+    {
+      "term": "In Asynchronous Transfer Mode (ATM), which of the following is an examples of supported servicesa.Real time voice and videob.Circuit emulation for digital transportc.Data traffic with bandwidth guaranteesd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of the following features are true for asynchronous transfer mode (ATM)?a.All of the aboveb.It is connection-orientedc.It supports quality of serviced.It only supports fixed-length packets",
+      "definition": "a.All of the above"
+    },
+    {
+      "term": "In Asynchronous Transfer Mode (ATM), the packet structure attribute simplifies implementation and ensures high speed transfera.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Consider the network as shown in the figure. We use the Dijkstra's algorithm to find the set of shortest paths from all nodes to the destination node 4. In Dijkstra's algorithm, each iteration the next closet node is added to the set with the root node. At the first iteration, which node will be added to the set N?a.3b.5c.1d.2",
+      "definition": "d.2"
+    },
+    {
+      "term": "Following the question above, at the second iteration, which node will be added to the set N?a.5b.3c.1d.6",
+      "definition": "b.3"
+    },
+    {
+      "term": "Following the question above, at the third iteration, which node will be added to the set N?a.3b.1c.5d.6",
+      "definition": "c.5"
+    },
+    {
+      "term": "Following the question above, at the fourth iteration, which node will be added to the set N?a.5b.6c.1d.3",
+      "definition": "b.6"
+    },
+    {
+      "term": "In RIP operation, which of the following statement is correcta.Router sends update message to neighbors every 30 secb.To deal with changes in topology such as a link failure, a router expects an update from each of its neighbors within 180 secc.Convergence speed up by triggered updatesd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "What are the limitations of RIP protocol (Choose 2)a.Limited metric useb.Slow convergencec.Fixed number of hopsd.Update message overhead",
+      "definition": "a.Limited metric use, b.Slow convergence"
+    },
+    {
+      "term": "In Open Shortest Path First (OSPF), which of the following statements are correct (Choose 3)a.OSPF typically converges slower than RIp when there is a failure in the networkb.Each router builds an identical link-state databasec.Allows routers to build shortest path tree with router as rootd.Enables each router to learn complete network topology",
+      "definition": "b.Each router builds an identical link-state database, c.Allows routers to build shortest path tree with router as root, d.Enables each router to learn complete network topology"
+    },
+    {
+      "term": "Which of the following is a type of router defined in OSPFa.Internal routerb.Area border routerc.Backbone routerd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In a distance vector routing, if a link failsa.All routers immediately update their link database and recalculate their shortest pathb.Neighboring routers exchange routing tables that may use failed linksc.Routers set link distance to infinity and floods the network with an update packetd.All of the above",
+      "definition": "b.Neighboring routers exchange routing tables that may use failed links"
+    },
+    {
+      "term": "Based on traffic granularity, which of the following levels is traffic management not usually classified into?a.Flow-aggregated levelb.Packet levelc.Byte leveld.Flow level",
+      "definition": "c.Byte level"
+    },
+    {
+      "term": "Which of following statements is true for FIFO queueing?a.In FIFO queueing, arriving packets will be discarded if the buffer is fullb.In FIFO queueing, all packet flows share the same bufferc.FIFO queueing cannot provide differentiated QoS to packet flowsd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of following is not a packet-level mechanism?a.Token bucket shapingb.Fair queueingc.Random early detectiond.Head-of-line priority queueing",
+      "definition": "a.Token bucket shaping"
+    },
+    {
+      "term": "What are typical end-to-end Quality-of-Service factors?a.Packet delayb.Jitterc.Packet loss rated.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "By Random Early Detection (RED), when a given source transmits at a higher rate than others, the source willa.Achieves a lower waiting delayb.Achieves a higher bandwidthc.Suffers a higher packet-dropping rated.Suffers a lower packet-dropping rate",
+      "definition": "c.Suffers a higher packet-dropping rate"
+    },
+    {
+      "term": "The simplest approach to queue scheduling is First-In, First-out queueing, where all packet flow make use of different buffera.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "In FIFO queueing, delay and loss of packets depends on _________ and _________a.Packet size, sequence numberb.inter-arrival, packet lengthsc.routing path, sequence numberd.RTT value, packet lengths",
+      "definition": "b.inter-arrival, packet lengths"
+    },
+    {
+      "term": "Which of the following is a feature of fair queueinga.Every user flows share the same logical bufferb.Idealized system assumes fluid flow from queuesc.Addresses different users by order or requestd.None of the above",
+      "definition": "b.Idealized system assumes fluid flow from queues"
+    },
+    {
+      "term": "In buffer management, drop priorities requires packet to drop when buffer is fulla.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "What are the key mechanisms in Open-Loop Control (Choose 3)a.Traffic shapingb.Admission controlc.Re-routingd.Policing",
+      "definition": "a.Traffic shaping, b.Admission control, d.Policing"
+    },
+    {
+      "term": "Which of the following statements is wrong about fair queuing?a.Fair queueing is a packet-level traffic managementb.Fair queueing attempts to provide equal-size buffers to flowsc.Fair queueing attempts to provide equitable access to transmission bandwidthd.All of the above",
+      "definition": "b.Fair queueing attempts to provide equal-size buffers to flows"
+    },
+    {
+      "term": "To guarantee network performance during the lifetime of admitted flows, open-loop control relies on the following mechanism except:a.Head-of-Line queueingb.Traffic shapingc.Traffic policingd.Admission control",
+      "definition": "a.Head-of-Line queueing"
+    },
+    {
+      "term": "Which of following statements about leaky bucket is wrong?a.In the leaky bucket, the packet output rate can be variableb.In leaky bucket, when the bucket is full, the new arriving packets may be discardedc.In the leaky bucket, the packet output rate is always constantd.Leaky bucket is a flow-level traffic management mechanism",
+      "definition": "a.In the leaky bucket, the packet output rate can be variable"
+    },
+    {
+      "term": "Consider a token bucket approach for traffic shaping. A token is generated every 5 micro-seconds. Each packet can hold 48 bytes of data. What is the sustainable data transmission rate by the token bucket?a.7.68 Mbpsb.76.8 Mbpsc.768 Mbpsd.None of the above",
+      "definition": "b.76.8 Mbps"
+    },
+    {
+      "term": "Upon which of the following condition is token bucket and leaky bucket the same?a.Leaky bucket size is infiniteb.Token bucket size is infinitec.Leaky bucket size is zerod.Token bucket size is zero",
+      "definition": "d.Token bucket size is zero"
+    },
+    {
+      "term": "In buffer management, which feature requires packet to drop when buffer is fulla.Fairnessb.Aggregationc.Drop prioritiesd.Drop strategy",
+      "definition": "d.Drop strategy"
+    },
+    {
+      "term": "In Head of Line (HOL) priority queueing, which of the following statement is a feature for this approacha.Provides differential QoSb.High-priority classes can hog all of the bandwidth and starve lower priority classesc.Need to provide some isolation between classesd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In buffer management, which of the following statement is correct for Random Early Detection (RED) technique (Choose 2)a.Improves performance of cooperating TCP sourcesb.Reduce loss probability of misbehaving sourcesc.Packets produced by TCP will reduce input rate in response to network congestiond.Early drop causes some sources to reduce rate before others, causing gradual reduction in in aggregate input rate",
+      "definition": "a.Improves performance of cooperating TCP sources, c.Packets produced by TCP will reduce input rate in response to network congestion"
+    },
+    {
+      "term": "In Closed-Loop flow control, which of the following mechanism is used in congestion control to regulate the flow from sources into network (Choose 2)a.Buffer lengthb.Link utilizationc.Packet header sized.Round-Trip Time",
+      "definition": "a.Buffer length, b.Link utilization"
+    },
+    {
+      "term": "In congestion warning, the feedback mechanism can be implicit or explicit. Which of the following is an example of implicit feedbacka.A time-out due to missing acknowledgementb.The warning bit in ACKsc.Choke packets to the sourced.None of the above",
+      "definition": "a.A time-out due to missing acknowledgement"
+    },
+    {
+      "term": "Which of the following protocols work at IP layer?a.ICMPb.ARPc.IGMPd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of the following packet header length cannot be used in an IPv4 packet header?a.20 Bytesb.30 Bytesc.60 Bytesd.64 Bytes",
+      "definition": "b.30 Bytes"
+    },
+    {
+      "term": "How many bits used for header checksum in IPv4 packets?a.8 bitsb.16 bitsc.32 bitsd.None of the above",
+      "definition": "b.16 bits"
+    },
+    {
+      "term": "What is the dotted notation of an IP address of 10000000 10000111 01000100 00000101 ?a.128.135.68.5b.128.135.65.5c.128.133.68.5d.128.135.65.5",
+      "definition": "a.128.135.68.5"
+    },
+    {
+      "term": "Which of the following is provided at the IP layera.Connectionlessb.Best effort delivery servicec.Both of the aboved.None of the above",
+      "definition": "c.Both of the above"
+    },
+    {
+      "term": "Given a network address 128.100.0.0, what is its network class type?a.Class Ab.Class Bc.Class Cd.None of the above",
+      "definition": "b.Class B"
+    },
+    {
+      "term": "You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which will be your closest choicea.255.255.255.224b.255.255.255.192c.255.255.255.240d.255.255.255.248",
+      "definition": "a.255.255.255.224"
+    },
+    {
+      "term": "What is the subnetwork number of a host with an IP address of 172.16.66.0/21a.172.16.48.0b.172.16.64.0c.172.16.0.0d.172.16.36.0",
+      "definition": "b.172.16.64.0"
+    },
+    {
+      "term": "What is the first valid host on the subnetwork that the node 172.30.190.198/24 belongs to?a.172.30.190.0b.172.30.190.1c.172.30.190.100d.None of the above",
+      "definition": "b.172.30.190.1"
+    },
+    {
+      "term": "Based on 1.1.1.0/24, the IP address would be:a.Class Ab.Class Bc.Class Cd.Class D",
+      "definition": "a.Class A"
+    },
+    {
+      "term": "Which of following is the range of IPv4 addresses spanned by Class C?a.1.0.0.0 to 127.255.255.255b.128.0.0.0 to 191.255.255.255c.192.0.0.0 to 223.255.255.255d.None of the above",
+      "definition": "c.192.0.0.0 to 223.255.255.255"
+    },
+    {
+      "term": "If a subnet needs to accommodate up to 500 hosts. How many bits for HostID would be sufficient?a.7b.8c.5d.9",
+      "definition": "d.9"
+    },
+    {
+      "term": "Consider a Class B network, where the subnet ID takes 9 bits. What will be the subnet mask?a.11111111 11111111 11111110 00000000b.11111111 11111111 11111111 10000000c.11111111 11111111 00000000 00000000d.None of the above",
+      "definition": "b.11111111 11111111 11111111 10000000"
+    },
+    {
+      "term": "Given a subnet mask 255.255.255.240, how many hosts the subnet can support?a.14b.30c.62d.None of the above",
+      "definition": "a.14"
+    },
+    {
+      "term": "A host in an organization has an IP address 150.32.64.34 and a subnet mask 255.255.240.0. What is the address of this subnet?a.150.32.64.0b.150.32.64.24c.150.32.64.32d.150.32.64.16",
+      "definition": "a.150.32.64.0"
+    },
+    {
+      "term": "What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet maska.14b.15c.30d.62",
+      "definition": "c.30"
+    },
+    {
+      "term": "When calculating usable hosts per subnet, the following formula is used 2^bits - 2. For what reason is two subtracted? (choose two)a.Broadcastb.Unicastc.Networkd.Multicast",
+      "definition": "a.Broadcast, c.Network"
+    },
+    {
+      "term": "How many hosts can be addressed on 10.0.0.0/16?a.16b.254c.65536d.65534",
+      "definition": "d.65534"
+    },
+    {
+      "term": "Which of the following is a valid IP host address given the network ID of 191.254.0.0 while using 11 bits for subnetting?a.191.254.0.96b.191.54.1.64c.191.254.1.29d.191.254.0.32",
+      "definition": "c.191.254.1.29"
+    },
+    {
+      "term": "DISCO Corporation has been assigned the Class B network address 165.87.0.0. DISCO needs to divide the network into eight subnets. What subnet mask should be applied to the network to provide the most hosts per subnet?a.255.255.248.0b.255.255.224.0c.255.255.240.0d.255.255.192.0",
+      "definition": "c.255.255.240.0"
+    },
+    {
+      "term": "Which class of IP addresses does CIDR performs aggregation on?a.Class Db.Class Ac.Class Bd.Class C",
+      "definition": "d.Class C"
+    },
+    {
+      "term": "Using a CIDR notation, a prefix 205.100.0.0 of length 22 is written as 205.100.0.0/22. What network mask that the /22 notation indicates?a.205.255.255.0b.255.255.252.0c.255.255.22.0d.None of the above",
+      "definition": "b.255.255.252.0"
+    },
+    {
+      "term": "Perform CIDR aggregation on the following /24 IP addresses: 128.58.24.0/24, 128.58.25.0/24, 128.58.26.0/24, 128.58.27.0/24. What is the CIDR outcome?a.128.58.28.0/22b.128.58.24.0/22c.128.58.28.0/24d.None of the above",
+      "definition": "b.128.58.24.0/22"
+    },
+    {
+      "term": "Which protocol provides conversion from an IP address to a physical address?a.ARPb.DNSc.ICMPd.IGRP",
+      "definition": "a.ARP"
+    },
+    {
+      "term": "Which protocol is used to assign temporary IP addresses to hosts?a.ICMPb.DHCPc.ARPd.None of the above",
+      "definition": "b.DHCP"
+    },
+    {
+      "term": "In order to maximize the usage of limited IP addresses, which of the following protocol is commonly useda.NATb.DHCPc.Both of the aboved.None of the above",
+      "definition": "c.Both of the above"
+    },
+    {
+      "term": "The internet protocol allows IP fragmentation so that datagrams can be fragmented into pieces small enough to pass over a link with a smaller MTU than the original datagram sizea.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "Which of the following statement is correct for IPv6a.Broadcast in IPv4 have been replaced with multicast in IPv6b.There are 2.7 billion available addressesc.Does not support multiple multiple IPv6 address per interfaced.Addresses are not hierarchical and are randomly assigned",
+      "definition": "a.Broadcast in IPv4 have been replaced with multicast in IPv6"
+    },
+    {
+      "term": "Bootstrap Protocol (BOOTP) allows a diskless workstation to be remotely booted up in a network with TCP port designation for both client and servera.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "In NAT operations, which of the following statements are correct (Select 3)a.Hosts inside private networks generate packets with private IP address and TCP/UDP port numbersb.Translation table allows packets to be routed ambiguouslyc.NAT maps each private IP address and port number into shared global IP address and available port numberd.Translation table allows packets to be routed unambiguously",
+      "definition": "a.Hosts inside private networks generate packets with private IP address and TCP/UDP port numbers, c.NAT maps each private IP address and port number into shared global IP address and available port number, d.Translation table allows packets to be routed unambiguously"
+    },
+    {
+      "term": "Packet is to be forwarded to a network with MTU of 592 bytes. The packet has an IP header of 20 bytes and a data part of 1484 bytes. Which of following maximum data length per fragment is legitimate?a.592b.572c.562d.568",
+      "definition": "d.568"
+    },
+    {
+      "term": "IPv6 allows fragmentation ata.Source onlyb.Intermediate routers onlyc.Both source and intermediate routersd.None of the above",
+      "definition": "a.Source only"
+    },
+    {
+      "term": "What information is used as the entry of the lookup table in a Network Address Translation box?a.IP addressb.UDP port numberc.TCP port numberd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of following fields that IPv6 dropped from IPv4?a.Header checksumb.Header lengthc.All of the aboved.ID/flags/frag offset",
+      "definition": "c.All of the above"
+    },
+    {
+      "term": "in practical IPv6 application, a technology encapsulates IPv6 packets inside IPv4 packets, this technology is calleda.IP tunnelingb.Network address translationc.Dynamic host configuration protocold.Routing",
+      "definition": "a.IP tunneling"
+    },
+    {
+      "term": "Which fields in IP packet provide for fragmentation of datagrams to allow differing MTUs in the internet (Choose 3)a.Fragmentation offsetb.Identificationc.Type of serviced.Flags",
+      "definition": "a.Fragmentation offset, b.Identification, d.Flags"
+    },
+    {
+      "term": "IPv6 has a much larger space ofa.2^8b.2^16c.2^32d.2^128",
+      "definition": "d.2^128"
+    },
+    {
+      "term": "Which of these statements are true of IPv6 representation (Choose 2)a.Every IPv6 interface contains at least one loopback addressb.Leading zeros in an IPv6 16 bit hexadecimal field are mandatoryc.The first 64 bits represent the dynamically created interface ID.d.A single interface may be assigned multiple IPv6 addresses of any type",
+      "definition": "a.Every IPv6 interface contains at least one loopback address, d.A single interface may be assigned multiple IPv6 addresses of any type"
+    },
+    {
+      "term": "Which of the following statement is true for DHCPa.Used extensively to assign temporary IP addresses to hostsb.Allows ISP to maximize usage of their limited IP addressesc.Time threshold to enforce lease timed.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "In Network Address Translation (NAT), which of the following statement is true for a packet with an associated private IP address at the routers in the global interneta.Forwarded to the destination address in the packet headerb.Discarded due to the nature of the packet addressc.Create an exception and then forward the packet to the destination address in the headerd.Redirected to other routers for address confirmation",
+      "definition": "b.Discarded due to the nature of the packet address"
+    },
+    {
+      "term": "Which of following control is enabled in UDP?a.Flow controlb.Error controlc.Congestion controld.None of the above",
+      "definition": "d.None of the above"
+    },
+    {
+      "term": "Which of following information is not used in UDP de-multiplexing?a.Destination port numberb.Destination IP addressc.Source IP addressd.Source port number",
+      "definition": "d.Source port number"
+    },
+    {
+      "term": "TCP adopts selective repeat ARQ protocol for flow control. In TCP flow control implementation, the window slides ata.Per-packet basisb.Per-byte basisc.Per-bit basisd.None of the above",
+      "definition": "b.Per-byte basis"
+    },
+    {
+      "term": "Which flag bit in TCP header must be set when a TCP client initiates a three-way handshake?a.SYNb.ACKc.RSTd.None of the above",
+      "definition": "a.SYN"
+    },
+    {
+      "term": "Which flag bit in TCP header must be set when a TCP entity wants to terminate a connection?a.SYNb.FINc.ACKd.RST",
+      "definition": "b.FIN"
+    },
+    {
+      "term": "In Transmission Control Protocol (TCP), When a segment carries a combination of data and control information, it uses aa.Slot Numberb.Source Numberc.Sequence Numberd.Port Number",
+      "definition": "c.Sequence Number"
+    },
+    {
+      "term": "Transmission Control Protocol (TCP), has same Checksum controlling likea.IPb.UDPc.TCP/IPd.ICMP",
+      "definition": "b.UDP"
+    },
+    {
+      "term": "In TCP connection management, which of the following statements are true (Choose 2)a.Select initial sequence numbers (ISN) to protect against segments from prior connectionsb.High bandwidth connection pose a problemc.Use global clock to select ISN sequence numberd.Time for clock to go through a full cycle should be less than the maximum lifetime of a segment",
+      "definition": "a.Select initial sequence numbers (ISN) to protect against segments from prior connections, b.High bandwidth connection pose a problem"
+    },
+    {
+      "term": "In phases of congestion behavior, when arrival rate is greater than outgoing line bandwidtha.Congestion collapseb.Light trafficc.Congestion onsetd.Knee",
+      "definition": "a.Congestion collapse"
+    },
+    {
+      "term": "Which of the following services are provided by UDPa.IPb.De-multiplexingc.Error Checkingd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "When a TCP client initiates a three-way handshake with a sequence number x, what will be the acknowledgement number when the TCP server replies?a.xb.x + 1c.x + y (where y is the sequence number proposed by TCP server)d.None of the above",
+      "definition": "b.x + 1"
+    },
+    {
+      "term": "TCP header has a field called window size. What value is the value window size set to?a.Round-trip delayb.None of the abovec.Advertised window size for flow controld.Advertised window size for congestion control",
+      "definition": "b.None of the above"
+    },
+    {
+      "term": "In general, there are three phases of congestion behavior, i.e., light traffic, knee, congestion collapse. Which phase does TCP congestion avoidance maps to?a.Light trafficb.Kneec.Congestion collapsed.None of the above",
+      "definition": "b.Knee"
+    },
+    {
+      "term": "When three duplicate acknowledgements arrive before timeout expires, what will TCP congestion control algorithm reset congestion threshold to for fast re-transmission and fast recovery?a.Reset congestion threshold to 1b.Reset congestion threshold to half of the current congestion window sizec.Reset congestion threshold to the current congestion window sized.None of the above",
+      "definition": "b.Reset congestion threshold to half of the current congestion window size"
+    },
+    {
+      "term": "Question 5Assume a TCP source writes a 1200-byte message in one write. Which of following is possible for the destination to receive the message?a.It receives a 1200-byte message in one readb.It receives two reads of 600 bytes eachc.It receives three reads of 400 bytes eachd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "The process of combining multiple outgoing protocol streams at the Transport and Network layers in TCP/IP is called Multiplexinga.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "TIMELY provides a framework for rate control that depends on transport layer protocol for reliabilitya.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "The operation of TCP congestion control can be divided into three phases, which phase requires that the congestion window size be increased by one segment upon receiving an ACK from receivera.Congestion avoidanceb.Slow startc.Congestiond.None of the above",
+      "definition": "b.Slow start"
+    },
+    {
+      "term": "In a router, the control of the transmission rate at the sender's side such that the router's buffer will not be over-filled is called _________ if sender is transmitting too fasta.Network under-utilizationb.Host floodingc.Network congestiond.None of the above",
+      "definition": "c.Network congestion"
+    },
+    {
+      "term": "Congestion control is associated with the window size fielda.Trueb.False",
+      "definition": "b.False"
+    },
+    {
+      "term": "Which of following protocol allows a host to signal its multicast group membership to its attached routers?a.ICMPb.IGMPc.OPSFd.None of the above",
+      "definition": "b.IGMP"
+    },
+    {
+      "term": "Which of following statements most accurately describes the reverse-path broadcasting?a.It assumes that the shortest path from the source to a given router should be the same as the shortest path from the router to the sourceb.Each link in the network to be symmetricc.Each packet is forwarded by a router exactly onced.All of the above",
+      "definition": "a.It assumes that the shortest path from the source to a given router should be the same as the shortest path from the router to the source"
+    },
+    {
+      "term": "Which class of IP address does the reverse-path broadcasting uses?a.Class Cb.Class Bc.Class Ad.Class D",
+      "definition": "d.Class D"
+    },
+    {
+      "term": "Attackers attempt to gain unauthorized access to server. What type of network security threat it imposes?a.Client imposterb.Server imposterc.Man-in-Middled.None of the above",
+      "definition": "a.Client imposter"
+    },
+    {
+      "term": "In mobile IP, when a home agent wants to send a packet to a mobile host in a foreign network, each IP packet at the home agent will be encapsulated with an outer IP header. What is the destination IP address in the outer IP header?a.Care-of addressb.Mobile host's addressc.Home agent's addressd.None of the above",
+      "definition": "a.Care-of address"
+    },
+    {
+      "term": "An IP address associated with a mobile node while visiting a foreign linka.Care of addressb.Handover addressc.Home linkd.Home address",
+      "definition": "a.Care of address"
+    },
+    {
+      "term": "TCP SYN flood attack exploits the TCP three-way handshakea.Trueb.False",
+      "definition": "a.True"
+    },
+    {
+      "term": "In multicast communication, relationship isa.one to oneb.many to onec.one to manyd.one to all",
+      "definition": "c.one to many"
+    },
+    {
+      "term": "What is the security requirement in case of Denial of Service?a.Privacyb.Availabilityc.Integrityd.None of the above",
+      "definition": "b.Availability"
+    },
+    {
+      "term": "In a software defined network (SDN), which of the architectural layer is responsible for switch configuration and forwarding instruction?a.Middle layerb.Infrastructure layerc.Security layerd.None of the above",
+      "definition": "a.Middle layer"
+    },
+    {
+      "term": "What is the security requirement in case of Malicious Code?a.Privacyb.Availabilityc.Integrityd.All of the above",
+      "definition": "d.All of the above"
+    },
+    {
+      "term": "Which of the following is not a general misconception of SDN?a.SDN is a mechanismb.SDN is an open API for that provides standard interface for programming switchesc.SDN is a framework to solve a set of problemsd.All of the above",
+      "definition": "c.SDN is a framework to solve a set of problems"
+    },
+    {
+      "term": "Which component of NFV comprises of hardware and software required to deploy, manage and execute VNFs.a.Network functionb.Network function modulesc.NFVId.None of the above",
+      "definition": "c.NFVI"
+    },
+    {
+      "term": "In Reverse-Path Broadcasting (RPB) scenario, assume each router knows current shortest path to source node. Which of the following statement denotes the router's action (Choose 2)a.If shortest path to source is through the same port, router forwards the packet to all other portsb.If shortest path to source is through different port, router drops the packetc.The router stores the packet in a buffer and wait for an explicit routing request from the sourced.Upon receipt of a multicast packet, router records the packet's destination address and the forwarding port",
+      "definition": "a.If shortest path to source is through the same port, router forwards the packet to all other ports, b.If shortest path to source is through different port, router drops the packet"
+    },
+    {
+      "term": "A peer with which a mobile node is communicating is calleda.Correspondent nodeb.Home agentc.Mobile noded.Foreign agent",
+      "definition": "a.Correspondent node"
+    },
+    {
+      "term": "Reverse Path Multicasting (RPM) is used to increasea.Efficiencyb.Performancec.Accuracyd.Strength",
+      "definition": "a.Efficiency"
+    },
+    {
+      "term": "In Reverse Path Forwarding, router receives a packet and extracts thea.Source addressb.Protocol addressc.IP addressd.Standard address",
+      "definition": "a.Source address"
+    },
+    {
+      "term": "A network can receive a multicast packet from a particular source only through aa.designated parent resolveb.designated parent routerc.designated protocol routerd.None of the above",
+      "definition": "b.designated parent router"
+    },
+    {
+      "term": "In Head of Line (HOL) priority queueing, which of the following statement is true for this approach(Choose 2)a.High priority queue has higher waiting timeb.Buffers can be dimensioned for different loss probabilitiesc.High priority queue has lower waiting timed.High priority queue services until empty",
+      "definition": "c.High priority queue has lower waiting time, d.High priority queue services until empty"
+    },
+    {
+      "term": "Consider the network as shown in the figure. We use the Dijkstra's algorithm to find the set of shortest paths from all nodes to the destination node 4. In Dijkstra's algorithm, each iteration the next closet node is added to the set with the root node. At the first iteration, which node will be added to the set N? | 2 | 1 | 3 | 5",
+      "definition": "2"
+    }
+  ]
+}
