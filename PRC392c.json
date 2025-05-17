@@ -1,0 +1,404 @@
+{
+  "quizSrc": [
+    {
+      "term": "What are the four main factors that a solutions architect should consider when they must choose a Region? 1 point A. Latency, price, service availability, and compliance B. Latency, high availability, taxes, and compliance C. Latency, taxes, speed, and compliance D. Latency, security, high availability, and resiliency",
+      "definition": "A. Latency, price, service availability, and compliance"
+    },
+    {
+      "term": "True or False: Every action a user takes in AWS is an API call. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which statement BEST describes the relationship between Regions, Availability Zones and data centers? 1 point A. Availability Zones are clusters of Regions. Regions are clusters of data centers. B. Data centers are cluster of Availability Zones. Regions are clusters of Availability Zones. C. Regions are clusters of Availability Zones. Availability Zones are clusters of data centers. D. Data centers are clusters of Regions. Regions are clusters of Availability Zones.",
+      "definition": "C. Regions are clusters of Availability Zones. Availability Zones are clusters of data centers."
+    },
+    {
+      "term": "Which of the following is a benefit of cloud computing? 1 point A. Run and maintain your own data centers. B. Increase time-to-market. C. Overprovision for scale. D. Go global in minutes.",
+      "definition": "D. Go global in minutes."
+    },
+    {
+      "term": "A company wants to manage AWS services by using the command line and automating them with scripts. What should the company use to accomplish this goal? 1 point A. AWS Management Console B. AWS Command Line Interface (AWS CLI) C. AWS SDKs D. AWS Management Console and AWS SDKs",
+      "definition": "B. AWS Command Line Interface (AWS CLI)"
+    },
+    {
+      "term": "What is a best practice when securing the AWS account root user? 1 point A. Activate AWS Identity and Access Management (IAM) access to the Billing and Cost Management console B. Use the root user for routine administrative tasks C. Change account settings D. Enable multi-factor authentication",
+      "definition": "D. Enable multi-factor authentication"
+    },
+    {
+      "term": "A solutions architect is consulting for a company. When users in the company authenticate to a corporate network, they want to be able to use AWS without needing to sign in again. Which AWS identity should the solutions architect recommend for this use case? 1 point A. AWS account root user B. AWS Identity and Access Management (IAM) user C. IAM Role D. IAM Group",
+      "definition": "C. IAM Role"
+    },
+    {
+      "term": "Which of the following can be found in an AWS Identity and Access Management (IAM) policy? 1 point A. Effect B. Action C. Object D. A and B E. B and C",
+      "definition": "D. A and B"
+    },
+    {
+      "term": "True or False: AWS Identity and Access Management (IAM) policies can restrict the actions of the AWS account root user. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "According to the AWS shared responsibility model, which of the following is the responsibility of AWS? 1 point A. Controlling the operating system and application platform, as well as encrypting, protecting, and managing customer data. B. Managing customer data, encrypting that data, and protecting the data through network firewalls and backups. C. Managing the hardware, software, and networking components that run AWS services, such as the physical servers, host operating systems, virtualization layers, and AWS networking components. D. Managing customer data, encrypting that data, and protecting the data through client-side encryption.",
+      "definition": "C. Managing the hardware, software, and networking components that run AWS services, such as the physical servers, host operating systems, virtualization layers, and AWS networking components."
+    },
+    {
+      "term": "Which of the following is recommended if a company has a single AWS account, and multiple people who work with AWS services in that account? 1 point A. All people must use the root user to work with AWS services on a daily basis. B. The company should create an AWS Identity and Access Management (IAM) group, grant the group permissions to perform specific job functions, and assign users to a group, or use IAM roles. C. The company must create AWS Identity and Access Management (IAM) users, and grant users the permissions to perform specific job functions. D. The company must create an AWS Identity and Access Management (IAM) user and grant the user the permissions to access all AWS resources.",
+      "definition": "B. The company should create an AWS Identity and Access Management (IAM) group, grant the group permissions to perform specific job functions, and assign users to a group, or use IAM roles."
+    },
+    {
+      "term": "True or False: According to the AWS shared responsibility model, a customer is responsible for security in the cloud. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following provides temporary credentials (that expire after a defined period of time) to AWS services? 1 point A. Principle of least privilege B. IAM role C. Identity provider (IdP) D. AWS IAM Identity Center (successor to AWS Single Sign-On)",
+      "definition": "B. IAM role"
+    },
+    {
+      "term": "A user is hosting a solution on Amazon Elastic Compute Cloud (Amazon EC2). Which networking component is needed to create a private network for their AWS resources? 1 point A. Virtual private cloud (VPC) B. Instance C. Tags D. Amazon Machine Image (AMI)",
+      "definition": "A. Virtual private cloud (VPC)"
+    },
+    {
+      "term": "Which information is needed to create a virtual private cloud (VPC)? 1 point A. The Availability Zone that the VPC will reside in. B. The subnet that the VPC will reside in. C. The AWS Region that the VPC will reside in. D. The group of subnets that the VPC will reside in.",
+      "definition": "C. The AWS Region that the VPC will reside in."
+    },
+    {
+      "term": "Which of the following can a route table be attached to? 1 point A. AWS Accounts B. Availability Zone C. Subnets D. Regions",
+      "definition": "C. Subnets"
+    },
+    {
+      "term": "A company wants to allow resources in a public subnet to communicate with the internet. Which of the following must the company do to meet this requirement? 1 point A. Create a route to a private subnet B. Attach an internet gateway to their VPC C. Create a route in a route table to the internet gateway D. A and B E. B and C",
+      "definition": "E. B and C"
+    },
+    {
+      "term": "What is the compute as a service (CaaS) model? 1 point A. The CaaS model requires that users purchase virtual machines and manually provision servers to run a workload. B. The CaaS model offers computing resources (such as virtual machines that run on servers in data centers) on demand, by using virtual services. C. The CaaS model offers large discounts for computing resources. However, users must run the workload from the server that is stored on-premises. D. The CaaS model delivers cloud-based applications to users across the globe, over the internet.",
+      "definition": "B. The CaaS model offers computing resources (such as virtual machines that run on servers in data centers) on demand, by using virtual services."
+    },
+    {
+      "term": "Which statement about the default settings of a security group is TRUE? 1 point A. Allows all inbound traffic and blocks all outbound traffic by default. B. Blocks all inbound traffic and allows all outbound traffic by default. C. Allows all inbound and outbound traffic by default. D. Blocks all inbound and outbound traffic by default.",
+      "definition": "B. Blocks all inbound traffic and allows all outbound traffic by default."
+    },
+    {
+      "term": "What does an Amazon Elastic Compute Cloud (Amazon EC2) instance type indicate? 1 point A. Instance family and instance size B. Instance placement and instance size C. Instance tenancy and instance billing D. Instance Amazon Machine Image (AMI) and networking speed",
+      "definition": "A. Instance family and instance size"
+    },
+    {
+      "term": "What is the difference between using AWS Fargate or Amazon Elastic Compute Cloud (Amazon EC2) as the compute platform for Amazon Elastic Container Service (Amazon ECS)? 1 point A. With AWS Fargate, AWS manages and provisions the underlying infrastructure for hosting containers. B. With Amazon ECS on Amazon EC2, AWS manages and provisions the underlying EC2 instance for containers. C. With AWS Fargate, users need to manage cluster capacity and scaling. D. With Amazon ECS on Amazon EC2, users need to upload only the source code. Amazon ECS takes care of the rest.",
+      "definition": "A. With AWS Fargate, AWS manages and provisions the underlying infrastructure for hosting containers."
+    },
+    {
+      "term": "Which statement about serverless is TRUE? 1 point A. Users must provision and manage servers. B. Users must manually scale serverless resources. C. Users do not pay for idle resources. D. Users must manage availability and fault tolerance.",
+      "definition": "C. Users do not pay for idle resources."
+    },
+    {
+      "term": "True or False: AWS Lambda is always the best solution when running applications on AWS. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which compute service does Amazon Elastic Compute Cloud (Amazon EC2) provide? 1 point A. Container services B. Serverless C. Virtual machines (VMs) D. Analytics",
+      "definition": "C. Virtual machines (VMs)"
+    },
+    {
+      "term": "Which stage of the instance lifecycle is an instance in when the account starts to accumulate charges? 1 point A. When an instance is in a pending stage B. When an instance is in a running stage C. When an instance is stopped D. When an instance is terminated",
+      "definition": "B. When an instance is in a running stage"
+    },
+    {
+      "term": "Which component of the c5.4xlarge instance determines the instance family and generation number? 1 point A. 4x B. Large C. 4xlarge D. c5",
+      "definition": "D. c5"
+    },
+    {
+      "term": "Which container runtime can be used to host a container on an Amazon Elastic Compute Cloud (Amazon EC2) instance? 1 point A. Docker B. Container C. Amazon Simple Storage Service (Amazon S3) D. Amazon EC2",
+      "definition": "A. Docker"
+    },
+    {
+      "term": "What is an example of an event that invokes an AWS Lambda function? 1 point A. An AWS API call that is made by an AWS Identity and Access Management (IAM) role B. An upload of a file to the Amazon Simple Storage Service (Amazon S3) source bucket C. An incoming HTTP request to a website that is hosted on Amazon Elastic Compute Cloud (Amazon EC2) D. A simple WordPress website that has no API integration",
+      "definition": "B. An upload of a file to the Amazon Simple Storage Service (Amazon S3) source bucket"
+    },
+    {
+      "term": "True or False: With serverless, users do not need to provision and manage servers. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "True or False: All AWS services require users to configure a virtual private cloud (VPC). 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "An engineer is working with networks in the AWS Cloud. What should the engineer use to configure the size of their network? 1 point A. Classless Inter-Domain Routing (CIDR) notation B. IPv6 notation C. IPv4 notation D. IP addresses",
+      "definition": "A. Classless Inter-Domain Routing (CIDR) notation"
+    },
+    {
+      "term": "What is the difference between network access control lists (ACLs) and security groups? 1 point A. By default, network ACLs allow incoming traffic and block outgoing traffic from a subnet. Users can change these settings to provide an additional layer of security. However, the default configurations of security groups block all traffic. B. By default, network ACLs block all traffic from a subnet. However, the default configurations of security groups allow all inbound and outbound traffic. Users can change these settings to provide an additional layer of security. C. By default, network ACLs block incoming traffic and allow outgoing traffic. The default configurations of security groups block all traffic. Users can change these settings when they configure networking for their instance. D. By default, network ACLs allow incoming and outgoing traffic from a subnet. Users can change these settings to provide an additio",
+      "definition": "D. By default, network ACLs allow incoming and outgoing traffic from a subnet. Users can change these settings to provide an additional layer of security. However, the default configurations of security groups block all inbound traffic and allow all outbound traffic."
+    },
+    {
+      "term": "What is a typical use case for Amazon Simple Storage Service (Amazon S3)? 1 point A. Object storage for media hosting B. Object storage for a boot drive C. Block storage for an Amazon Elastic Compute Cloud (Amazon EC2) instance D. File storage for multiple Amazon Elastic Compute Cloud (Amazon EC2) instances",
+      "definition": "A. Object storage for media hosting"
+    },
+    {
+      "term": "A company needs a storage layer for a high-transaction relational database on an Amazon Elastic Compute Cloud (Amazon EC2) instance. Which service should the company use? 1 point A. Amazon EC2 Instance Store B. Amazon Elastic Block Store (Amazon EBS) C. Amazon Simple Storage Service (Amazon S3) D. Amazon Elastic File System (Amazon EFS)",
+      "definition": "B. Amazon Elastic Block Store (Amazon EBS)"
+    },
+    {
+      "term": "True or False: Amazon Elastic Block Store (Amazon EBS) volumes are considered ephemeral storage. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "A solutions architect is working for a healthcare facility, and they are tasked with storing 7 years of patient information that is rarely accessed. The facility's IT manager asks the solutions architect to consider one of the Amazon Simple Storage Service (Amazon S3) storage tiers to store the patient information. Which storage tier should the solutions architect suggest? 1 point A. Amazon S3 Standard B. Amazon S3 Glacier Deep Archive C. Amazon S3 Standard-Infrequent Access D. Amazon S3 Intelligent-Tiering",
+      "definition": "B. Amazon S3 Glacier Deep Archive"
+    },
+    {
+      "term": "True or False: Object storage is the best storage solution for applications that need to frequently update specific small sections of a file. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "True or false: A Multi-AZ deployment is beneficial when users want to increase the availability of their database. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which task of running and operating the database are users responsible for when they use Amazon Relational Database Service (Amazon RDS)? 1 point A. Optimizing the database B. Provisioning and managing the underlying infrastructure C. Installing the relational database management system on the database instance D. Installing patches to the operating system for the database instance",
+      "definition": "A. Optimizing the database"
+    },
+    {
+      "term": "Which of the following are common use cases for file storage? (Choose TWO.) 1 point A. User home directories B. Backup files that are stored in Amazon Simple Storage Service (Amazon S3) C. Relational or non-relational databases D. Large content repositories E. Big data analytics",
+      "definition": "A. User home directoriesD. Large content repositories"
+    },
+    {
+      "term": "True or False: The IT department in a company can attach Amazon Elastic Block Store (Amazon EBS) volumes to Amazon Simple Storage Service (Amazon S3) to store data in a bucket. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following instance families does Amazon Relational Database Service (Amazon RDS) support? (Choose TWO.) 1 point A. Storage optimized B. General purpose C. Compute optimized D. Memory optimized E. Accelerated computing",
+      "definition": "B. General purposeD. Memory optimized"
+    },
+    {
+      "term": "A solutions architect is working for a small business. The business is looking for a storage service that temporarily stores frequently changing and non-persistent data. This type of data can be deleted during instance stops or terminations. Which service should the solutions architect recommend for this use case? 1 point A. Amazon Elastic Block Store (Amazon EBS) B. Amazon Simple Storage Service (Amazon S3) C. Amazon Elastic Compute Cloud (Amazon EC2) Instance Store D. Amazon Elastic File System (Amazon EFS)",
+      "definition": "C. Amazon Elastic Compute Cloud (Amazon EC2) Instance Store"
+    },
+    {
+      "term": "Which database is a non-relational database that stores data in key-value pairs, and is a good fit for hosting simple lookup tables? 1 point A. Amazon DynamoDB B. Amazon DocumentDB C. Amazon Neptune D. Amazon Relational Database Service (Amazon RDS)",
+      "definition": "A. Amazon DynamoDB"
+    },
+    {
+      "term": "Which core component of Amazon DynamoDB corresponds to a column in a relational database table? 1 point A. Table B. Item C. Attribute D. Database",
+      "definition": "C. Attribute"
+    },
+    {
+      "term": "Which AWS database service is best suited for use cases such as social networking or recommendation engines? 1 point A. Amazon DynamoDB B. Amazon Aurora C. Amazon Redshift D. Amazon Neptune",
+      "definition": "D. Amazon Neptune"
+    },
+    {
+      "term": "What are the three components of Amazon EC2 Auto Scaling? 1 point A. Scaling policies, security group, EC2 Auto Scaling group B. Launch template, scaling policies, EC2 Auto Scaling group C. Security group, instance type, key pair D. Amazon Machine Image (AMI) ID, instance type, storage",
+      "definition": "B. Launch template, scaling policies, EC2 Auto Scaling group"
+    },
+    {
+      "term": "Which of the following features are included in Elastic Load Balancing (ELB)? 1 point A. Automatic scaling B. Integration with Amazon Relational Database Service RDS C. Integration with Amazon EC2 Auto Scaling D. A and B E. A and C",
+      "definition": "E. A and C"
+    },
+    {
+      "term": "True or False: When a user uses Elastic Load Balancing (ELB) with an Auto Scaling group, it is not necessary to manually register individual Amazon Elastic Compute Cloud (Amazon EC2) instances with the load balancer. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "An application must choose target groups by using a rule that is based on the path of a URL. Which Elastic Load Balancing (ELB) type should be used for this use case? 1 point A. Classic Load Balancer B. Application Load Balancer C. Network Load Balancer D. Target Load Balancer",
+      "definition": "B. Application Load Balancer"
+    },
+    {
+      "term": "What are the two ways that an application can be scaled? 1 point A. Vertically and horizontally B. Diagonally and vertically C. Horizontally and diagonally D. Independently and vertically",
+      "definition": "A. Vertically and horizontally"
+    },
+    {
+      "term": "Which elements in Amazon CloudWatch dashboards can be used to view and analyze metrics? 1 point A. Widgets B. Metrics C. Icons D. Components",
+      "definition": "A. Widgets"
+    },
+    {
+      "term": "What kind of data can a company collect with VPC Flow Logs? 1 point A. Data about network traffic that comes into and out of a virtual private cloud (VPC) B. Malicious activity and unauthorized behavior C. Configurations of AWS resources D. Compliance-related information",
+      "definition": "A. Data about network traffic that comes into and out of a virtual private cloud (VPC)"
+    },
+    {
+      "term": "What are the possible states of a metric alarm in Amazon CloudWatch? 1 point A. OK, ALARM, NOT_AVAILABLE B. OK, ALERT, INSUFFICIENT_DATA C. OK, ALARM, INSUFFICIENT_DATA D. OK, ALERT, NOT_AVAILABLE)",
+      "definition": "C. OK, ALARM, INSUFFICIENT_DATA"
+    },
+    {
+      "term": "What is a benefit of monitoring on AWS? 1 point A. Monitoring creates operation overhead. B. Monitoring recognizes security threats and events. C. Monitoring decreases the performance and reliability of resources. D. Monitoring increases speed and agility",
+      "definition": "B. Monitoring recognizes security threats and events."
+    },
+    {
+      "term": "True or False: When a company redesigns an application by using a serverless service on AWS, they might not need to configure networking components, such as a virtual private cloud (VPC), subnets, and security groups. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A solutions architect must design a solution to help manage their customer's containerized applications. Currently, the customer workload runs in Docker containers on top of Amazon Elastic Compute Cloud (Amazon EC2) instances and on-premises servers that run a hybrid Kubernetes cluster. The customer wants to migrate part of their hybrid Kubernetes deployment to the cloud with a minimum amount of effort, and they want to keep all the native features of Kubernetes. The customer also wants to reduce their operational overhead for managing their Kubernetes cluster. Which managed AWS service should the solutions architect suggest to best satisfy these requirements? 1 point A. AWS Fargate with Amazon Elastic Container Service (Amazon ECS) B. AWS Fargate with Amazon Elastic Kubernetes Service (Amazon EKS) C. Amazon Elastic Container Service (Amazon ECS) D. Amazon Elastic Kubernetes Service (Amazon EKS)",
+      "definition": "D. Amazon Elastic Kubernetes Service (Amazon EKS)"
+    },
+    {
+      "term": "An application needs to process events that are received through an API. Multiple consumers must be able to process the data concurrently. Which AWS managed service would best meet this requirement in the most cost-effective way? 1 point A. Amazon Simple Notification Service (Amazon SNS) with a fan-out strategy B. Amazon Simple Queue Service (Amazon SQS) with FIFO queues C. Amazon EventBridge with rules D. Amazon Elastic Compute Cloud (Amazon EC2) with Spot Instances",
+      "definition": "A. Amazon Simple Notification Service (Amazon SNS) with a fan-out strategy"
+    },
+    {
+      "term": "True or False: Amazon Relational Database Service (Amazon RDS) is more suitable for databases that handle structured or relational data, where users can count with features like auto-increment and table joins. Amazon DynamoDB is more suitable for NoSQL database workloads, where tables are collection of items that have their own attributes. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Amazon DynamoDB is designed for scale and performance. In most cases, the DynamoDB response times can be measured in single-digit milliseconds. However, there are certain use cases that require response times in microseconds. For these use cases, DynamoDB Accelerator (DAX) delivers fast response times for accessing eventually consistent data. Which statements about DAX are correct? (Choose THREE.) A. DAX reduces operational and application complexity by providing a managed service that is compatible with the DynamoDB API. B. Although using DAX has a cost, it can reduce the consumption of DynamoDB table capacity. If the data is read intensive (that is, millions of requests per second), DAX can result in cost savings by caching the data while also providing better read latency, being beneficial for scenarios in need of repeated reads for individual keys. C. DAX does not support server-side encryption (SSE). D.DAX is no",
+      "definition": "A, B, D"
+    },
+    {
+      "term": "True or False: AWS Lambda is a compute service that runs code without the need to provision or manage servers. Lambda runs code on a high-availability compute infrastructure. It also performs all the administration of compute resources, including server and operating system maintenance, capacity provisioning and automatic scaling, and logging. Lambda can run code for virtually any type of application or backend service. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A solutions architect is designing an architecture that can provide HTML pages to customers. They want a serverless solution that can host content over the internet and serve a static website with minimal effort. Which AWS service should the solutions architect choose to meet these requirements? 1 point A. Amazon Simple Storage Service (Amazon S3) B. Amazon Elastic Compute Cloud (Amazon EC2) C. Amazon DynamoDB D. Amazon Kinesis",
+      "definition": "A. Amazon Simple Storage Service (Amazon S3)"
+    },
+    {
+      "term": "A solutions architect is designing a solution that needs real-time data ingestion. They are considering either Amazon Kinesis Data Firehose or Amazon Kinesis Data Streams for this solution. Which service should the solutions architect choose to meet the requirement for real-time data ingestion, and why? (Remember that lower data latency means a lower roundtrip time from when data is ingested and available.) 1 point A. Amazon Kinesis Data Firehose, because it has lower latency when compared to Amazon Kinesis Data Streams B. Amazon Kinesis Data Firehose, because it has higher latency when compared to Amazon Kinesis Data Streams C. Amazon Kinesis Data Streams, because it has lower latency when compared to Amazon Kinesis Data Firehose D. Amazon Kinesis Data Streams, because it has higher latency when compared to Amazon Kinesis Data Firehose",
+      "definition": "C. Amazon Kinesis Data Streams, because it has lower latency when compared to Amazon Kinesis Data Firehose"
+    },
+    {
+      "term": "True or False: When creating data lakes for analytics on AWS, Amazon Simple Storage Service (Amazon S3) would be a preferred service. Users can use data in an S3 bucket with an independent data-processing or visualization layer, such as Amazon QuickSight, Amazon Athena, or Amazon EMR. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A solutions architect is designing a serverless solution that can do Structured Query Language (SQL) queries over multiple objects that are stored in Amazon Simple Storage Service (Amazon S3). All the objects share the same data structure (schema) and are in JSON. Which service would make it easier to query the data, in addition to providing serverless capabilities? 1 point A. Amazon Athena B. AWS Database Migration Service (AWS DMS) C. Amazon S3 Select D. AWS Data Exchange",
+      "definition": "A. Amazon Athena"
+    },
+    {
+      "term": "True or False: When architecting a solution that can handle high demand and usage spikes, Amazon CloudFront should be used in front of an Amazon Simple Storage Service (Amazon S3) bucket. CloudFront can cache data that gets delivered to customers, and it lets customers use custom domain names. In addition, CloudFront can serve custom SSL certificates that are issued by Amazon Certificate Manager (at no additional cost) and it can provide distributed denial of service (DDoS) protection that is powered by AWS WAF and AWS Shield. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following options includes true statements for both Amazon Simple Storage Service (Amazon S3) cross-Region replication and AWS Key Management Service (AWS KMS)? 1 point A. To configure Amazon S3 cross-Region replication, both the source and destination buckets must belong to the same AWS account. Server-side encryption (SSE) is possible for replicated objects. B. To configure Amazon S3 cross-Region replication, both the source and destination buckets must belong to the same AWS account. Server-side encryption (SSE) is not possible for replicated objects. C. To configure Amazon S3 cross-Region replication, the source and destination buckets can belong to different AWS accounts. Server-side encryption (SSE) is possible for replicated objects. D. To configure Amazon S3 cross-Region replication, the source and destination buckets can belong to different AWS accounts. Server-side encryption is not possible fo",
+      "definition": "C. To configure Amazon S3 cross-Region replication, the source and destination buckets can belong to different AWS accounts. Server-side encryption (SSE) is possible for replicated objects."
+    },
+    {
+      "term": "A solutions architect is designing a hybrid solution. The solution uses Amazon Virtual Private Cloud (Amazon VPC) resources, such Amazon Relational Database Service (Amazon RDS) and Amazon Elastic Compute Cloud (Amazon EC2). It also uses services that are not in a VPC, such as Amazon Simple Storage Service (Amazon S3) and AWS Systems Manager. Which statements about Amazon VPC and the scope of AWS services are correct? (Choose THREE.) 1 point A. Amazon VPC gives the user full control over their virtual networking environment. Therefore, the solutions architect can define firewall rules on the networking level for VPC-based resources. B. Because S3 buckets do not reside inside a VPC, the customer can rely on AWS to configure security mechanisms, such as permissions and bucket policies. Thus, security is automatically applied on the data level because this level of security is the responsibility of AWS. C. VPC-based ser",
+      "definition": "A, C, F"
+    },
+    {
+      "term": "Which statements about AWS Storage Gateway are correct? (Choose THREE.) 1 point A. AWS Storage Gateway is a set of hybrid cloud storage services that provide on-premises access to virtually unlimited cloud storage. B. AWS Storage Gateway offers virtually unlimited cloud storage to users and applications, at the cost of new storage hardware. C. AWS Storage Gateway delivers data access to on-premises applications while taking advantage of the agility, economics, and security capabilities of the AWS Cloud. D. AWS Storage Gateway is limited to only on-premises applications, which means that it cannot be used from cloud to cloud. E. AWS Storage Gateway helps support compliance requirements through integration with AWS Backup to manage the backup and recovery of Volume Gateway volumes, which simplifies backup management. F. AWS Storage Gateway can only work as an Amazon S3 File Gateway.",
+      "definition": "A, C, E"
+    },
+    {
+      "term": "Which set of AWS services is the BEST fit for the \"Object, file, and block storage\" category (which means that the services are dedicated to storing data in a durable way)? 1 point A. AWS DataSync, AWS Snow Family B. Amazon Simple Storage Service (Amazon S3), Amazon Elastic File System (Amazon EFS), Amazon Elastic Block Store (Amazon EBS), Amazon FSx C. AWS Storage Gateway, AWS Snow Family D. AWS Elastic Disaster Recovery, AWS Backup",
+      "definition": "B. Amazon Simple Storage Service (Amazon S3), Amazon Elastic File System (Amazon EFS), Amazon Elastic Block Store (Amazon EBS), Amazon FSx"
+    },
+    {
+      "term": "True or False: Amazon Simple Storage Service (Amazon S3) is better than Amazon Elastic Block Store (Amazon EBS) because it is designed to provide a higher level of data durability. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What are some benefits of using multiple AWS accounts with AWS Organizations? (Choose THREE.) 1 point A. Grouping workloads based on business purpose and ownership B. Using different payment methods per account C. Limiting the scope of impact from adverse events D. Distributing AWS service quotas and API request rate limits E. Having multiple account root users with unrestricted access on each account",
+      "definition": "A Grouping,C,D"
+    },
+    {
+      "term": "True or False: A service control policy (SCP) statement with an explicit deny prevents even the account root user from performing API calls. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A solutions architect is designing a solution that provides single sign-on (SSO) to authenticate into AWS accounts that are in AWS Organizations. Which AWS service can the solutions architect use to implement identity federation with existing identity providers, such as Microsoft Active Directory? 1 point A. AWS Identity and Access Management (IAM) users B. Amazon CloudWatch C. AWS IAM Identity Center (successor to AWS Single Sign-On) D. AWS CloudTrail",
+      "definition": "C. AWS IAM Identity Center (successor to AWS Single Sign-On)"
+    },
+    {
+      "term": "Which statements are best practices for multi-account environments? (Choose THREE.) 1 point A. Enable Amazon CloudWatch billing alarms per account and configure tagging policies in AWS Organizations. B. Give AdministratorAccess policies to developers in their development AWS accounts. C. Prevent CloudTrail configuration from being disabled in the shared services account. D. Use multi-factor authentication (MFA) for users in centralized credentialing, such as using AWS IAM Identity Center (successor to AWS Single Sign-On). E. Reuse passwords for simplicity and ease of access. F. Provide powerful users and broad roles for Cloud Center of Excellence (CCoE) members, such as granting AdministratorAccess permissions to them.",
+      "definition": "A Enable,C,D"
+    },
+    {
+      "term": "A solutions architect must create well-defined governance standards for a company that has multiple AWS accounts. The company needs centralized infrastructure logging for all AWS accounts. In addition, the company's chief information security officer (CISO) would like to have a measurement that applies a circuit breaker to stop Amazon Elastic Compute Cloud (Amazon EC2) API activities if the billing alarms indicate suspicious activity. The company intends to use AWS Organizations. Which architectural scenario should the solutions architect propose to meet the company's needs in the MOST effective way? 1 point A. Enable AWS CloudTrail for all accounts in AWS Organizations. Use Organizations to centralize all logs into one Amazon Simple Storage Service (Amazon S3) bucket. As the circuit breaker, use service control policies (SCPs) that have an explicit deny for Amazon EC2 API activity. These SCPs can then be applied",
+      "definition": "A. Enable AWS CloudTrail for all accounts in AWS Organizations. Use Organizations to centralize all logs into one Amazon Simple Storage Service (Amazon S3) bucket. As the circuit breaker, use service control policies (SCPs) that have an explicit deny for Amazon EC2 API activity. These SCPs can then be applied to the root organizational unit (OU) as needed."
+    },
+    {
+      "term": "What is the main value proposition of data lakes? 1 point A. The ability to store user-generated data, such as data from antennas and sensors. B. The ability to combine multiple databases together to expand their capacity and availability. C. The ability to ingest and store data that could be the answer for future questions when they are processed with the correct data processing mechanisms. D. The ability to define the data schema before ingesting and storing data.",
+      "definition": "C. The ability to ingest and store data that could be the answer for future questions when they are processed with the correct data processing mechanisms."
+    },
+    {
+      "term": "True or False: Two of the fundamental components of data lakes are data catalog and search. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A company sorts and structures data before entering information into a database. They also store unstructured data in another storage location. These two data locations are siloed from each other. How can the company benefit from using a data lake? 1 point A. Data lakes mostly process data after it has been stored in the cloud or on-premises. B. A data lake provides the most secure way to store data in the AWS Cloud. C. With a data lake, a company can store structured and unstructured data at virtually any scale. D. A data lake is a direct replacement of a data warehouse.",
+      "definition": "C. With a data lake, a company can store structured and unstructured data at virtually any scale."
+    },
+    {
+      "term": "Which statements about data lakes and data warehouses are true? (Choose TWO.) 1 point A. Data lakes use schema-on-write architectures and data warehouses use schema-on-read architectures. B. Data lakes offer more choices in terms of the technology that is used for processing data. In contrast, data warehouses are more restricted to using Structured Query Language (SQL) as the query technology. C. The solutions architect can combine both data lakes and data warehouses to better extract insights and turn data into information. D. The solutions architect cannot attach data visualization tools to data warehouses. E. Data lakes are not future-proof, which means that they must be reconfigured each time new data is ingested.",
+      "definition": "B,C"
+    },
+    {
+      "term": "True or False: Data lakes integrate with analytics tools that can help companies eliminate costly and complex extract, transform, and load (ETL) processes. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which term indicates that a data lake lacks curation, management, cataloging, lifecycle or retention policies, and metadata? 1 point A. Data swamp B. Data warehouse C. Data catalog D. Database",
+      "definition": "A. Data swamp"
+    },
+    {
+      "term": "Which service can be used to run simple queries against data in a data lake? 1 point A. Amazon Athena B. Amazon Kinesis Data Firehose C. Amazon Kinesis Agent D. Amazon Simple Storage Service (Amazon S3)",
+      "definition": "A. Amazon Athena"
+    },
+    {
+      "term": "What is the primary purpose of the AWS processing services? 1 point A. Ingest data into a data lake B. Index data for analysis C. Store data D. Protect data at an unlimited scale",
+      "definition": "B. Index data for analysis"
+    },
+    {
+      "term": "A solutions architect is working for a customer who wants to build a data lake on AWS to store different types of raw data. Which AWS service should the solutions architect recommend to the customer to meet their requirements? 1 point A. AWS Glue Metadata Catalog B. Amazon OpenSearch Service C. Amazon EMR D. Amazon Simple Storage Service (Amazon S3)",
+      "definition": "D. Amazon Simple Storage Service (Amazon S3)"
+    },
+    {
+      "term": "An analytics company uses AWS Glue to extract, transform, and load data. What is the role of the AWS Glue Metadata Catalog in this process? 1 point A. The AWS Glue Metadata Catalog provides a repository where the company can store, find, and access metadata, and then use that metadata to query and transform the data. B. The AWS Glue Metadata Catalog provides a repository where the company can store and find metadata to keep track of user permissions for data in a data lake. C. The AWS Glue Metadata Catalog provides a data transformation service that the company can use to author and run scripts for transforming data between data sources and targets. D. The AWS Glue Metadata Catalog is a query service that uses standard Structured Query Language (SQL) to retrieve data.",
+      "definition": "A. The AWS Glue Metadata Catalog provides a repository where the company can store, find, and access metadata, and then use that metadata to query and transform the data."
+    },
+    {
+      "term": "True or False: AWS Lake Formation is a centralized repository, such as a data lake, that stores structured and unstructured data at any scale. 1 point A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "A solutions architect is working for a company that plans to use AWS Glue to prepare data for analytics. Why should the solutions architect recommend that the company set up crawlers? 1 point A. Crawlers build and scale a data lake of any size in a secure environment. B. Crawlers scan data in repositories, classify the data, extract schema information from it, and store the metadata automatically in the AWS Glue Data Catalog. C. Crawlers optimize storage costs by automatically moving data to the most cost-effective storage access tier, with little performance impact or operational overhead. D. Crawlers store, annotate, and share metadata in the AWS Cloud in a similar way to the Apache Hive Metastore.",
+      "definition": "B. Crawlers scan data in repositories, classify the data, extract schema information from it, and store the metadata automatically in the AWS Glue Data Catalog."
+    },
+    {
+      "term": "What is the structure of the AWS Glue Metadata Catalog? 1 point A. The AWS Glue Metadata Catalog is the storage that is associated with automated database backups and any active database snapshots. It consists of the General Purpose SSD, Provisioned IOPS SSD, Throughput Optimized HDD, and Cold HDD volume types. B. The AWS Glue Metadata Catalog consists of file systems or databases for any applications that require fine, granular updates and access to raw, unformatted, block-level storage. C. The AWS Glue Metadata Catalog consists of tables. Each table has a schema, which outlines the structure of a table, including columns, data type definitions, and more. The tables are organized into logical groups that are called databases. D. The AWS Glue Metadata Catalog contains buckets with different types of storage options. AWS Glue Metadata Catalog stores data as objects in these buckets.",
+      "definition": "C. The AWS Glue Metadata Catalog consists of tables. Each table has a schema, which outlines the structure of a table, including columns, data type definitions, and more. The tables are organized into logical groups that are called databases."
+    },
+    {
+      "term": "True or False: Customers can use Amazon API Gateway to ingest real-time data in a RESTful manner through the creation of an HTTP-based API, which acts as the front door or interface to ingestion logic or data lake storage on the backend. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which statement about AWS Lake Formation is true? 1 point A. AWS Lake Formation deploys, operates, and scales clusters in the AWS Cloud B. AWS Lake Formation registers the Amazon Simple Storage Service (Amazon S3) buckets and paths where the data lake will reside. C. AWS Lake Formation runs big data frameworks, such as Apache Hadoop. D. AWS Lake Formation ingests, cleanses, and transforms the structured and organized data.",
+      "definition": "B. AWS Lake Formation registers the Amazon Simple Storage Service (Amazon S3) buckets and paths where the data lake will reside."
+    },
+    {
+      "term": "Which service is commonly used for real-time data processing when Amazon Kinesis Data Streams is used for data ingestion? 1 point A. Amazon EMR B. AWS Glue Jobs C. Amazon Kinesis Data Analytics D. Amazon Athena",
+      "definition": "C. Amazon Kinesis Data Analytics"
+    },
+    {
+      "term": "Apache Hadoop is an open-source framework that is used to efficiently store and process large datasets. A solutions architect is working for a company that currently uses Apache Hadoop on-premises for data processing jobs. The company wants to use AWS for these jobs, but they also want to continue using the same technology. Which service should the solutions architect choose for this use case? 1 point A. Amazon EMR B. AWS Lambda C. Amazon Kinesis Data Analytics D. Amazon OpenSearch Service",
+      "definition": "A. Amazon EMR"
+    },
+    {
+      "term": "A team of machine learning (ML) experts are working for a company. The company wants to use the data in their data lake to train an ML model that they create. The company wants the most control that they can have over this model and the environment that it is trained in. Which AWS ML approach should the team take? 1 point A. Launch an Amazon Elastic Compute Cloud (Amazon EC2) instance by using an AWS Deep Learning Amazon Machine Image (AMI) to host the application that will train the model. B. Create an AWS Lambda function with the training logic in the handler, and run the training based on an event. C. Launch an Amazon Elastic Compute Cloud (Amazon EC2) instance and run Amazon SageMaker on it to train the model. D. Use a pretrained model from an AWS service, such as Amazon Rekognition.",
+      "definition": "A. Launch an Amazon Elastic Compute Cloud (Amazon EC2) instance by using an AWS Deep Learning Amazon Machine Image (AMI) to host the application that will train the model."
+    },
+    {
+      "term": "Which services can query data that is needed to build reports? (Choose TWO.) 1 point A. Amazon Athena B. AWS Lambda C. Amazon Glue D. Amazon Redshift E. Amazon Elastic Compute Cloud",
+      "definition": "A, D"
+    },
+    {
+      "term": "True or False: Amazon Kinesis processes and analyzes data as it arrives, and there is no need to wait until all data is collected before the processing can begin. 1 point A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A company wants to transfer files into and out of Amazon Simple Storage Service (Amazon S3) storage by using AWS Transfer Family. Several users in the company need permissions to access a specific object storage bucket that hosts the files from AWS Transfer Family. What is the BEST way to provide the needed bucket-access permissions to these users? 1 point A. AWS account root user B. AWS Identity and Access Management (IAM) user C. AWS Identity and Access Management (IAM) role D. Access keys",
+      "definition": "C. AWS Identity and Access Management (IAM) role"
+    },
+    {
+      "term": "What is the most common way of categorizing data in terms of structure? 1 point A. Structured data, unstructured data, and semi-structured data B. Ready data, not-ready data, and semi-ready data C. The good data, the bad data, and the ugly data D. Development data, quality assurance (QA) data, and production data",
+      "definition": "A. Structured data, unstructured data, and semi-structured data"
+    },
+    {
+      "term": "A solutions architect is tasked with transporting data from their organization to AWS by using the AWS Snow Family. The organization wants to transport data that needs less than 8 terabytes (TB) of usable storage. Which Snow Family device should the solutions architect recommend for this use case? 1 point A. AWS Snowball B. AWS Glue C. AWS Snowcone D. AWS Snowmobile",
+      "definition": "C. AWS Snowcone"
+    },
+    {
+      "term": "Which statement about the AWS Glue crawler is TRUE? 1 point A. An AWS Glue crawler collects and catalogs data from databases and object storage, moves the data into a new Amazon Simple Storage Service (Amazon S3) data lake, and classifies the data by using machine learning algorithms. B. An AWS Glue crawler can scan a data store, such as an Amazon Simple Storage Service (Amazon S3) bucket, and use the data from the data store to create or update tables in the AWS Glue Data Catalog. C. An AWS Glue crawler runs Structured Query Language (SQL) queries to analyze data directly in Amazon Simple Storage Service (Amazon S3). D. An AWS Glue crawler performs interactive log analytics, real-time application monitoring, website search, and more.",
+      "definition": "B. An AWS Glue crawler can scan a data store, such as an Amazon Simple Storage Service (Amazon S3) bucket, and use the data from the data store to create or update tables in the AWS Glue Data Catalog."
+    }
+  ]
+}

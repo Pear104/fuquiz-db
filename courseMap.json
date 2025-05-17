@@ -173,7 +173,7 @@
     ]
   },
   "MSM201c": {
-    "status": "out nhiều 😥",
+    "status": "out 😥",
     "related": [
       "/social-media-marketing-introduction",
       "/social-media-management",
@@ -184,8 +184,15 @@
     ]
   },
   "MKT205c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/intro-international-marketing",
+      "/international-marketing-entry-execution",
+      "/b2b-marketing",
+      "/healthcare-marketing-hospitality-management",
+      "/international-entertainment-sports-marketing",
+      "/international-vertical-marketing-capstone-project"
+    ]
   },
   "MKT208c": {
     "status": "done",
@@ -246,8 +253,13 @@
     "related": []
   },
   "PRC392c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/aws-cloud-technical-essentials",
+      "/architecting-solutions-on-aws",
+      "/introduction-to-designing-data-lakes-in-aws",
+      "/aws-certified-solutions-architect-associate"
+    ]
   },
   "SEO201c": {
     "status": "done",
@@ -260,7 +272,7 @@
     ]
   },
   "SSL101c": {
-    "status": "out nhiều 😥",
+    "status": "out 😥",
     "related": [
       "/digital-literacy",
       "/problem-solving-skills",
@@ -279,8 +291,13 @@
     ]
   },
   "SSC302c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/public-speaking",
+      "/inform-speech",
+      "/persuade-speech",
+      "/speak-to-inspire-ceremonial-motivational-speeches"
+    ]
   },
 
   "SYB302c": {
@@ -294,7 +311,7 @@
   },
 
   "WED201c": {
-    "status": "out nhiều 😥",
+    "status": "out 😥",
     "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
   },
   "WDU202c": {
