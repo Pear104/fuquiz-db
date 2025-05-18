@@ -1,0 +1,1772 @@
+{
+  "quizSrc": [
+    {
+      "term": "Quiz type: radio, According to the US National Institute of Standards and Technology (NIST) definition of \"cloud computing,\" what is the meaning of the statement \"a shared pool of configurable computing resources\"? | Five essential characteristics, three deployment, and three service models. | Networks, servers, storage, applications, and services. | Data security associated with data loss or unavailability causing business disruption. | Leveraging cloud services over the open internet on hardware owned by the cloud provider.",
+      "definition": "Networks, servers, storage, applications, and services."
+    },
+    {
+      "term": "Quiz type: radio, What tasks do hypervisors accomplish? | Facilitate access to mainframes for multiple users to access the same data storage layer | Enable multiple operating systems to run alongside each other and separate VMs logically | Scale on demand to support fluctuating workloads | Fluctuates workloads and facilitates access to mainframes",
+      "definition": "Enable multiple operating systems to run alongside each other and separate VMs logically"
+    },
+    {
+      "term": "Quiz type: radio, Which key considerations drive an organization's selection of cloud computing when considering expenditure for off-the-shelf software and investments in upgrades? | Risk exposure | Infrastructure and workloads | Software as a service and development platforms | Speed and productivity",
+      "definition": "Software as a service and development platforms"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements describes a benefit of cloud computing? | Hardware failures do not result in data loss because of backups maintained on the network | Business continuity | Data security associated with loss or unavailability of data | Lack of standardization in how the constantly evolving technologies integrate",
+      "definition": "Hardware failures do not result in data loss because of backups maintained on the network"
+    },
+    {
+      "term": "Quiz type: radio, Which service provider provides one of the largest cloud-based data management platforms? | Oracle Cloud | Salesforce | Amazon Web Services | Alibaba Cloud",
+      "definition": "Salesforce"
+    },
+    {
+      "term": "Quiz type: radio, Which service provider uses its cloud platform internally for their end-user products, such as Search and app engines that automatically allocate and de-allocate resources to handle demand? | Oracle Cloud | Google Cloud Platform (GCP) | SAP | Microsoft Azure",
+      "definition": "Google Cloud Platform (GCP)"
+    },
+    {
+      "term": "Quiz type: radio, According to the International Data Corporation (IDC), what is that crucial ability that will make cloud computing essential for businesses to succeed, sustain, and compete in today's markets? | Data-driven decisions | Applied exponential technologies such as AI, Automation, IoT, and Blockchain | Multi-cloud infrastructures | Cognitively enabled workflows",
+      "definition": "Data-driven decisions"
+    },
+    {
+      "term": "Quiz type: radio, Why did American Airlines require a new technology platform? | Requirement for better customer service | Establishment of a scalable hosting platform for low-latency delivery | Removal of barriers to innovation | Acceleration of growth",
+      "definition": "Establishment of a scalable hosting platform for low-latency delivery"
+    },
+    {
+      "term": "Quiz type: radio, Select the answer that best describes how does Cloud Computing helps IoT devices? | Stores data on an encrypted physical drive | Provides a fixed physical location for the data collected from IoT devices | Draws insights from data collected from the IoT devices and users | Provides the resources to store and process the data produced by IoT devices and users.",
+      "definition": "Provides the resources to store and process the data produced by IoT devices and users."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following denotes the relationship between Blockchain, AI, and cloud? | Blockchain provides the distributed computing resources, AI powers the analytics, and the cloud records the data | Blockchain lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm, and the cloud provides an immutable network | Blockchain provides a decentralized source of truth, AI powers analytics and decision-making, and the cloud provides globally distributed computing resources | Blockchain provides an immutable network, AI provides distributed computing resources and cloud powers decision-making",
+      "definition": "Blockchain provides a decentralized source of truth, AI powers analytics and decision-making, and the cloud provides globally distributed computing resources"
+    },
+    {
+      "term": "Quiz type: radio, In which cloud service model does the service provider manage the application data along with the infrastructure and platform resources ? | PaaS | CaaS | SaaS | IaaS",
+      "definition": "SaaS"
+    },
+    {
+      "term": "Quiz type: radio, In which IaaS cloud environment can the customers deploy their middleware and install applications? | IoT | Virtual Machines | Blockchain | AI",
+      "definition": "Virtual Machines"
+    },
+    {
+      "term": "Quiz type: radio, What is one of the concerns in cloud infrastructure configuration and management? | Dependency on a third party for workload availability and performance | Scaling infrastructure up and down as demand fluctuates | Business continuity and disaster recovery | Solving complex problems involving millions of variables and calculations",
+      "definition": "Dependency on a third party for workload availability and performance"
+    },
+    {
+      "term": "Quiz type: radio, What is the responsibility of a user in the PaaS model? | Business process management systems |  Database management systems | Workload management | Application code and its maintenance",
+      "definition": "Application code and its maintenance"
+    },
+    {
+      "term": "Quiz type: radio, Which capability in the PaaS model eliminates the need for the integration of disparate components? | APIs for services | Runtime environment | Rapid deployment mechanisms | Business analytics services",
+      "definition": "APIs for services"
+    },
+    {
+      "term": "Quiz type: radio, Which is a characteristic of the SaaS model? | Applications reside on a remote cloud network | Infrastructure and code are maintained by the users | Users can see only their own application | Services are free for the users on the SaaS cloud",
+      "definition": "Applications reside on a remote cloud network"
+    },
+    {
+      "term": "Quiz type: radio, What is the users’ role in a public cloud?  | Users don’t own the servers their applications run on | Users maintain the platform that runs their application | Users can manage the operations of the servers | Users own the storage their data consumes",
+      "definition": "Users don’t own the servers their applications run on"
+    },
+    {
+      "term": "Quiz type: radio, What is a feature of a private cloud?  | Uncontrolled access | Application portability | Limited security | Use of external computing resources",
+      "definition": "Application portability"
+    },
+    {
+      "term": "Quiz type: radio, If an organization needs to run a highly sensitive and mission-critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?  | Hybrid Cloud | Private Cloud | On-premise Data Centers | Public Cloud",
+      "definition": "Hybrid Cloud"
+    },
+    {
+      "term": "Quiz type: radio, What do you mean by “cloud bursting”?  | You can move applications and data between on-premises and cloud systems | You can leverage public cloud instances for a period of time but return to the private cloud when the surge is met | You can spin-up environments using pay-as-you-go in the public cloud | You can incrementally modernize your core business systems",
+      "definition": "You can leverage public cloud instances for a period of time but return to the private cloud when the surge is met"
+    },
+    {
+      "term": "Quiz type: radio, Each Cloud Region can have multiple Availability Zones. What are Zones ? | Geographic area or region where the cloud provider’s infrastructure is clustered  | Standardized containers of computing resources | Single shared point of failure  | Unique physical locations with one or more data centers\n\nGemini",
+      "definition": "Unique physical locations with one or more data centers"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a benefit of virtualization? | Runs a single operating system | Is secure | Cost savings\n\nGemini | Increases your downtime",
+      "definition": "Cost savings\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following types of Virtual Machine (VM) guarantees resources for future deployments? | Reserved virtual servers\n\nGemini | Transient or Spot VMs | Dedicated hosts | Shared or Public Cloud VMs ",
+      "definition": "Reserved virtual servers\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a feature of bare metal servers? | Multiple tenants | Low cost to use | High performance and secure\n\nGemini | Rapidly provisioned",
+      "definition": "High performance and secure\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Subnets are the main area where security is implemented in the cloud. Which of the following is used to provide security at the virtual instance level in subnets? | Virtual Private Cloud or VPC | Load Balancers | Public Gateways | Security Groups or SGs\n\nGemini",
+      "definition": "Security Groups or SGs\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a benefit of isolation of applications in containers? | Abstraction from the host operating system | Repackaged into containers or containerized microservices | Preventing malicious code in one container from impacting other containers\n\nGemini | Open-sourced runtime engine",
+      "definition": "Preventing malicious code in one container from impacting other containers\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following storage types are ephemeral or non-persistent? | File storage | Direct Attached storage\n\nGemini | Object storage | Block storage",
+      "definition": "Direct Attached storage\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, What makes File storage an ideal solution for scenarios where shared storage is required? | File storage can be mounted from remote storage appliances  | Fast accessibility of file storage over the network | File storage can be mounted on multiple compute nodes at the same time \n\nGemini | File Storage is mounted to compute nodes via an ethernet network",
+      "definition": "File storage can be mounted on multiple compute nodes at the same time \n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following scenarios is best suited for Block Storage? | Low cost is a consideration | Where workloads do not require fast connectivity to storage | Workloads that need disk sharing between compute nodes  | Applications that need consistent fast access to the disk, such as databases\n\nGemini",
+      "definition": "Applications that need consistent fast access to the disk, such as databases\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a feature of Object storage? | Object Storage can be mounted on multiple compute nodes via an ethernet network | You can directly use Object Storage without attaching it to a compute node\n\nGemini | Storage is attached to compute nodes using a fiber network | Used where fast read and write speeds are necessary",
+      "definition": "You can directly use Object Storage without attaching it to a compute node\n\nGemini"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following options describes a development principle, or action, for cloud native applications? | Combine applications to create microservices with multiple functions. | Containerize the microservices for maximum flexibility, scalability, and portability. | Tightly coupling the different functions of the application so that they can work together as a whole. | Bring the various single-function components of an application into one huge piece of software.",
+      "definition": "Containerize the microservices for maximum flexibility, scalability, and portability."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements describes the DevOps approach and process? | Eliminates the need to provision servers, build middleware, and install application code. | A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to deliver software continuously. | Eliminates the need to monitor performance and availability. | Allows teams to freely build, deploy, and manage cloud native applications according to an informal, loosely defined set of guidelines.",
+      "definition": "A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to deliver software continuously."
+    },
+    {
+      "term": "Quiz type: radio, Which of the provided options encapsulates the complete application modernization journey? | The journey from the waterfall and agile development methodologies to DevOps. | The journey from monolithic and service-oriented architecture to microservices architecture. | The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from the waterfall and agile methodology to DevOps. | The journey from physical servers and VMs to cloud infrastructure",
+      "definition": "The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from the waterfall and agile methodology to DevOps."
+    },
+    {
+      "term": "Quiz type: radio, How would a global flower delivery company leverage the Hybrid Multicloud architecture to meet its requirement of varying capacity demands across different geographies? | By scaling up their on-premises architecture | By using the automatic provisioning and de-provisioning of resources that the cloud offers. | By distributing their delivery service application across multiple cloud environments and providers spread across multiple geographies.",
+      "definition": "By distributing their delivery service application across multiple cloud environments and providers spread across multiple geographies."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements describes the DevOps approach and process? | DevOps process is a collaborative approach that defines how people build, deploy, and manage applications in a cloud-native environment to deliver software continuously. | An approach that utilizes cloud applications to monitor systems. | Eliminates the need to monitor performance and availability. | Eliminates the need to provision servers, build middleware, and install application code.",
+      "definition": "DevOps process is a collaborative approach that defines how people build, deploy, and manage applications in a cloud-native environment to deliver software continuously."
+    },
+    {
+      "term": "Quiz type: radio, Which of these scenarios is NOT a good use case for serverless architecture? | Microservices that can be built as stateless functions | Supporting microservices architecture | Workloads characterized by long-running processes | Stream processing workloads",
+      "definition": "Workloads characterized by long-running processes"
+    },
+    {
+      "term": "Quiz type: radio,  How can the microservices architecture approach be characterized ?  |  Compulsion to bundle all microservices for a specific task into a single container.   |  Impact on the entire application when one microservice ceases to function.   |  Decomposition of large applications into core functions to construct a comprehensive and functional application.   |  Requirement to build every new functionality in a microservice from the ground up.  ",
+      "definition": "Decomposition of large applications into core functions to construct a comprehensive and functional application."
+    },
+    {
+      "term": "Quiz type: radio, Fill in the blank. Microservices architecture is an approach in which a ______________ comprises many loosely coupled and independently deployable smaller components or services. | Repository application  | Server | Cloud service  | Single application",
+      "definition": "Single application"
+    },
+    {
+      "term": "Quiz type: radio, What does a cloud native application consist of? | Microservices | Executable containers | Application containers | Executable files",
+      "definition": "Microservices"
+    },
+    {
+      "term": "Quiz type: radio, DevOps and Cloud share a _________ relationship. | Vendor | Symbiotic | General partnership | Customer ",
+      "definition": "Symbiotic"
+    },
+    {
+      "term": "Quiz type: radio, Fill in the blank. _____________ is a key part of an enterprise's digital transformation strategy. | Databases | Encryption | Local storage devices | Cloud computing",
+      "definition": "Cloud computing"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following are some best practices organizations must follow to protect their cloud resources and systems? | Run security monitoring tools periodically to ensure security threats and breaches are flagged | Distribute tasks, workloads, and monitoring software | Distribute tasks, workloads, and network traffic | Adopt a shared responsibility model of active monitoring for security and compliance",
+      "definition": "Adopt a shared responsibility model of active monitoring for security and compliance"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following are key Identity and Access Management (IAM) components? | Protecting data while it is at rest, in motion, and in use | Embedding security through the life cycle of an application | Cloud Directory Services, Audits, and Compliance | Encryption security practices",
+      "definition": "Cloud Directory Services, Audits, and Compliance"
+    },
+    {
+      "term": "Quiz type: radio, Which of these statements is true of cloud encryption? A. Encryption ensures that only authorized users have access to sensitive data. B. When encrypted data is intercepted without authorization, it is unreadable and meaningless? C. Encryption protects data when it is at rest, in transit, and in use in memo. D. Encryption eliminates data security risks. | A and C only | A, B, and C only | A, B, C, and D | A, B, and D only",
+      "definition": "A, B, and C only"
+    },
+    {
+      "term": "Quiz type: radio, Identify some of the standard cloud monitoring best practices from the provided options. | Encrypt data before it is sent to the cloud. | Encrypt data on a physical storage device. | Authenticate users attempting to access their cloud resources. | Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users and track the usage and cost of your cloud resources and services.",
+      "definition": "Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users and track the usage and cost of your cloud resources and services."
+    },
+    {
+      "term": "Quiz type: radio, What are some of the monitoring tools that help you to gain insights about your posture, compliance, and threats? | Flow logs and hypervisors | Flow logs from the network and security events | Data encryption | Hypervisors",
+      "definition": "Flow logs from the network and security events"
+    },
+    {
+      "term": "Quiz type: radio, What are some of the benefits of using access groups? | The use of access groups helps to reduce the number of policies in an account. Access groups provide a more streamlined way to assign access rights. | Access groups help increase the number of policies of an account. | Access groups create an additional level of authentication for application users. | Access groups define the users, the resources to which access is granted, and the permission level each user has on these resources.",
+      "definition": "The use of access groups helps to reduce the number of policies in an account. Access groups provide a more streamlined way to assign access rights."
+    },
+    {
+      "term": "Quiz type: radio, Identify the two main parts of an encryption system from the provided options. | Client-side encryption | Physical encryption device | The encryption algorithm and decryption key | Server-side encryption",
+      "definition": "The encryption algorithm and decryption key"
+    },
+    {
+      "term": "Quiz type: checkbox, What are some of the benefits that cloud monitoring solutions offer? | Prevent unauthorized users from accessing the systems | Troubleshoot applications and infrastructure | Enhanced security to user accounts | Accelerate the diagnosis and resolution of performance incidents and provide proactive notifications of abnormal or unusual situations.",
+      "definition": "Troubleshoot applications and infrastructure|Accelerate the diagnosis and resolution of performance incidents and provide proactive notifications of abnormal or unusual situations."
+    },
+    {
+      "term": "Quiz type: radio, The Weather Company migrated its weather web property to a secure, scalable, and global architecture in the IBM Cloud. What benefits did they realize as a result of this migration? | Increase development and increased latency | Faster development and release of new apps and digital self-service tools to customers | Increase asset availability and overall equipment effectiveness | Harness local data centers to minimize latency for users and optimize their systems for elasticity in handling extreme spikes in demand",
+      "definition": "Harness local data centers to minimize latency for users and optimize their systems for elasticity in handling extreme spikes in demand"
+    },
+    {
+      "term": "Quiz type: radio, What is an API? | A version control system used to manage your code | A framework which dictates the architecture of your program and controls the program flow | Code that works with data and provides a mechanism for software to access resources from the back-end | A practice for dev-ops teams enabling developers to deliver frequent changes reliably",
+      "definition": "Code that works with data and provides a mechanism for software to access resources from the back-end"
+    },
+    {
+      "term": "Quiz type: checkbox, When a user tries to login to a website, he/she gets an authentication failure error. Who do you think can fix this error? (Select all that apply) | Full-stack Developer | Back-end Developer | Front-end Developer ",
+      "definition": "Full-stack Developer|Back-end Developer"
+    },
+    {
+      "term": "Quiz type: radio, In addition to SQL, which tool can help you access databases? | CI/CD | ORM | npm | pip",
+      "definition": "ORM"
+    },
+    {
+      "term": "Quiz type: checkbox, Build automation can automate which of the following tasks? (Select all that apply) | Downloading dependencies | Packaging binary code | Compiling binary code into source code | Running tests and deployment to production systems",
+      "definition": "Downloading dependencies|Packaging binary code|Running tests and deployment to production systems"
+    },
+    {
+      "term": "Quiz type: radio, A user has complained that the website is readable on desktop but not on mobile. Who can help solve this problem? | Front-end Developer |  Back-end Developer",
+      "definition": "Front-end Developer"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following describe a package manager? (Select all that apply) | Takes care of finding, installing, maintaining or uninstalling software packages | Contains application files, instructions for installation, and metadata | A way to distribute your pre-packaged application(s)",
+      "definition": "Takes care of finding, installing, maintaining or uninstalling software packages|Contains application files, instructions for installation, and metadata"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following adds interactivity and dynamic content to a website? | CSS | HTML | Git | JavaScript",
+      "definition": "JavaScript"
+    },
+    {
+      "term": "Quiz type: radio, Which of these is an open-source server side platform built on the Google Chrome JavaScript engine and uses an asynchronous single threaded architecture that allows it to serve a very large number of concurrent connections? |  Angular | React JS  | Node.js | Flask",
+      "definition": "Node.js"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following frameworks and libraries are used for front-end? (Select all that apply) | Node.js | Express | Angular | React.js | Vue.js",
+      "definition": "Angular|React.js|Vue.js"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is NOT a required skill for a front-end developer? | HTML | CSS | Java | JavaScript",
+      "definition": "Java"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements embeds an image in an HTML document? | <image>link_to_image</image> | <figure src=”image URL”>image name</figure> | <img src=”image URL”> | <img href=”image URL”>image name</img>",
+      "definition": "<img src=”image URL”>"
+    },
+    {
+      "term": "Quiz type: radio, When defining a hyperlink (<a>), which attribute is used to specify the destination address? | src | href | alt | target",
+      "definition": "href"
+    },
+    {
+      "term": "Quiz type: radio, Which tag CANNOT be used as a container for text? I.e. does not use both an opening <> and closing </> tag | <br> | <body> | <h1> | <p>",
+      "definition": "<br>"
+    },
+    {
+      "term": "Quiz type: radio, How are comments written in HTML? | #This is a comment  | /*This is a comment*/  | < !-- This is a comment -- >  | “””This is a comment”””",
+      "definition": "< !-- This is a comment -- >"
+    },
+    {
+      "term": "Quiz type: radio, Which tag is used to denote a cell of data within a table? | <td> | <thead>  | <tr> | <th> ",
+      "definition": "<td>"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is NOT an HTML tag? | <li> | <p> | <!DOCTYPE html> | <article>",
+      "definition": "<!DOCTYPE html>"
+    },
+    {
+      "term": "Quiz type: radio, What is the <br> tag used for? | To change the text color to brown | To make text bold | To change the border | To add a line break",
+      "definition": "To add a line break"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following denotes the least important heading? | <h1> | <h2> | <h5> | <h6>",
+      "definition": "<h6>"
+    },
+    {
+      "term": "Quiz type: radio, Which tag is used to create an ordered list? | <ul> | <orderedlist> | <ol> | <li>",
+      "definition": "<ol>"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following conditions must be met for scripting to be enabled in browsers? Select one or more options. | An embedded object is used without the sandbox attribute | The user has not disabled scripting for the current browser context | The browser supports scripting | The browser context has the sandboxed browsing context flag set",
+      "definition": "The user has not disabled scripting for the current browser context|The browser supports scripting"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following ways of applying CSS has the highest priority, and will override the other ways? | Internal CSS, applied within the “<style>” attribute in HTML markup | Whichever way is specified in the HTML markup | Inline CSS, placed directly in each HTML element | An external CSS file",
+      "definition": "Inline CSS, placed directly in each HTML element"
+    },
+    {
+      "term": "Quiz type: checkbox, Select all of the following which are true in describing a fluid and/or fixed layout. | Elements in a fluidlayout have flexible widths and heights | A fixed layoutspecifies element sizes using percentages | Fixed layouts are independent of screen sizes, and their values do not change | Fluid layouts should always be used when designing a website",
+      "definition": "Elements in a fluidlayout have flexible widths and heights|Fixed layouts are independent of screen sizes, and their values do not change"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following tags define a caption for a < fieldset > element? | <label> | <caption> | <legend> | <title>",
+      "definition": "<legend>"
+    },
+    {
+      "term": "Quiz type: radio, What is a modifier? | The term used to refer to a JavaScript class which updates content on a webpage | A special class modifies the appearance of elements by applying a CSS attribute based on the condition described | A type of button which allows you to modify content in a form | A method used to modify CSS styling applied to an HTML element",
+      "definition": "A special class modifies the appearance of elements by applying a CSS attribute based on the condition described"
+    },
+    {
+      "term": "Quiz type: radio, Which semantic tag is used to display any content which is indirectly related to the main content of the document? | <section> | <aside> | <details> | <article>",
+      "definition": "<aside>"
+    },
+    {
+      "term": "Quiz type: radio, Which type of input control would be most apt for selecting height in a form? | number | tel | range | list",
+      "definition": "number"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a disadvantage of a Component Framework? | HTML markup is more verbose since styles are mixed with content | It is more difficult to maintain a uniform style throughout the website | Components are limited only to what the framework provides | Download size of HTML markup is increased",
+      "definition": "Components are limited only to what the framework provides"
+    },
+    {
+      "term": "Quiz type: radio, Which tag is used to represent an independent item of content in a document, which can be meaningful on its own? | <section> | <article> | <details> | <div>",
+      "definition": "<article>"
+    },
+    {
+      "term": "Quiz type: radio, Which element defines a caption for the <figure> element? | <legend>  | <label>  | <figcaption>  | <title> ",
+      "definition": "<figcaption>"
+    },
+    {
+      "term": "Quiz type: radio, Which type of input control can be used to accept only numbers in a form? | tel | integer | number | digit",
+      "definition": "number"
+    },
+    {
+      "term": "Quiz type: radio, In the following declaration, what is the type of the variable 'pi'? var pi = \"3.14\"; | float  | char  | number  | string ",
+      "definition": "string"
+    },
+    {
+      "term": "Quiz type: radio, How do you define an array called array1 in JavaScript? | var array1 = (1,2,3)  | var array1 = new Array[1,2,3]  | var array1 = [1,2,3]  | var array1 = new Array((1,2,3)) ",
+      "definition": "var array1 = [1,2,3]"
+    },
+    {
+      "term": "Quiz type: radio, What does the following statement do? var ndate = new Date() ; | Assigns the current local time to ndate  | Returns an error  | Assigns an empty string with the properties of dates to ndate | Assigns the current Greenwich Mean Time to ndate ",
+      "definition": "Assigns the current local time to ndate"
+    },
+    {
+      "term": "Quiz type: radio, Which DOM function returns a node object matching a div with an id value \"example_id\"? | document.getElementById(div, “example_id”)  | div.getValueOf(“example_id”)  | document.getElementById(“example_id”)  | element.getNodeById(“example_id”) ",
+      "definition": "document.getElementById(“example_id”)"
+    },
+    {
+      "term": "Quiz type: radio, How are numbers converted to strings? | string(123)  | toString(123)  | (123).string  | (123).toString() ",
+      "definition": "(123).toString()"
+    },
+    {
+      "term": "Quiz type: radio, What is the value of 'total' after the following statement is executed? var total = 10 + 1 +\" 3\"; | 14 | “113” | This results in an error | “1013”",
+      "definition": "“113”"
+    },
+    {
+      "term": "Quiz type: radio, What would the alert be, when the following code is executed? var a = new String(\"Hello\"); var b = \"Hello\"; if (a ===b){ alert(\"Same\"); }else{ alert(\"Different\"); } | Same | Different | It would not give any alert as it is an error | None of the above",
+      "definition": "Different"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is the proper way to create a `for` loop? | for (var i = minVal; i < maxVal; i++) { … } | loop (for i = minVal; i < maxVal; i++) { … } | for (i < maxVal) { … } | for (var i = minVal; i++; i < maxVal) { … }",
+      "definition": "for (var i = minVal; i < maxVal; i++) { … }"
+    },
+    {
+      "term": "Quiz type: radio, Which JavaScript statement is best used to compare a value against multiple possible matches and execute code for the first matching case? |  nested if-else statement   |   if statement  |   switch statement   |  ternary operator  ",
+      "definition": "switch statement"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is not an event binder in JavaScript? | onload | onhover | onmouseover | onclick",
+      "definition": "onhover"
+    },
+    {
+      "term": "Quiz type: radio, What is the relation between Git and GitHub? | GitHub is a main section in the Git project workflow.  | GitHub is an online hosting service for Git repositories.  | GitHub is a program required for version control on Git.  | GitHub is an open-source tool used to create Git. ",
+      "definition": "GitHub is an online hosting service for Git repositories."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following describes a repository? | A basic unit of storage in Git that cannot be changed  | A collection of user accounts that are connected to a pull request  | A data structure that stores documents and source code | A plain text file that explains the purpose of a project ",
+      "definition": "A data structure that stores documents and source code"
+    },
+    {
+      "term": "Quiz type: radio, What is the purpose of a license?  | To describe the purpose of the project | To establish a secure remote login between computers | To record all changes made to a repository | To express how people can use your code",
+      "definition": "To express how people can use your code"
+    },
+    {
+      "term": "Quiz type: radio, What is the role of “commit” in GitHub?  | To save changes  | To undo changes | To merge | To pull requests ",
+      "definition": "To save changes"
+    },
+    {
+      "term": "Quiz type: radio, What type of version control system is Git? | Centralized | Remote | Local | Distributed",
+      "definition": "Distributed"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements is associated with a working directory? | A separate line of development that allows one to work independently | Copy of a repository | Contains the files and subdirectories on the computer that are associated with a Git repository | Contains project folders that are set up for version control",
+      "definition": "Contains the files and subdirectories on the computer that are associated with a Git repository"
+    },
+    {
+      "term": "Quiz type: radio, What happens if you make a change on a repository branch that you don't own? | GitHub makes a pull request | GitHub undoes the changes. | GitHub generates an error message. | GitHub issues a push request for the owner.",
+      "definition": "GitHub makes a pull request"
+    },
+    {
+      "term": "Quiz type: radio, You need to run three commands to push local changes to the GitHub repository. Which command will you use when your changes are ready to be moved to the GitHub repository? | git push | git remove -v | git commit -m | git add",
+      "definition": "git push"
+    },
+    {
+      "term": "Quiz type: radio, What are three commonly used commands for working with remote repositories? | push, pull, fetch | open, close, send | create, delete, copy | open, edit, push",
+      "definition": "push, pull, fetch"
+    },
+    {
+      "term": "Quiz type: radio, When managing forks, which command can you use to fetch and merge the remote branch in a single step? | git merge upstream/main | git pull <upstream> | git fetch upstream | git pull downstream",
+      "definition": "git pull <upstream>"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following commands is used to make a branch active? | git add | got commit | git branch | git checkout",
+      "definition": "git checkout"
+    },
+    {
+      "term": "Quiz type: radio, Which command can a developer use to keep up-to-date with the upstream? | git revert | git push | git request pull | git pull <upstream> and git fetch <upstream>",
+      "definition": "git pull <upstream> and git fetch <upstream>"
+    },
+    {
+      "term": "Quiz type: radio, In Git workflow, which step involves creating a separate workspace for making changes and developing features without interfering with the main codebase? | Performing an initial commit after selecting the required files | Selecting and moving files to the staging area | Initializing a Git repository in your project's local directory | Creating a branch from the main repository and working on the branch",
+      "definition": "Creating a branch from the main repository and working on the branch"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following commands helps you to view the commit history? | git log | git history | git checkout | git commit",
+      "definition": "git log"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following describes JSX? | An error object | An add-on for JavaScript | JavaScript XML, a syntax extension for JavaScript | A JavaScript library",
+      "definition": "JavaScript XML, a syntax extension for JavaScript"
+    },
+    {
+      "term": "Quiz type: radio, What tool quickly sets up a new React project with current features like fast refresh and current module replacement? | CRA | Webpack | Babel | Vite",
+      "definition": "Vite"
+    },
+    {
+      "term": "Quiz type: radio, Which describes \"one-way binding\" in React? | Data can only flow from parent components to child components. | Data can only flow from child components to parent components. | Data can flow both ways between components. | Data can't flow between components.",
+      "definition": "Data can only flow from parent components to child components."
+    },
+    {
+      "term": "Quiz type: radio, What role does a Virtual DOM have in React? | It replaces the browser's native DOM with a virtual copy. | It provides each React component its own DOM. | It changes just the parts of the DOM that need updating. | It lets React components directly change the DOM.",
+      "definition": "It changes just the parts of the DOM that need updating."
+    },
+    {
+      "term": "Quiz type: radio, How does React send data from one class component to another? | By using global variables | By adding data from outside files | By using props | By using hooks",
+      "definition": "By using props"
+    },
+    {
+      "term": "Quiz type: radio, In addition to componentDidMount(), which method does React invoke to mount a class component? | componentDidUpdate() | getDerivedStateFromProps() | componentWillUnmount() | componentWillMount()",
+      "definition": "componentWillMount()"
+    },
+    {
+      "term": "Quiz type: radio, Which method does React call when updating props to reflect that update in the component's state? | componentDidUpdate() | render() | getDerivedStateFromProps() | getSnapshotBeforeUpdate()",
+      "definition": "getDerivedStateFromProps()"
+    },
+    {
+      "term": "Quiz type: radio, What happens in React when you attempt to change a state object directly? | It issues a warning but doesn't change anything in the application. | It changes the state and re-renders the component. | It doesn't change the state or cause a re-render. | Issues an error, and the application stops.",
+      "definition": "It doesn't change the state or cause a re-render."
+    },
+    {
+      "term": "Quiz type: radio, Which type of syntax does React use to update how the UI should behave when data or states change? | Imperative | Declarative | JSX | HTML",
+      "definition": "Declarative"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following shows JSX syntax? | const MyComponent = () => {\n\n return (\n\n   <>\n\n     <h1>Hello, World!</h1>\n\n     <p>This is a JSX component.</p>\n\n   </>\n\n );\n\n} | const MyComponent = () => {\n\n return (\n\n   <h1>Hello, World!</h1>\n\n   <p>This is a JSX component.</p>\n\n )\n\n}; | const MyComponent = () => {\n\n <h1>Hello, World!</h1>\n\n <p>This is a JSX component.</p>\n\n}; | const MyComponent = () => {\n\n <>\n\n   <h1>Hello, World!</h1>\n\n   <p>This is a JSX component.</p>\n\n </>\n\n};",
+      "definition": "const MyComponent = () => {\n\n return (\n\n   <>\n\n     <h1>Hello, World!</h1>\n\n     <p>This is a JSX component.</p>\n\n   </>\n\n );\n\n}"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following function component principles helps you identify errors well? | Composition | Unidirectional data flow\n\nGemini | Reusability | Customization",
+      "definition": "Unidirectional data flow"
+    },
+    {
+      "term": "Quiz type: radio, What purpose does higher-order function component composition serve? | Adding features without rewriting code\n\nGemini | Transferring data between components | Arranging components in a hierarchy | Passing data from a parent component to its child",
+      "definition": "Adding features without rewriting code"
+    },
+    {
+      "term": "Quiz type: radio, How does the hierarchy principle benefit component organization in React? | It provides modular design using parent-child components.\n\nGemini | It enables component manipulation by the virtual DOM.  | It enables efficient data passing. | It allows easy manipulation of component states.",
+      "definition": "It provides modular design using parent-child components."
+    },
+    {
+      "term": "Quiz type: radio, Which hook function should you use to update the user's name from \"Marie\" to \"Marie Torres\" in React? | updateName(\"Marie Torres \") | setName(\"Marie Torres \")\n\nGemini | setButtonClicked(\"Marie Torres \") | useState(\"Marie Torres \")",
+      "definition": "setName(\"Marie Torres \")"
+    },
+    {
+      "term": "Quiz type: radio, If you allow users to collapse or expand a section for better readability, which approach would provide the best user experience to control screen clutter? | Use setName to update the information. | Use useState for rendering the conditional information.  | Display the information alongside the other content. | Create a separate component with a toggle button.\n\nGemini",
+      "definition": "Create a separate component with a toggle button."
+    },
+    {
+      "term": "Quiz type: radio, Which phase of a functional component's lifecycle does React use to initialize a component and prepare it for rendering on the DOM? | Error-handling phase | Updating phase | Mounting phase\n\nGemini | Unmounting phase",
+      "definition": "Mounting phase"
+    },
+    {
+      "term": "Quiz type: radio, Examine the following code: useEffect(() => { fetch('https://api.example.com/products') .then(response => response.json()) .then(data => setProducts(data)) .catch(error => console.error('Error fetching products:', error)); }, [ ]); What purpose does the empty dependency array, [], serve? | It fetches the product data only once when the component mounts.\n\nGemini | It declares and initializes state variables within the component. | It triggers a re-render of the component whenever the data changes. | It responds to user actions and state modifications.",
+      "definition": "It fetches the product data only once when the component mounts."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following methods directly removes elements from an array by modifying the original array? | slice | map | filter | splice\n\nGemini",
+      "definition": "splice"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following can you use to provide additional data about an HTML element? | Nodes  | Attributes\n\nGemini | Props | Events",
+      "definition": "Attributes"
+    },
+    {
+      "term": "Quiz type: radio, Which key benefit of React's virtual DOM enables efficient updates? | Re-rendering only the updated component\n\nGemini | Debugging and testing | Cross-platform compatibility | Simple development",
+      "definition": "Re-rendering only the updated component"
+    },
+    {
+      "term": "Quiz type: radio, What hook can you use to manage a form's state in React? | useContext | useEffect | useForm | useState",
+      "definition": "useState"
+    },
+    {
+      "term": "Quiz type: radio, Which hook should you use to handle asynchronous logic in functional components? | useState | useAsync | useCallback | useEffect",
+      "definition": "useEffect"
+    },
+    {
+      "term": "Quiz type: radio, How can you trigger an effect to run only once after the initial render in a functional component? | With the useEffect hook and no dependencies | With the useEffect hook and an empty dependency array | With the useEffect hook and a non-empty dependency array | With the useState hook to track the component's initial render",
+      "definition": "With the useEffect hook and an empty dependency array"
+    },
+    {
+      "term": "Quiz type: radio, How can you handle form submission in React? | With the onClick event | With the onChange event handler | With the onKeyDown event handler | With the onSubmit event",
+      "definition": "With the onSubmit event"
+    },
+    {
+      "term": "Quiz type: radio, How can you handle user input in a controlled component in React? | With controlled data | By directly modifying the DOM elements | By relying on the default behavior of form elements | With the onChange event handler to update the state",
+      "definition": "With the onChange event handler to update the state"
+    },
+    {
+      "term": "Quiz type: radio, What is an advantage of using Redux Thunk middleware? | Thunk scales well. | Thunk works well with complex applications. | Thunk enables async operations without boilerplate code. | Thunk handles concurrency problems efficiently.",
+      "definition": "Thunk enables async operations without boilerplate code."
+    },
+    {
+      "term": "Quiz type: radio, What is Redux Toolkit primarily used for? | Implementing authentication and authorization | Creating complex UI components | Managing HTTP requests and responses | Reducing boilerplate code",
+      "definition": "Reducing boilerplate code"
+    },
+    {
+      "term": "Quiz type: radio, Which function from the Redux Toolkit consolidates Redux setup logic into a single function call? | configureStore() | createStore() | createReducer() | createSlice()",
+      "definition": "configureStore()"
+    },
+    {
+      "term": "Quiz type: radio, What is the purpose of a Redux slice? | To handle asynchronous operations | To create reusable UI components | To divide the application states into several parts and manage their updates | To manage HTTP requests and responses",
+      "definition": "To divide the application states into several parts and manage their updates"
+    },
+    {
+      "term": "Quiz type: radio, Which middleware is commonly used with Redux to handle asynchronous actions and side effects? | Redux Thunk | Redux Saga | Redux Logger | Redux DevTools Extension",
+      "definition": "Redux Thunk"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a back-end technology? | Browser | Web API | HTML | CSS",
+      "definition": "Web API"
+    },
+    {
+      "term": "Quiz type: radio, What quality makes it possible for you to run JavaScript applications without compiling? | JavaScript is an interpreted language. | The language syntax resembles Java. | All modern browsers support JavaScript. | You can use a text editor to develop JavaScript applications.",
+      "definition": "JavaScript is an interpreted language."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server? | REST Web Service | Enterprise Java | JSON | CSS",
+      "definition": "REST Web Service"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a difference between ES and CommonJS modules? | CommonJS module files use a .mjs extension whereas ES modules use .js | CommonJS is a JavaScript language whereas ES is a module specification |  ES modules use the import() statement whereas CommonJS modules use require().   | CommonJS modules are written in JavaScript whereas ES modules are not",
+      "definition": "ES modules use the import() statement whereas CommonJS modules use require()."
+    },
+    {
+      "term": "Quiz type: radio, How do you handle operation results with Node.js? | Create an instance of a web server application | Specify a relative path to the Node.js script from the module directory | Use blocking on asynchronous I/O operations | Write callback functions to handle results when the operations complete",
+      "definition": "Write callback functions to handle results when the operations complete"
+    },
+    {
+      "term": "Quiz type: radio, What do you use the http.createServer function for? | To specify a main script for your module | To create an instance of a web server | To develop an anonymous function to handle requests and responses | To import a Node.js module",
+      "definition": "To create an instance of a web server"
+    },
+    {
+      "term": "Quiz type: radio, Which core Node.js module can be used for input and output (I/O)? | http | fs | URL | util",
+      "definition": "fs"
+    },
+    {
+      "term": "Quiz type: radio, Which is an aspect of Node Package Manager (NPM)? | It manages the versioning of source code | It writes metadata to a package.json file | It creates a package.json file in the project’s root directory | It functions as a command line interface for installing packages",
+      "definition": "It functions as a command line interface for installing packages"
+    },
+    {
+      "term": "Quiz type: radio, What do you use the require function for? | To create an instance of a web server | To specify a main script for your module | To import a Node.js module | To develop an anonymous function to handle requests and responses",
+      "definition": "To import a Node.js module"
+    },
+    {
+      "term": "Quiz type: radio, What happens when a module does not have a package.json file? | The relative path to the Node.js script changes to an absolute path from the module directory. | The require statement assumes that scripts have a file extension of js. | There is no module manifest. | Node.js assumes that the main class is named index.js.",
+      "definition": "The require statement assumes that scripts have a file extension of js."
+    },
+    {
+      "term": "Quiz type: radio, What best describes the network operations that Node.js makes? | Blocked operations return immediately without added processing time on the server | Applications block every network operation to complete at the same time on the server | Non-blocked operations return in a synchronized manner with added processing time on the server | Non-blocked operations return immediately without added processing time on the server",
+      "definition": "Non-blocked operations return immediately without added processing time on the server"
+    },
+    {
+      "term": "Quiz type: radio, Before the Node.js framework receives the HTTP response message from the remote web server, it immediately returns a result for the http.request function call. What does this result state? | The response message will be sent successfully. | The return message will be sent successfully. | The callback function was called successfully. | A request is in progress.",
+      "definition": "A request is in progress."
+    },
+    {
+      "term": "Quiz type: radio, What parameter is optional in an HTTP request? | Resource variable parameter | Location function parameter | Callback function parameter | Event variable parameter",
+      "definition": "Callback function parameter"
+    },
+    {
+      "term": "Quiz type: radio, What object do Node.js modules in the SDK pass as the first parameter in a callback function? | Destination | Identity | Error | Location",
+      "definition": "Error"
+    },
+    {
+      "term": "Quiz type: radio, What do you pass back in the callback handler to indicate a successful return? | Empty string | Error | Null object | 404 status code",
+      "definition": "Null object"
+    },
+    {
+      "term": "Quiz type: radio, Which function calls the resultCallback callback function to return results to the main application? | step() | http.request() | aggregate_context() | result()",
+      "definition": "aggregate_context()"
+    },
+    {
+      "term": "Quiz type: radio, Why can inversion of control be an issue when using callbacks? | Callbacks sometimes hand over control to third-party code which can make errors hard to identify | Inversion of control creates the need for nested callbacks | Inversion of control uses promises which are difficult to implement | Inversion of control is used when something needs to be done sequentially which makes code readability difficult",
+      "definition": "Callbacks sometimes hand over control to third-party code which can make errors hard to identify"
+    },
+    {
+      "term": "Quiz type: radio, JSON is the standard format for API data exchange. What relationship does JSON have with Node.js? | Standard representation of native JavaScript objects | Common data model folder | Metadata file | JSON_SET",
+      "definition": "Standard representation of native JavaScript objects"
+    },
+    {
+      "term": "Quiz type: radio, When an error occurs, which state is the promise at? | Pending | Rejected | Resolved | Aborted",
+      "definition": "Rejected"
+    },
+    {
+      "term": "Quiz type: radio, The axios package handles HTTP requests in Node.js and returns a promise object. The promise object has a method that is called after the promise completes. What method does the promise object use? | if | or | else | then",
+      "definition": "then"
+    },
+    {
+      "term": "Quiz type: radio, The Node.js framework doesn't provide many features for building web apps. What do developers rely on to extend Node.js features? | External libraries and packages | JavaScript | Timely updates | JSON",
+      "definition": "External libraries and packages"
+    },
+    {
+      "term": "Quiz type: radio, One disadvantage of manual parsing is that string matching ignores the XML data structure. However, depending on XML data complexity, string matching might be more efficient than what? | An XML tree of the data | An XML attribute structure | No alternative: string matching is never more efficient. | An XML root element",
+      "definition": "An XML tree of the data"
+    },
+    {
+      "term": "Quiz type: radio, Which Node.js package can parse a string of XML elements into a JavaScript object? | XML-JS | Express.js | Async.js | xml2js",
+      "definition": "xml2js"
+    },
+    {
+      "term": "Quiz type: radio, Which web application framework is based on the Node.js runtime environment? | XML-JS | Async.js | JSON | Express",
+      "definition": "Express"
+    },
+    {
+      "term": "Quiz type: radio, The Node.js framework treats HTTP requests at a lower network level. In contrast, Express implements an app class for what purpose? | Lookup web services | Parse through a network path | Map to a web resource path | Access a URL",
+      "definition": "Map to a web resource path"
+    },
+    {
+      "term": "Quiz type: radio, What do you call to create a web server object to listen for incoming requests on a port? | app.request | http.view | app.listen | http.name",
+      "definition": "app.listen"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following kind of task is middleware most useful for? | Routing | Parsing strings | Error handling | Performing large calculations",
+      "definition": "Error handling"
+    },
+    {
+      "term": "Quiz type: radio, Which type of authentication is widely used for password recovery by providing a magic link to the user? | Session-based | Token-based | Single Sign On | Passwordless",
+      "definition": "Passwordless"
+    },
+    {
+      "term": "Quiz type: radio, Which statement regarding the jsonwebtoken.verify() method is true? | It is used to generate a JSON web token | It is used to return a response | It is used to return an HTTP status code | It is used to verify a JSON web token",
+      "definition": "It is used to verify a JSON web token"
+    },
+    {
+      "term": "Quiz type: radio, Which library and module are suited for black-box testing REST APIs? | Postman/TestAPI | Express/TestAPI | Koa/SuperTest | Mocha/SuperTest",
+      "definition": "Mocha/SuperTest"
+    },
+    {
+      "term": "Quiz type: radio,  After executing the following lines of code, what value does x hold? x=2 x=x+2 | 2 | 4 | 8 | 6",
+      "definition": "4"
+    },
+    {
+      "term": "Quiz type: radio, What is the output of the following operation 1+3*2? | 8 | 7 | 10 | 12",
+      "definition": "7"
+    },
+    {
+      "term": "Quiz type: radio, What is the output of the following code segment? type(int(12.3)) | str | float  | int | char",
+      "definition": "int"
+    },
+    {
+      "term": "Quiz type: radio, What is the output of the following code segment? int(False) | 1 | False | Error | 0",
+      "definition": "0"
+    },
+    {
+      "term": "Quiz type: radio, In Python, what is the output of the following operation? '5'+'6' | '11' | '56' | '5' | 11",
+      "definition": "'56'"
+    },
+    {
+      "term": "Quiz type: radio, Given myvar = 'hello', how would you return myvar as uppercase? | myvar.upper() | upper(myvar) | len(myvar) | myvar.find('hello')",
+      "definition": "myvar.upper()"
+    },
+    {
+      "term": "Quiz type: radio, What is the output of the following? str(1+1) | 11 | '11' | '2' | 2",
+      "definition": "'2'"
+    },
+    {
+      "term": "Quiz type: radio, What is the output of the following? \"123\".replace(\"12\", \"ab\") | ‘ab’ | 'ab3' | ‘12c’ | '123ab'",
+      "definition": "'ab3'"
+    },
+    {
+      "term": "Quiz type: radio, In Python 3, what data type does variable x hold after the operation: x = 1/1? | char | int | float | str",
+      "definition": "float"
+    },
+    {
+      "term": "Quiz type: radio, For the string “Fun Python” stored in a variable x, what will be the output of x[4:10]? | ‘Python’ | ‘Fun P’ | ‘ Pytho’ | Error",
+      "definition": "‘Python’"
+    },
+    {
+      "term": "Quiz type: radio, Consider the tuple A=((11,12),[21,22]), which contains a tuple and list. What is the result of the following operation A[0][1]? | 21 | 22 | 11 | 12",
+      "definition": "12"
+    },
+    {
+      "term": "Quiz type: radio, Examine the tuple A=((1),[2,3],[4]), that involves a tuple and list. What is the outcome of the following operation A[2][0]? | 2 | 4 | 1 | [4]",
+      "definition": "4"
+    },
+    {
+      "term": "Quiz type: radio, The method append does the following: | Adds one element to a list | Creates a new list with an added element | Adds multiple elements to a list | Merges two lists",
+      "definition": "Adds one element to a list"
+    },
+    {
+      "term": "Quiz type: radio, Consider the following list: A=[\"hard rock\",10,1.2] What will list A contain after the following command is run? del(A[0]) | [\"hard rock\",10,1.2] | Syntax error | [10,1.2] | [\"hard rock\",10]",
+      "definition": "[10,1.2]"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following syntax is helpful to clone list A and assign the result to list B? | A = B | B=A[:] | B[:] = A | B=A",
+      "definition": "B=A[:]"
+    },
+    {
+      "term": "Quiz type: radio, What is the result of the following? len((\"disco\",10)) | 2 | 6 | 5 | 7",
+      "definition": "2"
+    },
+    {
+      "term": "Quiz type: checkbox, Consider the following dictionary: {\"The Bodyguard\":\"1992\", \"Saturday Night Fever\":\"1977\"} Select the keys. | \"Saturday Night Fever\" | \"1977\" | \"The Bodyguard\" | \"1992\"",
+      "definition": "\"Saturday Night Fever\"|\"The Bodyguard\""
+    },
+    {
+      "term": "Quiz type: radio, The variable release_year_dict is a Python dictionary. What is the outcome of applying the following method? release_year_dict.values() | Changes the dictionary to a list | Retrieves the entire contents of the dictionary | Retrieves the values of the dictionary | Retrieves the keys of the dictionary",
+      "definition": "Retrieves the values of the dictionary"
+    },
+    {
+      "term": "Quiz type: radio, Consider the set: V={'1','2'}, what is the result of V.add('3')? | {'1','2'} | Error  | {'1','2','3'} | {1,2,3}",
+      "definition": "{'1','2','3'}"
+    },
+    {
+      "term": "Quiz type: radio, What is the outcome of the following? '1' in {'1','2'} | False | True | 1 | 0",
+      "definition": "True"
+    },
+    {
+      "term": "Quiz type: text, What is the output of the following code? 1 2 3 4 5 6 x=\"Go\" ifx==\"Go\": print('Go') else: print('Stop') print('Mike') | Mike | Go Stop | Stop Mike | Go Mike",
+      "definition": "Go Mike"
+    },
+    {
+      "term": "Quiz type: text, What is the result of the following lines of code? 1 2 x=1 x=x>-5 | 0 | False |  True | 1",
+      "definition": " True"
+    },
+    {
+      "term": "Quiz type: text, What is the output of the following few lines of code? 1 2 3 4 5 x=5 whilex!=2: print(x) x=x-1 | 5\n\n 4\n\n 3 | 5\n\n 4\n\n 3\n\n 2\n\n 1 | 5\n\n 4\n\n 3\n\n 2 | The program will never leave the loop.",
+      "definition": "5\n\n 4\n\n 3"
+    },
+    {
+      "term": "Quiz type: text, What is the result of running the following lines of code? 1 2 3 4 5 6 7 8 9 10 classPoints(object): def__init__(self,x,y): self.x=x self.y=y defprint_point(self): print('x=',self.x,'y=',self.y) p1=Points(1,2) p1.print_point() | x=1 y=2 | x=y= | y=2 | x=1; ",
+      "definition": "x=1 y=2"
+    },
+    {
+      "term": "Quiz type: text, What is the output of the following few lines of code? 1 2 3 fori,xinenumerate(['A','B','C']): print(i,2*x) | 0 A\n\n1 B\n\n2 C | 1 AA\n\n2 BB\n\n3 CC | 0 A\n\n2 B\n\n4 C | 0 AA\n\n1 BB\n\n2 CC",
+      "definition": "0 A\n\n2 B\n\n4 C"
+    },
+    {
+      "term": "Quiz type: text, What is the result of running the following lines of code? 1 2 3 4 5 6 7 8 9 10 11 12 classPoints(object): def__init__(self,x,y): self.x=x self.y=y defprint_point(self): print('x=',self.x,'y=',self.y) p2=Points(1,2) p2.x='A' p2.print_point() | x= 1 y=2 | x=A, y=B | x= A y=2 | x=A y=A",
+      "definition": "x= A y=2"
+    },
+    {
+      "term": "Quiz type: text, Considering the function delta, when will the following function return a value of 1? 1 2 3 4 5 6 defdelta(x): ifx==0: y=1 else: y=0 returny | Never | When the input is anything but 0 | When the input is 0 | When the input is 1",
+      "definition": "When the input is 0"
+    },
+    {
+      "term": "Quiz type: text, What is the output of the following lines of code 1 2 3 4 5 6 7 8 9 a=1 defdo(x): returnx+a print(do(1)) |  2 | NameError: name 'a' is not defined. | 1 | 0",
+      "definition": " 2"
+    },
+    {
+      "term": "Quiz type: checkbox, Which three of the following functions will perform the addition of two numbers? | def add(a, b):\n\n      return(sum(a, b)) | def add(a, b):\n\n    return(sum((a, b))) | def add(a, b):\n\n   c = a+b\n\n   return(c) | def add(a, b):\n\n     return(a + b)",
+      "definition": "def add(a, b):\n\n   c = a+b\n\n   return(c) | def add(a, b):\n\n     return(a + b)"
+    },
+    {
+      "term": "Quiz type: text, Consider the following code: 1 2 3 4 5 6 7 try: numerator=10 denominator=0 result=numerator/denominator print(result) exceptZeroDivisionError: print(\"Error:Denominatorcannotbe0.\") Which of the following is the correct expected output? | NaN | Error: Denominator cannot be 0 | ZeroDivisionError | 10/0",
+      "definition": "Error: Denominator cannot be 0"
+    },
+    {
+      "term": "Quiz type: radio, What result will the following lines of code give? a=np.array([0,1]) b=np.array([1,0]) np.dot(a,b) | array([1,1]) | 0 | array([[0, 0], [0, 0]]) | 1",
+      "definition": "0"
+    },
+    {
+      "term": "Quiz type: radio, What does the value of Z become after executing the following code? X=np.array([[1,0],[0,1]]) Y=np.array([[0,1],[1,0]]) Z=X+Y | array([[0,1],[1,1]]) | array([[0, 0], [0, 0]]) | array([[1,0],[0,1]]) | array([[1,1],[1,1]])",
+      "definition": "array([[1,1],[1,1]])"
+    },
+    {
+      "term": "Quiz type: radio, If you run the following lines of code, what values will the variable 'out' take? X=np.array([[1,0,1],[2,2,2]]) out=X[0:2,2] | array([1,0]) | array([0,2]) | array([1,1]) | array([1,2])",
+      "definition": "array([1,2])"
+    },
+    {
+      "term": "Quiz type: radio, After executing the given code, what value does Z hold? X=np.array([[1,0],[0,1]]) Y=np.array([[2,1],[1,2]]) Z=np.dot(X,Y) | array([[3,1],[1,3] ]) | array([[1,0],[0,1]]) | array([[2,0],[1,0]]) | array([[2,1],[1,2] ])",
+      "definition": "array([[2,1],[1,2] ])"
+    },
+    {
+      "term": "Quiz type: radio, Consider the following text file: Example1.txt: This is line 1 This is line 2 This is line 3 What is the output of the following lines of code? with open(\"Example1.txt\",\"r\") as file1: file_stuff=file1.readline() print(file_stuff) | This is line 1\n\nThis is line 2 | Syntax error | This is line 1\n\nThis is line 2\n\nThis is line 3 | This is line 1",
+      "definition": "This is line 1"
+    },
+    {
+      "term": "Quiz type: radio, What do the following lines of code do? with open(\"Example1.txt\",\"r\") as file1: FileContent=file1.read() print(FileContent) | Convert the contents of the file to a binary format | Read the file \"Example1.txt\" | Append the file \"Example1.txt\" | Write to the file \"Example1.txt\"",
+      "definition": "Read the file \"Example1.txt\""
+    },
+    {
+      "term": "Quiz type: radio, What do the following lines of code do? with open(\"Example.txt\",\"w\") as writefile: writefile.write(\"This is line A\\n\") writefile.write(\"This is line B\\n\") | Read the file \"Example.txt\" | Write to the file \"Example.txt\" | Append the file \"Example.txt\" | Create a binary file \"Example.txt\"",
+      "definition": "Write to the file \"Example.txt\""
+    },
+    {
+      "term": "Quiz type: radio, What task do the following lines of code accomplish? with open('Example2.txt','r') as readfile: with open('Example3.txt','w') as writefile: for line in readfile: writefile.write(line) | Reading the content of Example2.txt | Copying the text from Example2.txt to Example3.txt | Checking the mode of the open function for each file object | Printing out the content of Example2.txt",
+      "definition": "Copying the text from Example2.txt to Example3.txt"
+    },
+    {
+      "term": "Quiz type: radio, Given the dataframe df, how can you retrieve the element in the first row and first column? | df.iloc[1,2] | df.iloc[0,0] | df.iloc[0,1] | df.iloc[2,1]",
+      "definition": "df.iloc[0,0]"
+    },
+    {
+      "term": "Quiz type: radio, Which method extracts the distinct elements from the following? df['Length'] | head | tail | unique | describe",
+      "definition": "unique"
+    },
+    {
+      "term": "Quiz type: radio, What are the three parts of a response message? | Bookmarks, history, and security | Encoding, body, and cache | HTTP headers, blank line, and body | Start or status line, header, and body",
+      "definition": "Start or status line, header, and body"
+    },
+    {
+      "term": "Quiz type: radio, What does the line of code \"table_row = table.find_all(name='tr')\" do in web scraping? | It locates all the data within the table marked with a tag “a” | It locates all the data within the table marked with a tag “p” | It locates all the data within the table marked with a tag “tr” | It locates all the data within the table marked with a tag “h1”",
+      "definition": "It locates all the data within the table marked with a tag “tr”"
+    },
+    {
+      "term": "Quiz type: radio, What data structure do HTTP responses typically use for their return? | JSON | Tuples | Lists | Nested lists",
+      "definition": "JSON"
+    },
+    {
+      "term": "Quiz type: radio, Which Python libraries are primarily used for web scraping? | Pandas and Seaborn | Requests and BeautifulSoup | Flask and Django | NumPy and Matplotlib",
+      "definition": "Requests and BeautifulSoup"
+    },
+    {
+      "term": "Quiz type: radio, What is the role of 'td' tag in HTML files? | Table row | Table cell data | Table caption | Table description",
+      "definition": "Table cell data"
+    },
+    {
+      "term": "Quiz type: radio, What data type does the value 1.0 belong to? | complex | str | float | int",
+      "definition": "float"
+    },
+    {
+      "term": "Quiz type: radio, Given the string Name=\"ABCDE\", what outcome does the operation Name.find(\"B\") produce? | 1 | 0 | 2 | 5",
+      "definition": "1"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following code segments would generate an output of \"0.5\"? | 2//1 | 1//2 | 1/2 | 2/1",
+      "definition": "1/2"
+    },
+    {
+      "term": "Quiz type: radio, Complete the statement. Dictionary items can be: | Numerous data types | Only one data type | A collection of strings only | Stored in duplicate keys",
+      "definition": "Numerous data types"
+    },
+    {
+      "term": "Quiz type: radio, What is the syntax to obtain the first element of the tuple? A=('a','b','c') | A[:] | A[-1] | A[0] | A[1]",
+      "definition": "A[0]"
+    },
+    {
+      "term": "Quiz type: radio, What line of code would produce this output: ['1','2','3','4']? | '1,2,3,4'.reverse(',') | '1,2,3,4'.split(':') | '1,2,3,4'.join(',') | '1,2,3,4'.split(',')",
+      "definition": "'1,2,3,4'.split(',')"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following collection lacks order, indexing, and prohibits duplicate members? | List | Set | Dictionary | Tuple",
+      "definition": "Set"
+    },
+    {
+      "term": "Quiz type: radio, If x=1 what will produce the below output? Hi Mike | if(x!=1): \n\n print('Hello') \n\n else: \n\n print('Hi') \n\n print('Mike')  | if(x==1): \n\n print('Hello') \n\n else: \n\n print('Hi') \n\n print('Mike')  | if(x!=1): \n\n print('Hi') \n\n else: \n\n print('Hello') \n\n print('Mike') ",
+      "definition": "if(x!=1): \n\n print('Hi') \n\n else: \n\n print('Hello') \n\n print('Mike') "
+    },
+    {
+      "term": "Quiz type: radio, What is the process of forcing your program to output a pre-decided error message when it encounters an issue? | Error messages | Output errors | Force out | Exception handling",
+      "definition": "Exception handling"
+    },
+    {
+      "term": "Quiz type: radio, What add function would return the value 2? | def add(x): \n\n    return(x + x + x) \n\nadd(1)  | def add(x): \n\n    return(x+x) \n\nadd('1')  | def add(x): \n\n    return(x+x) \n\nadd(1)  | def add(x): \n\n    return(x+x+x) \n\nadd('1') ",
+      "definition": "def add(x): \n\n    return(x+x) \n\nadd(1) "
+    },
+    {
+      "term": "Quiz type: radio, What code segment would output the following? 1 3 4 | for i in range(1,5): \n\n      if (i==2): \n\n          print(i) | for i in range(1,5): \n\n       if (i!=2): \n\n           print(i) | for i in range(1,5): \n\n       if (i!=5): \n\n           print(i) | for i in range(1,5): \n\n       if (i!=1): \n\n           print(i)",
+      "definition": "for i in range(1,5): \n\n       if (i!=2): \n\n           print(i)"
+    },
+    {
+      "term": "Quiz type: radio, Which method in the Rectangle class draws the rectangle? class Rectangle(object): def __init__(self,width=2,height =3,color='r'): self.height=height self.width=width self.color=color def drawRectangle(self): import matplotlib.pyplot as plt plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color)) plt.axis('scaled') plt.show() | drawRectangle | __init__ | import matplotlib | class Rectangle",
+      "definition": "drawRectangle"
+    },
+    {
+      "term": "Quiz type: radio, Which method arranges the elements in a given list in a particular ascending or descending order? | replace() | sort() | split() | join()",
+      "definition": "sort()"
+    },
+    {
+      "term": "Quiz type: radio, What outcome do the following lines of code produce? a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a*b  | 1 | array([0, 0, 0, 0, 0]) | 0 | array([1, 1, 1, 1, 1])",
+      "definition": "array([0, 0, 0, 0, 0])"
+    },
+    {
+      "term": "Quiz type: radio, What line of code would produce the following: array([11, 11, 11, 11, 11])? | a=np.array([1,2,1,1,1]) \n\n a+10 | a=np.array([1,1,1,1,1]) \n\n a+10 | a=np.array([1,1,1,1,1]) \n\n 11-a | a=np.array([1,1,1,1,1]) \n\n a+1",
+      "definition": "a=np.array([1,1,1,1,1]) \n\n a+10"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a two-dimensional data structure by default? | Numpy List | Numpy array | Pandas Series | Pandas Dataframe",
+      "definition": "Numpy array"
+    },
+    {
+      "term": "Quiz type: radio, Given the file object named file1, which of the following codes prints the first 2 lines of the content in it? | for n in range(0, 2):\n\n    print(file1.readline()) | file1.readline(2) | file1.read(2) | file1.readline(4) ",
+      "definition": "for n in range(0, 2):\n\n    print(file1.readline())"
+    },
+    {
+      "term": "Quiz type: radio, What mode will write text at the end of the existing text in a file? | Read binary “rb” | Read “r” | Write “w” | Append “a”",
+      "definition": "Append “a”"
+    },
+    {
+      "term": "Quiz type: radio, What are the three main parts to a URL? | Put, route, and get | Get, post, and scheme | Block, post, and route | Scheme, internet address, and route",
+      "definition": "Scheme, internet address, and route"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following python libraries are not commonly used while performing webscraping? | Pandas | Numpy | BeautifulSoup | Requests",
+      "definition": "Numpy"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following statements are true about web apps? (Select two) | Web apps help link offline apps. | Web apps are accessed via a browser over the internet. | Web apps is a more generic term given to all forms of apps that create a link between any two parts of a system. | Web apps support CRUD actions.",
+      "definition": "Web apps are accessed via a browser over the internet.|Web apps support CRUD actions."
+    },
+    {
+      "term": "Quiz type: radio, In which testing phase do you verify that the application functions within the larger framework? | Performance testing | User testing  | Unit testing | Integration testing",
+      "definition": "Integration testing"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements is TRUE about PyLint? | PyLint is a Python IDE. | PyLint is a Python static code analysis tool. | PyLint is a Python code compiler. | PyLint is a Python-based package creation tool.",
+      "definition": "PyLint is a Python static code analysis tool."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is the right way to name constants based on the PEP8 guidelines? | dateOfBirth | date_of_birth | DATE_OF_BIRTH | Date_Of_Birth",
+      "definition": "DATE_OF_BIRTH"
+    },
+    {
+      "term": "Quiz type: radio, When gathering requirements for an app to manage events, the customer mentions that the project’s objective is to improve customer retention. Which of the following requirements describes the above scenario? | Business requirements | Technical requirements | User requirements | Constraints",
+      "definition": "Business requirements"
+    },
+    {
+      "term": "Quiz type: radio, Why is it a good practice to build a unit testing class? | To add one or more assertion methods  | To import the unittest library | To organize and run multiple unit tests from a single class object | To test the behavior of functions under all possible conditions. ",
+      "definition": "To organize and run multiple unit tests from a single class object"
+    },
+    {
+      "term": "Quiz type: radio, For this question, review the partial module code and the unit test code: When the unit test is executed, the test fails. Which of the following code statements will you modify for the unit test to pass? | self. assertEqual (subract (6, 4), 3) | from math import add | def test_subract(self) | self. assertEqual (add (6, 4), 10)",
+      "definition": "self. assertEqual (subract (6, 4), 3)"
+    },
+    {
+      "term": "Quiz type: checkbox, Consider the following code in the file my_code.py a directory named mypackage with __init__.py. def print_hello(): print(\"Hello\") Which of the following two statements are the right ways to access the function in the method? | from mypackage import print_hello\n\nprint_hello () | from mypackage.my_code import print_hello\n\nprint_hello () | from mypackage import my_code\n\nmy_code.print_hello () | import my_code\n\nprint_hello ()",
+      "definition": "from mypackage.my_code import print_hello\n\nprint_hello ()|from mypackage import my_code\n\nmy_code.print_hello ()"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is the general structure for testing a package? | run {package_name}. {module_name}. {function_name} (parameters) | import {package_name} | {package_name}. {module_name}. {function_name} (parameters) | {package_name} (parameters)",
+      "definition": "{package_name}. {module_name}. {function_name} (parameters)"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is the correct folder structure for the package “MyPackage”? | MyPackage -> module_1.py, module_2.py, __init__.py | MyPackage -> module_1.py, module_2.py, init.py | MyPackage -> module_1-> module_1.py MyPackage -> module_2-> module_2.py | MyPackage -> module_1.py, module_2.py",
+      "definition": "MyPackage -> module_1.py, module_2.py, __init__.py"
+    },
+    {
+      "term": "Quiz type: radio, True or false. The Requests library is designed to simplify the process of sending HTTP requests. | True  | False ",
+      "definition": "True"
+    },
+    {
+      "term": "Quiz type: radio, The decorator takes the path as an __________. | Route | Argument | Output  | Object",
+      "definition": "Argument"
+    },
+    {
+      "term": "Quiz type: radio, What is the @app decorator used to create? | Objects | Config Objects | URL handlers | Python files",
+      "definition": "URL handlers"
+    },
+    {
+      "term": "Quiz type: radio, In Flask, what code indicates the success or failure of the request? | status_code | content_type | mime-type | content_length",
+      "definition": "status_code"
+    },
+    {
+      "term": "Quiz type: radio, In Flask, which code sets the media type of the response? | status_code | content_type | content_length | mime-type",
+      "definition": "mime-type"
+    },
+    {
+      "term": "Quiz type: radio, What does UUID stand for? | Unique Unit Identifier  | Universal Unique Identifier | Unique Universal Identifier | Unit Unique Identifier ",
+      "definition": "Universal Unique Identifier"
+    },
+    {
+      "term": "Quiz type: radio, Every HTTP response contains a _________-digit code. | Three | Two | One | Four",
+      "definition": "Three"
+    },
+    {
+      "term": "Quiz type: radio, Flask server automatically returns a ______ OK status when you return from the @app.route method. | 300 | 599 | 404 | 200",
+      "definition": "200"
+    },
+    {
+      "term": "Quiz type: radio, Flask is a _______ web framework application that provides users with tools for building web applications. | Medium weight | Average weight | Heavyweight | Lightweight",
+      "definition": "Lightweight"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following provides web application access? | Downloadable application | Web browser | Virtual machine | Program",
+      "definition": "Web browser"
+    },
+    {
+      "term": "Quiz type: radio, You’re building a website for an online store. You need to store product information, customer details, and order history. Which of the following best describes the role of a database in this scenario? | A physical device for storing data | A programming language for data analysis | A graphical user interface for data visualization | A collection of related tables",
+      "definition": "A collection of related tables"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is the most significant advantage of an RDBMS? | It requires source and destination tables to be identical for migrating data | It’s ACID-Compliant | It can store only structured data | It enforces a limit on the length of data fields",
+      "definition": "It’s ACID-Compliant"
+    },
+    {
+      "term": "Quiz type: radio, In a library entity-relationship data model, a book is an example of _____, and the book’s title, edition, and publication date are examples of _______. | an entity, attributes | an attribute, entities | an entity, properties | a row, columns",
+      "definition": "an entity, attributes"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statements about a database is/are correct? | A database is a logically coherent data collection with some inherent meaning. | Data can only be added and queried from a database but not modified. | Only SQL can be used to query data in a database. | A database collects unrelated data stored in separate files.",
+      "definition": "A database is a logically coherent data collection with some inherent meaning."
+    },
+    {
+      "term": "Quiz type: radio, What is the key advantage of the relational model in databases? | Physical data independence | Data security | Unstructured data handling | Logical and physical data independence",
+      "definition": "Logical and physical data independence"
+    },
+    {
+      "term": "Quiz type: radio, What is the correct syntax for inserting data into a table named Members? | INSERT INTO MEMBERS\n\n      (MEMBER_ID, LASTNAME, FIRSTNAME)\n\n   VALUES (‘1432’, ‘Smith’, ‘Charles’) | INSERT INTO MEMBERS\n\n      (MEMBER_ID, LASTNAME, FIRSTNAME, OCCUPATION)\n\n   VALUES (‘1432’, ‘Smith’, ‘Charles’) | INSERT MEMBERS\n\n      (MEMBER_ID, LASTNAME, FIRSTNAME)\n\n   VALUES (‘1432’, ‘Smith’, ‘Charles’) | INSERT INTO MEMBERS\n\n      (MEMBER_ID, LASTNAME, FIRSTNAME)\n\n   VALUES (MEMBER_ID is 345DT2000, LASTNAME is Smith, FIRSTNAME is Charles)",
+      "definition": "INSERT INTO MEMBERS\n\n      (MEMBER_ID, LASTNAME, FIRSTNAME)\n\n   VALUES (‘1432’, ‘Smith’, ‘Charles’)"
+    },
+    {
+      "term": "Quiz type: radio, When using the DELETE statement to remove data from a database, what does the WHERE clause do? | It limits the amount of data that is deleted to a certain number of characters. | It specifies where to find the data to delete, by column number and row number. | It indicates the condition under which the data should be deleted; for example, which rows should have their contents deleted. | It specifies the server where the database is located.",
+      "definition": "It indicates the condition under which the data should be deleted; for example, which rows should have their contents deleted."
+    },
+    {
+      "term": "Quiz type: radio, A single INSERT statement can be used to insert multiple rows in a table. True or False? | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Quiz type: radio, Which SELECT statement eliminates duplicates in the result set? | SELECT country FROM author ORDER BY 1 |  SELECT DISTINCT(country) FROM author | SELECT country FROM author LIMIT DUPLICATES | None of the above  ",
+      "definition": " SELECT DISTINCT(country) FROM author"
+    },
+    {
+      "term": "Quiz type: radio, The SELECT statement is called a query, and the output we get from executing the query is called a result set. True or False? | True | False",
+      "definition": "True"
+    },
+    {
+      "term": "Quiz type: radio, When you create an object (an instance of a class) in Django, what does it represent? | Table column | Table row | Database table | Table cell",
+      "definition": "Table row"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is a benefit of using ORM? | It increases performance | It speeds up application development | It’s easier to debug | It removes data access complexity from the application code",
+      "definition": "It speeds up application development"
+    },
+    {
+      "term": "Quiz type: radio, When you define a forward relationship between tables, which of the following does Django automatically create? | Django doesn’t automatically create anything | Backward access | Comparative clause | Explicit reference",
+      "definition": "Backward access"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following built-in features in Django allows you to manage user accounts, including registration, login, and password management? | Shared nothing architecture | Administration interface | Template engine | Authentication and authorization",
+      "definition": "Authentication and authorization"
+    },
+    {
+      "term": "Quiz type: radio, Which objects would you call the Delete method on to delete records in a database? | Child object or lookup parameter | Foreign Key field or Many-to-many field | Model object or QuerySet | Filter chain or primitive field",
+      "definition": "Model object or QuerySet"
+    },
+    {
+      "term": "Quiz type: radio, What are the two main components of an object in Object-Oriented Analysis and Design (OOAD)? | Data and behaviors | Variables and functions | Methods and functions | Properties and attributes",
+      "definition": "Data and behaviors"
+    },
+    {
+      "term": "Quiz type: radio, Multi-table inheritance is like which of the following relationships? | One-to-many | One-to-one | Many-to-one | Many-to-many",
+      "definition": "One-to-one"
+    },
+    {
+      "term": "Quiz type: radio, What is the main reason ORM was invented? | To bridge the gap between object-oriented programming (OOP) and SQL | To use methods | To use a different set of APIs for each database | To promote SQL",
+      "definition": "To bridge the gap between object-oriented programming (OOP) and SQL"
+    },
+    {
+      "term": "Quiz type: radio, Django only requires that model relationships be defined on one side. What is this called? | Related object | Singular access | Child object | Forward access",
+      "definition": "Forward access"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following items does Django provide, allowing you to define your data models using Python classes? | Object-Relational Mapping or ORM | Authentication and authorization mechanisms | Template engine | Django apps or packages",
+      "definition": "Object-Relational Mapping or ORM"
+    },
+    {
+      "term": "Quiz type: radio, What does the Django template contain besides Python code? | XML elements | Static HTML elements | Dynamic HTML elements | Markdown elements",
+      "definition": "Static HTML elements"
+    },
+    {
+      "term": "Quiz type: radio, Django creates three files after you've created a project. Which of these files is a command interface that interacts with the Django project? | urls.py  | manage.py | settings.py | access.py",
+      "definition": "manage.py"
+    },
+    {
+      "term": "Quiz type: radio, For the online course example, when registering the course and instructor models in the Django admin site, you would write and run \"admin.site.register(Course)\" and what other code statement. | admin.site.register(Superuser) | admin.site.register(Admin) | admin.site.register(Instructor) | admin.site.register(App) ",
+      "definition": "admin.site.register(Instructor)"
+    },
+    {
+      "term": "Quiz type: radio, When you map a URL to the course view, what file do you add path objects to? | manage.py | urls.py | config.py | settings.py ",
+      "definition": "urls.py"
+    },
+    {
+      "term": "Quiz type: radio, Django template files display content such as course names and descriptions. How is the content displayed? | Markdown | XML | HTML | Plain text",
+      "definition": "HTML"
+    },
+    {
+      "term": "Quiz type: radio, What is one difference between the Django MVT and the MVC design pattern? | There is no difference | The Django framework or Django server itself acts as controller | MVC has a Model | MVT has a View",
+      "definition": "The Django framework or Django server itself acts as controller"
+    },
+    {
+      "term": "Quiz type: radio, What two development tasks must be performed to manage and determine which data will be presented to the UI? | Sort data and sort views | Model data and create views | Control the project | Access data and build tables",
+      "definition": "Model data and create views"
+    },
+    {
+      "term": "Quiz type: radio, Which command is used in the Django Admin video to start the server? | python manage.py startDjango | python manage.py startserver | python manage.py runserver |  python manage.py run",
+      "definition": "python manage.py runserver"
+    },
+    {
+      "term": "Quiz type: radio, Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain? | Python scripts | Read-only HTTP metadata | Python commands | Django static files",
+      "definition": "Read-only HTTP metadata"
+    },
+    {
+      "term": "Quiz type: radio, Django template file structures sometimes have two files created with the same name. How do you ensure Django points to the correct file? | Note the differences | Add metadata | Name spacing |  Add an identifier",
+      "definition": "Name spacing"
+    },
+    {
+      "term": "Quiz type: radio, Django class-based view must be mapped with a URL pattern, almost like configuring the URL for the function-based view. The only difference is you need to specify which of the following? | The as_config function  | The as_class method  | The view_base method  | The as_view function ",
+      "definition": "The as_view function"
+    },
+    {
+      "term": "Quiz type: radio, A username and password can be received from a user via a login HTML template. Which HTTP method sends the username or password to the online course log in view to authenticate the user? | GET request  | POST request  | DELETE request  | PUT request ",
+      "definition": "POST request"
+    },
+    {
+      "term": "Quiz type: radio, In the Bootstrap Integration video, a course index page is designed that contains courses represented as cards. The multiple course cards are then added to a container. How are the multiple course cards managed? | They are placed in a list  | They are added to a table  | They are wrapped in a card deck  | They are shuffled ",
+      "definition": "They are wrapped in a card deck"
+    },
+    {
+      "term": "Quiz type: radio, Django provides a default static files app that collects all static files in a single directory. When you deploy your app to a production web server, you can move all static files to this directory. There are several steps to do this. What call do you make in the last step? | Run the ‘collectstatic’ command  | STATIC_ROOT  | STATIC_URL  | Run the “importstatic” command ",
+      "definition": "Run the ‘collectstatic’ command"
+    },
+    {
+      "term": "Quiz type: radio, ASGI is a web server interface that Django apps support. What is the main difference between WSGI and ASGI? | ASGI supports Python  | WSGI supports Python  | There is no difference between WSGI and ASGI  | ASGI supports asynchronous code, and WSGI is suitable for synchronous web applications ",
+      "definition": "ASGI supports asynchronous code, and WSGI is suitable for synchronous web applications"
+    },
+    {
+      "term": "Quiz type: radio, Which type of view was created for Django to address the extensibility and reusability of views? | Method-based view  | Class-based view  | Function-based view  | HTTP-based view ",
+      "definition": "Class-based view"
+    },
+    {
+      "term": "Quiz type: radio, Does authorization occur before, after, or during the authentication process? | Before authentication  | After authentication  | During authentication  | Authentication doesn’t affect authorization ",
+      "definition": "After authentication"
+    },
+    {
+      "term": "Quiz type: radio, How can you use Bootstrap CSS-style classes without manually downloading and importing them? | Link to the Bootstrap web page before you develop your webpage  | Copy and paste the CSS style class  | Download Bootstrap  | Add a link to the latest Bootstrap version into the head element of your HTML template ",
+      "definition": "Add a link to the latest Bootstrap version into the head element of your HTML template"
+    },
+    {
+      "term": "Quiz type: radio, Django apps can have app-specific static files and external static files. Where do you define the directories for external static files, so that you can find them? | In the EX_DIRS list in the settings.py file  | In the STATICFILES_DIRS list in settings.py file  | In the STATIC list in manage.py file  | In the PROPERTIES list in manage.py ",
+      "definition": "In the STATICFILES_DIRS list in settings.py file"
+    },
+    {
+      "term": "Quiz type: radio, WSGI is the primary Python standard for communicating between web servers and applications. To make Django apps work with WSGI, the start project command creates a file that declares an application callable by default. What is this file named? | sgi.py  | giws.py  | django.py  | wsgi.py ",
+      "definition": "wsgi.py"
+    },
+    {
+      "term": "Quiz type: radio, What are the steps used to create and run containers? | Create a Dockerfile and use it with the pull command to create a running container. | Create a container image, use it to create a Dockerfile, and then use the Dockerfile to create a running container. | Create a Dockerfile, use it to create a container image, and then use the container image to create a running container. | Input the container image name and tag.",
+      "definition": "Create a Dockerfile, use it to create a container image, and then use the container image to create a running container."
+    },
+    {
+      "term": "Quiz type: radio, What is the function of the Docker ‘run’ command? | Stores images in a configured registry | Lists all images, repositories, tags, and sizes | Creates a container from an image | Retrieves images from a configured registry",
+      "definition": "Creates a container from an image"
+    },
+    {
+      "term": "Quiz type: radio, What applications are a good fit for Docker? | Applications that require flexible scaling and portability  | Applications with high performance requirements | Applications with rich GUI features | Applications that need a lot of security",
+      "definition": "Applications that require flexible scaling and portability "
+    },
+    {
+      "term": "Quiz type: radio, What is a Docker container? | A read-only template | A method of isolating communication | A persistent set of data that can be transferred | A runnable instance of an image",
+      "definition": "A runnable instance of an image"
+    },
+    {
+      "term": "Quiz type: radio, Do containers have to be on a specific operating system or platform? | No, containers don’t run on operating systems or platforms. | Yes, containers only work on Windows-based operating systems and platforms. | Yes, containers only work on Linux-based operating systems and platforms. | No, containers work on many types of operating systems and platforms.",
+      "definition": "No, containers work on many types of operating systems and platforms."
+    },
+    {
+      "term": "Quiz type: checkbox, What are three parts of Docker’s underlying technology?  | Linux kernel features | The Go programming language | GitHub | Namespaces",
+      "definition": "Linux kernel features|The Go programming language|Namespaces"
+    },
+    {
+      "term": "Quiz type: radio, What does the Docker client-server architecture provide? | Cloud storage | An application environment | Code checking | A communication channel",
+      "definition": "An application environment"
+    },
+    {
+      "term": "Quiz type: radio, What are volumes and bind mounts used for in Docker? | Connecting to external storage platforms | Persisting data | Erasing data | Isolating communication",
+      "definition": "Persisting data"
+    },
+    {
+      "term": "Quiz type: radio, How are digital containers like shipping containers? | Digital containers must be welded to computer motherboards, just like shipping containers must be welded. | Container size and specs are standardized, which makes them easier to move around. | Digital containers are not like shipping containers. | Both digital and shipping containers have to travel internationally.",
+      "definition": "Container size and specs are standardized, which makes them easier to move around."
+    },
+    {
+      "term": "Quiz type: radio, What Docker features create a container image? | The copy command and an existing image | The image command and a Dockerfile | The build command and a Dockerfile | The run command and a Dockerfile",
+      "definition": "The build command and a Dockerfile"
+    },
+    {
+      "term": "Quiz type: radio, What is automated bin packing? | A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability  | A Kubernetes capability that applies automatic changes | A Kubernetes capability that mounts a chosen storage system | A Kubernetes capability that scales workloads based on metrics or commands",
+      "definition": "A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability"
+    },
+    {
+      "term": "Quiz type: radio, What component of a worker node ensures containers are running as desired? | The kubelet | The Kubernetes proxy | Container runtime | Etcd",
+      "definition": "The kubelet"
+    },
+    {
+      "term": "Quiz type: checkbox, What are three Kubernetes capabilities? | CI/CD pipelines | Secret and configuration management | Automated rollouts | Storage orchestration",
+      "definition": "Secret and configuration management|Automated rollouts|Storage orchestration"
+    },
+    {
+      "term": "Quiz type: checkbox, In what three environments can container orchestration be implemented? | Public cloud environments | On-premises environments | Private cloud environments |  A single device ",
+      "definition": "Public cloud environments|On-premises environments|Private cloud environments"
+    },
+    {
+      "term": "Quiz type: radio, What does a control plane do? | Contains Pods | Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster    | Assigns newly created Pods to nodes | Shares all the resources of a node",
+      "definition": "Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster"
+    },
+    {
+      "term": "Quiz type: radio, What is Kubectl? | Kubernetes command line interface (CLI)  | Cloud command line interface  | OpenShift command line interface (oc)  | Docker command line interface ",
+      "definition": "Kubernetes command line interface (CLI)"
+    },
+    {
+      "term": "Quiz type: radio, What is a label? | A set of identical running Pod replicas that are horizontally scaled | A key-value pair attached to an object | The simplest unit in Kubernetes | A mechanism for isolating groups of resources within a single Cluster",
+      "definition": "A key-value pair attached to an object"
+    },
+    {
+      "term": "Quiz type: radio, What Kubernetes object should be used for stateless applications? | ReplicaSet | StatefulSet | DaemonSet | Deployment",
+      "definition": "Deployment"
+    },
+    {
+      "term": "Quiz type: radio, What is the most popular container orchestration tool used as of 2022? | Nomad | Docker Swarm | Kubernetes  | Marathon",
+      "definition": "Kubernetes"
+    },
+    {
+      "term": "Quiz type: radio, What is the function of an External Name Service? | Maps to a DNS name | Creates and routes the incoming requests automatically to the ClusterIP Service | Provides inter-service communication within the Cluster | Directs traffic to the NodePort Service",
+      "definition": "Maps to a DNS name"
+    },
+    {
+      "term": "Quiz type: radio, What Kubernetes object adds or deletes pods for scaling and redundancy? | A ReplicaSet | A Secret | A DaemonSet | A Config Map",
+      "definition": "A ReplicaSet"
+    },
+    {
+      "term": "Quiz type: checkbox, What are the three required steps to bind the IBM Cloud Service to your Cluster?  | Configure your app to access the credentials. | Bind the Service to your Cluster to create credentials. | Provision an instance of the Service. | Erase the credential configuration file after credential setup.",
+      "definition": "Configure your app to access the credentials.|Bind the Service to your Cluster to create credentials.|Provision an instance of the Service."
+    },
+    {
+      "term": "Quiz type: radio, Which rolling update types ensure 100% app availability? | Both all-at-once and one-at-a-time updates and rollbacks ensure 100% app availability. | No rolling update types can ensure 100% app availability. | All-at-once updates and rollbacks ensure 100% app availability. | One-at-a-time updates and rollbacks ensure 100% app availability.",
+      "definition": "One-at-a-time updates and rollbacks ensure 100% app availability."
+    },
+    {
+      "term": "Quiz type: checkbox, What are three ways to create a ConfigMap?  | By providing a ConfigMap YAML descriptor file | By using string literals | By using an existing property or ‘key’ = ‘value’ file | By adding another environment to the deployment descriptor",
+      "definition": "By providing a ConfigMap YAML descriptor file|By using string literals|By using an existing property or ‘key’ = ‘value’ file"
+    },
+    {
+      "term": "Quiz type: radio, What does a ConfigMap do? | Provides variables for your application | Provides sensitive information to your application | Mounts a file using the volumes plugin  | Verifies that a Secret was created",
+      "definition": "Provides variables for your application"
+    },
+    {
+      "term": "Quiz type: radio, Which Kubernetes autoscaler type scales the Cluster? | Cluster Autoscaler (CA) | You cannot autoscale a Kubernetes Cluster. | Horizontal Pod Autoscaler (HPA) | Vertical Pod Autoscaler (VPA)",
+      "definition": "Cluster Autoscaler (CA)"
+    },
+    {
+      "term": "Quiz type: radio, How do you create a ReplicaSet from scratch? | Use the ‘scale’ command to scale the deployment. | Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’. | Use the ‘get pods’ command. | Apply a JSON file that includes the number of desired replicas.",
+      "definition": "Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’."
+    },
+    {
+      "term": "Quiz type: radio, What does Service binding do?  | Calls the service without using binding credentials. | Provides variables for your application | Manages configuration and credentials for back-end Services while protecting sensitive data | Makes Service credentials hidden.",
+      "definition": "Manages configuration and credentials for back-end Services while protecting sensitive data"
+    },
+    {
+      "term": "Quiz type: radio, How do you prepare your application to enable rolling updates? | Set the maxSurge to 50%. | Use autoscaling. | Add liveness and readiness probes to deployments. | Set the maxSurge to 100%.",
+      "definition": "Add liveness and readiness probes to deployments."
+    },
+    {
+      "term": "Quiz type: checkbox, What are three ways to create a Secret? | By using volume mounts | By using a string literal  | By providing a ConfigMap YAML descriptor file | By using environment variables ",
+      "definition": "By using a string literal|By using environment variables "
+    },
+    {
+      "term": "Quiz type: checkbox, What are the two features of an ImageStream? | Creates and updates container images | Provides content for Builds | Stores images | Provides a trigger capability when a new version of an image is available",
+      "definition": "Creates and updates container images | Provides a trigger capability when a new version of an image is available"
+    },
+    {
+      "term": "Quiz type: checkbox, What are the three Build triggers used in OpenShift? | ImageStream | Image change | Configuration change | Webhook",
+      "definition": " Configuration change |Image change|Webhook"
+    },
+    {
+      "term": "Quiz type: checkbox, Which three statements are true? | The oc and kubectl binary offer different capabilities.  | The oc lets you script OpenShift operations.  | The oc lets you manage projects during restricted bandwidth or availability of the web console.  | The oc lets you work directly with project source code using command script. ",
+      "definition": "The oc lets you work directly with project source code using command script.  |The oc lets you script OpenShift operations.|The oc lets you manage projects during restricted bandwidth or availability of the web console."
+    },
+    {
+      "term": "Quiz type: radio, What packages, deploys, and manages native apps in Kubernetes? | A Deployment | A ReplicaSet | An Operator  |  A Container",
+      "definition": "An Operator"
+    },
+    {
+      "term": "Quiz type: radio, What strategy was Red Hat OpenShift designed for? | A public cloud strategy  | A hybrid-cloud strategy. | An on-premises strategy. | A private cloud strategy. ",
+      "definition": "A hybrid-cloud strategy."
+    },
+    {
+      "term": "Quiz type: radio, What provides traffic management to control the flow of traffic between Services? | Kubectl | A container | A service mesh | An autoscaler",
+      "definition": "A service mesh"
+    },
+    {
+      "term": "Quiz type: checkbox, What three processes are performed by the Operator Framework tool set? | Building | Package | Coding  | Testing",
+      "definition": "Coding | Package | Testing"
+    },
+    {
+      "term": "Quiz type: checkbox, What are the three features of Custom Resource Definitions (CRDs)? | Control the install, upgrade, and role-based access control (RBAC) of Operators in a cluster | Extend Kubernetes functionality | Make Kubernetes API more modular | Can be engaged with kubectl",
+      "definition": "Extend Kubernetes functionality|Make Kubernetes API more modular|Can be engaged with kubectl"
+    },
+    {
+      "term": "Quiz type: radio, In Istio, what handles communication between services? | The control plane | Environmental changes  | The proxy server | The data plane",
+      "definition": "The data plane"
+    },
+    {
+      "term": "Quiz type: checkbox, What are three added features that OpenShift provides? | More flexible | Good networking solutions out of the box | Better user experience  | Better management through image streams ",
+      "definition": "Good networking solutions out of the box|Better user experience|Better management through image streams"
+    },
+    {
+      "term": "Quiz type: checkbox, What are the key characteristics of a RESTful API? Select two answers. | One API to access all resources | Unique interface for each component | Stateless communication between client and server | It works on HTTP",
+      "definition": "One API to access all resources|Stateless communication between client and server"
+    },
+    {
+      "term": "Quiz type: radio, What does an API Gateway act as? | A streaming service | A firewall to protect your microservices | A load balancer for your hosted services | An API management tool",
+      "definition": "An API management tool"
+    },
+    {
+      "term": "Quiz type: radio, Which syntax is used to make an update request to a product REST API? | GET /products/114?updatedName=Calendar2023 | POST /products (product data in the body) | PUT /products/114 (product data in the body) | PUT /products/114/name/Calendar2023",
+      "definition": "PUT /products/114 (product data in the body)"
+    },
+    {
+      "term": "Quiz type: radio, Which type of framework is Flask? | Frontend | REST API | Micro web | Database",
+      "definition": "Micro web"
+    },
+    {
+      "term": "Quiz type: radio, Which one of the following statements is true about communication in a RESTful API? | A request can take advantage of any stored context on the server. | Resources are uniquely identified at individual endpoints.  | Each request does not contain all information.  | Session state is kept entirely on the REST API.",
+      "definition": "Resources are uniquely identified at individual endpoints."
+    },
+    {
+      "term": "Quiz type: checkbox, What are the potential drawbacks of an API Gateway? Select two answers. | Single point of failure | Exposes the implementation details | Increases requests to the backend  | Bottleneck in scalability",
+      "definition": "Single point of failure|Bottleneck in scalability"
+    },
+    {
+      "term": "Quiz type: radio, Which specification is followed by Swagger? | SOA | WebAPI | GraphQL | OpenAPI",
+      "definition": "OpenAPI"
+    },
+    {
+      "term": "Quiz type: radio, Which cURL command should be used to query a list of products? | curl -X 'POST' \\\n\n 'http://127.0.0.1:5000/products' \\\n\n -H 'accept: application/json' | curl -X 'GET' \\\n\n 'http://127.0.0.1:5000/products' \\\n\n -H 'accept: application/json' | curl -X 'PUT' \\\n\n 'http://127.0.0.1:5000/products' \\\n\n -H 'accept: application/json' | curl -X 'PATCH' \\\n\n 'http://127.0.0.1:5000/products' \\\n\n -H 'accept: application/json'",
+      "definition": "curl -X 'GET' \\\n\n 'http://127.0.0.1:5000/products' \\\n\n -H 'accept: application/json'"
+    },
+    {
+      "term": "Quiz type: radio, Which HTTP method is used to create new data in a REST API? | UPDATE | POST | PATCH | PUT",
+      "definition": "POST"
+    },
+    {
+      "term": "Quiz type: radio, What is the purpose of Postman? | Tests APIs | Transfers applications  | Command line tool to get data | Uniform interface for different components",
+      "definition": "Tests APIs"
+    },
+    {
+      "term": "Quiz type: radio, Cloud Native Computing Foundation (CNCF) defines 'serverless' as the concept of building and running applications that do not require _______ management. | backend | server | database | network",
+      "definition": "server"
+    },
+    {
+      "term": "Quiz type: checkbox, Cloud provider is responsible for which of the following components in the Serverless model? Select three answers. | Application | Network | OS | Storage",
+      "definition": "Network|OS|Storage"
+    },
+    {
+      "term": "Quiz type: radio, ___________ is a Serverless computing constraint. | Language independence | Vendor lock-in | Scalability | Idle time",
+      "definition": "Vendor lock-in"
+    },
+    {
+      "term": "Quiz type: radio, Managing which one of the following is your responsibility in a Serverless computing model? | Hardware | Deployment | Code | Operating System",
+      "definition": "Code"
+    },
+    {
+      "term": "Quiz type: radio, Which one is the key characteristic of a function in FaaS model? | Be stateful | Let you define your infrastructure | Keep running even when there are no requests | Scale automatically and independently as required",
+      "definition": "Scale automatically and independently as required"
+    },
+    {
+      "term": "Quiz type: radio, A _________ is an independent unit of execution and deployment in the Serverless Framework. | Service | Resource | Event | Function",
+      "definition": "Function"
+    },
+    {
+      "term": "Quiz type: radio, What is the responsibility of the Front End in a Serverless Architecture? | Host static content and scripts | Provide scaling | Store data | Host business logic",
+      "definition": "Host static content and scripts"
+    },
+    {
+      "term": "Quiz type: radio, Which is an example of post-processing in the Serverless Reference Architecture? | You enable access to backend | You could apply artificial intelligence or image recognition to upload images | You could provide user registration and authentication | You could use messaging to notify multiple subscribers",
+      "definition": "You could apply artificial intelligence or image recognition to upload images"
+    },
+    {
+      "term": "Quiz type: radio, Which is the key characteristic of IBM Cloud Functions? | No debugging capabilities | Limited integration options | No disaster recovery | Cost-Effective and Highly Available",
+      "definition": "Cost-Effective and Highly Available"
+    },
+    {
+      "term": "Quiz type: radio, The Knative platform is offered by which service provider? | Offered by Google | Open-source option for Serverless | Offered by Microsoft Azure | Offered by Amazon AWS",
+      "definition": "Open-source option for Serverless"
+    },
+    {
+      "term": "Quiz type: radio, What is the main benefit of using PaaS, such as IBM Cloud Code Engine, to deploy your microservices? | Provides fully managed deployment services to help your deployment process with minimal efforts | Scales your microservices manually based on predefined rules and configurations | Enables handling of the full deployment process by a single user | Provides a design to run a single type of workload",
+      "definition": "Provides fully managed deployment services to help your deployment process with minimal efforts"
+    },
+    {
+      "term": "Quiz type: radio, What are the three deployment modes of IBM Cloud Code Engine? | (1) Build and deploy applications from source code. (2) Deploy container image-based applications and (3) REST APIs | (1) SCP. (2) TCP, and (3) HTTP | (1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs | (1) Run REST APIs, (2) Build and Run Source Code, and (3) Run Jobs",
+      "definition": "(1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following statement is correct about Code Engine project and application? | A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects. | A project in IBM Cloud Code Engine acts like a namespace so that you can only create one project under your account. | You can have two applications sharing the same name in the same project. | A project can only contain one application.",
+      "definition": "A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects."
+    },
+    {
+      "term": "Quiz type: radio, What are the two main application-building methods supported in IBM Cloud Code Engine? | Building container image with Dockerpack and Buildpack. | Building container image with Github Action and DockerHuB: | Building container image with DockerHub and Buildpack. | Building container image with Dockerfile and Buildpack.",
+      "definition": "Building container image with Dockerfile and Buildpack."
+    },
+    {
+      "term": "Quiz type: radio, What is the role of docker in container technology? | A cloud tool to scan your container images for security vulnerabilities | A container orchestration platform | An application development and testing IDE | A software platform for building and running applications as containers",
+      "definition": "A software platform for building and running applications as containers"
+    },
+    {
+      "term": "Quiz type: radio, What is normally the first command of a Dockerfile? | CMD | EXPOSE | FROM | COPY",
+      "definition": "FROM"
+    },
+    {
+      "term": "Quiz type: radio, What is a container registry? | A cloud IDE to develop container | A container repository where your pushed container images are curated | A cloud platform to deploy container images. | A software platform to build a container image",
+      "definition": "A container repository where your pushed container images are curated"
+    },
+    {
+      "term": "Quiz type: radio, Once your microservice or web application is deployed, how can you test it? | IBM Cloud Code Engine will provide a URL for you to run or test your service or application. | IBM Cloud Code Engine will provide a container image reference for you to test your application. | IBM Cloud Code Engine will provide a URL to download your microservice, and then you can unzip and run it. | You can only verify your application’s running status via log files.",
+      "definition": "IBM Cloud Code Engine will provide a URL for you to run or test your service or application."
+    },
+    {
+      "term": "Quiz type: radio, What is the correct IBM Cloud CLI command to create and deploy an application? | “ ibmcloud ce createapp --n helloworldapp --i us.icr.io/mynamespace/hello_repo” | “app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry” | “ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry” | “ibmcloud ce app create –image us.icr.io/mynamespace/hello_repo --registry-secret myregistry.”",
+      "definition": "ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry"
+    },
+    {
+      "term": "Quiz type: radio, Which method is used by the IBM Cloud Code Engine to access your container image? | From the Private container registry only | From both public and private container registry | From the public container registry only | From the source code",
+      "definition": "From both public and private container registry"
+    },
+    {
+      "term": "Quiz type: radio, Have you forked the GitHub repo containing the project template?  | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added the \"About Us\" static page?  | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added the \"Contact Us\" static page?  | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you run and tested your Django application?  | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you updated your repository with all the changes? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you implemented fetchDealers endpoint in your Express server? | Yes | No ",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you implemented fetchDealers by state endpoint in your Express server? | Yes | No ",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you implemented fetchDealer by ID endpoint in your Express server? | Yes | No ",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created CarModel and CarMake Django models? | Yes | No ",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you registered CarModel and CarMake models with the Admin site? | Yes | No ",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created new car models objects with associated car makes? | Yes | No ",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you implemented get_request function in restapis.py? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created get_dealerships view and configured the route? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you implemented the post_review method in restapis.py? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created get_dealer_details view and configured the route? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created get_dealer_reviews view and configured the route? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created add_review view and configured the route? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a \"Dealers\" REACT component to render the dealerships? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added \"PostReview\" button to \"Dealers\" component for logged in users? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a \"Dealer\" Reviews REACT component to retrieve specific dealer information? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added \"PostReview\" link to the \"Dealer\" component for the users who are logged in? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created a submission page for reviews that includes fields for Review, Purchase Date, Car Make, Year, and a Post Review button?\" | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Does the review get updated after you add a new review? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you created a superuser for your Django Admin site? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added the user login or logout and signup menu items to the navigation bar? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a login view to handle login request? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a logout view to handle logout request? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a registration REACT page? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a register view to handle registration request? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added CI/CD to your project using GitHub actions? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you run code linting, explored its results and made corrections to ensure the workflow succeeds? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you configured the mongo-express application, and is it running in a dockerized container? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you deployed the sentiment analyzer on IBM Code Engine, and is it accessible? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a Dockerfile? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you built the docker image, run the container, and tested it locally? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you added a deployment.yml with the required services? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you deployed the application to Kubernetes? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Have you tested the deployed application from end to end? | Yes | No",
+      "definition": "Yes"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is an essential characteristic of the Cloud?  | Single tenant | Fixed fee | On-demand self-service | Location dependency",
+      "definition": "On-demand self-service"
+    },
+    {
+      "term": "Quiz type: radio, In the _______ cloud model, an organization's on-premises private cloud and third-party public cloud connect into a single, flexible infrastructure for running the organization's applications and workloads. | Agile | Private | Hybrid | Public",
+      "definition": "Hybrid"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the followings are benefits of using virtual machines? Select the two statements that apply. | Virtual machines do not need guest operating systems. | Virtual machines under the same host depend on each other. | Virtual machines can run different operating systems under the same host. | Virtual machines are portable between different physical servers.",
+      "definition": "Virtual machines can run different operating systems under the same host.|Virtual machines are portable between different physical servers."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is true about containers? | Containers use hypervisors in all cases. | Containers must include a guest OS in every instance. | Containers consume fewer resources than virtual machines. | Containers are heavier weight than virtual machines.",
+      "definition": "Containers consume fewer resources than virtual machines."
+    },
+    {
+      "term": "Quiz type: radio, Which type of cloud storage is presented to compute nodes using high-speed fiber connections? | Block storage | Direct attached storage | File storage | Object storage",
+      "definition": "Block storage"
+    },
+    {
+      "term": "Quiz type: radio, Why front-end developers use cascading style sheets (CSS) for a website? | To render the website’s pages more quickly and efficiently | To add interactivity to the website | To style the website and make it more appealing | To create the physical structure of the website",
+      "definition": "To style the website and make it more appealing"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following best describes an API? | JavaScript library that builds and renders components for a web page | Path to a website or page that the user interacts with | Code that works with data and has set rules and structures | Language used to add extra interactivity and dynamic content to web pages",
+      "definition": "Code that works with data and has set rules and structures"
+    },
+    {
+      "term": "Quiz type: radio, Which HTML tag should you use for additional information that is related to the page's main discussion? | <canvas> | <aside> | <sup> | <details>",
+      "definition": "<aside>"
+    },
+    {
+      "term": "Quiz type: checkbox, In JavaScript, which of the following is a primitive data type? Select the two choices that apply. | null | undefined | Base | Object",
+      "definition": "null|undefined"
+    },
+    {
+      "term": "Quiz type: radio, In JavaScript, assume you need to create a variable with a global scope. What is the first step you must take to declare this variable? | Providing the var keyword | Providing the variable name | Providing the data type | Providing the Dim statement",
+      "definition": "Providing the var keyword"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following is a popular web-hosted service for Git repositories? Select all that apply. | BitBucket | GitLab | Beanstalk | Vault",
+      "definition": "BitBucket|GitLab"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is the purpose for using repositories? | Viewing snapshots of a project | Storing documents for a project | Providing local working directories for a project | Securing remote login to access a project",
+      "definition": "Storing documents for a project"
+    },
+    {
+      "term": "Quiz type: radio, If you need to change the code in a GitHub project you have write access to, you should first perform which of the following actions? | Create a new branch | Delete your working directory | Issue a pull request | Use the reset command",
+      "definition": "Create a new branch"
+    },
+    {
+      "term": "Quiz type: radio, What is the function of the git push command? | git push transfers your committed changes to the remote repository. | git push applies a patch to files or the remote repository. | git push moves or renames a file from the local repository. | git push shows previous edits made to the local repository.",
+      "definition": "git push transfers your committed changes to the remote repository."
+    },
+    {
+      "term": "Quiz type: radio, In a Git team project, which team member uses the git-daemon command as part of their responsibilities? | Developer | Billing manager | Integrator | Repository administrator",
+      "definition": "Repository administrator"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is not a package used to build React applications? | Babel | ReactDOM | React | JSX",
+      "definition": "JSX"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is true for the shouldComponentUpdate() method? | It is called to check if the component should update if there is a state change. | It is called during the initial creation of the component. | It is made to return true only when no changes in state are to be rendered. | It returns false by default.",
+      "definition": "It is called to check if the component should update if there is a state change."
+    },
+    {
+      "term": "Quiz type: radio, Which of the following describes the role of a useState hook? | It manages context changes | It manages side effects | It adds state to a function component | It manages Redux state changes",
+      "definition": "It adds state to a function component"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following two techniques used as middleware for Redux are most popular? | Async/Await middleware, Saga middleware | Thunk middleware, Saga middleware | Thunk middleware, Async/Await middleware | Promise-based middleware, Async/Await middleware",
+      "definition": "Thunk middleware, Saga middleware"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following Redux elements are involved in updating the component properties? Select all that apply. | Actions | UI components | Center store | Reducer",
+      "definition": "Actions|Center store|Reducer"
+    },
+    {
+      "term": "Quiz type: radio, The JavaScript application sends a web service request using JavaScript Object Notation (JSON) over ____. | Node.js | HTTP | REST | PHP",
+      "definition": "HTTP"
+    },
+    {
+      "term": "Quiz type: radio, When you import a Node.js module, what does the require function return? | A JavaScript object that represents an instance of the module | Properties of the module | An explicit exports object | A relative path to the script file",
+      "definition": "An explicit exports object"
+    },
+    {
+      "term": "Quiz type: radio, What is a promise? | A blocked resource | A catch block | An object returned by an asynchronous method | An asynchronous method",
+      "definition": "An object returned by an asynchronous method"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following are types of middleware? Select all that apply. | Router level | Branching | Application level | Error handling",
+      "definition": "Router level|Application level|Error handling"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following Node.js web frameworks is associated with the below description? It is used for routing and middleware, provides debugging mechanisms to help easily pinpoint the errors in the application, and utilizes asynchronous programming to handle multiple operation requests concurrently. | Django | NestJS | Express | Koa",
+      "definition": "Express"
+    },
+    {
+      "term": "Quiz type: radio, What is the result of running the following lines of code? | a=X | b=Y | X Y | a=X b=Y",
+      "definition": "a=X b=Y"
+    },
+    {
+      "term": "Quiz type: radio, Which is the correct syntax for declaring the tuple myTuple? | myTuple = (“rectangle”, “circle”, “square”, “hexagon”) | myTuple=[“rectangle”, “circle”, “square”, “hexagon”]. | myTuple = {“rectangle”, “circle”, “square”, “hexagon”} | myTuple = ([rectangle], [circle], [square], [hexagon])",
+      "definition": "myTuple = (“rectangle”, “circle”, “square”, “hexagon”)"
+    },
+    {
+      "term": "Quiz type: radio, What value of x will produce the following output? Hello Christina x=\"A\" if(x==\"A\"): print('Hello') else print('Bye') print('Christina') | x=A | x=“A” | x=1 | Bye",
+      "definition": "x=“A”"
+    },
+    {
+      "term": "Quiz type: radio, When using the open() function to write to a file, what are the two parameters that should be passed into it? | The text to be written to the file and the mode argument w. | The URL to the file and the mode argument w. | The path to the file and the mode argument w. | The name of the file and the mode argument w.",
+      "definition": "The path to the file and the mode argument w."
+    },
+    {
+      "term": "Quiz type: radio, In the BeautifulSoup Python library, what is the function of the Tag object? | It assigns attributes to HTML tags. | It corresponds to an HTML tag in the original HTML document. | It creates a BeautifulSoup object as a nested data structure. | It assigns HTML tags to a string.",
+      "definition": "It corresponds to an HTML tag in the original HTML document."
+    },
+    {
+      "term": "Quiz type: radio, Which statement about an entity-attribute model regarding a movie is true? | The movie is an attribute. | The movie is a row. | The movie is an entity. | The movie is a column.",
+      "definition": "The movie is an entity."
+    },
+    {
+      "term": "Quiz type: radio, Which statement is true regarding OOP and CRUD? | OOP performs CRUD on data using data manipulation language | OOP performs CRUD on data using methods. | OOP performs CRUD on data using class patterns like inheritance, association, and aggregation. | OOP performs CRUD on data using statements like “insert,” “delete,” and “update.”",
+      "definition": "OOP performs CRUD on data using methods."
+    },
+    {
+      "term": "Quiz type: radio, What else does the Django template contain besides Python code? | Static HTML elements | XML elements | Markdown elements | Dynamic HTML elements",
+      "definition": "Static HTML elements"
+    },
+    {
+      "term": "Quiz type: radio, When you create a Django project, Django creates some core files, including manage.py. What purpose does manage.py serve? | It provides a command line interface so you can interact with the Django project. | It contains the URL and routing definitions of your Django app. | It creates markdown elements. | It contains the settings and configurations for your Django project.",
+      "definition": "It provides a command line interface so you can interact with the Django project."
+    },
+    {
+      "term": "Quiz type: radio, Which statement best describes Bootstrap? | It is mainly used for serverless computing. | It is a Django template. | It provides well-designed and commonly used HTML and CSS templates. | It is a type of relational database.",
+      "definition": "It provides well-designed and commonly used HTML and CSS templates."
+    },
+    {
+      "term": "Quiz type: radio, Some of the common Docker CLI commands include___________ for creating container images and ___________ for retrieving images from a configured registry. | images, pull | images, push | run, pull | build, pull",
+      "definition": "build, pull"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is true in relation to Kubernetes? | It provides logging, monitoring, and alerting solutions | It provides continuous integration/continuous deployment pipelines to build applications or deploy source code | It provides a flexible model that maintains choice for users wherever appropriate. | It limits the types of applications that can run on it",
+      "definition": "It provides a flexible model that maintains choice for users wherever appropriate."
+    },
+    {
+      "term": "Quiz type: radio, What happens when you change the Dockerfile and rebuild the image | The Docker engine deletes the image | The Docker engine provides a running container | The Docker engine only rebuilds the changed layers. | The Docker engine restructures the whole image",
+      "definition": "The Docker engine only rebuilds the changed layers."
+    },
+    {
+      "term": "Quiz type: radio, When the \"apply\" command is run, the targeted Kubernetes cluster __________________. | Is left unchanged | Lists deployments in the namespace | Is deactivated | Has its state changed to match the state that is defined in the provided files",
+      "definition": "Has its state changed to match the state that is defined in the provided files"
+    },
+    {
+      "term": "Quiz type: checkbox, Which of the following is provided by OpenShift’s cluster services? Select all that apply. | Manual installation of updates | Networking solutions | Private registry | Integrated monitoring",
+      "definition": "Networking solutions|Private registry|Integrated monitoring"
+    },
+    {
+      "term": "Quiz type: radio, In accordance with the twelve-factor app methodology, why should developers avoid storing configuration as constants in their code? | Because configurations might differ among environments | Because databases are likely the same in the various environments used for staging and production | Because a twelve-factor app should not distinguish between local and third-party services | Because configuration environment variables are difficult to change across deploys without changing the code",
+      "definition": "Because configurations might differ among environments"
+    },
+    {
+      "term": "Quiz type: radio, Which of the following is an open source API Gateway? | IBM DataPower | Apigee | Amazon API Gateway | Kong",
+      "definition": "Kong"
+    },
+    {
+      "term": "Quiz type: checkbox, What are the three main components of serverless stack? Select all that apply. | API Gateway | SaaS | FaaS | BaaS",
+      "definition": "API Gateway|FaaS|BaaS"
+    },
+    {
+      "term": "Quiz type: radio, In the Code Engine Context, which of the following represents a mechanism that can be used to create a container image from the source code? | Application | Project | Build | Jobs",
+      "definition": "Build"
+    },
+    {
+      "term": "Quiz type: radio, Which statement best describes OpenShift? | It is an IT architecture that incorporates workload portability, orchestration, and management. | It extends Kubernetes using CRDs. | It is a dedicated layer for making service-to-service communication secure and reliable. | It is a hybrid, cloud, enterprise Kubernetes application platform.",
+      "definition": "It is a hybrid, cloud, enterprise Kubernetes application platform."
+    }
+  ]
+}

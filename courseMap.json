@@ -38,8 +38,21 @@
     "related": []
   },
   "DWP301c": {
-    "status": "ongoing",
-    "related": []
+    "status": "done",
+    "related": [
+      "/introduction-to-cloud",
+      "/introduction-to-web-development-with-html-css-javacript",
+      "/getting-started-with-git-and-github",
+      "/developing-frontend-apps-with-react",
+      "/developing-backend-apps-with-nodejs-and-express",
+      "/python-for-applied-data-science-ai",
+      "/python-project-for-ai-application-development",
+      "/developing-applications-with-sql-databases-and-django",
+      "/ibm-containers-docker-kubernetes-openshift",
+      "/applications-development-microservices-serverless-openshift",
+      "/ibm-cloud-native-full-stack-development-capstone",
+      "/full-stack-software-developer-assessment"
+    ]
   },
   "ELP321c": {
     "status": "ongoing",
@@ -86,11 +99,11 @@
   "HOM301c": {
     "status": "ongoing",
     "related": [
-      "https://www.coursera.org/learn/fundamentals-of-revenue-management/assignment-submission/hjBZj/final-exam",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/LB0L3/module-1-assessment",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/M4FsO/module-2-assessment",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/l2sPi/module-3-assessment",
-      "https://www.coursera.org/learn/demandmanagement/assignment-submission/RtA9a/module-4-assessment"
+      "/fundamentals-of-revenue-management/assignment-submission/hjBZj/final-exam",
+      "/demandmanagement/assignment-submission/LB0L3/module-1-assessment",
+      "/demandmanagement/assignment-submission/M4FsO/module-2-assessment",
+      "/demandmanagement/assignment-submission/l2sPi/module-3-assessment",
+      "/demandmanagement/assignment-submission/RtA9a/module-4-assessment"
     ]
   },
   "HRM201c": {
