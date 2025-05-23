@@ -453,7 +453,7 @@
       "definition": "Tư duy thiết kế"
     },
     {
-      "term": "Quiz type: radio,  Lãnh đạo số cần 'giỏi' điều gì khi không am hiểu kỹ thuật? | A: Giải quyết xung đột | B: Lập trình phần mềm | *C: Đặt câu hỏi và ra quyết định chính xác | D: Thiết kế hệ thống",
+      "term": "Quiz type: radio, Lãnh đạo số cần 'giỏi' điều gì khi không am hiểu kỹ thuật? | A: Giải quyết xung đột | B: Lập trình phần mềm | *C: Đặt câu hỏi và ra quyết định chính xác | D: Thiết kế hệ thống",
       "definition": "Đặt câu hỏi và ra quyết định chính xác"
     },
     {
@@ -679,6 +679,86 @@
     {
       "term": "Quiz type: radio, Thách thức khi chuyển đổi mô hình số là gì? | Không hiểu khách hàng số | Dễ đào tạo | Công nghệ lỗi thời | Dư ngân sách",
       "definition": "Không hiểu khách hàng số"
+    },
+    {
+      "term": "Quiz type: radio, Dashboard trong tự động hóa giúp gì? | Giảm KPI | Tăng tốc nhập liệu | Theo dõi và đo lường | Tạo báo cáo thủ công",
+      "definition": "Theo dõi và đo lường"
+    },
+    {
+      "term": "Quiz type: radio, Lợi ích nào không thuộc về tự động hóa? | Tiết kiệm thời gian | Giảm chi phí | Minh bạch thông tin | Tăng lỗi nhập liệu",
+      "definition": "Tăng lỗi nhập liệu"
+    },
+    {
+      "term": "Quiz type: radio, Quy trình nào dễ gây lỗi nếu làm thủ công? | Nhập dữ liệu đơn hàng | Phê duyệt số | Gửi email tự động | Tạo dashboard",
+      "definition": "Nhập dữ liệu đơn hàng"
+    },
+    {
+      "term": "Quiz type: radio, Tự động hóa giúp nhân viên tránh làm gì? | Công việc sáng tạo | Công việc lặp lại thủ công | Lập kế hoạch | Đánh giá KPI",
+      "definition": "Công việc lặp lại thủ công"
+    },
+    {
+      "term": "Quiz type: radio, Quản lý vận hành trong môi trường số sử dụng gì để giám sát hoạt động? | Email | Giấy tờ | Công nghệ và dữ liệu | Excel",
+      "definition": "Công nghệ và dữ liệu"
+    },
+    {
+      "term": "Quiz type: radio, Công cụ nào không phải là ERP? | Trello | Odoo | MISA AMIS | SAP",
+      "definition": "Trello"
+    },
+    {
+      "term": "Quiz type: radio, RPA là viết tắt của gì? | Remote Process Analysis | Real-time Process Adjustment | Robotic Process Automation | Rapid Performance Automation",
+      "definition": "Robotic Process Automation"
+    },
+    {
+      "term": "Quiz type: radio, Cấp độ vận hành thủ công thường sử dụng công cụ nào? | ERP | Excel và giấy tờ | AI Ops | RPA",
+      "definition": "Excel và giấy tờ"
+    },
+    {
+      "term": "Quiz type: radio, Cấp độ cao nhất của vận hành số là gì? | Tự động hóa quy trình | Vận hành thông minh | Tin học hóa cục bộ | Toàn bộ số hóa",
+      "definition": "Vận hành thông minh"
+    },
+    {
+      "term": "Quiz type: radio, Công cụ RPA thay thế con người trong việc gì? | Thiết kế quy trình | Đào tạo nhân viên | Tác vụ lặp lại | Lập kế hoạch",
+      "definition": "Tác vụ lặp lại"
+    },
+    {
+      "term": "Quiz type: radio, Công cụ nào giúp kết nối thông tin giữa các phần mềm? | Odoo | UiPath | Zapier | Asana",
+      "definition": "Zapier"
+    },
+    {
+      "term": "Quiz type: radio, Ví dụ nào là ứng dụng tự động hóa trong trường học? | Gửi email thủ công | Tuyển sinh trực tuyến | Chấm công bằng tay | Ghi chép giấy tờ",
+      "definition": "Tuyển sinh trực tuyến"
+    },
+    {
+      "term": "Quiz type: radio, Bước cuối cùng trong triển khai tự động hóa là gì? | Chọn công cụ | Đào tạo và giám sát | Xác định quy trình | Vẽ sơ đồ",
+      "definition": "Đào tạo và giám sát"
+    },
+    {
+      "term": "Quiz type: radio, Công cụ nào phù hợp để tự động hóa quy trình nhân sự? | Bizagi | eOffice | Zapier | Trello",
+      "definition": "eOffice"
+    },
+    {
+      "term": "Quiz type: radio, Công cụ nào phù hợp để theo dõi tiến trình nhóm? | SAP | Trello | Camunda | UiPath",
+      "definition": "Trello"
+    },
+    {
+      "term": "Quiz type: radio, Lợi ích chính của tự động hóa là gì? | Tăng lỗi nhập liệu | Giảm minh bạch | Tăng chi phí | Giảm thời gian xử lý",
+      "definition": "Giảm thời gian xử lý"
+    },
+    {
+      "term": "Quiz type: radio, MVP trong tự động hóa nghĩa là gì? | Manual Verification Plan | Maximum Value Process | Main Validation Point | Minimum Viable Product",
+      "definition": "Minimum Viable Product"
+    },
+    {
+      "term": "Quiz type: radio, Bước đầu tiên trong triển khai tự động hóa là gì? | Chọn công cụ | Đo lường KPI | Đào tạo nhân viên | Xác định quy trình lặp lại",
+      "definition": "Xác định quy trình lặp lại"
+    },
+    {
+      "term": "Quiz type: radio, ERP chủ yếu được dùng để quản lý gì? | Quy trình lặp lại | Tích hợp thông tin | Tiến trình nhóm | Doanh thu và nguồn lực",
+      "definition": "Doanh thu và nguồn lực"
+    },
+    {
+      "term": "Quiz type: radio, BPMN được sử dụng để làm gì? | Theo dõi tiến trình | Tích hợp dữ liệu | Tự động hóa tác vụ | Vẽ sơ đồ quy trình",
+      "definition": "Vẽ sơ đồ quy trình"
     },
     {
       "term": "Quiz type: radio, Trụ cột văn hóa số không bao gồm gì? | Minh bạch | Dữ liệu | Kiểm soát | Học tập",
