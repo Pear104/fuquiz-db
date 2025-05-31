@@ -766,7 +766,7 @@
     },
     {
       "term": "Quiz type: radio, Nhân lực nền số biết làm gì? | Dùng công cụ cơ bản | Tự động hóa | Phân tích dữ liệu | Sáng tạo sản phẩm",
-      "definition": "Tự động hóa"
+      "definition": "Dùng công cụ cơ bản"
     },
     {
       "term": "Quiz type: radio, Mô hình 3 lớp nhân lực không bao gồm gì? | Tác nghiệp số | Kiểm soát số | Sáng tạo số | Nền số",
@@ -870,7 +870,7 @@
     },
     {
       "term": "Quiz type: radio, Cấp độ cao nhất của đổi mới sáng tạo là gì? | Đổi mới quy trình | Đổi mới mô hình kinh doanh | Đổi mới sản phẩm/dịch vụ | Đổi mới tổ chức",
-      "definition": "Đổi mới tổ chức"
+      "definition": "Đổi mới sản phẩm/dịch vụ"
     },
     {
       "term": "Quiz type: radio, Vai trò nào cam kết nguồn lực cho thay đổi? | Lãnh đạo bảo trợ | Đội đổi mới | Tư vấn nội bộ | Nhân viên",
@@ -1234,7 +1234,7 @@
     },
     {
       "term": "Quiz type: radio, Các kỹ thuật CAATs (Computer‑Assisted Audit Techniques) trở nên phổ biến vào giai đoạn nào? | 2000s | 2020s | 1980s | 1990s",
-      "definition": "1990s"
+      "definition": "2000s"
     },
     {
       "term": "Quiz type: radio, Giai đoạn 2010s đến nay, kiểm toán số tích hợp thêm các công nghệ mới nào sau đây? | Máy in kim | AI và phân tích dữ liệu lớn | Thẻ đục lỗ | Fax qua Internet",
@@ -1731,6 +1731,10 @@
     {
       "term": "Quiz type: radio, Đâu là yếu tố quan trọng nhất khi lựa chọn kênh truyền thông? | Số lượng follower | Ngân sách quảng cáo | Hành vi và đặc điểm của Persona | Thời gian đăng bài",
       "definition": "Hành vi và đặc điểm của Persona"
+    },
+    {
+      "term": "Quiz type: radio, Nội dung trên TikTok nên có đặc điểm nào? | Văn bản dài | Hình ảnh tĩnh | Dài, chuyên sâu | Ngắn, bắt trend, âm nhạc",
+      "definition": "Ngắn, bắt trend, âm nhạc"
     },
     {
       "term": "Quiz type: radio, Email marketing hiệu quả cần: | Gửi hàng loạt cùng lúc | Tiêu đề hấp dẫn, CTA rõ ràng | Hình ảnh nhiều hiệu ứng | Ẩn danh người gửi",
