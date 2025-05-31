@@ -51,6 +51,7 @@ choosenSource = testSource.quizSrc;
 - Tải [extension](https://chromewebstore.google.com/detail/quizlet-getter-get-quizle/oaaodhahcdoonllnnhamgkcidjicjcad) lấy đáp án Quizlet và tải đáp án theo format JSON
 - Thêm đáp án vừa tải vào file
 - Sau mỗi lần thêm đáp án mới, vào file `vite.config.ts` CTRL+S để reload
+- Sau khi thêm đáp án mới và reload, khi vào start lại quiz nếu có hiện đánh dấu cam "Source FPT" có nghĩa là bạn đã add đáp án ok
 
 > Cách này không khuyến khích vì
 >
@@ -67,6 +68,7 @@ choosenSource = testSource.quizSrc;
 
 - Thêm đáp án vừa copy vào file (Nhớ bỏ cặp dấu "[]" của mảng đi)
 - Sau mỗi lần thêm đáp án mới, vào file `vite.config.ts` CTRL+S để reload
+- Sau khi thêm đáp án mới và reload, khi vào start lại quiz nếu có hiện đánh dấu cam "Source FPT" có nghĩa là bạn đã add đáp án ok
 
 ### 4. Thêm đáp án vào source chính
 
