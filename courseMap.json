@@ -18,11 +18,11 @@
   "BDI302c": {
     "status": "done",
     "related": [
-      "/big-data-introduction",
-      "/big-data-management",
-      "/big-data-integration-processing",
-      "/big-data-machine-learning",
-      "/big-data-graph-analytics"
+      "/big-data-introduction/",
+      "/big-data-management/",
+      "/big-data-integration-processing/",
+      "/big-data-machine-learning/",
+      "/big-data-graph-analytics/"
     ]
   },
   "CMC201c": {
@@ -40,27 +40,27 @@
   "DWP301c": {
     "status": "done",
     "related": [
-      "/introduction-to-cloud",
-      "/introduction-to-web-development-with-html-css-javacript",
-      "/getting-started-with-git-and-github",
-      "/developing-frontend-apps-with-react",
-      "/developing-backend-apps-with-nodejs-and-express",
-      "/python-for-applied-data-science-ai",
-      "/python-project-for-ai-application-development",
-      "/developing-applications-with-sql-databases-and-django",
-      "/ibm-containers-docker-kubernetes-openshift",
-      "/applications-development-microservices-serverless-openshift",
-      "/ibm-cloud-native-full-stack-development-capstone",
-      "/full-stack-software-developer-assessment"
+      "/introduction-to-cloud/",
+      "/introduction-to-web-development-with-html-css-javacript/",
+      "/getting-started-with-git-and-github/",
+      "/developing-frontend-apps-with-react/",
+      "/developing-backend-apps-with-nodejs-and-express/",
+      "/python-for-applied-data-science-ai/",
+      "/python-project-for-ai-application-development/",
+      "/developing-applications-with-sql-databases-and-django/",
+      "/ibm-containers-docker-kubernetes-openshift/",
+      "/applications-development-microservices-serverless-openshift/",
+      "/ibm-cloud-native-full-stack-development-capstone/",
+      "/full-stack-software-developer-assessment/"
     ]
   },
   "DXE291c": {
     "status": "done",
     "related": [
-      "/qun-l-nh-nc-v-hnh-chnh-cng",
-      "/dxe291-3",
-      "/kinh-t-s-v-ti-chnh-s",
-      "/tri-nghim-khch-hng-v-tip-th-s"
+      "/qun-l-nh-nc-v-hnh-chnh-cng/",
+      "/dxe291-3/",
+      "/kinh-t-s-v-ti-chnh-s/",
+      "/tri-nghim-khch-hng-v-tip-th-s/"
     ]
   },
   "ELP321c": {
@@ -90,11 +90,11 @@
   "ENW492c": {
     "status": "done",
     "related": [
-      "/grammar-punctuation",
-      "/getting-started-with-essay-writing",
-      "/advanced-writing",
-      "/introduction-to-research-for-essay-writing",
-      "/academic-writing-capstone"
+      "/grammar-punctuation/",
+      "/getting-started-with-essay-writing/",
+      "/advanced-writing/",
+      "/introduction-to-research-for-essay-writing/",
+      "/academic-writing-capstone/"
     ]
   },
   "EPE301c": {
@@ -107,31 +107,25 @@
   },
   "HOM301c": {
     "status": "ongoing",
-    "related": [
-      "/fundamentals-of-revenue-management/assignment-submission/hjBZj/final-exam",
-      "/demandmanagement/assignment-submission/LB0L3/module-1-assessment",
-      "/demandmanagement/assignment-submission/M4FsO/module-2-assessment",
-      "/demandmanagement/assignment-submission/l2sPi/module-3-assessment",
-      "/demandmanagement/assignment-submission/RtA9a/module-4-assessment"
-    ]
+    "related": ["/fundamentals-of-revenue-management/", "/demandmanagement/"]
   },
   "HRM201c": {
     "status": "done",
     "related": [
-      "/human-resources-management-capstone",
-      "/compensation-management",
-      "/employee-performance",
-      "/recruiting-hiring-onboarding-employees",
-      "/managing-human-resources"
+      "/human-resources-management-capstone/",
+      "/compensation-management/",
+      "/employee-performance/",
+      "/recruiting-hiring-onboarding-employees/",
+      "/managing-human-resources/"
     ]
   },
   "ITA203c": {
     "status": "done",
     "related": [
-      "/is-it-governance",
-      "/analysis-for-business-systems",
-      "/enterprise-systems",
-      "/it-infrastructure-and-emerging-trends"
+      "/is-it-governance/",
+      "/analysis-for-business-systems/",
+      "/enterprise-systems/",
+      "/it-infrastructure-and-emerging-trends/"
     ]
   },
   "ITB302c": {
@@ -141,32 +135,32 @@
   "ITE302c": {
     "status": "done",
     "related": [
-      "/promote-ethical-data-driven-technologies",
-      "/ethical-frameworks-action",
-      "/detect-mitigate-ethical-risks",
-      "/ethical-communication-data-driven-technologies",
-      "/ethical-data-driven-technology-leader",
-      "/preparing-for-your-certnexus-certification-exam",
-      "/ethics-of-artificial-intelligence"
+      "/promote-ethical-data-driven-technologies/",
+      "/ethical-frameworks-action/",
+      "/detect-mitigate-ethical-risks/",
+      "/ethical-communication-data-driven-technologies/",
+      "/ethical-data-driven-technology-leader/",
+      "/preparing-for-your-certnexus-certification-exam/",
+      "/ethics-of-artificial-intelligence/"
     ]
   },
   "ITE303c": {
     "status": "done",
     "related": [
-      "/ai-algorithm-limitations",
-      "/ai-data-bias",
-      "/ai-privacy-and-convenience",
-      "/ai-ethics-analysis"
+      "/ai-algorithm-limitations/",
+      "/ai-data-bias/",
+      "/ai-privacy-and-convenience/",
+      "/ai-ethics-analysis/"
     ]
   },
   "IFT201c": {
     "status": "done",
     "related": [
-      "/introduction-to-futures-thinking",
-      "/forecasting-skills",
-      "/simulation-skills",
-      "/collaborative-foresight",
-      "/urgent-optimism"
+      "/introduction-to-futures-thinking/",
+      "/forecasting-skills/",
+      "/simulation-skills/",
+      "/collaborative-foresight/",
+      "/urgent-optimism/"
     ]
   },
   "LAB221c": {
@@ -189,42 +183,42 @@
   "LAW201c": {
     "status": "done",
     "related": [
-      "/eu-competition-law",
-      "/eu-law-doing-business",
-      "/european-law-fundamentals"
+      "/eu-competition-law/",
+      "/eu-law-doing-business/",
+      "/european-law-fundamentals/"
     ]
   },
   "MSM201c": {
     "status": "out 😥",
     "related": [
-      "/social-media-marketing-introduction",
-      "/social-media-management",
-      "/social-media-advertising-fundamentals",
-      "/advertising-with-facebook",
-      "/measure-and-optimize-social-media-marketing-campaigns",
-      "/facebook-social-media-marketing-capstone"
+      "/social-media-marketing-introduction/",
+      "/social-media-management/",
+      "/social-media-advertising-fundamentals/",
+      "/advertising-with-facebook/",
+      "/measure-and-optimize-social-media-marketing-campaigns/",
+      "/facebook-social-media-marketing-capstone/"
     ]
   },
   "MKT205c": {
     "status": "done",
     "related": [
-      "/intro-international-marketing",
-      "/international-marketing-entry-execution",
-      "/b2b-marketing",
-      "/healthcare-marketing-hospitality-management",
-      "/international-entertainment-sports-marketing",
-      "/international-vertical-marketing-capstone-project"
+      "/intro-international-marketing/",
+      "/international-marketing-entry-execution/",
+      "/b2b-marketing/",
+      "/healthcare-marketing-hospitality-management/",
+      "/international-entertainment-sports-marketing/",
+      "/international-vertical-marketing-capstone-project/"
     ]
   },
   "MKT208c": {
     "status": "done",
     "related": [
-      "/what-is-social",
-      "/importance-of-listening",
-      "/nurture-market-strategies",
-      "/social-imc",
-      "/business-of-social",
-      "/social-marketing-capstone"
+      "/what-is-social/",
+      "/importance-of-listening/",
+      "/nurture-market-strategies/",
+      "/social-imc/",
+      "/business-of-social/",
+      "/social-marketing-capstone/"
     ]
   },
   "NLP301c": {
@@ -234,28 +228,28 @@
   "NWC203c": {
     "status": "done",
     "related": [
-      "/fundamentals-network-communications",
-      "/peer-to-peer-protocols-local-area-networks",
-      "/packet-switching-networks-algorithms",
-      "/tcp-ip-advanced"
+      "/fundamentals-network-communications/",
+      "/peer-to-peer-protocols-local-area-networks/",
+      "/packet-switching-networks-algorithms/",
+      "/tcp-ip-advanced/"
     ]
   },
   "OBE102c": {
     "status": "done",
     "related": [
-      "/visionary-leadership-meaning-maker",
-      "/leadership-adapt-your-style",
-      "/organisational-behaviour-know-your-people",
-      "/organisational-design-know-your-organisation"
+      "/visionary-leadership-meaning-maker/",
+      "/leadership-adapt-your-style/",
+      "/organisational-behaviour-know-your-people/",
+      "/organisational-design-know-your-organisation/"
     ]
   },
   "PMG201c": {
     "status": "done",
     "related": [
-      "/project-planning",
-      "/schedule-projects",
-      "/project-risk-management",
-      "/project-management-capstone"
+      "/project-planning/",
+      "/schedule-projects/",
+      "/project-risk-management/",
+      "/project-management-capstone/"
     ]
   },
   "PRP201c": {
@@ -277,83 +271,83 @@
   "PRC392c": {
     "status": "done",
     "related": [
-      "/aws-cloud-technical-essentials",
-      "/architecting-solutions-on-aws",
-      "/introduction-to-designing-data-lakes-in-aws",
-      "/aws-certified-solutions-architect-associate"
+      "/aws-cloud-technical-essentials/",
+      "/architecting-solutions-on-aws/",
+      "/introduction-to-designing-data-lakes-in-aws/",
+      "/aws-certified-solutions-architect-associate/"
     ]
   },
   "SEO201c": {
     "status": "done",
     "related": [
-      "/search-engine-optimization",
-      "/seo-fundamentals",
-      "/optimizing-web-search",
-      "/seo-tactics",
-      "/seo-project"
+      "/search-engine-optimization/",
+      "/seo-fundamentals/",
+      "/optimizing-web-search/",
+      "/seo-tactics/",
+      "/seo-project/"
     ]
   },
   "SSL101c": {
     "status": "out 😥",
     "related": [
-      "/digital-literacy",
-      "/problem-solving-skills",
-      "/critical-thinking-skills",
-      "/communication-skills",
-      "/academic-skills-project"
+      "/digital-literacy/",
+      "/problem-solving-skills/",
+      "/critical-thinking-skills/",
+      "/communication-skills/",
+      "/academic-skills-project/"
     ]
   },
   "SWE201c": {
     "status": "done",
     "related": [
-      "/software-processes",
-      "/agile-software-development",
-      "/lean-software-development",
-      "/engineering-practices-secure-software-quality"
+      "/software-processes/",
+      "/agile-software-development/",
+      "/lean-software-development/",
+      "/engineering-practices-secure-software-quality/"
     ]
   },
   "SSC302c": {
     "status": "done",
     "related": [
-      "/public-speaking",
-      "/inform-speech",
-      "/persuade-speech",
-      "/speak-to-inspire-ceremonial-motivational-speeches"
+      "/public-speaking/",
+      "/inform-speech/",
+      "/persuade-speech/",
+      "/speak-to-inspire-ceremonial-motivational-speeches/"
     ]
   },
 
   "SYB302c": {
     "status": "done",
     "related": [
-      "/innovative-ideas",
-      "/innovative-entrepreneur",
-      "/startup-funding",
-      "/entrepreneurship-capstone"
+      "/innovative-ideas/",
+      "/innovative-entrepreneur/",
+      "/startup-funding/",
+      "/entrepreneurship-capstone/"
     ]
   },
 
   "WED201c": {
     "status": "out 😥",
-    "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
+    "related": ["/html/", "/introcss/", "/javascript/", "/responsivedesign/"]
   },
   "WDU202c": {
     "status": "done",
     "related": [
-      "/visual-elements-user-interface-design",
-      "/ux-design-fundamentals",
-      "/web-design-strategy",
-      "/web-design-wireframes-prototypes"
+      "/visual-elements-user-interface-design/",
+      "/ux-design-fundamentals/",
+      "/web-design-strategy/",
+      "/web-design-wireframes-prototypes/"
     ]
   },
   "WDU203c": {
     "status": "done",
     "related": [
-      "/introtoux-principles-and-processes",
-      "/understanding-user-needs",
-      "/evaluating-designs-with-users",
-      "/ux-design-concept-wireframe",
-      "/ux-research-at-scale",
-      "/user-experience-capstone"
+      "/introtoux-principles-and-processes/",
+      "/understanding-user-needs/",
+      "/evaluating-designs-with-users/",
+      "/ux-design-concept-wireframe/",
+      "/ux-research-at-scale/",
+      "/user-experience-capstone/"
     ]
   }
 }
